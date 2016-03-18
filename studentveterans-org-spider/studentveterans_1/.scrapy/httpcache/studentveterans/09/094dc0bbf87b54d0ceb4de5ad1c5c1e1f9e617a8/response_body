@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head id="Head1" runat="server">
+
+    
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="/assets/font/font-awesome.css">
+  <!--[if IE 7]><link rel="stylesheet" href="/assets/font/font-awesome-ie7.css"><![endif]-->
+
+  <link rel="stylesheet" href="/assets/css/style.css" type="text/css" media="screen" />
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico" />
+  <title> | American Business and Technology University</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <meta name="format-detection" content="telephone=no" />
+  <script>document.documentElement.className = "js";</script>
+
+  
+</head>
+
+<body>
+
+<div class="top" id="Top">
+  <div class="topnav">
+    <div class="container clearfix">
+      <a class="menu homeButton" href="/">Home</a>
+      <a class="menu applyButton" href="/apply/">Apply Now</a>
+      <a class="menu infoButton" href="/pages/contact-ABTU.php">Request Info</a>
+      <div class="fb-like" style="float:left;margin:4px 0 0 10px;" data-href="https://www.facebook.com/acotedu" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false" data-font="arial"></div>
+      <p>Phone: 800-804-1388 | E-mail: info@abtu.edu</p>
+    </div><!--container-->
+  </div><!--topnav-->
+  <div class="navigation">
+    <div class="container clearfix">
+      <a class="logo" href="/"><img src="/assets/img/logo.png" alt="American Business and Technology University" /></a>
+      <div class="nav">
+        <ul>
+          <li><a href="/pages/about-ABTU.php">About<br />ABTU</a></li>
+          <li><a href="/pages/programs-offered.php">Programs<br />Offered</a></li>
+          <li><a href="/pages/prospective-students.php">Prospective<br />Students</a></li>
+          <li><a href="/pages/login.php">Login</a></li>
+          <li><a href="/pages/military-friendly-online-college.php">Veteran<br />Benefits</a></li>
+          <li><a href="/online/military-tuition-assistance-ta/">Active Duty<br />Benefits</a></li>
+          <li><a href="/pages/tuition-and-funding.php">Tuition and<br />Funding</a></li>
+          <li><a href="http://abtu.edu/online/international-students/">International Students</a></li>
+        </ul>
+      </div><!--nav-->
+    </div><!--container-->
+  </div><!--navigation-->
+</div><!--top-->
+
+<div class="header">
+
+    <div id="sequence" style="display: none;">
+
+        <div class="container clearfix">
+          <img class="sequence-prev" src="/assets/img/prev.png" alt="Previous Frame" />
+          <img class="sequence-next" src="/assets/img/next.png" alt="Next Frame" />
+        </div>
+
+      <ul class="sequence-canvas">
+        <li class="animate-in" style="background-image: url(assets/img/slide/abtu.jpg)">
+            <div class="container">
+                <div class="sequence-video-bd">
+                    <h2 class="sequence-title sequence-title_video">Not Your Average University</h2>
+                    <h3 class="sequence-subtitle sequence-subtitle_video">We offer online education that is both engaging and affordable</h3>
+                </div>
+                <div class="sequence-video">
+                    <iframe width="560" height="315" src="//www.youtube.com/embed/-styGF3Sy50?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </li>
+        <li class="animate-in animate-out" style="background-image: url(assets/img/slide/mansion.jpg)">
+            <a href="/online/abtupr/american-college-technology-acot-edu-now-american-business-technology-abtu-edu/"><img class="sequence-img" src="/assets/img/slide/abtu-mansion.jpg"></a>
+        </li>
+        <li class="animate-in" style="background-image: url(assets/img/slide/graduate.jpg)">
+            <div class="container">
+                <h2 class="sequence-title">Do You Qualify for GI Bill?</h2>
+                <h3 class="sequence-subtitle">See what our new "Undergraduate to Graduate" program can do for you.
+                    <br>
+                    <a class="readmore" href="http://info.acot.edu/request-info-montgomery-gi-bill" target="_blank">Learn More</a>
+                </h3>
+            </div>
+        </li>
+        <li class="animate-in" style="background-image: url(assets/img/slide/tips.jpg)">
+            <div class="container">
+                <h2 class="sequence-title">5 Essential Tips</h2>
+                <h3 class="sequence-subtitle">Read this free guide to help you separate the good apples from the bad when searching for an online degree.
+                    <br>
+                    <a class="readmore" href="http://info.acot.edu/request-info-general" target="_blank">Learn More</a>
+                </h3>
+            </div>
+        </li>
+        <li class="animate-in" style="background-image: url(assets/img/slide/degrees.jpg)">
+            <div class="container">
+                <h2 class="sequence-title">Variety of Degree Programs</h2>
+                <h3 class="sequence-subtitle">From six month certificates to Masters level degrees. Choose the path that's right for you.
+                    <br>
+                    <a class="readmore" href="/pages/programs-offered.php">Learn More</a>
+                </h3>
+            </div>
+        </li>
+        <li class="animate-in" style="background-image: url(assets/img/slide/seals.jpg)">
+            <div class="container">
+                <h2 class="sequence-title">Military Friendly</h2>
+                <h3 class="sequence-subtitle">We are committed to servicing veterans and soldiers. Find out why we have been voted military friendly 4 years running.
+                    <br>
+                    <a class="readmore" href="/pages/military-friendly-online-college.php">Learn More</a>
+                </h3>
+            </div>
+        </li>
+      </ul>
+
+      <ul class="sequence-pagination">
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+      </ul>
+
+    </div>
+
+</div><!--header-->
+
+<div class="content">
+  <div class="container clearfix home-container">
+
+    <div class="right" class="clearfix">
+      <div class="videoBox">
+
+        <a class="twitter-timeline" href="https://twitter.com/ABTUedu" width="334" height="569" data-chrome="nofooter transparent" data-widget-id="450132686107983873">Tweets by @ABTUedu</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      </div><!--videoBox-->
+
+      <div class="contentBox">
+        <div class="contentBoxIn">
+          <div class="title">
+            <h2 class="indexKeywords">Why Do Busy Adults Choose ABTU<br>For Their Online Education?</h2>
+          </div>
+          <ul class="checksHome">
+            <li>Affordable, Accessible, Accredited.</li>
+            <li>Military and Veteran Friendly; Eligible Veterans may use all chapters of the GI BILL.</li>
+            <li>Eligible Service Members Veterans, spouses and dependents have access to military friendly discounts.</li>
+            <li>ABTU offers certificates, diploma’s, Associate’s Degrees, Bachelor’s Degrees and Masters’ degrees.</li>
+            <li>All lectures are offered live via the web, they are also recorded for your convenience. Attend live lectures or watch the recorded ones. Flexible options give you control of your success.</li>
+          </ul>
+          <a href="http://abtu.acot.edu/pages/military-friendly-online-college" target="_bank"><img src="/assets/img/homeMilFriendly.png" /></a>
+          <a href="http://abtu.acot.edu/pages/about-ABTU#Accreditation" target="_bank"><img src="//acot.edu/assets/img/newhomeMDHE.png" /></a>
+          <a href="http://abtu.edu/online/accredited-online-education-abtu/" target="_bank"><img src="//acot.edu/assets/img/newDETC.png" /></a>
+          <a href="http://abtu.acot.edu/pages/military-friendly-online-college" target="_bank"><img src="//acot.edu/assets/img/yellow_ribbon.png" /></a>
+          <a href="http://info.abtu.edu/us-steel-scholarships" target="_bank"><img src="/assets/img/USS_logo.jpg" /></a>
+        </div>
+      </div><!--contentBox-->
+    </div><!--right-->
+
+<div class="footer">
+  <div class="footer-wrap">
+    <div class="clearfix">
+      <div id="siteMap">
+        <ul>
+          <li><strong><b>Pages</b></strong></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/pages/about-ABTU.php">About ABTU</a></li>
+          <li><a href="http://abtu.edu/policies/" target="_blank">ABTU Policies</a></li>
+          <li><a href="/pages/programs-offered.php">Programs Offered</a></li>
+          <li><a href="/pages/military-friendly-gi-bill.php">Veteran Benefits</a></li>
+          <li><a href="http://abtu.edu/apply/">Apply Now</a></li>
+          <li><a href="/pages/publications.php">Publications</a></li>
+          <li><a href="/pages/accreditation.php">Accreditation</a></li>
+          <li><a href="/consumerinfo.pdf">Consumer Information</a></li>
+          <li><a href="/pages/military-friendly-gi-bill.php">Military Friendly</a></li>
+          <li><a href="/pages/contact-ABTU.php">Contact ABTU</a></li>
+        </ul>
+        <ul>
+          <li><strong><b>Visitors</b></strong></li>
+          <li><a href="/pages/prospective-students.php">Prospective Students</a></li>
+          <li><a href="http://abtu.edu/online/international-students/">International Students</a></li>
+          <li><a href="http://abtu.edu/online/military-tuition-assistance-ta/">Active Duty Benefits</a></li>
+          <li><a href="/pages/video-testimonials.php">Testimonials</a></li>
+          <li><a href="http://abtu.edu/catalog.pdf" target="_blank">College Catalog</a></li>
+          <li><a href="/pages/tuition-and-funding.php">Tuition and Funding</a></li>
+          <li><a href="/pages/hire-an-ABTU-grad.php">Hire an ABTU Grad</a></li>
+          <li><a href="http://abtu.edu/pages/contact-ABTU.php">Request Info</a></li>
+          <li><a href="/online/trade-adjustment-assistance-taa-tra/">Trade Adjustment Assistance</a></li>
+          <li><a href="/pages/faq.php">FAQ</a></li>
+          <li><a href="http://abtu.edu/online/video-testimonials-abtu/">Video Testimonials</a></li>
+          <li><a href="/pages/veterans-retraining-assistance-program.php">VRAP</a></li>
+          <li><a href="/online/wtc">Warrior Transition Command</a></li>
+          <li><a href="http://www.formstack.com/forms/?1319773-zmaKC9nnDP" target="_blank">Careers at ABTU</a></li>
+        </ul>
+        <ul>
+          <li><strong><b>Students</b></strong></li>
+          <li><a href="/pages/login.php">Login</a></li>
+          <li><a href="/pages/connect.php">Connect</a></li>
+          <li><a href="http://abtu.edu/online/online-demos-abtu/">Online Demos</a></li>
+          <li><a href="/pages/financial-aid.php">Financial Aid</a></li>
+          <li><a href="/apply/">Online Application</a></li>
+          <!-- <li><a href="/mustangs/">Mustangs Entry</a></li> -->
+          <li><a href="/online/tax-benefits-education/">Tax Benefits for Education</a></li>
+          <li><a href="/online/abtu-complaint-process/">Complaint Process</a></li>
+          <li><a href="/online/career-resources/">Career Resources</a></li>
+          <li><a href="/apply/transcript.php">High School/GED Request Form</a></li>
+          <li><a href="/online/make-a-payment/">Make A Payment</a></li>
+        </ul>
+      </div><!--SITEMAP-->
+      <div id="footerRight">
+        <p class="center">
+          <strong><b>American Business and Technology University</b></strong>
+          <br />1018 West St. Maartens Dr.
+          <br />St. Joseph, Missouri 64506
+          <br />Tel: (816) 279-7000 or (800) 908-9329
+          <br />Fax: (888) 890-8190
+          <br /><a class="maps" target="_blank" href="https://maps.google.com/maps?q=American+College+of+Technology&hl=en&ll=39.7782,-94.832568&spn=0.020251,0.037208&sll=39.759238,-94.821184&sspn=0.16205,0.297661&hq=American+College+of+Technology&t=m&z=15&iwloc=A"><img src="/assets/img/map.png" alt="Find American Business and Technology University on Google Maps" />Find us on Google Maps</a>
+        </p>
+        <div class="socialLinks">
+          <p class="links"><strong><b>Follow Us:</b></strong></p>
+          <div class="icons center">
+            <a href="/pages/connect.php"><img src="/assets/img/twitter.png" alt="Twitter" /></a>
+            <a href="/pages/connect.php"><img src="/assets/img/facebook.png" alt="Facebook" /></a>
+            <a href="/pages/connect.php"><img src="/assets/img/linkedin.png" alt="LinkedIn" /></a>
+            <a href="/pages/connect.php"><img src="/assets/img/youtube.png" alt="YouTube" /></a>
+            <a href="//plus.google.com/115141575018854223326?rel=author"><img src="/assets/img/gplus.png" alt="YouTube" /></a>
+            <!--<a href="#"><img src="assets/img/rss.png" alt="Rss" /></a>-->
+          </div> <!--ICONS-->
+        </div><!--SOCIAL LINKS-->
+      </div><!--FOOTER RIGHT-->
+    </div>
+    <p class="copy">GI Bill® is a registered trademark of the U.S. Department of Veterans Affairs (VA). More information about education benefits offered by VA is available at the official U.S. government Web site at <a href="http://www.benefits.va.gov/gibill" target="_blank">www.benefits.va.gov/gibill</a></p>
+    <p class="copy">&copy; Copyright 2012 American Business and Technology University. All Rights Reserved. <a href="http://stjoeweb.com">St.Joe Web</a></p>
+  </div><!--FOOTER WRAP-->
+</div><!--FOOTER-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="/assets/js/plugins.js"></script>
+<script src="/assets/js/script.js"></script>
+
+<div id="fb-root"></div>
+<!--FACEBOOK LIKE-->
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
+<!--LIVE CHAT-->
+<script type="text/javascript">
+  var __lc = {};
+  __lc.license = 1066516;
+
+  (function() {
+    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+    lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+  })();
+</script>
+
+<!--GOOGLE ANALYTICS-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30713248-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Google Code for Main List -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 999452772;
+var google_conversion_label = "Z-EpCIyWggYQ5ODJ3AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/320227.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. See more
+information and instructions on how to setup the tag on:
+http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+      <script type="text/javascript">
+      /* <![CDATA[ /
+ * var google_conversion_id = 999452772;
+ * var google_custom_params = window.google_tag_params;
+ * var google_remarketing_only = true;
+ */ ]]> */
+</script>
+<script type="text/javascript" src="//
+www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//
+googleads.g.doubleclick.net/pagead/viewthroughconversion/999452772/?value=0&amp;guid=ON&amp;script=0<http://googleads.g.doubleclick.net/pagead/viewthroughconversion/999452772/?value=0&guid=ON&script=0>
+"/>
+</div>
+</noscript>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Expires: Mon, 01 Jan 2001 00:00:00 GMT
+Vary: Accept-Encoding
+Server: Sucuri/Cloudproxy
+Last-Modified: Mon, 15 Feb 2016 17:01:08 GMT
+Warning: 110 localhost:8123 Object is stale
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Mon, 15 Feb 2016 17:05:56 GMT
+X-Frame-Options: GOFORIT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"

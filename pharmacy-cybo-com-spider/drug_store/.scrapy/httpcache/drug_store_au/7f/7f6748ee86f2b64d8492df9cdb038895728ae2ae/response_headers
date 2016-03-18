@@ -1,0 +1,8 @@
+Alternate-Protocol: 443:npn-spdy/2
+Content-Language: en
+Set-Cookie: anonymous-adventurer=i8647tdpnpfwa9h56nsdv6490dw5aa58; Domain=.cybo.com; expires=Sun, 17-Jan-2016 15:20:51 GMT; HttpOnly; Max-Age=1209600; Path=/
+Vary: User-Agent, Accept-Language, Cookie
+Server: nginx
+Location: https://shoe-store.cybo.com/AU-biz/chemist-direct-plus
+Date: Sun, 03 Jan 2016 15:21:12 GMT
+Content-Type: text/html; charset=utf-8

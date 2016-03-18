@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Amanda Sernborn | finest.se/amandasernborn</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/amandasernborn/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/amandasernborn/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="Amanda Sernborn &raquo; flöde" href="http://finest.se/amandasernborn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Amanda Sernborn &raquo; kommentarsflöde" href="http://finest.se/amandasernborn/comments/feed/" />
+<meta property="og:title" content="Amanda Sernborn"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/amandasernborn/"/><meta property="og:description" content="Amanda Sernborn, 19, Göteborg. Här får ni läsa om min fartfyllda vardag där vänner, mode, jobb, fest, träning och drömma står på schemat!"/><meta property="og:site_name" content="finest.se/amandasernborn/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/6541/2015/08/1439412924-6675.jpeg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/amandasernborn\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/amandasernborn/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/amandasernborn/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/amandasernborn/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/amandasernborn/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/amandasernborn/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/amandasernborn/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/amandasernborn/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/amandasernborn/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/amandasernborn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/amandasernborn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/amandasernborn\/wp-admin\/admin-ajax.php","categories":"mode, skonhet, livsstil"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-header h1 a,
+            .site-header h2 {
+                color: #000000;
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/amandasernborn/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 6541);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                            <h1 class="site-title">
+                            <a href="http://finest.se/amandasernborn/" title="Amanda Sernborn" rel="home">Amanda Sernborn</a>
+                        </h1>
+                                        <h2 class="site-description">finest.se/amandasernborn</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul class="nav-bar">
+                            <li class="page_item page-item-30"><a href="http://finest.se/amandasernborn/homepage/">Homepage</a></li>
+                        </ul>
+                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-350" class="post-index post-350 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/28/3/" title="Permalink to &lt;3" rel="bookmark">&lt;3</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 17:01">januari 28, 2016 17:01</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1454003595-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1454003595-6675-1024x732.jpg" class="aligncenter wp-image-352" alt="IMG_0558r" width="900" height="643" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1454003591-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1454003591-6675-1024x730.jpg" class="aligncenter wp-image-351" alt="IMG_0557r" width="900" height="641" /></a></p>
+<p style="text-align: center">Tom, Emily och Dan!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1454003597-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1454003597-6675-1024x738.jpg" class="aligncenter wp-image-353" alt="IMG_05613r" width="900" height="649" /></a></p>
+<p style="text-align: center">Hahaha &lt;3</p>
+<p>Jag har inte riktigt diskuterat detta än men de flesta av er borde väll nu ha förstått att jag bor i London och jobbar som au pair, tänkte om ni hade några frågor till mig enligt detta? Hur det var att lämna hela mitt liv i Göteborg, vart jag hittade familjen, vilka tider jag jobbar, hur min kontakt med mina vänner är och helt enkelt hur jag har det? Kanske är kul att veta för er som tänker på att bli en au pair själva, kommentera vad ni undrar så kan jag göra ett inlägg! Vill inte att detta ska bli en vanlig tråkig au pair blogg, utan allt jag gör utanför familjelivet istället! x</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/28/3/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-350 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-346" class="post-index post-346 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/27/soo-tired/" title="Permalink to Soo tired" rel="bookmark">Soo tired</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 19:13">januari 27, 2016 19:13</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453924985-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453924985-6675-1024x764.jpg" class="aligncenter wp-image-347" alt="PicMonkey Collage" width="900" height="671" /></a></p>
+<p>Hola!</p>
+<p>Har haft en gaaalen dag, fram och tillbaka till skolan för att hämta barn, lagat mat, städat huset, gjort pannkakor, bakat kladdkaka, städat upp efter barnen, haft tusen gäster över och äntligen är jag i säng. Även fast mina kids är väldigt galna så är min kärlek för dom såå stor! Skall nu ta bort mitt smink och sen läsa en bok, ska försöka börja med det, bara en halvtimma om dagen eller så och skriva upp alla orden jag inte kan och sen översätta dom. Vill förbättra mitt ordförråd ännu mer! Nattii x</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/27/soo-tired/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-346 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-340" class="post-index post-340 post type-post status-publish format-standard hentry tag-beauty">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/26/for-the-face/" title="Permalink to For the face" rel="bookmark">For the face</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 14:13">januari 26, 2016 14:13</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453845033-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453845033-6675-1024x723.jpg" class="aligncenter wp-image-344" alt="IMG_0551r" width="900" height="635" /></a>Tog en runda på Boots häromdagen och införskaffade mig några välbehövliga produkter för ansiktet. En sminkborttagning som jag använt innan och den e toppen! En värmande lermask som jag testade igårkväll, inte riktigt vad jag letade efter men den var avslappnande iallafall. Min foundation e slut så tänkte testa en BB cream, har börjat köra på mer fräsht och naturligare smink så denna lät bra för det, har testat två BB creams innan men har inte gillat dom.. Köpte även en dagkräm som är lite ljusreflekterande och ger hyn lyster, har även testat denna och so far so good! Jag kan återkomma om ni vill vad jag tyckte om produkterna!</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/26/for-the-face/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-340 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-337" class="post-index post-337 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/26/1345/" title="Permalink to 13:45" rel="bookmark">13:45</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 12:44">januari 26, 2016 12:44</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149412-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149412-6675-1024x741.jpg" class="aligncenter wp-image-322" alt="IMG_0515r" width="900" height="652" /></a></p>
+<p>Hola!</p>
+<p>Sorry för dålig update, men var sjuk förra veckan så hade inget att blogga om och i helgen var det fullt upp. Idag har jag fixat och grejat hela morgonen i huset och nu sitter jag och tar det lugnt i soffan. Senare ska vi ha en liten spa kväll med några tjejer så det kommer bli super kul, välbehövligt! TTYL</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/26/1345/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-337 -->
+                    
+					
+<article id="post-331" class="post-index post-331 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/19/lazy-day/" title="Permalink to Lazy day" rel="bookmark">Lazy day</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 19, 2016 10:31">januari 19, 2016 10:31</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453201931-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453201931-6675-1024x741.jpg" class="aligncenter wp-image-333" alt="PicMonkey Collager" width="900" height="651" /></a></p>
+<p>Godmorgon!</p>
+<p>Har haft en väldigt bra morgon än så länge, ätit en grym frukost och allt har gått otroligt smidigt! Dagens planer är att jobba vid 5 men tills dess har jag ingenting att göra, funderar på att åka in till stan en stund eller gå en lång promenad. Är dock fortfarande lite små sjuk så funderar på att bara vara hemma idag och kolla serier och mysa. We&#8217;ll see! x</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/19/lazy-day/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-331 -->
+                    
+					
+<article id="post-319" class="post-index post-319 post type-post status-publish format-standard hentry tag-outfits">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/18/sunday-in-town/" title="Permalink to Sunday in town" rel="bookmark">Sunday in town</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 18, 2016 23:06">januari 18, 2016 23:06</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149414-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149414-6675-1024x735.jpg" class="aligncenter wp-image-323" alt="IMG_0520r" width="900" height="646" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149417-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149417-6675-1024x741.jpg" class="aligncenter wp-image-324" alt="IMG_0523r" width="900" height="651" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149420-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1453149420-6675-1024x750.jpg" class="aligncenter wp-image-325" alt="IMG_0524r" width="900" height="659" /></a>Fur coat &#8211; London | Knit &#8211; Åhlens | Jeans &#8211; Lee | Väska &#8211; Mango | Skor &#8211; Isabel Marant</p>
+<p style="text-align: center">Heej! Äntligen så bor jag och bästisen Victoria i samma stad igen så självklart spenderade vi helgen tillsammans. I lördags kom hon hem till mig och vi käkade middag och drack vin, underbart! Efter en sleepover så åkte vi in till stan för en shopping dag. Vi åt massa god mat, kollade i butiker, och bara gick runt i stan helt enkelt! Köpte bara lite bits and pieces och en topp. Är så jävla glad att jag har Vic här, nu är london life tusen gånger bättre!!</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/18/sunday-in-town/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-319 -->
+                    
+					
+<article id="post-312" class="post-index post-312 post type-post status-publish format-standard hentry tag-outfits">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/15/yesterdays/" title="Permalink to Yesterday&#8217;s" rel="bookmark">Yesterday&#8217;s</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 15, 2016 21:46">januari 15, 2016 21:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452782818-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452782818-6675-1024x732.jpg" class="aligncenter wp-image-315" alt="IMG_0495r" width="900" height="643" /></a><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452782812-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452782812-6675-1024x719.jpg" class="aligncenter wp-image-313" alt="IMG_0479r" width="900" height="632" /></a><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452782816-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452782816-6675-1024x703.jpg" class="aligncenter wp-image-314" alt="IMG_0492r" width="900" height="618" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center">Jacka &#8211; London | Blus &#8211; HM | Jeans &#8211; Lee | Skor &#8211; Isabel Marant | Väska &#8211; Mango</p>
+<p style="text-align: center">Detta hade jag på mig igår när jag och Linnea var inne i stan, vi shoppade och kikade runt på marknaden här. Hade en toppen dag igår! Vaknade upp och mådde jätte dåligt dock, så idag har jag bara legat i sängen..  Vilket jag ska fortsätta med nu, pusss.</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/15/yesterdays/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-312 -->
+                    
+					
+<article id="post-302" class="post-index post-302 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/11/20-55/" title="Permalink to 20.57" rel="bookmark">20.57</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 11, 2016 22:57">januari 11, 2016 22:57</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452545581-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452545581-6675-1024x630.jpg" class="aligncenter wp-image-304" alt="PicMonkey Collager" width="900" height="554" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center"><em>&#8221;If you want 2016 to be your year, don’t sit on the couch and wait for it. Go out. Fucking make a change. Smile more. Be excited. Do new things. Clean your room. Throw away what you’ve been cluttering. Unfollow negative people on social media. Go to bed early. Wake up early. Kick ass. Every damn day&#8221;</em></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/11/20-55/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-302 -->
+                    
+					
+<article id="post-298" class="post-index post-298 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/11/a-new-and-exciting-week/" title="Permalink to A new and exciting week" rel="bookmark">A new and exciting week</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 11, 2016 16:26">januari 11, 2016 16:26</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452520543-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452520543-6675-1024x743.jpg" class="aligncenter wp-image-299" alt="IMG_0431r" width="900" height="653" /></a></p>
+<p>Hejsan!</p>
+<p>Efter en lång morgon med massa jobb så sitter jag nu och äter en god lunch, kale salad mums! Har haft en riktigt bra måndag so far, har helt nya krafter typ, även fast jag bara sov 4h inatt haha! Snart börjar jag jobba igen och sen kommer Linnea hit vilket kommer bli super kul, hon ska stanna i några dagar så vi lär hitta på massa kul. Kul med lite annat än samma gamla vanliga vecka. Hade fullt upp i helgen med att sova hela lördagen och kalas igår, haha.</p>
+<p>Vi höres, PUSS</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/11/a-new-and-exciting-week/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-298 -->
+                    
+					
+<article id="post-296" class="post-index post-296 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/10/late-night-list/" title="Permalink to Late night list" rel="bookmark">Late night list</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 10, 2016 03:11">januari 10, 2016 03:11</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><strong>T</strong><strong>ror du på kärlek vid första ögonkastet?</strong><em> Hmm&#8230; en attraktion iallafall </em></p>
+<p style="text-align: center"><b>Hur många har du varit kär i?</b> <em>På riktigt? Zero</em></p>
+<p style="text-align: center"><strong>Är du kär just nu?</strong> <em>Nej</em></p>
+<p style="text-align: center"><strong>Vad tycker du mest om hos dig själv? </strong><em>Att jag e så galen och efterbliven men ändå så smart och lurig hihi. </em></p>
+<p style="text-align: center"><strong>Vem vet allt om dig?</strong> <em>Skulle nog säga Bella och Beccis!</em></p>
+<p style="text-align: center"><strong>Vem är den roligaste av dina vänner?</strong><em> Bella helt klart, kan skratta i flera timmar med den tjejen!</em></p>
+<p style="text-align: center"><strong>Vem är snyggast av dina vänner?</strong><em> Isabella, Rebecca och Victoria, så jävla snygga både på insidan och utsidan!</em></p>
+<p style="text-align: center"><em><strong>När kysste du någon senast? </strong>hihi</em></p>
+<p style="text-align: center"><strong>Är du romantisk? </strong><em>Verkligen INTE haha</em></p>
+<p style="text-align: center"><em><strong>Vill du vara singel eller ha ett förhållande?</strong></em> <em>Singel, men det e ju klart om man hittar nån släpper man den ju inte</em></p>
+<p style="text-align: center"><i><strong><em>Hur ska en tjej/kille vara?</em></strong> Passionerad, svår och sexig.</i></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/10/late-night-list/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-296 -->
+                    
+					
+<article id="post-291" class="post-index post-291 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/08/bed-coffee-and-makeup/" title="Permalink to Bed, coffee and makeup" rel="bookmark">Bed, coffee and makeup</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 08, 2016 11:02">januari 08, 2016 11:02</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452251910-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452251910-6675-1024x768.jpg" class="aligncenter wp-image-292" alt="IMG_0391r" width="900" height="675" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452251742-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452251742-6675-1024x768.jpg" class="aligncenter wp-image-293" alt="IMG_0392r" width="900" height="675" /></a></p>
+<p>&nbsp;</p>
+<p>Hello darlings</p>
+<p>Sitter just nu i min älskade säng och dricker kaffe ur en prinsessmugg medans jag kollar på youtube, har blivit kär i kaffe igen efter att ha varit hemma i Sverige, har lärt mig hur nespresso maskinen funkar nu också hahah. Imorse var det jobb på schemat och jag följde barnen till skolan, älskar att göra det! Sen hade jag även lite alone time med Tom vilket e något av det bästa som finns! Nu är Granny här och snart kommer Becca så då ska vi äta lunch tillsammans vilket kommer bli super mysigt, så nu måste jag snabba på om jag ska hinna sminka mig. Planerna för ikväll är att antingen bara vara hemma och ta det lugnt eller så ska jag gå ut med Jasmine och hennes vänner, får se! Pusss</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/08/bed-coffee-and-makeup/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-291 -->
+                    
+					
+<article id="post-285" class="post-index post-285 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/amandasernborn/2016/01/07/unpacking/" title="Permalink to Unpacking" rel="bookmark">Unpacking</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 07, 2016 23:27">januari 07, 2016 23:27</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452200867-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452200867-6675-1024x768.jpg" class="aligncenter wp-image-286" alt="IMG_0373r" width="900" height="675" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452200870-6675.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2016/01/1452200870-6675-1024x768.jpg" class="aligncenter wp-image-287" alt="IMG_0378r" width="900" height="675" /></a></p>
+<p>Heej!</p>
+<p>Kom hem till London igen igår vilket känns skit bra men det gör såklart ont att lämna mina vänner. Har verkligen haft världens bästa två veckor hemma och längtar tills nästa gång jag kommer hem och hälsar på igen!! Är dock överlycklig att mina vänner Victoria och Elin har flyttat hit också, kommer bli så jäkla kul! Sov hela dagen idag och igår, hahah, så har inte hunnit packa upp förens nu. Älskar att organisera mitt rum, speciellt nu när jag har så mycket nya kläder hihi. Nu måste jag äta middag och sen är det läggdags, puss!</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/amandasernborn/2016/01/07/unpacking/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-285 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/amandasernborn/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/6541/2015/08/1439412924-6675.jpeg" class="" /></div><div class="profile-desc">Amanda Sernborn, 19, Göteborg. Här får ni läsa om min fartfyllda vardag där vänner, mode, jobb, fest, träning och drömma står på schemat!</div></aside>		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h2 class="widget-title">Senaste inläggen</h2>		<ul>
+					<li>
+				<a href="http://finest.se/amandasernborn/2016/01/28/3/">&lt;3</a>
+						</li>
+					<li>
+				<a href="http://finest.se/amandasernborn/2016/01/27/soo-tired/">Soo tired</a>
+						</li>
+					<li>
+				<a href="http://finest.se/amandasernborn/2016/01/26/for-the-face/">For the face</a>
+						</li>
+					<li>
+				<a href="http://finest.se/amandasernborn/2016/01/26/1345/">13:45</a>
+						</li>
+					<li>
+				<a href="http://finest.se/amandasernborn/2016/01/19/lazy-day/">Lazy day</a>
+						</li>
+				</ul>
+		</aside><aside id="archives-4" class="widget widget_archive"><h2 class="widget-title">Arkiv</h2>		<ul>
+	<li><a href='http://finest.se/amandasernborn/2016/01/'>januari 2016</a></li>
+	<li><a href='http://finest.se/amandasernborn/2015/12/'>december 2015</a></li>
+		</ul>
+</aside>			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            <div class="social-profiles"><a href="http://instagram.com/amandasernborn" target="_blank"><img src="http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/amandasernborn/feed/rss/" target="_blank"><img src="http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/amandasernborn/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/amandasernborn/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/amandasernborn.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/amandasernborn/) in 1.37443 seconds, on: Jan 28th, 2016 @ 7:14 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:14 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/amandasernborn/) in 0.00495 seconds, on: Jan 28th, 2016 @ 7:22 pm UTC. -->

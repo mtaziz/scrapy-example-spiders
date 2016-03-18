@@ -1,0 +1,5 @@
+Accept-Language: en
+Referer: http://www.ncbtmb.org/tools/find-a-certified-massage-therapist/results?city=&country=All&email=&modality=&name=&order=zipcode&page=57&phone=&sort=asc&state=NY&zipcode=
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.0.3 (+http://scrapy.org)

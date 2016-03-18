@@ -1,0 +1,1994 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Search Results - The Law Society</title>
+    <meta name="description" content="Looking for Solicitors &amp; Lawyers? Our Find A Solicitor search shows law firms as recorded by the Solicitors Regulation Authority">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+
+    <script type="text/javascript" src="/Content/scripts/plugins/selectivizr-min.js"></script>
+
+    <link href="/bundles/all.css?v=oIWPfeBvrWL3zfFFrhJ56sDA4WGAW3i7iDl5JRSH0eY1" rel="stylesheet" media="all" />
+
+    <link href="/bundles/print.css?v=slwSdHk4uUBIq6o7BWa0V9Q20GTrfjjSvHywBkgWP9Q1" rel="stylesheet" media="print" />
+
+    <!--[if lt IE 9]>
+        <script src="/Content/scripts/plugins/respond.min.js"></script>
+        <script src="/Content/scripts/plugins/html5shiv.js"></script>
+    <![endif]-->
+     
+    
+        <meta name="fas-type" content="Pro" />
+         
+
+
+    <script>
+    
+    (function(G,o,O,g,l){G.GoogleAnalyticsObject=O;G[O]||(G[O]=function(){(G[O].q=G[O].q||[]).push(arguments)});G[O].l=+new Date;g=o.createElement('script'),l=o.scripts[0];g.src='//www.google-analytics.com/analytics.js';l.parentNode.insertBefore(g,l)}(this,document,'ga'));
+    ga('create', 'UA-1664104-18');
+
+    ga('send', 'pageview');
+</script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+</script>
+
+<script>
+    googletag.cmd.push(function () {
+        //googletag.defineSlot('/1057978/FAS_results_rectangle_180x150_bottom', [180, 150], 'div-gpt-ad-1378379554577-0').addService(googletag.pubads());
+        //googletag.defineSlot('/1057978/FAS_results_rectangle_180x150_middle', [180, 150], 'div-gpt-ad-1378379554577-1').addService(googletag.pubads());
+        //googletag.defineSlot('/1057978/FAS_results_rectangle_180x150_top', [180, 150], 'div-gpt-ad-1378379554577-2').addService(googletag.pubads());
+
+        googletag.defineSlot('/1057978/FAS_Results_Leaderboard_728x90', [728, 90], 'div-gpt-ad-1417517180477-0').addService(googletag.pubads());
+        googletag.defineSlot('/1057978/FAS_Results_MPU_300x250', [300, 250], 'div-gpt-ad-1417517180477-1').addService(googletag.pubads());
+        googletag.defineSlot('/1057978/FAS_Results_Sky_160x600', [160, 600], 'div-gpt-ad-1417517585858-0').addService(googletag.pubads());
+
+
+
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+
+
+
+</head>
+<body>
+
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NGBZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NGBZ');</script>
+
+    <a href="#main-content" class="nav-skip" accesskey="s">Skip to content</a>
+    <div id="tls-global-navigation-bar" class="hidden-phone">
+	<div class="container">
+		<ul class="topNav">
+	        <li><a href="http://www.lawsociety.org.uk">The Law Society</a></li>
+	        <li><a href="/" class="sel">Find a Solicitor</a></li>
+	        <li><a href="http://jobs.lawgazette.co.uk/?=lshome">Gazette Jobs</a></li>
+	        <li><a href="http://www.lawgazette.co.uk/?=lshome">The Gazette</a></li>
+	        <li><a href="http://cpdcentre.lawsociety.org.uk">CPD Centre</a></li>
+	        <li><a href="http://bookshop.lawsociety.org.uk/?=lshome">Bookshop</a></li>
+	        <li><a href="http://events.lawsociety.org.uk">Events</a></li>
+	        <li><a href="http://wv-tls.hostedbyfdi.net">Library Knowledge Base</a></li>
+		</ul>		
+	</div>
+</div>
+     
+<div class="nav-collapse collapse visible-phone">
+	<ul class="nav">
+		<li class="large"><a href="/?Pro=False">Quick search <span class="sprite icon-quick-search-menu-mobile pull-right"></span></a></li>
+		<li class="large"><a href="/?Pro=True">Pro search <span class="sprite icon-pro-search-menu-mobile pull-right"></span></a></li>
+		<li class="large"><a href="/shortlist">View shortlist <span class="sprite icon-star pull-right"></span></a></li>
+		<li><a href="/about">About</a></li>
+		<li><a href="/help">Help</a></li>
+		<li><a href="http://www.lawsociety.org.uk/get-in-touch/" title="Law Society website link" rel="external">Feedback</a></li>
+		
+		<li><a href="http://www.lawsociety.org.uk/legal-notice/" title="Law Society website link" rel="external">Legal</a></li>
+		<li><a href="http://www.lawsociety.org.uk/privacy/" title="Law Society website link" rel="external">Privacy</a></li>
+		<li><a href="/cookies">Cookies</a></li>
+		<li><a href="http://www.lawsociety.org.uk" rel="external">Go to The Law Society <span class="sprite icon-external pull-right"></span></a></li>
+	</ul>
+	<div class="shade"></div>
+</div>
+    <header class="top">
+        <div class="container">
+            <div class="row">
+                <div class="site-heading span4">
+                    <a href="/" class="logo-fas pull-left" accesskey="1">
+                        <img src="/content/images/logo-find-a-solicitor.png" width="195" height="33" alt="Find A Solicitor">
+                    </a>
+                    <a href="http://www.lawsociety.org.uk" class="logo-lawsociety sprite bg-ribbon pull-right">
+                        <img src="/content/images/logo-the-law-society.png" width="111" height="72" alt="Logo The Law Society">
+                    </a>
+                    
+
+
+                </div>
+            </div>
+            <button type="button" class="btn btn-navbar visible-phone" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+        </div>
+    </header>
+
+    <div id="page-content" class="page-content container">
+        
+
+
+<div class="hidden-phone">
+    
+<div class="search-panel">
+    <p class="top-links"><span class="shortlist-status">
+</span>
+</p>
+
+    <div id="search">
+    <ul class="nav nav-tabs" id="search-panel-tabs">
+        <li class=""><a id="quick" href="/?Pro=False" class="quick"><span>Quick search</span><i class="sprite icon-quick-search-small"></i></a></li>
+	    <li class="active"><a id="pro" href="/?Pro=True" class="pro"><span>Pro search</span><i class="sprite icon-pro-search-small"></i></a></li>
+    </ul>
+    <div class="tab-content" id="search-pane">
+        <div class="tab-pane  quick" id="search-pane-quick">
+            <form action="/search/results" class="form-inline" method="get">    <div class="main">
+    
+        <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+
+        <fieldset>
+            <legend class="sr-only">Quick search</legend>
+		    <div class="form-row">
+                <label for="Quick_UmbrellaLegalIssue">Legal issue</label> 
+                <select id="Quick_UmbrellaLegalIssue" name="UmbrellaLegalIssue"><option value="">All issues</option>
+<optgroup label="PERSONAL"><option value="LIUPIN">Accident and Injury</option>
+<option value="LIUCSU">Consumer and civil rights</option>
+<option value="LIUCRM">Crime</option>
+<option value="LIUEMP">Employment</option>
+<option value="LIUFAM">Family and relationships</option>
+<option value="LIUPRE">Houses, property and neighbours</option>
+<option value="LIUIMM">Immigration and changing countries</option>
+<option value="LIUMAD">Money and debt</option>
+<option value="LIUSWB">Social welfare, health and benefits</option>
+<option value="LIUPCW">Wills and probate</option>
+</optgroup>
+<optgroup label="BUSINESS"><option value="LIUBUP">Business premises</option>
+<option value="LIUCOM">Company and commercial</option>
+<option value="LIUDPR">Dispute resolution</option>
+<option value="LIUEUT">Energy, utilities and transport</option>
+<option value="LIUMED">Media, IT and intellectual property</option>
+<option value="LIUREG">Regulation and compliance</option>
+</optgroup>
+</select> 
+		    </div>
+		    <div class="form-row">
+                <label for="Quick_Location">Location</label>
+                <input autocomplete="off" id="Quick_Location" name="Location" placeholder="Postcode, town, city or country" type="text" value="" />
+		    </div>			
+				
+            <input type="hidden" id="Quick_Pro" name="Pro" value="False" />
+	    </fieldset>
+
+    </div>
+    <div id="search-pane-quick-more-options" class="collapse" >
+        <div class="left">
+            <fieldset>
+            <legend>Access options</legend>
+
+            <span class="btn btn-checkbox">
+                <label for="Quick_LegalAid">
+                    <input id="Quick_LegalAid" name="LegalAid" type="checkbox" value="True" />
+                    Accepts legal aid
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Quick_DisabledAccess">
+                    <input id="Quick_DisabledAccess" name="DisabledAccess" type="checkbox" value="True" />
+                    Disabled access to building
+                    <i class="sprite"></i>
+                </label>
+            </span>
+
+            <span class="btn btn-checkbox">
+                <label for="Quick_InductionLoop">
+                    <input id="Quick_InductionLoop" name="InductionLoop" type="checkbox" value="True" />
+                    Hearing induction loop
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Quick_Bsl">
+                    <input id="Quick_Bsl" name="Bsl" type="checkbox" value="True" />
+                    British Sign Language
+                    <i class="sprite"></i>
+                </label>
+            </span>
+        </fieldset>
+        </div>
+
+        <div class="right">
+            <label for="Quick_Language">Language spoken</label>
+            <select id="Quick_Language" name="Language"><option value="">Select one</option>
+<option value="AFR">Afrikaans</option>
+<option value="ALB">Albanian</option>
+<option value="AMH">Amharic</option>
+<option value="ARA">Arabic</option>
+<option value="ARM">Armenian</option>
+<option value="AZB">Azerbaijani</option>
+<option value="BAH">Bahasa</option>
+<option value="BAS">Basque</option>
+<option value="BEN">Bengali</option>
+<option value="BOS">Bosnian</option>
+<option value="BSL">British Sign Language</option>
+<option value="BUL">Bulgarian</option>
+<option value="BUR">Burmese</option>
+<option value="CAN">Cantonese</option>
+<option value="CAT">Catalan</option>
+<option value="CHA">Chichewa</option>
+<option value="CHI">Chinese</option>
+<option value="CRE">Creole</option>
+<option value="CRO">Croatian</option>
+<option value="CZE">Czech</option>
+<option value="DAN">Danish</option>
+<option value="DUT">Dutch</option>
+<option value="EDO">Edo</option>
+<option value="ENG">English</option>
+<option value="ESP">Esperanto</option>
+<option value="FAN">Fanti</option>
+<option value="FAR">Farsi (Persian)</option>
+<option value="FIN">Finnish</option>
+<option value="FLE">Flemish</option>
+<option value="FRE">French</option>
+<option value="GA">Ga</option>
+<option value="GER">German</option>
+<option value="GHA">Ghanian</option>
+<option value="GRE">Greek</option>
+<option value="GUJ">Gujarati</option>
+<option value="HAK">Hakka</option>
+<option value="HAU">Hausa</option>
+<option value="HEB">Hebrew</option>
+<option value="HIN">Hindi</option>
+<option value="HOK">Hokkien</option>
+<option value="HUN">Hungarian</option>
+<option value="IBO">Ibo</option>
+<option value="ICE">Icelandic</option>
+<option value="IND">Indonesian</option>
+<option value="IRA">Iranian</option>
+<option value="IRG">Gaelic (Irish)</option>
+<option value="ITA">Italian</option>
+<option value="JAP">Japanese</option>
+<option value="KAL">Kalabari</option>
+<option value="KEK">Kekchi</option>
+<option value="KOR">Korean</option>
+<option value="KSW">Kiswahili</option>
+<option value="KUR">Kurdish</option>
+<option value="LAT">Latin</option>
+<option value="LIT">Lithuanian</option>
+<option value="LTV">Latvian</option>
+<option value="LUG">Luganda</option>
+<option value="MAC">Macedonian</option>
+<option value="MAL">Malay</option>
+<option value="MAN">Mandarin</option>
+<option value="MAO">Maori</option>
+<option value="MAR">Marathi</option>
+<option value="MIR">Mirpuri</option>
+<option value="MLM">Malayalam</option>
+<option value="MON">Mongolian</option>
+<option value="MSE">Maltese</option>
+<option value="NEP">Nepali</option>
+<option value="NGE">Nigerian</option>
+<option value="NOR">Norwegian</option>
+<option value="PER">Persian (Same as Farsi)</option>
+<option value="POL">Polish</option>
+<option value="POR">Portuguese</option>
+<option value="PUN">Punjabi</option>
+<option value="PUS">Pushtu</option>
+<option value="ROM">Romanian</option>
+<option value="RUS">Russian</option>
+<option value="SCG">Gaelic (Scottish)</option>
+<option value="SER">Serbo Croat</option>
+<option value="SHA">Shanghainese</option>
+<option value="SIH">Sindhi</option>
+<option value="SIN">Sinhalese</option>
+<option value="SLO">Slovenian</option>
+<option value="SLV">Slovak</option>
+<option value="SOM">Somali</option>
+<option value="SPA">Spanish</option>
+<option value="SRB">Serbian</option>
+<option value="SWA">Swahili</option>
+<option value="SWE">Swedish</option>
+<option value="SWG">Swiss-German</option>
+<option value="SYC">Sycheti</option>
+<option value="SYL">Sylheti</option>
+<option value="TAG">Tagalog</option>
+<option value="TAM">Tamil</option>
+<option value="TEL">Telugu</option>
+<option value="TEO">Teochew</option>
+<option value="THA">Thai</option>
+<option value="TUR">Turkish</option>
+<option value="TWI">Twi</option>
+<option value="UKA">Ukrainian</option>
+<option value="URD">Urdu</option>
+<option value="URH">Urhobo</option>
+<option value="VNM">Vietnamese</option>
+<option value="WEL">Welsh</option>
+<option value="XHO">Xhosa</option>
+<option value="YID">Yiddish</option>
+<option value="YOR">Yoruba</option>
+</select>
+        </div>
+   
+    </div>
+    <div class="form-row submit">
+        <button type="submit" class="btn btn-submit">Search</button>
+    </div>
+         <div class="form-row more-options-toggle">
+                <a href="#search-pane-quick-more-options" data-toggle="collapse" class="collapsed">
+                    <span class="more">More search options <span class="icon">+</span></span>
+                    <span class="less">Fewer search options <span class="icon">-</span></span>
+                </a>
+            </div>  
+</form>
+        </div>
+        <div class="tab-pane active pro" id="search-pane-pro">
+            <form action="/search/results" class="form-inline clearfix" method="get">    <div class="main">
+
+        <div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+
+        <div class="left">
+            <div class="form-row">
+                <fieldset>
+                    <legend class="label">Type</legend>
+                    <span class="btn btn-radio">
+                        <label for="Pro_Type_1">
+                            <input data-val="true" data-val-required="The Type field is required." id="Pro_Type_1" name="Type" type="radio" value="0" />
+                            Organisation
+                            <i class="sprite"></i>
+                        </label>
+                    </span>
+                    <span class="btn btn-radio checked">
+                        <label for="Pro_Type_2">
+                            <input checked="checked" id="Pro_Type_2" name="Type" type="radio" value="1" />
+                            Person
+                            <i class="sprite"></i>
+                        </label>
+                    </span>
+                </fieldset>
+            </div>
+            <div class="form-row">
+                <label for="Pro_Name">Name</label> 
+                <input autocomplete="off" id="Pro_Name" name="Name" placeholder="Name" type="text" value="" />
+            </div>           
+            <div class="form-row"> 
+                <span class="btn btn-checkbox checked">
+                    <input id="Pro_IncludeNlspHidden" name="IncludeNlsp" type="hidden" value="false" />
+                    
+                    <label for="Pro_IncludeNlsp" title="Tick this box to include organisations that only do internal legal work and don&#39;t offer services to other clients." data-toggle="tooltip">
+                        <input checked="checked" id="Pro_IncludeNlsp" name="IncludeNlsp" type="checkbox" value="True" />
+                        Include in-house teams, government departments and other employers
+                        <i class="sprite"></i>
+                    </label>
+                </span>
+            </div>
+            <div class="form-row">
+                <label for="Pro_Location">Location</label>
+                <input autocomplete="off" id="Pro_Location" name="Location" placeholder="Postcode, town, city or country" type="text" value="" />
+            </div>
+        </div>
+
+        <div class="right">
+            <div class="form-row">
+                <label for="Pro_AreaOfPractice1">Area of practice</label> 
+                <select class="long" id="Pro_AreaOfPractice1" name="AreaOfPractice1"><option value="">All areas</option>
+<option value="APL">Actions against the police - legal aid</option>
+<option value="PUB">Administrative and public law</option>
+<option value="ADV">Advocacy</option>
+<option value="AGR">Agriculture</option>
+<option value="AVI">Aviation</option>
+<option value="BAN">Banking</option>
+<option value="BEN">Benefits and allowances</option>
+<option value="CHA">Charities</option>
+<option value="CHI">Children</option>
+<option value="CLI">Clinical negligence</option>
+<option value="COL">Commercial litigation</option>
+<option value="PCO">Commercial property</option>
+<option value="CCL">Community care - legal aid</option>
+<option value="COS">Company / commercial - small businesses</option>
+<option value="COM">Company and commercial</option>
+<option value="CON">Construction</option>
+<option value="CSU">Consumer</option>
+<option value="CSF">Consumer - financial services</option>
+<option value="CSG">Consumer - goods and services</option>
+<option value="CUT">Consumer - utilities</option>
+<option value="CTR">Contract</option>
+<option value="PRE">Conveyancing - residential</option>
+<option value="CFI">Corporate finance</option>
+<option value="CRD">Crime - domestic violence</option>
+<option value="CRF">Crime - fraud</option>
+<option value="CRG">Crime - general</option>
+<option value="CRJ">Crime - juvenile</option>
+<option value="CRL">Crime - legal aid</option>
+<option value="CRM">Crime - motoring</option>
+<option value="CRS">Crime - sex</option>
+<option value="CRO">Cross-border</option>
+<option value="DEB">Debt and bankruptcy - personal</option>
+<option value="DTR">Debt recovery</option>
+<option value="DEF">Defamation</option>
+<option value="DRC">Dispute resolution - civil mediation</option>
+<option value="DRO">Dispute resolution - commercial mediation</option>
+<option value="EDU">Education</option>
+<option value="EMP">Employment</option>
+<option value="ENE">Energy and natural resources</option>
+<option value="ENV">Environment</option>
+<option value="EUN">European Community law</option>
+<option value="FDS">Family - divorce and separation</option>
+<option value="FAM">Family - general</option>
+<option value="FAL">Family - legal aid</option>
+<option value="FMC">Family - marriage and civil partnerships</option>
+<option value="FME">Family - mediation</option>
+<option value="FML">Family - mediation - legal aid</option>
+<option value="FPL">Family public law - legal aid</option>
+<option value="FIS">Financial services</option>
+<option value="HRI">Human rights</option>
+<option value="IMA">Immigration - asylum</option>
+<option value="IML">Immigration - asylum - legal aid</option>
+<option value="IMM">Immigration - general</option>
+<option value="IMG">Immigration - general - legal aid</option>
+<option value="IMN">Immigration - nationality and citizenship</option>
+<option value="ITE">Information Technology</option>
+<option value="INS">Insolvency and restructuring - business</option>
+<option value="IUR">Insurance</option>
+<option value="IPR">Intellectual property</option>
+<option value="JRW">Judicial review</option>
+<option value="JRL">Judicial review - legal aid</option>
+<option value="LCO">Landlord and tenant - commercial</option>
+<option value="LRE">Landlord and tenant - residential</option>
+<option value="POA">Lasting power of attorney</option>
+<option value="LIC">Licensing gaming and betting</option>
+<option value="LIV">Litigation - general</option>
+<option value="LIS">Litigation - small claims</option>
+<option value="LIT">Litigation - tickets and fines</option>
+<option value="MAR">Maritime and shipping</option>
+<option value="MED">Media, entertainment and sport</option>
+<option value="MHE">Mental health</option>
+<option value="MHL">Mental health - legal aid</option>
+<option value="MAA">Mergers and acquisitions</option>
+<option value="MIL">Military</option>
+<option value="NDI">Neighbour disputes</option>
+<option value="PEN">Pensions</option>
+<option value="PIN">Personal injury</option>
+<option value="PIR">Personal injury - RTA</option>
+<option value="PLA">Planning</option>
+<option value="PRZ">Prison law - legal aid</option>
+<option value="PCI">Private client - international</option>
+<option value="PCP">Private client - Probate</option>
+<option value="PCT">Private client - trusts</option>
+<option value="PCW">Private client - Wills</option>
+<option value="PNE">Professional negligence</option>
+<option value="TAX">Tax</option>
+<option value="TAC">Tax - Company and commercial</option>
+<option value="TAE">Tax - Employment</option>
+<option value="TAH">Tax - Employment/HR</option>
+<option value="TAM">Tax - Money and debt</option>
+<option value="TAP">Tax - personal</option>
+<option value="TAT">Travel and tourism</option>
+</select>
+            </div>
+            <div class="form-row">
+                <label for="Pro_AreaOfPractice2">Second area of practice</label> 
+                <select class="long" id="Pro_AreaOfPractice2" name="AreaOfPractice2"><option value="">All areas</option>
+<option value="APL">Actions against the police - legal aid</option>
+<option value="PUB">Administrative and public law</option>
+<option value="ADV">Advocacy</option>
+<option value="AGR">Agriculture</option>
+<option value="AVI">Aviation</option>
+<option value="BAN">Banking</option>
+<option value="BEN">Benefits and allowances</option>
+<option value="CHA">Charities</option>
+<option value="CHI">Children</option>
+<option value="CLI">Clinical negligence</option>
+<option value="COL">Commercial litigation</option>
+<option value="PCO">Commercial property</option>
+<option value="CCL">Community care - legal aid</option>
+<option value="COS">Company / commercial - small businesses</option>
+<option value="COM">Company and commercial</option>
+<option value="CON">Construction</option>
+<option value="CSU">Consumer</option>
+<option value="CSF">Consumer - financial services</option>
+<option value="CSG">Consumer - goods and services</option>
+<option value="CUT">Consumer - utilities</option>
+<option value="CTR">Contract</option>
+<option value="PRE">Conveyancing - residential</option>
+<option value="CFI">Corporate finance</option>
+<option value="CRD">Crime - domestic violence</option>
+<option value="CRF">Crime - fraud</option>
+<option value="CRG">Crime - general</option>
+<option value="CRJ">Crime - juvenile</option>
+<option value="CRL">Crime - legal aid</option>
+<option value="CRM">Crime - motoring</option>
+<option value="CRS">Crime - sex</option>
+<option value="CRO">Cross-border</option>
+<option value="DEB">Debt and bankruptcy - personal</option>
+<option value="DTR">Debt recovery</option>
+<option value="DEF">Defamation</option>
+<option value="DRC">Dispute resolution - civil mediation</option>
+<option value="DRO">Dispute resolution - commercial mediation</option>
+<option value="EDU">Education</option>
+<option value="EMP">Employment</option>
+<option value="ENE">Energy and natural resources</option>
+<option value="ENV">Environment</option>
+<option value="EUN">European Community law</option>
+<option value="FDS">Family - divorce and separation</option>
+<option value="FAM">Family - general</option>
+<option value="FAL">Family - legal aid</option>
+<option value="FMC">Family - marriage and civil partnerships</option>
+<option value="FME">Family - mediation</option>
+<option value="FML">Family - mediation - legal aid</option>
+<option value="FPL">Family public law - legal aid</option>
+<option value="FIS">Financial services</option>
+<option value="HRI">Human rights</option>
+<option value="IMA">Immigration - asylum</option>
+<option value="IML">Immigration - asylum - legal aid</option>
+<option value="IMM">Immigration - general</option>
+<option value="IMG">Immigration - general - legal aid</option>
+<option value="IMN">Immigration - nationality and citizenship</option>
+<option value="ITE">Information Technology</option>
+<option value="INS">Insolvency and restructuring - business</option>
+<option value="IUR">Insurance</option>
+<option value="IPR">Intellectual property</option>
+<option value="JRW">Judicial review</option>
+<option value="JRL">Judicial review - legal aid</option>
+<option value="LCO">Landlord and tenant - commercial</option>
+<option value="LRE">Landlord and tenant - residential</option>
+<option value="POA">Lasting power of attorney</option>
+<option value="LIC">Licensing gaming and betting</option>
+<option value="LIV">Litigation - general</option>
+<option value="LIS">Litigation - small claims</option>
+<option value="LIT">Litigation - tickets and fines</option>
+<option value="MAR">Maritime and shipping</option>
+<option value="MED">Media, entertainment and sport</option>
+<option value="MHE">Mental health</option>
+<option value="MHL">Mental health - legal aid</option>
+<option value="MAA">Mergers and acquisitions</option>
+<option value="MIL">Military</option>
+<option value="NDI">Neighbour disputes</option>
+<option value="PEN">Pensions</option>
+<option value="PIN">Personal injury</option>
+<option value="PIR">Personal injury - RTA</option>
+<option value="PLA">Planning</option>
+<option value="PRZ">Prison law - legal aid</option>
+<option value="PCI">Private client - international</option>
+<option value="PCP">Private client - Probate</option>
+<option value="PCT">Private client - trusts</option>
+<option value="PCW">Private client - Wills</option>
+<option value="PNE">Professional negligence</option>
+<option value="TAX">Tax</option>
+<option value="TAC">Tax - Company and commercial</option>
+<option value="TAE">Tax - Employment</option>
+<option value="TAH">Tax - Employment/HR</option>
+<option value="TAM">Tax - Money and debt</option>
+<option value="TAP">Tax - personal</option>
+<option value="TAT">Travel and tourism</option>
+</select>
+            </div>
+            <div class="form-row form-inline">
+                <label for="Pro_SraId">SRA ID</label>
+                <input class="input-small" data-val="true" data-val-number="The field SRA ID must be a number." id="Pro_SraId" name="SraId" type="text" value="" />
+            </div>
+
+            <input type="hidden" id="Pro_Pro" name="Pro" value="True" />
+
+
+
+        </div>
+    </div>
+    <div id="search-pane-pro-more-options" class="collapse">
+        <div class="left">
+            <fieldset>
+                <legend>Accreditations</legend>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MCPAP">
+                                <input type="checkbox" id="Pro_Accreditation_MCPAP" name="Accreditation" value="MCPAP" data-type="1"  />
+                                Children - Adults&#39; Representative
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MCP">
+                                <input type="checkbox" id="Pro_Accreditation_MCP" name="Accreditation" value="MCP" data-type="1"  />
+                                Children - Childrens&#39; Representative
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MCPLA">
+                                <input type="checkbox" id="Pro_Accreditation_MCPLA" name="Accreditation" value="MCPLA" data-type="1"  />
+                                Children - Local Authority
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MCNP">
+                                <input type="checkbox" id="Pro_Accreditation_MCNP" name="Accreditation" value="MCNP" data-type="1"  />
+                                Clinical Negligence
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_CQS">
+                                <input type="checkbox" id="Pro_Accreditation_CQS" name="Accreditation" value="CQS" data-type="0"  />
+                                Conveyancing Quality Scheme
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_CLAS1">
+                                <input type="checkbox" id="Pro_Accreditation_CLAS1" name="Accreditation" value="CLAS1" data-type="1"  />
+                                Criminal Litigation
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MFLP">
+                                <input type="checkbox" id="Pro_Accreditation_MFLP" name="Accreditation" value="MFLP" data-type="1"  />
+                                Family
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_AMFLP">
+                                <input type="checkbox" id="Pro_Accreditation_AMFLP" name="Accreditation" value="AMFLP" data-type="1"  />
+                                Family - Advanced
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_HRACIVIL">
+                                <input type="checkbox" id="Pro_Accreditation_HRACIVIL" name="Accreditation" value="HRACIVIL" data-type="1"  />
+                                Higher courts rights - civil
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_HRABOTH">
+                                <input type="checkbox" id="Pro_Accreditation_HRABOTH" name="Accreditation" value="HRABOTH" data-type="1"  />
+                                Higher courts rights - civil &amp; criminal 
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_HRAQLTT">
+                                <input type="checkbox" id="Pro_Accreditation_HRAQLTT" name="Accreditation" value="HRAQLTT" data-type="1"  />
+                                Higher courts rights - civil &amp; criminal, transferred 
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_HRACRIM">
+                                <input type="checkbox" id="Pro_Accreditation_HRACRIM" name="Accreditation" value="HRACRIM" data-type="1"  />
+                                Higher courts rights - criminal
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_IMAAS03">
+                                <input type="checkbox" id="Pro_Accreditation_IMAAS03" name="Accreditation" value="IMAAS03" data-type="1"  />
+                                Immigration and Asylum - Advanced
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_IMAAS01">
+                                <input type="checkbox" id="Pro_Accreditation_IMAAS01" name="Accreditation" value="IMAAS01" data-type="1"  />
+                                Immigration and Asylum - Level 1
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_IMAAS02">
+                                <input type="checkbox" id="Pro_Accreditation_IMAAS02" name="Accreditation" value="IMAAS02" data-type="1"  />
+                                Immigration and Asylum - Level 2
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_IMAAS-SUP">
+                                <input type="checkbox" id="Pro_Accreditation_IMAAS-SUP" name="Accreditation" value="IMAAS-SUP" data-type="1"  />
+                                Immigration and Asylum - Supervisor
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_LEXCEL">
+                                <input type="checkbox" id="Pro_Accreditation_LEXCEL" name="Accreditation" value="LEXCEL" data-type="0"  />
+                                Lexcel Practice Management Standard
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_AIP">
+                                <input type="checkbox" id="Pro_Accreditation_AIP" name="Accreditation" value="AIP" data-type="1"  />
+                                Licensed insolvency practitioner
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_GMCCMP">
+                                <input type="checkbox" id="Pro_Accreditation_GMCCMP" name="Accreditation" value="GMCCMP" data-type="1"  />
+                                Mediation - Civil and Commercial
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_PMCCMP">
+                                <input type="checkbox" id="Pro_Accreditation_PMCCMP" name="Accreditation" value="PMCCMP" data-type="1"  />
+                                Mediation - Civil and Commercial
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_GMFMP">
+                                <input type="checkbox" id="Pro_Accreditation_GMFMP" name="Accreditation" value="GMFMP" data-type="1"  />
+                                Mediation - Family
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_PMFMP">
+                                <input type="checkbox" id="Pro_Accreditation_PMFMP" name="Accreditation" value="PMFMP" data-type="1"  />
+                                Mediation - Family
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MMHRTP">
+                                <input type="checkbox" id="Pro_Accreditation_MMHRTP" name="Accreditation" value="MMHRTP" data-type="1"  />
+                                Mental Health
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MPIP">
+                                <input type="checkbox" id="Pro_Accreditation_MPIP" name="Accreditation" value="MPIP" data-type="1"  />
+                                Personal Injury
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_MPP">
+                                <input type="checkbox" id="Pro_Accreditation_MPP" name="Accreditation" value="MPP" data-type="1"  />
+                                Planning
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_WQS">
+                                <input type="checkbox" id="Pro_Accreditation_WQS" name="Accreditation" value="WQS" data-type="0"  />
+                                Wills and Inheritance Quality Scheme
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+            </fieldset>
+        </div>
+        <div class="right">
+            
+            
+            <fieldset>
+                <legend>Memberships</legend>
+                        <span class="btn btn-checkbox">
+                            <label for="Pro_Accreditation_LFYB">
+                                <input type="checkbox" id="Pro_Accreditation_LFYB" name="Accreditation" value="LFYB" data-type="1"  />
+                                Lawyers For Your Business
+                                <i class="sprite"></i>
+                            </label>
+                        </span>
+            </fieldset>
+
+
+            <fieldset>
+                <legend>Access options</legend>
+                <span class="btn btn-checkbox">
+                   <label for="Pro_LegalAid">
+                        <input data-type="0" id="Pro_LegalAid" name="LegalAid" type="checkbox" value="True" />
+                        Accepts legal aid
+                       <i class="sprite"></i>
+                    </label>
+                </span>
+                <span class="btn btn-checkbox">
+                    <label for="Pro_DisabledAccess">
+                        <input data-type="0" id="Pro_DisabledAccess" name="DisabledAccess" type="checkbox" value="True" />
+                        Disabled access to building
+                        <i class="sprite"></i>
+                    </label>
+                </span>
+                <span class="btn btn-checkbox">
+                    <label for="Pro_InductionLoop">
+                        <input data-type="0" id="Pro_InductionLoop" name="InductionLoop" type="checkbox" value="True" />
+                        Hearing induction loop
+                        <i class="sprite"></i>
+                    </label>
+                </span>
+                <span class="btn btn-checkbox">
+                    <label for="Pro_Bsl">
+                        <input data-type="0" id="Pro_Bsl" name="Bsl" type="checkbox" value="True" />
+                        British Sign Language
+                        <i class="sprite"></i>
+                    </label>
+                </span>
+            </fieldset>
+
+            <label for="Pro_Language">Language spoken</label>
+            <select id="Pro_Language" name="Language"><option value="">Select one</option>
+<option value="AFR">Afrikaans</option>
+<option value="ALB">Albanian</option>
+<option value="AMH">Amharic</option>
+<option value="ARA">Arabic</option>
+<option value="ARM">Armenian</option>
+<option value="AZB">Azerbaijani</option>
+<option value="BAH">Bahasa</option>
+<option value="BAS">Basque</option>
+<option value="BEN">Bengali</option>
+<option value="BOS">Bosnian</option>
+<option value="BSL">British Sign Language</option>
+<option value="BUL">Bulgarian</option>
+<option value="BUR">Burmese</option>
+<option value="CAN">Cantonese</option>
+<option value="CAT">Catalan</option>
+<option value="CHA">Chichewa</option>
+<option value="CHI">Chinese</option>
+<option value="CRE">Creole</option>
+<option value="CRO">Croatian</option>
+<option value="CZE">Czech</option>
+<option value="DAN">Danish</option>
+<option value="DUT">Dutch</option>
+<option value="EDO">Edo</option>
+<option value="ENG">English</option>
+<option value="ESP">Esperanto</option>
+<option value="FAN">Fanti</option>
+<option value="FAR">Farsi (Persian)</option>
+<option value="FIN">Finnish</option>
+<option value="FLE">Flemish</option>
+<option value="FRE">French</option>
+<option value="GA">Ga</option>
+<option value="GER">German</option>
+<option value="GHA">Ghanian</option>
+<option value="GRE">Greek</option>
+<option value="GUJ">Gujarati</option>
+<option value="HAK">Hakka</option>
+<option value="HAU">Hausa</option>
+<option value="HEB">Hebrew</option>
+<option value="HIN">Hindi</option>
+<option value="HOK">Hokkien</option>
+<option value="HUN">Hungarian</option>
+<option value="IBO">Ibo</option>
+<option value="ICE">Icelandic</option>
+<option value="IND">Indonesian</option>
+<option value="IRA">Iranian</option>
+<option value="IRG">Gaelic (Irish)</option>
+<option value="ITA">Italian</option>
+<option value="JAP">Japanese</option>
+<option value="KAL">Kalabari</option>
+<option value="KEK">Kekchi</option>
+<option value="KOR">Korean</option>
+<option value="KSW">Kiswahili</option>
+<option value="KUR">Kurdish</option>
+<option value="LAT">Latin</option>
+<option value="LIT">Lithuanian</option>
+<option value="LTV">Latvian</option>
+<option value="LUG">Luganda</option>
+<option value="MAC">Macedonian</option>
+<option value="MAL">Malay</option>
+<option value="MAN">Mandarin</option>
+<option value="MAO">Maori</option>
+<option value="MAR">Marathi</option>
+<option value="MIR">Mirpuri</option>
+<option value="MLM">Malayalam</option>
+<option value="MON">Mongolian</option>
+<option value="MSE">Maltese</option>
+<option value="NEP">Nepali</option>
+<option value="NGE">Nigerian</option>
+<option value="NOR">Norwegian</option>
+<option value="PER">Persian (Same as Farsi)</option>
+<option value="POL">Polish</option>
+<option value="POR">Portuguese</option>
+<option value="PUN">Punjabi</option>
+<option value="PUS">Pushtu</option>
+<option value="ROM">Romanian</option>
+<option value="RUS">Russian</option>
+<option value="SCG">Gaelic (Scottish)</option>
+<option value="SER">Serbo Croat</option>
+<option value="SHA">Shanghainese</option>
+<option value="SIH">Sindhi</option>
+<option value="SIN">Sinhalese</option>
+<option value="SLO">Slovenian</option>
+<option value="SLV">Slovak</option>
+<option value="SOM">Somali</option>
+<option value="SPA">Spanish</option>
+<option value="SRB">Serbian</option>
+<option value="SWA">Swahili</option>
+<option value="SWE">Swedish</option>
+<option value="SWG">Swiss-German</option>
+<option value="SYC">Sycheti</option>
+<option value="SYL">Sylheti</option>
+<option value="TAG">Tagalog</option>
+<option value="TAM">Tamil</option>
+<option value="TEL">Telugu</option>
+<option value="TEO">Teochew</option>
+<option value="THA">Thai</option>
+<option value="TUR">Turkish</option>
+<option value="TWI">Twi</option>
+<option value="UKA">Ukrainian</option>
+<option value="URD">Urdu</option>
+<option value="URH">Urhobo</option>
+<option value="VNM">Vietnamese</option>
+<option value="WEL">Welsh</option>
+<option value="XHO">Xhosa</option>
+<option value="YID">Yiddish</option>
+<option value="YOR">Yoruba</option>
+</select>
+        </div>
+
+    </div>
+    <div class="form-row pull-right">
+        <button type="submit" class="btn btn-submit">Search</button>
+
+        <div class="form-row more-options-toggle">
+            <a href="#search-pane-pro-more-options" data-toggle="collapse" class="collapsed">
+                <span class="more">More search options <span class="icon">+</span></span>
+                <span class="less">Fewer search options <span class="icon">-</span></span>
+            </a>
+        </div>
+
+
+    </div>
+</form>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+
+<div class="row">
+    <div class="span1 left-sidebar">
+        
+        <div class="filter-panel inner-shade collapse">
+            
+<form action="/search/results" id="filters" method="get">
+
+
+
+<input data-val="true" data-val-required="The Pro field is required." id="Pro" name="Pro" type="hidden" value="True" />
+<input data-val="true" data-val-required="The Type field is required." id="Type" name="Type" type="hidden" value="1" />
+
+<input data-val="true" data-val-required="The IncludeNlsp field is required." id="IncludeNlsp" name="IncludeNlsp" type="hidden" value="True" />
+        
+
+    <div class="filter-section well">
+        <fieldset>
+            <legend>Refine results</legend>
+        
+            <div class="filter-controls hidden-phone">
+	<a href="#filter-group-accreditations" data-toggle="collapse" class="toggle">Accreditations<span class="icon down">▾</span><span class="icon up">▴</span></a>
+	<a href="javascript:void(0)" class="clear pull-right">Clear all<span class="icon">&times;</span></a>
+</div>
+
+<div id="filter-group-accreditations" class="collapse in expanded">
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MCPAP">
+                    <input type="checkbox" id="Accreditation_MCPAP" name="Accreditation" value="MCPAP"  />
+                    Children - Adults&#39; Representative
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MCP">
+                    <input type="checkbox" id="Accreditation_MCP" name="Accreditation" value="MCP"  />
+                    Children - Childrens&#39; Representative
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MCPLA">
+                    <input type="checkbox" id="Accreditation_MCPLA" name="Accreditation" value="MCPLA"  />
+                    Children - Local Authority
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MCNP">
+                    <input type="checkbox" id="Accreditation_MCNP" name="Accreditation" value="MCNP"  />
+                    Clinical Negligence
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_CQS">
+                    <input type="checkbox" id="Accreditation_CQS" name="Accreditation" value="CQS"  />
+                    Conveyancing Quality Scheme
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_CLAS1">
+                    <input type="checkbox" id="Accreditation_CLAS1" name="Accreditation" value="CLAS1"  />
+                    Criminal Litigation
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MFLP">
+                    <input type="checkbox" id="Accreditation_MFLP" name="Accreditation" value="MFLP"  />
+                    Family
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_AMFLP">
+                    <input type="checkbox" id="Accreditation_AMFLP" name="Accreditation" value="AMFLP"  />
+                    Family - Advanced
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_HRACIVIL">
+                    <input type="checkbox" id="Accreditation_HRACIVIL" name="Accreditation" value="HRACIVIL"  />
+                    Higher courts rights - civil
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_HRABOTH">
+                    <input type="checkbox" id="Accreditation_HRABOTH" name="Accreditation" value="HRABOTH"  />
+                    Higher courts rights - civil &amp; criminal 
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_HRAQLTT">
+                    <input type="checkbox" id="Accreditation_HRAQLTT" name="Accreditation" value="HRAQLTT"  />
+                    Higher courts rights - civil &amp; criminal, transferred 
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_HRACRIM">
+                    <input type="checkbox" id="Accreditation_HRACRIM" name="Accreditation" value="HRACRIM"  />
+                    Higher courts rights - criminal
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_IMAAS03">
+                    <input type="checkbox" id="Accreditation_IMAAS03" name="Accreditation" value="IMAAS03"  />
+                    Immigration and Asylum - Advanced
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_IMAAS01">
+                    <input type="checkbox" id="Accreditation_IMAAS01" name="Accreditation" value="IMAAS01"  />
+                    Immigration and Asylum - Level 1
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_IMAAS02">
+                    <input type="checkbox" id="Accreditation_IMAAS02" name="Accreditation" value="IMAAS02"  />
+                    Immigration and Asylum - Level 2
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_IMAAS-SUP">
+                    <input type="checkbox" id="Accreditation_IMAAS-SUP" name="Accreditation" value="IMAAS-SUP"  />
+                    Immigration and Asylum - Supervisor
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_LEXCEL">
+                    <input type="checkbox" id="Accreditation_LEXCEL" name="Accreditation" value="LEXCEL"  />
+                    Lexcel Practice Management Standard
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_AIP">
+                    <input type="checkbox" id="Accreditation_AIP" name="Accreditation" value="AIP"  />
+                    Licensed insolvency practitioner
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_GMCCMP">
+                    <input type="checkbox" id="Accreditation_GMCCMP" name="Accreditation" value="GMCCMP"  />
+                    Mediation - Civil and Commercial
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_PMCCMP">
+                    <input type="checkbox" id="Accreditation_PMCCMP" name="Accreditation" value="PMCCMP"  />
+                    Mediation - Civil and Commercial
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_GMFMP">
+                    <input type="checkbox" id="Accreditation_GMFMP" name="Accreditation" value="GMFMP"  />
+                    Mediation - Family
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_PMFMP">
+                    <input type="checkbox" id="Accreditation_PMFMP" name="Accreditation" value="PMFMP"  />
+                    Mediation - Family
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MMHRTP">
+                    <input type="checkbox" id="Accreditation_MMHRTP" name="Accreditation" value="MMHRTP"  />
+                    Mental Health
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MPIP">
+                    <input type="checkbox" id="Accreditation_MPIP" name="Accreditation" value="MPIP"  />
+                    Personal Injury
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_MPP">
+                    <input type="checkbox" id="Accreditation_MPP" name="Accreditation" value="MPP"  />
+                    Planning
+                    <i class="sprite"></i>
+                </label>
+            </span>
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_WQS">
+                    <input type="checkbox" id="Accreditation_WQS" name="Accreditation" value="WQS"  />
+                    Wills and Inheritance Quality Scheme
+                    <i class="sprite"></i>
+                </label>
+            </span>
+</div>
+
+
+
+
+<div class="filter-controls hidden-phone">
+    <a href="#filter-group-memberships" data-toggle="collapse" class="toggle">Memberships<span class="icon down">▾</span><span class="icon up">▴</span></a>
+</div>
+
+<div id="filter-group-memberships" class="collapse in expanded">
+            <span class="btn btn-checkbox">
+                <label for="Accreditation_LFYB">
+                    <input type="checkbox" id="Accreditation_LFYB" name="Accreditation" value="LFYB"  />
+                    Lawyers For Your Business
+                    <i class="sprite"></i>
+                </label>
+            </span>
+</div>
+        </fieldset>
+    </div>
+    <div class="filter-section well last">
+        <fieldset class="hidden-phone">
+            <legend>Access options</legend>
+               
+
+        </fieldset>
+
+        <label for="Language">Language spoken</label>
+        <select id="Language" name="Language"><option value="">Select one</option>
+<option value="AFR">Afrikaans</option>
+<option value="ALB">Albanian</option>
+<option value="AMH">Amharic</option>
+<option value="ARA">Arabic</option>
+<option value="ARM">Armenian</option>
+<option value="AZB">Azerbaijani</option>
+<option value="BAH">Bahasa</option>
+<option value="BAS">Basque</option>
+<option value="BEN">Bengali</option>
+<option value="BOS">Bosnian</option>
+<option value="BSL">British Sign Language</option>
+<option value="BUL">Bulgarian</option>
+<option value="BUR">Burmese</option>
+<option value="CAN">Cantonese</option>
+<option value="CAT">Catalan</option>
+<option value="CHA">Chichewa</option>
+<option value="CHI">Chinese</option>
+<option value="CRE">Creole</option>
+<option value="CRO">Croatian</option>
+<option value="CZE">Czech</option>
+<option value="DAN">Danish</option>
+<option value="DUT">Dutch</option>
+<option value="EDO">Edo</option>
+<option value="ENG">English</option>
+<option value="ESP">Esperanto</option>
+<option value="FAN">Fanti</option>
+<option value="FAR">Farsi (Persian)</option>
+<option value="FIN">Finnish</option>
+<option value="FLE">Flemish</option>
+<option value="FRE">French</option>
+<option value="GA">Ga</option>
+<option value="GER">German</option>
+<option value="GHA">Ghanian</option>
+<option value="GRE">Greek</option>
+<option value="GUJ">Gujarati</option>
+<option value="HAK">Hakka</option>
+<option value="HAU">Hausa</option>
+<option value="HEB">Hebrew</option>
+<option value="HIN">Hindi</option>
+<option value="HOK">Hokkien</option>
+<option value="HUN">Hungarian</option>
+<option value="IBO">Ibo</option>
+<option value="ICE">Icelandic</option>
+<option value="IND">Indonesian</option>
+<option value="IRA">Iranian</option>
+<option value="IRG">Gaelic (Irish)</option>
+<option value="ITA">Italian</option>
+<option value="JAP">Japanese</option>
+<option value="KAL">Kalabari</option>
+<option value="KEK">Kekchi</option>
+<option value="KOR">Korean</option>
+<option value="KSW">Kiswahili</option>
+<option value="KUR">Kurdish</option>
+<option value="LAT">Latin</option>
+<option value="LIT">Lithuanian</option>
+<option value="LTV">Latvian</option>
+<option value="LUG">Luganda</option>
+<option value="MAC">Macedonian</option>
+<option value="MAL">Malay</option>
+<option value="MAN">Mandarin</option>
+<option value="MAO">Maori</option>
+<option value="MAR">Marathi</option>
+<option value="MIR">Mirpuri</option>
+<option value="MLM">Malayalam</option>
+<option value="MON">Mongolian</option>
+<option value="MSE">Maltese</option>
+<option value="NEP">Nepali</option>
+<option value="NGE">Nigerian</option>
+<option value="NOR">Norwegian</option>
+<option value="PER">Persian (Same as Farsi)</option>
+<option value="POL">Polish</option>
+<option value="POR">Portuguese</option>
+<option value="PUN">Punjabi</option>
+<option value="PUS">Pushtu</option>
+<option value="ROM">Romanian</option>
+<option value="RUS">Russian</option>
+<option value="SCG">Gaelic (Scottish)</option>
+<option value="SER">Serbo Croat</option>
+<option value="SHA">Shanghainese</option>
+<option value="SIH">Sindhi</option>
+<option value="SIN">Sinhalese</option>
+<option value="SLO">Slovenian</option>
+<option value="SLV">Slovak</option>
+<option value="SOM">Somali</option>
+<option value="SPA">Spanish</option>
+<option value="SRB">Serbian</option>
+<option value="SWA">Swahili</option>
+<option value="SWE">Swedish</option>
+<option value="SWG">Swiss-German</option>
+<option value="SYC">Sycheti</option>
+<option value="SYL">Sylheti</option>
+<option value="TAG">Tagalog</option>
+<option value="TAM">Tamil</option>
+<option value="TEL">Telugu</option>
+<option value="TEO">Teochew</option>
+<option value="THA">Thai</option>
+<option value="TUR">Turkish</option>
+<option value="TWI">Twi</option>
+<option value="UKA">Ukrainian</option>
+<option value="URD">Urdu</option>
+<option value="URH">Urhobo</option>
+<option value="VNM">Vietnamese</option>
+<option value="WEL">Welsh</option>
+<option value="XHO">Xhosa</option>
+<option value="YID">Yiddish</option>
+<option value="YOR">Yoruba</option>
+</select>          
+            
+        <div class="visible-phone">
+            <button type="submit" class="btn btn-submit">Apply</button>
+        </div>
+    </div>
+</form>
+        </div>
+
+        <div class="hidden-phone well">
+            <h3>Help and advice</h3>
+<ul class="links">
+    <li><a href="http://www.lawsociety.org.uk/for-the-public/accredited-specialists/" rel="external">About accreditations</a></li>
+    <li><a href="http://www.lawsociety.org.uk/for-the-public/using-a-solicitor/" rel="external">How to choose a solicitor</a></li>
+    <li><a href="http://www.lawsociety.org.uk/for-the-public/">Getting expert help</a></li>
+</ul>
+        </div>
+        <div id="Skyscraper" style="display:none" class="hidden-phone adwell">
+            <!-- FAS_Results_Sky_160x600 -->
+<div id='div-gpt-ad-1417517585858-0' style='width:160px; height:600px; margin:auto;'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1417517585858-0'); });
+    </script>
+</div>
+        </div>
+    </div>
+
+    <div id="main-content" class="span3 main-content">
+        <script type="text/javascript">
+    document.getElementById("Skyscraper").style.display = "block";
+</script>
+
+
+
+
+
+
+<div class="search-results-controls">
+
+    <div id="mobile-controls" class="mobile-controls">
+    <div class="navbar visible-phone clearfix">
+        <ul class="nav">
+            <li><a href="javascript:history.back();"><span><i class="icon"></i> Back</span></a></li>
+            <li><a href="javascript:void(0)" class="collapsed" data-toggle="collapse" data-target=".filter-panel"><span>Refine</span></a></li>
+                            <li class="disabled"><a href="javascript:void(0)"><span></span></a></li>
+
+                <li class="disabled"><a href="javascript:void(0)"></a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="row-fluid">
+        <div class="visible-phone collapse sort-form inner-shade clearfix">
+             
+        </div>
+
+
+        <h1>
+            Found <strong>150,084</strong>, displaying <strong>20</strong> 
+        </h1>
+
+    </div>
+
+        <div class="row-fluid">      
+            <div class="pull-right hidden-phone">
+                    <div class="pagination">
+        <ul>
+            <li class="prev"><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=6" title="Go to previous page">Prev</a></li>
+
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=5" title="Go to page 5">5</a></li>
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=6" title="Go to page 6">6</a></li>
+                <li class="active"><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=7">7</a></li>
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=8" title="Go to page 8">8</a></li>
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=9" title="Go to page 9">9</a></li>
+
+            <li class="next"><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=8" title="Go to next page">Next</a></li>
+    </ul>
+    </div>
+
+            </div>      
+        </div>
+
+</div>    <div id="results">
+<section class="solicitor solicitor-type-individual " id="solicitor91004" data-latitude="52.44911" data-longitude="-1.863115">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/91004/mahmood-saeed-abdillahi-abdi">Mahmood Saeed Abdillahi Abdi</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 01/08/03</span>
+    </p>
+
+<dl>
+        <dt>Assistant at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/436554/hasan-solicitors">Hasan Solicitors</a>
+        </dd>
+            <dd class="feature highlight">643 Stratford Road, Sparkhill, Birmingham, West Midlands, B11 4DY, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">0121 778 4003</dd>
+      
+</dl>
+
+    <div class="accreditations clear hidden-phone">
+                    <strong class="sprite icon-total-accreditations"><em>2</em><span> total accreditations</span></strong>
+    </div>
+</section><section class="solicitor solicitor-type-individual " id="solicitor238200" data-latitude="51.51229" data-longitude="-0.07913854">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/238200/dana-abdo">Dana Abdo</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 02/09/13</span>
+    </p>
+
+<dl>
+        <dt>Assistant at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/473464/kennedys-law-llp">Kennedys Law LLP</a>
+        </dd>
+            <dd class="feature highlight">25 Fenchurch Avenue, London, London, EC3M 5AD, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">0207 667 9667</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor125041" data-latitude="53.79766" data-longitude="-1.549715">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/125041/jenine-khaled-abdo">Jenine Khaled Abdo</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 02/06/14</span>
+    </p>
+
+<dl>
+        <dt>Assistant at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/457567/simpson-millar-llp">Simpson Millar LLP</a>
+        </dd>
+            <dd class="feature highlight">21-27 St. Pauls Street, Leeds, West Yorkshire, LS1 2JG, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">0844 858 3200</dd>
+      
+</dl>
+
+</section>                    <div class="hidden-phone adwell">
+                        <!-- FAS_Results_MPU_300x250 -->
+<div id='div-gpt-ad-1417517180477-1' style='width:300px; height:250px; margin:auto;'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1417517180477-1'); });
+    </script>
+</div>
+                    </div>
+<section class="solicitor solicitor-type-individual " id="solicitor244539" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/244539/sanjarbek-akhmadjonovich-abdukhalilov">Sanjarbek Akhmadjonovich Abdukhalilov</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 17/09/07</span>
+    </p>
+
+<dl>
+        <dt>Employee at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/555183/abdulaziz-alassaf-partners-law-firm">Abdulaziz Alassaf &amp; Partners Law Firm</a>
+        </dd>
+            <dd class="feature highlight">Kingdom Centre, 24th Floor, King Fahad Road, P.o. Box 90217, Riyadh, 11613, Saudi Arabia</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor296202" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/296202/aziz-mohammed-abdul">Aziz Mohammed Abdul</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 15/09/14</span>
+    </p>
+
+<dl>
+        <dt>Main role not specified</dt>
+
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor274814" data-latitude="50.82059" data-longitude="-0.5262428">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/274814/natasha-yasina-abdul-aziz">Natasha Yasina Abdul Aziz</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 15/09/05</span>
+    </p>
+
+<dl>
+        <dt>In-house Solicitor at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/492460/the-body-shop-international-plc">The Body Shop International Plc</a>
+        </dd>
+            <dd class="feature highlight">Watersmead Business Park, Littlehampton, West Sussex, BN17 6LS, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">01903 731 500</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor313365" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/313365/shahrina-abdul-aziz">Shahrina Abdul Aziz</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor - non-practising</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 17/08/15</span>
+    </p>
+
+<dl>
+        <dt>Main role not specified</dt>
+
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor171900" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/171900/sahabudeen-abdul-hamid">Sahabudeen Abdul Hamid</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 16/04/07</span>
+    </p>
+
+<dl>
+        <dt>Main role not specified</dt>
+
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor265534" data-latitude="51.58473" data-longitude="-0.3280999">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/265534/shafia-mumtaz-abdul-majeed">Shafia Mumtaz Abdul Majeed</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 01/07/15</span>
+    </p>
+
+<dl>
+        <dt>In-house Solicitor at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/497061/london-borough-of-harrow">London Borough of Harrow</a>
+        </dd>
+            <dd class="feature highlight">Civic Centre 1, Station Road, Harrow, Middlesex, HA1 2UH, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">0208 424 1893</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor297033" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/297033/farsheed-abdul-rahman">Farsheed Abdul Rahman</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 15/04/15</span>
+    </p>
+
+<dl>
+        <dt>Associate at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/495699/hadef-partners">Hadef &amp; Partners</a>
+        </dd>
+            <dd class="feature highlight">Level 5 Building 3, Burj Dubai Sq  Sheikh Zayed Rd, Po Box 37172, Dubai, United Arab Emirates</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">+971 4 429 2999</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor257423" data-latitude="51.51174" data-longitude="-0.100969">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/257423/abdul-azeem-abdul-samad">Abdul Azeem Abdul Samad</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 01/10/12</span>
+    </p>
+
+<dl>
+        <dt>Associate at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/495955/dechert-llp">Dechert LLP</a>
+        </dd>
+            <dd class="feature highlight">160 Queen Victoria Street, London, EC4V 4QQ, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">020 7184 7000</dd>
+      
+</dl>
+
+    <div class="accreditations clear hidden-phone">
+                    <strong class="sprite icon-total-accreditations"><em>1</em><span> total accreditations</span></strong>
+    </div>
+</section><section class="solicitor solicitor-type-individual " id="solicitor114689" data-latitude="51.51174" data-longitude="-0.1058264">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/114689/noura-abdul-cader">Noura Abdul-Cader</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 15/03/13</span>
+    </p>
+
+<dl>
+        <dt>Associate at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/491831/jones-day">Jones Day</a>
+        </dd>
+            <dd class="feature highlight">21 Tudor Street, London, EC4Y 0DJ, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">020 7039 5959</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor27776" data-latitude="53.81677" data-longitude="-1.515787">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/27776/muhammad-abdul-halim">Muhammad Abdul-Halim</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 01/11/05</span>
+    </p>
+
+<dl>
+        <dt>Director at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/541821/yhm-limited">Yhm Limited</a>
+        </dd>
+            <dd class="feature highlight">1st Floor  271 Roundhay Road, Leeds, West Yorkshire, LS8 4HS, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">0113 240 8781</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor241317" data-latitude="52.50361" data-longitude="-2.007632">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/241317/mohammed-abdul-jabbar">Mohammed Abdul-Jabbar</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 01/04/05</span>
+    </p>
+
+<dl>
+        <dt>Employee at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/489709/sandwell-metropolitan-borough-council">Sandwell Metropolitan Borough Council</a>
+        </dd>
+            <dd class="feature highlight">Legal Services, Sandwell Council House, Oldbury, West Midlands, B69 3DE, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">0121 569 3212</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor274028" data-latitude="52.58101" data-longitude="-1.98282">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/274028/aisha-abdul-latif">Aisha Abdul-Latif</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 17/02/03</span>
+    </p>
+
+<dl>
+        <dt>Consultant at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/459526/fountain-solicitors-limited">Fountain Solicitors Limited</a>
+        </dd>
+            <dd class="feature highlight">Mander House, 36 Bradford Street, Walsall, West Midlands, WS1 3QA, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">01922 645429</dd>
+      
+</dl>
+
+    <div class="accreditations clear hidden-phone">
+                    <strong class="sprite icon-total-accreditations"><em>1</em><span> total accreditations</span></strong>
+    </div>
+</section><section class="solicitor solicitor-type-individual " id="solicitor84971" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/84971/sohaila-abdul-rahman">Sohaila Abdul-Rahman</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 15/08/06</span>
+    </p>
+
+<dl>
+        <dt>Main role not specified</dt>
+
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor199118" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/199118/sonia-abdul-rahman">Sonia Abdul-Rahman</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 01/03/13</span>
+    </p>
+
+<dl>
+        <dt>Associate at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/496101/freshfields-bruckhaus-deringer-llp">Freshfields Bruckhaus Deringer LLP</a>
+        </dd>
+            <dd class="feature highlight">20th Floor, Al Fattan Currency Tower, P.o. Box 506 569, Difc, Dubai, United Arab Emirates</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">+971 4 5099 100</dd>
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual " id="solicitor36859" data-latitude="51.53484" data-longitude="-0.1373718">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/36859/leila-abdul-rasool">Leila Abdul-Rasool</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 01/11/00</span>
+    </p>
+
+<dl>
+        <dt>Associate at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/528249/lewis-nedas-law-ltd">Lewis Nedas Law Ltd</a>
+        </dd>
+            <dd class="feature highlight">24 Camden High Street, London, NW1 0JH, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">0207 387 2032</dd>
+      
+</dl>
+
+    <div class="accreditations clear hidden-phone">
+                    <strong class="sprite icon-total-accreditations"><em>3</em><span> total accreditations</span></strong>
+    </div>
+</section><section class="solicitor solicitor-type-individual " id="solicitor56803" data-latitude="0" data-longitude="0">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/56803/naima-abdul-rasool">Naima Abdul-Rasool</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 15/10/08</span>
+    </p>
+
+<dl>
+        <dt>Main role not specified</dt>
+
+      
+</dl>
+
+</section><section class="solicitor solicitor-type-individual last" id="solicitor83954" data-latitude="51.51731" data-longitude="-0.1041247">
+    <a href="javascript:void(0)" class="close visible-phone" style="display:none !important;"><span class="icon">×</span></a>
+    <header>
+        <h2>
+            <a href="/person/83954/rashida-amina-abdulai">Rashida Amina Abdulai</a>
+    </h2>
+</header>
+
+
+    <p>
+        <strong>Solicitor</strong>
+            <span class="related hidden-phone">Admitted as a solicitor 03/05/11</span>
+    </p>
+
+<dl>
+        <dt>Associate at:</dt>
+
+        <dd class="highlight">
+            <a href="/office/461718/hogan-lovells-international-llp">Hogan Lovells International LLP</a>
+        </dd>
+            <dd class="feature highlight">Atlantic House, Holborn Viaduct, London, EC1A 2FG, England</dd>
+                    <dt class="hidden-phone">Tel:</dt>
+                    <dd class="hidden-phone highlight">020 7296 2000</dd>
+      
+</dl>
+
+    <div class="accreditations clear hidden-phone">
+                    <strong class="sprite icon-total-accreditations"><em>1</em><span> total accreditations</span></strong>
+    </div>
+</section>            <div class="search-results-controls pull-right">
+                    <div class="pagination">
+        <ul>
+            <li class="prev"><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=6" title="Go to previous page">Prev</a></li>
+
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=5" title="Go to page 5">5</a></li>
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=6" title="Go to page 6">6</a></li>
+                <li class="active"><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=7">7</a></li>
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=8" title="Go to page 8">8</a></li>
+                <li><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=9" title="Go to page 9">9</a></li>
+
+            <li class="next"><a href="/search/results?Type=1&amp;IncludeNlsp=True&amp;Pro=True&amp;Page=8" title="Go to next page">Next</a></li>
+    </ul>
+    </div>
+
+            </div>
+    </div>
+
+
+
+
+
+    </div>
+</div>
+<div>
+    
+    <div id="Leaderboard" class="hidden-phone adwell">
+    
+    <!-- FAS_Results_Leaderboard_728x90 -->
+<div id='div-gpt-ad-1417517180477-0' style='width:728px; height:90px; margin-left:auto; margin-right:auto;'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function () { googletag.display('div-gpt-ad-1417517180477-0'); });
+    </script>
+</div>
+</div>
+
+</div>
+
+
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="span2">
+                    <ul class="inline">
+	<li><a href="/about">About</a></li>
+	<li><a accesskey="6" href="/help">Help</a></li>
+	<li><a href="http://www.lawsociety.org.uk/get-in-touch/" accesskey="9" rel="external">Contact us</a></li>
+	<li><a href="/cookies">Cookies</a></li>
+	<li><a accesskey="8" href="/legal">Legal</a></li>
+	<li><a href="http://www.lawsociety.org.uk/About-The-Website/Privacy-statement/" rel="external">Privacy</a></li>
+    <li><a accesskey="0" href="/accessibility">Accessibility</a></li>
+	
+</ul>
+
+                </div>
+                <div class="span2">
+                    <span class="copyright pull-right">
+                        &copy;
+                        <script>new Date().getFullYear() > document.write(new Date().getFullYear());</script> Law Society. All Rights Reserved.
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <script>window.$ || document.write('<script src="content/scripts/libs/jquery-1.10.2.min.js"><\/script>');</script>
+
+    <script src="/bundles/all.js?v=yHuoym-XKOMBxzUtVbKKl4eluy8dQBhqhqm53mzP-vE1"></script>
+
+
+    
+    
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyDVZaCZCfbMB1Tb7vdbybR_UKFb2Ab9KeU&sensor=false"></script> 
+
+
+
+    <!--[if lt IE 10]>
+    <script src="/Content/scripts/plugins/jquery.placeholder.js"></script>
+    <script>
+        $(function () {
+            $('input, textarea').placeholder();
+        });
+    </script>
+    <![endif]-->
+
+</body>
+</html>

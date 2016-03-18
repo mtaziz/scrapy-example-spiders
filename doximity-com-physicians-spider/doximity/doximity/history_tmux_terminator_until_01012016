@@ -1,0 +1,6601 @@
+    1  ls
+    2  cd ~
+    3  ls
+    4  ls -al
+    5  workon Scraping
+    6  workon scrapy
+    7  work scrapy
+    8  sudo vim ~/.zshrc
+    9  bash
+   10  sudo vim ~/.zshrc
+   11  source ~/.zshrc
+   12  ls
+   13  cd ~/.oh-my-zsh
+   14  ls
+   15  cd plugins
+   16  ls
+   17  swsh bash
+   18  bash
+   19  source .antigen.zsh
+   20  antigen bundle zsh-users/zsh-syntax-highlighting
+   21  antigen bundle git
+   22  git clone https://github.com/zsh-users/antigen.git
+   23  ls
+   24  cd antigen
+   25  ls
+   26  sudo vim ~/.zshrc
+   27  exit
+   28  ls
+   29  source ~/.zshrc
+   30  ls
+   31  workon scrapy
+   32  antigen bundle https://github.com/robbyrussell/oh-my-zsh.git plugins/virtualenv
+   33  antigen bundle https://github.com/robbyrussell/oh-my-zsh.git plugins/virtualenvwrapper
+   34  vim .zshrc
+   35  exit 
+   36  exit
+   37  ls
+   38  workon scrapy
+   39  source ~/.zshrc
+   40  workon scrapy
+   41  source ~/.zshrc
+   42  sudo vim ~/.zshrc
+   43  cd ~/.virtualenvs
+   44  ls
+   45  sudo apt-get install font-manager
+   46  pip3 install virtualenvwrapper
+   47  sudo pip3 install virtualenvwrapper
+   48  vim ~/.zshrc
+   49  source ~/.zshrc
+   50  vim ~/.zshrc
+   51  source ~/.zshrc
+   52  vim ~/.zshrc
+   53  exit
+   54  source ~/.zshrc
+   55  workon
+   56  workon scrapy
+   57  ls
+   58  jupyter notebook
+   59  ls
+   60  workon
+   61  workon scrapy
+   62  ls
+   63  mkvirtualenv notebook
+   64  pip install notebook
+   65  jupter notebook
+   66  jupyter notebook
+   67  ls
+   68  ls -al
+   69  exit
+   70  sudo jupyter notebook
+   71  pip install --user ipython[notebook]
+   72  exit
+   73  deactivate
+   74  ls
+   75  cd Documents
+   76  ls
+   77  cd ..
+   78  cd Downloads
+   79  ls
+   80  cd ..
+   81  cd Scraping
+   82  ls
+   83  vim installation_command.sh
+   84  workon scrapy
+   85  workon
+   86  cd /usr/local/bin/
+   87  ls
+   88  ls -al
+   89  sudo pip install virtualwrappe
+   90  sudo pip install virtualenvwrapper
+   91  workon
+   92  source ~/.zshrc
+   93  workon
+   94  find / group 
+   95  jupyter notebook
+   96  id
+   97  groups
+   98  users
+   99  user
+  100  ip -p
+  101  id -p
+  102  id
+  103  sudo jupyter notebook
+  104  curl https://bootstrap.pypa.io/get-pip.py | python3.4
+  105  python{2.7,3.4} -m pip install -U setuptools
+  106  python3
+  107  sudo jupyter notebook
+  108  jupyter kernelspec list
+  109  sudo apt-get update 
+  110  sudo apt-get upgrade -y
+  111  which python
+  112  which python3
+  113  cd ~/Scraping
+  114  ls
+  115  vim installation_command.sh
+  116  sudo apt-add-repository ppa:mc3man/trusty-media
+  117  sudo apt-get install python3-dev
+  118  sudo apt-get install python3-pip
+  119  sudo apt-get install libz-dev
+  120  python3
+  121  exit
+  122  jupyter notebook
+  123  sudo jupyter notebook
+  124  sudo apt-get upgrade --fix-missing 
+  125  ipython
+  126  ipython3
+  127  cat ~/Scraping/installation_command.sh
+  128  sudo -H pip3 install jupyter
+  129  jupyter notebook
+  130  ls
+  131  vim ~/Scraping/installation_command.sh
+  132  ls
+  133  workon scrapy
+  134  pip install -r requirements.txt
+  135  jupyter notebook
+  136  deactivate
+  137  exit
+  138  uname -a
+  139  lsb
+  140  cd /media
+  141  ls
+  142  mount cdrom
+  143  ls -al
+  144  mount /dev/cdrom /mnt/cdrom
+  145  cd /mnt/cdrom
+  146  cd /mt
+  147  cd /mnt
+  148  ls
+  149  sudo apt-get install synaptic
+  150  sudo apt-get install open-vm-tools-lts-trusty
+  151  mount /dev/cdrom /mnt/cdrom
+  152  sudo mount /dev/cdrom/ /mnt/cdrom
+  153  ls /dev
+  154  ls /mnt/cdrom
+  155  ls /mnt
+  156  ls
+  157  cd /mnt
+  158  ls
+  159  cd ..
+  160  sudo mkdir /mnt/cdrom
+  161  sudo mount /dev/cdrom/ /mnt/cdrom
+  162  cd /mnt/cdrom
+  163  ls
+  164  cp VMwareTools-9.9.3-2759765.tar.gz /tmp/
+  165  cd /tmp
+  166  ls
+  167  tar -xvfs VMwareTools-9.9.3-2759765.tar.gz
+  168  tar -zxfv VMwareTools-9.9.3-2759765.tar.gz
+  169  ls 
+  170  tar -zxvf VMwareTools-9.9.3-2759765.tar.gz
+  171  ls
+  172  cd vmware-tools-distrib
+  173  ls
+  174  ./vmware-install.pl
+  175  sudo ./vmware-install.pl
+  176  reboot
+  177  sudo reboot
+  178  sudo apt-get dist-upgrade 
+  179  sudo apt-get update 
+  180  workon scrapy
+  181  ls
+  182  pip install scrapy
+  183  cd ~/.virtualenvs
+  184  ls
+  185  cd scrapy
+  186  ls
+  187  ls -al
+  188  cd /bin
+  189  ls
+  190  lssitepackages 
+  191  work
+  192  workon
+  193  lssitepackages
+  194  workon django
+  195  lssitepackages
+  196  cd ..
+  197  deactivate
+  198  ls $WORKON_HOME
+  199  echo $VIRTUAL_ENV
+  200  workon scrapy 
+  201  pwd
+  202  scrapy --version
+  203  man scrapy
+  204  scrapy --help
+  205  deactivate
+  206  exit
+  207  df
+  208  workon scrapy
+  209  info
+  210  deactivate
+  211  ls
+  212  jupyter notebook
+  213  ls -al
+  214  chmod 777 .mozilla
+  215  ls
+  216  ls -al
+  217  jupyter notebook
+  218  workon scrapy
+  219  pip search scrapyd
+  220  deactivate 
+  221  pip install --user requests[security]
+  222  source ~/.zshrc
+  223  pip install --user requests[security]
+  224  pip install requests[security]
+  225  sudo apt-get install libffi-dev libssl-dev
+  226  pip install pyopenssl ndg-httpsclient pyasn1
+  227  pip install --user pyopenssl ndg-httpsclient pyasn1
+  228  workon scrapy
+  229  info
+  230  scrapy --help
+  231  scrapy settings
+  232  scrapy more
+  233  scrapy --version
+  234  pip install scrapyd
+  235  python
+  236  sudo apt-get upgrade python
+  237  pip install requests[security]
+  238  pip install 'requests[security]'
+  239  pip install --user 'requests[security]'
+  240  pip install scrapyd
+  241  sudo apt-get subl
+  242  apt-cache sublime
+  243  apt-cache search sublime
+  244  lsb_release -a
+  245  uname -a
+  246  cd Downloads
+  247  ls
+  248  wget http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20x64.tar.bz2
+  249  ls
+  250  unzip Sublime\ Text\ 2.0.2\ x64.tar.bz2
+  251  tar -xvzf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+  252  gzip --help
+  253  gzip -dvf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+  254  ls
+  255  tar xjvf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+  256  ls
+  257  cd Sublime\ Text\ 2
+  258  ls
+  259  sudo add-apt-repository -y ppa:webupd8team/sublime-text-2
+  260  apt-cache search sublime 
+  261  sudo apt-get udpate 
+  262  sudo apt=get update 
+  263  sudo apt-get update
+  264  sudo apt-get sublime-text
+  265  sudo apt-ge install sublime-texty
+  266  sudo apt-ge install sublime-text
+  267  sudo apt-get install sublime-text
+  268  subl
+  269  sudo apt-get install unity
+  270  unity
+  271  users
+  272  pwd
+  273  ls
+  274  ls -a
+  275  workon scrapy
+  276  ls
+  277  scrapyd
+  278  scrapyd --verion
+  279  service httpd status
+  280  service http status
+  281  poweroff
+  282  sudo poweroff
+  283  cd /tmp
+  284  ls
+  285  cd /opt
+  286  ls
+  287  cd /tmp
+  288  ls
+  289  ls -al
+  290  cd ~/Downloads
+  291  ls
+  292  ls -a
+  293  ls 
+  294  cd ~
+  295  ls
+  296  cd /tmp
+  297  ls
+  298  cd vmware-root
+  299  ls
+  300  cd vmware-root
+  301  ls
+  302  cd vmware-root
+  303  sudo cd vmware-root
+  304  ls
+  305  sudo cd vmware-root
+  306  cd vmware-root
+  307  ls
+  308  apt-cache search libapache*
+  309  source ~/.zshrc
+  310  apt-cache search libapache*
+  311  sudo apt-cache search libapache2
+  312  sudo apt-cache search libapache2*
+  313  sudo apt-cache search libapache2
+  314  sudo cd vmware-root
+  315  clear
+  316  sudo apt-cache search libapache4
+  317  workon scrapy
+  318  deactivate 
+  319  ls 
+  320  cd dev_virtualenv
+  321  ls
+  322  cd..
+  323  cd ..
+  324  ls
+  325  mkdir DevEnv
+  326  ls
+  327  cd DevEnv
+  328  ls
+  329  mkvirtualenv craiglist
+  330  source ~/.zshrc
+  331  mkvirtualenv craiglist
+  332  cd ..
+  333  s
+  334  ls
+  335  mkvirtualenv craglist
+  336  cd Scraping
+  337  ls
+  338  mkvirtualenv craiglist
+  339  cd /et/bin
+  340  cd /etc/bin
+  341  ls
+  342  ~
+  343  cd DevEnv
+  344  ls
+  345  sudo mkvirtualenv craiglist
+  346  vim ~/.zshrc
+  347  cd /usr/local/bin/
+  348  ls
+  349  cd DevEnv
+  350  ls
+  351  cd ~/DevEnv
+  352  ls
+  353  mkvirtualenv craiglist
+  354  pip show virtualenv
+  355  pip show virtualenvwrapper
+  356  mkvirtualenv craiglist
+  357  source /usr/local/bin/virtualenvwrapper.sh
+  358  mkvirtualenv craiglist2015
+  359  ls $workon_home
+  360  ls $WORKON_HOME
+  361  cd scrapy
+  362  workon scrapy
+  363  ls
+  364  exit
+  365  echo $VIRTUAL_ENV
+  366  ~
+  367  ls -al
+  368  cd /usr/lib/jvm
+  369  ls
+  370  cd default-java
+  371  ls
+  372  cd ..
+  373  cd java-7-openjdk-amd64
+  374  ls
+  375  cd jre
+  376  ls
+  377  cd ~
+  378  ls
+  379  ls -LH
+  380  ls -al
+  381  cd antigen
+  382  ls
+  383  cd ..
+  384  cd .antigen
+  385  ls
+  386  cd repos
+  387  ls
+  388  cd repos
+  389  ls -a
+  390  cd ~
+  391  ls
+  392  chsh bash
+  393  man chsh
+  394  mkvirtualenv craiglist
+  395  cd /usr/local/bin/
+  396  ls
+  397  which virtualenv
+  398  which python2
+  399  which python3
+  400  which virtualenv
+  401  sudo apt-get install virtualenv
+  402  apt-cache search virtualenv
+  403  pip install --user virtualenv
+  404  pip install virtualenv
+  405  which virtualenv
+  406  bash
+  407  ls
+  408  which virtualenv
+  409  pip install virtualenv
+  410  pip upgrade virtualenv
+  411  pip --upgrade virtualenv
+  412  pip show virtualenv
+  413  pip show virtaulenvwrapper
+  414  pip show virtualenvwrapper
+  415  sudo apt-get install python-virtualenv
+  416  which virtualenv
+  417  sudo which virtualenv
+  418  virtualenv craiglist
+  419  vim ~/.zshrc
+  420  sudo virtualenv craiglist2015
+  421  which virtualenv
+  422  virtualenv
+  423  locate virtualenv
+  424  locate --help
+  425  locate -b virtualenv
+  426  source $HOME/antigen
+  427  ls
+  428  ls -al
+  429  source ~/.antigen.zsh
+  430  mkvirtualenv craiglist
+  431  cd antigen
+  432  ls
+  433  source antigen.zsh
+  434  mkvirtualenv craiglist
+  435  cp ~/.zshrc ~/.zshrc_original_07Nov2015
+  436  vim ~/.zshrc 
+  437  locate -b completion.sh
+  438  which virtualenv
+  439  pip show virtualenv
+  440  which virtualenvwrapper.sh
+  441  cd ~
+  442  locate -b virtualenvwrapper
+  443  locate -b virtualenv
+  444  pip install --user virtualenv
+  445  pip install --user virtualenvwrapper
+  446  cd ~
+  447  locate -b antigen.zsh
+  448  vim ~/.zshrc 
+  449  ls -a ~/.zshrc
+  450  ls -al ~/.zshrc
+  451  locate -b .rvm
+  452  locate -b rvm
+  453  vim ~/.zshrc 
+  454  cd ~
+  455  vim ~/.zsh_aliases
+  456  ls -al ~/.zsh_aliases
+  457  vim ~/.zsh_aliases
+  458  ~/.local
+  459  ls
+  460  cd bin
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd lib
+  465  ls
+  466  ls 
+  467  cd ..
+  468  ls
+  469  cd share
+  470  ls
+  471  upgrade_oh_my_zsh
+  472  locate -b virtualenv
+  473  sudo pip uninstall virtualenv
+  474  locate -b virtualenv
+  475  sudo apt-get update 
+  476  pwd
+  477  mkvirtualenv craiglist
+  478  df
+  479  df -H
+  480  sudo apt-get install mesa-utils
+  481  sudo reboot
+  482  history | grep mount
+  483  sudo mount /dev/cdrom/ /mnt/cdrom
+  484  cd /mnt/cdrom
+  485  ls
+  486  cp vmware-tools-upgrader-64 /tmp/
+  487  ls
+  488  cd /tmp
+  489  ls
+  490  cd vmware-root
+  491  ls
+  492  cd vmware-root
+  493  sudo cd vmware-root
+  494  ls
+  495  ls -al
+  496  sudo chown mtaziz:mtaziz vmware-root
+  497  ls -al
+  498  cd vmware-root
+  499  ls
+  500  cd ..
+  501  ls
+  502  ls -al
+  503  chmod 777 vmware-tools-upgrader-64
+  504  ls
+  505  ./vmware-tools-upgrader-64
+  506  cd /mnt/cdrom
+  507  ls
+  508  cp VMwareTools-9.9.3-2759765.tar.gz /tmp/
+  509  cd /tm
+  510  cd tmp
+  511  ls
+  512  cd /tmp
+  513  ls
+  514  tar xvf VMwareTools-9.9.3-2759765.tar.gz
+  515  ls
+  516  cd vmware-tools-distrib
+  517  ls
+  518  ./vmware-install.pl
+  519  sudo ./vmware-install.pl
+  520  sudo reboot
+  521  vmware-toolbox
+  522  sudo vmware-toolbox
+  523  bash
+  524  xrandr
+  525  vmware-toolbox
+  526  sudo apt-get update && sudo apt-get upgrade y
+  527  sudo apt-get upgrade -y
+  528  which virtualenv 
+  529  ls
+  530  sudo apt-get insall open-vm-tools
+  531  sudo apt-get install open-vm-tools-desktop
+  532  sudo reboot
+  533  ls
+  534  cd Downloads
+  535  ls
+  536  subl2
+  537  subl3
+  538  subl
+  539  sudo pip install virtuanenv
+  540  sudo pip install virtualenv
+  541  vim ~/.zshrc
+  542  source ~/.zshrc
+  543  ls
+  544  virtualenv 
+  545  mkvirtualenv test
+  546  virtualenv test
+  547  sudo apt-get install python-virtualenv
+  548  sudo apt-get upgrade  python-virtualenv
+  549  virtualenv l
+  550  ~
+  551  pip freeze
+  552  which virtualenv
+  553  virtualenv
+  554  locate -b virtualenv
+  555  ls
+  556  vim ~/.zshrc_original_07Nov2015
+  557  vim ~/.bashrc
+  558  mkvirtualenv --system-site-packages craiglist
+  559  python
+  560  virtualenv --no-site-packages craiglist
+  561  mkvirtualenv --no-site-packages craiglist
+  562  vim ~/.zshrc
+  563  source ~/.zshrc
+  564  vim ~/.zshrc
+  565  cd /usr/local/bin
+  566  ls
+  567  locate -b bash_completion
+  568  locate -b python
+  569  which python
+  570  cd ~
+  571  which python
+  572  source ~/.zshrc
+  573  which python
+  574  vim ~/.zshrc
+  575  locate -b virtualenv
+  576  cd /usr/local/bin
+  577  ls
+  578  cat virtualenv-clone
+  579  cd /usr/bin
+  580  ls
+  581  cd /usr/local/
+  582  ls
+  583  cd bin
+  584  ls
+  585  pip --version
+  586  cd /usr/local/lib/
+  587  ls
+  588  cd python
+  589  cd python2.7
+  590  ls
+  591  cd dist-packages
+  592  ls
+  593  locate -b virtualenv.py
+  594  cd /usr/bin
+  595  ls
+  596  source ~/.zshrc
+  597  ls
+  598  virtualenv 
+  599  mkvirtualenv craiglist
+  600  which virtualenv
+  601  virtualenv
+  602  vim ~/.zshrc
+  603  ls
+  604  ls -la
+  605  vim ~/.zshrc_original_07Nov2015
+  606  locate -b virtualenv
+  607  locate -b virtualenv-3
+  608  locate -b virtualenvwrapper
+  609  cat ~/.bashrc
+  610  vim ~/.bashrc
+  611  source ~/.zshrc
+  612  mkvirtualenv cr
+  613  vim ~/.zshrc
+  614  mkvirtualenv cr
+  615  exit
+  616  mkvirtualenv craiglist
+  617  sudo apt-get remove python-virtualenv
+  618  mkvirtualenv test
+  619  source /usr/local/bin/virtualenvwrapper.sh
+  620  mkvirtualenv test
+  621  pip uninstall vitualenv
+  622  pip uninstall virtualenv
+  623  pip uninstall virtualenv 
+  624  pip install virtualenv
+  625  pip install --user virtualenv
+  626  source ~/.zshrc.
+  627  source ~/.zshrc
+  628  mkvirtualenv test
+  629  source /usr/local/bin/virtualenvwrapper.sh
+  630  mkvirtualenv test
+  631  locate virtualenv
+  632  locate -b virtualenv
+  633  pip uninstall virtualwrapper
+  634  pip uninstall --user virtualenvwrapper
+  635  pip uninstall virtualenvwrapper
+  636  sudo pip uninstall virtualenvwrapper
+  637  pip install --user virtualenvwrapper
+  638  source ~/.zshrc
+  639  pip install --user virtualenvwrapper
+  640  mkvirtualenv test
+  641  ls
+  642  python 
+  643  which python
+  644  which python2
+  645  which virtualenv
+  646  which virtualenvwrapper
+  647  pip show django
+  648  pip show virtualenv
+  649  man pyenv
+  650  man pyvnv
+  651  man pyvenv
+  652  pyvenv --help
+  653  pyvenv-3.4 myenv
+  654  venv
+  655  man venv
+  656  pyvenv /tmp/craiglist
+  657  bash
+  658  pip install virtualenvwrapper
+  659  which virtualenvwrapper
+  660  which wheel
+  661  which python3
+  662  python3 --version
+  663  cd ..
+  664  cd..
+  665  cd ~
+  666  ls
+  667  mkdir my_project_09112015
+  668  cd my_project_09112015
+  669  ls
+  670  scrapy startproject test1
+  671  pip install scrapy
+  672  pip install --user scrapy
+  673  scrapy startproject khda
+  674  sudo scrapy startproject khda
+  675  sudo apt-get install python-scrapy
+  676  apt-cache search lxml
+  677  scrapy startproject test1
+  678  cd test1
+  679  ls
+  680  sudo apt-get install tree
+  681  tree
+  682  exit
+  683  cd 
+  684  ls
+  685  mv my_project_09112015 scrapy_09112015
+  686  ls
+  687  cd scrapy_09112015
+  688  ls
+  689  tree test1
+  690  cd test1
+  691  ls
+  692  vim scrapy.cfg
+  693  ls -al
+  694  ls 
+  695  cd test1
+  696  ls
+  697  vim items.py
+  698  vim pipelines.py
+  699  ls
+  700  cd spiders
+  701  ls
+  702  man tmux
+  703  man vim
+  704  which git
+  705  git --help
+  706  man git
+  707  ls
+  708  vim ~/.zshrc
+  709  pip install virtualenvwrapper
+  710  locate -b virtualenvwrapper
+  711  pip search node
+  712  ls
+  713  ls 0al
+  714  ls -al
+  715  ls
+  716  cd ..
+  717  ls
+  718  cd spiders
+  719  ls
+  720  cd ..
+  721  ls
+  722  source ~/.zshrc
+  723  locate -b virtualenvwrapper.sh
+  724  cd ~/.oh-my-zsh
+  725  ls
+  726  vim oh-my-zsh.sh
+  727  vim ~/.zshrc
+  728  source ~/.zshrc
+  729  antigen update
+  730  antigen selfupdate
+  731  anitgen list
+  732  $ZSH_CUSTOM/plugines
+  733  $ZSH_CUSTOM/plugins
+  734  cd $ZSH_CUSTOM/plugins
+  735  cd ~/.oh-my-zsh
+  736  ls
+  737  cd plugins
+  738  ls
+  739  echo $ZSH_THEME
+  740  echo $ZSH_THEME.
+  741  echo $ZSH_THEME
+  742  vim ~/.zshrc
+  743  man vundle
+  744  vundle
+  745  source ~/.zshrc
+  746  virtualenvwrapper
+  747  ls
+  748  vim virtualenvwrapper.plugin.zsh
+  749  ls
+  750  vim ~/.zshrc
+  751  source ~/.zshrc
+  752  ls 
+  753  ls
+  754  scrapy
+  755  vim ~/.zshrc
+  756  ls
+  757  vim ~/.zshrc
+  758  source ~/.zshrc
+  759  sudo apt-get install virtualenvwrapper
+  760  which virtualevnwrapper 
+  761  which virtualenvwrapper
+  762  locate -b virtualenvwrapper
+  763  vim ~/.zshrc
+  764  source ~/.zshrc
+  765  zshconfig
+  766  pwd
+  767  virtualenv --no-site-packages myproject
+  768  workon myproject
+  769  cd myproject
+  770  ls
+  771  ls -al
+  772  cd
+  773  source myproject/bin/activate
+  774  ls
+  775  cd scrapy_09112015
+  776  virtualenv myproject
+  777  source myproject/bin/activate
+  778  ls
+  779  cd myproject
+  780  ls
+  781  cd local
+  782  ls
+  783  cd ..
+  784  vim ~/.zshrc
+  785  source ~/.zshrc
+  786  vim ~/.zshrc
+  787  source ~/.zshrc
+  788  ls
+  789  deactivate
+  790  ls
+  791  bash
+  792  ls
+  793  cd ..
+  794  ls
+  795  source myproject/bin/activate
+  796  ls
+  797  source myproject/bin/activate
+  798  ls
+  799  cd myproject
+  800  source myproject/bin/activate
+  801  cd ..
+  802  source ~/.zshrc
+  803  source myproject/bin/activate
+  804  clear
+  805  cd ~/scrapy_09112015
+  806  ls
+  807  cd myproject
+  808  ls
+  809  source bin/activate
+  810  ls
+  811  ls 
+  812  pip install scrapy
+  813  ls
+  814  cd bin
+  815  ls
+  816  vim ~/.zshrc
+  817  source ~/.zshrc
+  818  antigen theme gnzh
+  819  ls
+  820  cd ..
+  821  source bin/activate
+  822  scrapy startproject venv_scrapy_spider
+  823  cd venv_scrapy_spider
+  824  ls
+  825  tree
+  826  ls
+  827  cd scrapy_09112015
+  828  ls
+  829  cd myproject
+  830  source bin/activate
+  831  ls
+  832  vim venv_scrapy_spider
+  833  source bin/activate
+  834  ls
+  835  vim ~/.zshrc
+  836  exit
+  837  ls
+  838  source ~/.zshrc
+  839  ls
+  840  deactivate
+  841  ls
+  842  cd ..
+  843  ls
+  844  source ~/.zshrc
+  845  ls
+  846  exit
+  847  clear
+  848  ls
+  849  tree
+  850  git clone https://github.com/powerline/fonts.git /tmp
+  851  cd /tmp
+  852  git clone https://github.com/powerline/fonts.git
+  853  ls
+  854  cd fonts
+  855  ls
+  856  ./install.sh
+  857  ls
+  858  clear
+  859  ls
+  860  vim ~/.zshrc
+  861  source ~/.zshrc
+  862  workon myproject
+  863  mkvirtualenv venvwrappertest
+  864  ls
+  865  virtualenv list
+  866  rmvirtualenv list
+  867  virtualenv --help
+  868  cd ~/scrapy_09112015/
+  869  mkvirtualenv amaral_lab_org
+  870  workon amaral_lab_org
+  871  deactivate
+  872  vim ~/.zshrc
+  873  source ~/.zshrc
+  874  workon amaral_lab_org
+  875  ls
+  876  ls -al
+  877  deactivate
+  878  vim ~/.zshrc
+  879  source ~/.zshrc
+  880  vim ~/.zshrc
+  881  source ~/.zshrc
+  882  workon amaral_lab_org
+  883  ls
+  884  cd ~
+  885  ls
+  886  cd Scraping
+  887  ls
+  888  cd ..
+  889  cd ~/.virtualenvs
+  890  ls
+  891  deactivate
+  892  workon amaral_lab_org
+  893  deactivate
+  894  vim ~/.zshrc
+  895  source ~/.zshrc
+  896  workon amaral_lab_org
+  897  deactivate
+  898  cd ~/.oh-my-zsh
+  899  ls
+  900  cd plugins
+  901  ls
+  902  cd ~/.virtualenvs
+  903  ls
+  904  vim postdeactivate
+  905  vim postactivate
+  906  workon amaral_lab_org
+  907  deactivate
+  908  vim postactivate
+  909  vim ~/.zshrc
+  910  source ~/.zshrc
+  911  vim postdeactivate
+  912  vim postactivate
+  913  source ~/.zshrc
+  914  ls
+  915  workon amaral_lab_org
+  916  ls
+  917  cd amaral_lab_org
+  918  ls
+  919  deactivate
+  920  cd ..
+  921  vim postactivate
+  922  source ~/.zshrc
+  923  workon scrapy
+  924  workon amaral_lab_org
+  925  vim postactivate
+  926  source ~/.zshrc
+  927  workon scrapy
+  928  cd ..
+  929  workon amaral_lab_org
+  930  cd ~/.virtualenv
+  931  ls
+  932  workon amaral_lab_org
+  933  vim ~/.virtualenvs/postactivate
+  934  source ~/.zshrc
+  935  workon amaral_lab_org
+  936  ls
+  937  cd ~/.virtualenvs
+  938  ls
+  939  cd amaral_lab_org
+  940  ls
+  941  tree
+  942  ls
+  943  deactivate
+  944  vim ~/.zshrc
+  945  source ~/.zshrc
+  946  workon amaral_lab_org
+  947  ls
+  948  deactivate
+  949  sudo reboot
+  950  workon amaral_lab_org
+  951  ls
+  952  $WORKON_HOME
+  953  echo $WORKON_HOME
+  954  vim ~/.zshrc
+  955  deactivate
+  956  workon amaral_lab_org
+  957  ls
+  958  pwd
+  959  exit
+  960  workon scrapy
+  961  ls
+  962  deactivate
+  963  vim ~/.zshrc
+  964  source ~/.zshrc
+  965  workon amaral_lab_org
+  966  ls
+  967  exit
+  968  workon amaral_lab_org
+  969  cd /etc
+  970  ls
+  971  tmux
+  972  ls
+  973  deactivate
+  974  workon amaral_lab_org
+  975  deactivate
+  976  cd ~/.oh-my-zsh
+  977  ls
+  978  ls 
+  979  ls -h
+  980  ls -al
+  981  mkvirtualenv zshprompttest
+  982  workon zshprompttest
+  983  ls
+  984  clear
+  985  cd ~/.virtualenvs
+  986  ls
+  987  ls -al
+  988  workon zshprompttest
+  989  ls
+  990  vim postactivate
+  991  deactivate
+  992  workon zshprompttest
+  993  deactivate
+  994  vim ~/.zshrc
+  995  source ~/.zshrc
+  996  workon amaral_lab_org
+  997  deactivate
+  998  antigen apply ghnz
+  999  vim zshconfig
+ 1000  vim ~/.zshrc
+ 1001  source ~./zshrc
+ 1002  clear
+ 1003  workon amaral_lab_org
+ 1004  vim ~/.zshrc
+ 1005  ls
+ 1006  exit
+ 1007  cd /etc
+ 1008  ls
+ 1009  cd ~/.oh-my-zsh
+ 1010  ls
+ 1011  vim ~/.zshrc
+ 1012  source ~/.zshrc
+ 1013  ls
+ 1014  workon amaral_lab_org
+ 1015  deactivate
+ 1016  vim ~/.zshrc
+ 1017  source ~/.zshrc
+ 1018  ls
+ 1019  workon amaral_lab_org
+ 1020  vim ~/.zshrc
+ 1021  source ~/.zshrc
+ 1022  workon amaral_lab_org
+ 1023  ls
+ 1024  cd ~/.virtualenvs
+ 1025  ls
+ 1026  cd amaral_lab_org
+ 1027  ls
+ 1028  vim postactivate
+ 1029  cd ..
+ 1030  vim postactivate
+ 1031  deactivate
+ 1032  workon amaral_lab_org
+ 1033  ls
+ 1034  deactivate
+ 1035  vim ~/.zshrc
+ 1036  source ~/.zshrc
+ 1037  workon django
+ 1038  ls
+ 1039  vim zshconfig
+ 1040  zshconfig
+ 1041  exit
+ 1042  cd ~/.oh-my-zsh/plugins
+ 1043  ls
+ 1044  vim virtualenvwrapper
+ 1045  cd virtualenvwrapper
+ 1046  ls
+ 1047  vim virtualenvwrapper.plugin.zsh
+ 1048  zshconfig
+ 1049  source ~/.zshrc
+ 1050  zshconfig
+ 1051  source ~/.zshrc
+ 1052  ls
+ 1053  workon amaral_lab_org
+ 1054  ls
+ 1055  zshconfig
+ 1056  source zshconfig
+ 1057  source ~/.zshrc
+ 1058  workon amaral_lab_org 
+ 1059  ls
+ 1060  zshconfig
+ 1061  deactivate
+ 1062  workon scrapy
+ 1063  ls
+ 1064  cd ~
+ 1065  deactivate
+ 1066  ls
+ 1067  workon scrapy
+ 1068  ls
+ 1069  locate prompt.sh
+ 1070  cd ~/.oh-my-zsh/plugins
+ 1071  ls
+ 1072  cd ..
+ 1073  cd themes
+ 1074  ls
+ 1075  vim cd ..
+ 1076  cd ..
+ 1077  cd plugins
+ 1078  ls
+ 1079  vim ~/.zshrc
+ 1080  locate -b powerlevel
+ 1081  cd ~/.antigen
+ 1082  ls
+ 1083  cd repos
+ 1084  ls
+ 1085  cd ~/.antigen
+ 1086  ls
+ 1087  cd repos
+ 1088  ls
+ 1089  ls -al
+ 1090  cd https-COLON--SLASH--SLASH-github.com-SLASH-bhilburn-SLASH-powerlevel9k.git
+ 1091  ls
+ 1092  vim powerlevel9k.zsh-theme
+ 1093  echo $VIRTUAL_ENV
+ 1094  LS
+ 1095  ls
+ 1096  cd /tmp
+ 1097  git clone https://github.com/FortAwesome/Font-Awesome.git
+ 1098  ls
+ 1099  cd Font-Awesome
+ 1100  ls
+ 1101  cd fonts
+ 1102  ls
+ 1103  cd ..
+ 1104  ls
+ 1105  cd /tmp
+ 1106  ls
+ 1107  git clone https://github.com/gabrielelana/awesome-terminal-fonts.git
+ 1108  ls
+ 1109  cd awesome-terminal-fonts
+ 1110  ls
+ 1111  cd build
+ 1112  ls
+ 1113  cd ..
+ 1114  sudo apt-get install fontconfig
+ 1115  fontconfig
+ 1116  sudo apt-get install python-fontforge
+ 1117  ls
+ 1118  cd build
+ 1119  ls
+ 1120  cd ..
+ 1121  cd config
+ 1122  ls
+ 1123  vim 10-symbols.conf
+ 1124  cd 
+ 1125  cd ~/tmp
+ 1126  ls
+ 1127  cd /tmp
+ 1128  ls
+ 1129  cd awesome-terminal-fonts
+ 1130  ls
+ 1131  cp ./build ~/.fonts
+ 1132  cd ~/.fonts
+ 1133  ls
+ 1134  cd /tmp/
+ 1135  ls
+ 1136  cd awesome-terminal-fonts
+ 1137  ls
+ 1138  cp build/ ~/.fonts
+ 1139  cp build ~/.fonts
+ 1140  cp -avr /tmp/awesome-terminal-fonts/build ~/.fonts
+ 1141  ls
+ 1142  cd ~/.fonts
+ 1143  ls
+ 1144  cp -avr /tmp/awesome-terminal-fonts/build/ ~/.fonts
+ 1145  ls 
+ 1146  rm build
+ 1147  rm -r build
+ 1148  ls
+ 1149  cp -avr /tmp/awesome-terminal-fonts/build/* ~/.fonts
+ 1150  ls
+ 1151  fc-cache -fv ~/.fonts
+ 1152  cd ~/.config/fontconfig/
+ 1153  ls
+ 1154  vim fonts.conf
+ 1155  ls
+ 1156  exit
+ 1157  ls
+ 1158  cp ~/Downloads/SourceCodePro+Powerline+Awesome+Regular.ttf ~/.fonts
+ 1159  cp ~/Downloads/Droid+Sans+Mono+Awesome.ttf ~/.fonts
+ 1160  cp ~/Downloads/Inconsolata+Awesome.ttf ~/.fonts
+ 1161  fc-cache -fv ~/.fonts
+ 1162  sudo fc-cache -fv ~/.fonts
+ 1163  exit
+ 1164  workon amaral_lab_org
+ 1165  deactivate
+ 1166  cd ~/.oh-my-zsh
+ 1167  cd /tmp
+ 1168  ls
+ 1169  cd awesome-terminal-fonts
+ 1170  ls
+ 1171  vim install.sh
+ 1172  ./install.sh
+ 1173  sudo ./install.sh
+ 1174  cd tmp
+ 1175  cd /tmp
+ 1176  ls
+ 1177  cd awesome-terminal-fonts
+ 1178  ls
+ 1179  vim build
+ 1180  vim build.sh
+ 1181  ls
+ 1182  ls -al
+ 1183  cd scripts
+ 1184  ls
+ 1185  cd ..
+ 1186  cd config
+ 1187  ls
+ 1188  cd ..
+ 1189  cd build
+ 1190  ls
+ 1191  ls -al
+ 1192  ls
+ 1193  lsvirtualenv -l
+ 1194  vim ~/.zshrc
+ 1195  source ~/.zshrc
+ 1196  ls
+ 1197  cd ~/.oh-my-zsh
+ 1198  ls
+ 1199  vim ~/.zshrc
+ 1200  source ~/.zshrc
+ 1201  workon amaral_lab_org
+ 1202  ls
+ 1203  cd ~/.virtualenvs
+ 1204  ls
+ 1205  deactivate
+ 1206  vim ~/.zshrc
+ 1207  source ~/.zshrc
+ 1208  workon amaral_lab_org
+ 1209  ls
+ 1210  lsvirtualenv -l
+ 1211  vim ~/.zshrc
+ 1212  source ~/.zshrc
+ 1213  workon amaral_lab_org
+ 1214  mkvirtualenv test1
+ 1215  workon test1
+ 1216  ls
+ 1217  vim postactivate
+ 1218  zshconfig
+ 1219  source ~/.zshrc
+ 1220  workon amaral_lab_org
+ 1221  ls
+ 1222  deactivate
+ 1223  vim postactivate
+ 1224  workon amaral_lab_org
+ 1225  deactivate
+ 1226  ls
+ 1227  vim postactivate
+ 1228  vim ~/.zshrc
+ 1229  ls
+ 1230  python_info
+ 1231  echo $python_info
+ 1232  echo $WORKON_HOME
+ 1233  echo $PATH
+ 1234  cat ~/.zshrc
+ 1235  vim ~/.zshrc
+ 1236  source ~/.zshrc
+ 1237  vim ~/.zshrc
+ 1238  workon scrapy
+ 1239  ls
+ 1240  lsvirtualenv
+ 1241  deactivate
+ 1242  virtualenv virtualenvtest
+ 1243  ls
+ 1244  source ~/.virtualenvs/virtualenvtest/bin/activate
+ 1245  ls
+ 1246  source ~/.zshrc
+ 1247  workon scrapy
+ 1248  ls
+ 1249  cp ~/.zshrc /opt/backup
+ 1250  sudo cp ~/.zshrc /opt/backup/
+ 1251  mkdir -p /opt/backup_111115
+ 1252  sudo mkdir -p /opt/backup_111115
+ 1253  cp ~/.zshrc /opt/backup_111115/
+ 1254  chown mtaziz:mtaziz /opt/backup
+ 1255  cd /opt/backup_111115
+ 1256  ls
+ 1257  ls -al
+ 1258  cd opt
+ 1259  cd /opt
+ 1260  ls -al
+ 1261  chown mtaziz:mtaziz backup_111115
+ 1262  sudo chown mtaziz:mtaziz backup_111115
+ 1263  ls
+ 1264  ls -al
+ 1265  chmod 777 backup_111115
+ 1266  ls
+ 1267  ls -al
+ 1268  cp ~/.zshrc backup_111115
+ 1269  ls
+ 1270  cd backup_111115
+ 1271  ls
+ 1272  ls -al
+ 1273  mv .zshrc .zshrc_111115
+ 1274  ls
+ 1275  ls 
+ 1276  ls -a
+ 1277  workon scrapy
+ 1278  su root
+ 1279  ls
+ 1280  which python
+ 1281  which python2
+ 1282  which python3
+ 1283  zshconfig
+ 1284  vim ~/.zshrc
+ 1285  exit
+ 1286  vim ~/.zshrc
+ 1287  ls ~/.zshrc
+ 1288  ls -la ~/.zshrc
+ 1289  sudo chmod 777 ~/.zshrc
+ 1290  vim ~/.zshrc
+ 1291  ls -la
+ 1292  rm .zshrc
+ 1293  ls 
+ 1294  ls -al
+ 1295  cp ~/.zshrc ~/.zshrc_origianl_12Nov2015
+ 1296  rm ~/.zshrc.swp
+ 1297  ls
+ 1298  ls -al
+ 1299  vim ~/.zshrc
+ 1300  ls
+ 1301  workon scrapy
+ 1302  ls
+ 1303  ls 
+ 1304  cd ..
+ 1305  ls
+ 1306  cd ~
+ 1307  ls
+ 1308  clear
+ 1309  ls
+ 1310  mount /dev/cdrom /mnt/cdrom
+ 1311  sudo mount /dev/cdrom/ /mnt/cdrom
+ 1312  cd /tmp
+ 1313  ls
+ 1314  cd /tmp
+ 1315  ls
+ 1316  cd vmware-root
+ 1317  ls
+ 1318  cd ..
+ 1319  cd /tmp
+ 1320  ls
+ 1321  ls -al
+ 1322  ls
+ 1323  cd vmware-root
+ 1324  ls
+ 1325  cd vmware-root
+ 1326  ls
+ 1327  ls a-l
+ 1328  ls
+ 1329  chmod mtaziz:mtaziz vmware-root
+ 1330  sudo chown mtaziz:mtaziz vmware-root
+ 1331  cd vmware-root
+ 1332  ls
+ 1333  ls -al
+ 1334  cd ..
+ 1335  ls
+ 1336  sudo mount /dev/cdrom/ /mnt/cdrom
+ 1337  cd /mnt
+ 1338  ls
+ 1339  cd cdrom
+ 1340  ls
+ 1341  ls-al
+ 1342  ls a-l
+ 1343  ls -al
+ 1344  rm /mnt/cdrom
+ 1345  rm -rf /mnt/cdrom
+ 1346  sudo rm -rf /mnt/cdrom
+ 1347  sudo unmount /mnt/cdrom
+ 1348  unmount /mnt/cdrom
+ 1349  umount /mnt/cdrom
+ 1350  sudo umount /mnt/cdrom
+ 1351  mount /dev/cdrom/ /mnt/cdrom
+ 1352  sudo /dev/cdrom/ /mnt/cdrom
+ 1353  sudo /dev/cdrom/ /mnt/
+ 1354  cd ~
+ 1355  mount /dev/cdrom/ /mnt/cdrom
+ 1356  vsudo
+ 1357  visudo
+ 1358  sudo visudo
+ 1359  visudo
+ 1360  sudo visudo
+ 1361  reboot
+ 1362  sudo reboot
+ 1363  sudo groupadd admin
+ 1364  usermod --help
+ 1365  usermod -a -G admin mtaziz
+ 1366  sudo usermod -a -G admin mtaziz
+ 1367  vigr
+ 1368  sudo vigr
+ 1369  vim ~/.zshrc
+ 1370  workon scrapy
+ 1371  ls
+ 1372  ls -al
+ 1373  vim .profile
+ 1374  ls --file-type
+ 1375  ls 
+ 1376  ls -al
+ 1377  ls -al ~/.*
+ 1378  ls
+ 1379  vim ~/.zsrc
+ 1380  vim ~/.zshrc
+ 1381  vim ~/.bashrc
+ 1382  vim ~/.zshrc
+ 1383  cd ~/.oh-my-zsh
+ 1384  ls
+ 1385  cd plugins
+ 1386  ls
+ 1387  cd python
+ 1388  ls
+ 1389  ls -al
+ 1390  vim _python
+ 1391  vim python.plugin.zsh
+ 1392  ls -al ~/.config/libreoffice
+ 1393  ls -a ~/.config/libreoffice
+ 1394  ls -al ~/.config
+ 1395  ls -al ~/.config/libreoffice/4
+ 1396  id
+ 1397  grep mtaziz /etc/group
+ 1398  sudo visudo 
+ 1399  sudo vigr
+ 1400  sudo vigr | grep mtaziz
+ 1401  visudo
+ 1402  sudo visudo 
+ 1403  vim /etc/group
+ 1404  vim ~/.zshrc
+ 1405  gnome-session --version
+ 1406  exit
+ 1407  df -H
+ 1408  sudo apt-get update && sudo apt-get -y upgrade
+ 1409  sudo apt-get install vcsh mr -y
+ 1410  vcsh init mr
+ 1411  vcsh enter mr
+ 1412  cd .config/
+ 1413  mkdir -p mr/{available.d,config.d}
+ 1414  cd mr/available.d
+ 1415  git init
+ 1416  git add README.md
+ 1417  git commit -m "first commit"
+ 1418  git config --global user.email "mdtariqaziz@gmail.com\n"
+ 1419  git config --global user.name "Md. Tariq Aziz"
+ 1420  git commit -m "first commit"
+ 1421  ~
+ 1422  mkdir ~/MyProject
+ 1423  cd MyProject
+ 1424  git init
+ 1425  git status
+ 1426  vim testfile.txt
+ 1427  git status
+ 1428  git remote add origin https://github.com/mtaziz/myproject.git
+ 1429  git remote -v
+ 1430  git push
+ 1431  cd ~/.config
+ 1432  ls
+ 1433  ls -al
+ 1434  chown -Rf mtaziz:mtaziz libreoffice
+ 1435  chmod 777 libreoffice
+ 1436  sudo chmod 777 libreoffice
+ 1437  ls 
+ 1438  ls -al
+ 1439  sudo chown mtaziz:mtaziz libreoffice
+ 1440  ls -al
+ 1441  cd libreoffice
+ 1442  ls
+ 1443  ls -al
+ 1444  cd ..
+ 1445  chown -Rf mtaziz:mtaziz libreoffice
+ 1446  cd libreoffice
+ 1447  ls
+ 1448  cd 4
+ 1449  ls
+ 1450  ls -al
+ 1451  cd 4
+ 1452  ls
+ 1453  sudo chown -rf mtaziz:mtaziz 4
+ 1454  sudo chown -Rf mtaziz:mtaziz 4
+ 1455  man curl
+ 1456  ls
+ 1457  apt-get install curl
+ 1458  sudo apt-get install curl
+ 1459  curl -u mtaziz:0df6271c6068bfcf66d3d797a6dce883b33db583 https://api.github.com/mtaziz
+ 1460  clear
+ 1461  apt-cache search github
+ 1462  sudo apt-get install git-all
+ 1463  git --version
+ 1464  sudo add-apt-repository ppa:git-core/ppa  
+ 1465  sudo apt-get update && sudo apt-get -y upgrade 
+ 1466  git --version
+ 1467  sudo apt-get upgrade git
+ 1468  git --version
+ 1469  git-gui
+ 1470  sudo git-gui
+ 1471  sudo apt-get install git-gui
+ 1472  git --version
+ 1473  cd ~
+ 1474  cd MyProject
+ 1475  ls
+ 1476  git push
+ 1477  git init
+ 1478  exit
+ 1479  git config --global mtaziz "Md. Tariq Aziz"
+ 1480  git config --global user.name "mtaziz"
+ 1481  git config --global user.email "mdtariqaziz@gmail.com"
+ 1482  mkdir ~/GitCmdPracticeProject1
+ 1483  cd GitCmdPracticeProject1
+ 1484  git init
+ 1485  vim gittestcommandlist.txt
+ 1486  git status
+ 1487  git add gittestcommandlist.txt
+ 1488  git commit -m "Add gittestcommandlist.txt"
+ 1489  git remote add origin https://github.com/mtaziz/gitcmdpracticeproject1.git
+ 1490  git remote -v
+ 1491  git push
+ 1492  git push origin master
+ 1493  git pull
+ 1494  git merge
+ 1495  git pull
+ 1496  git pull origin master 
+ 1497  git commit
+ 1498  git pull
+ 1499  git push -u origin master
+ 1500  git config --global core.editor vim
+ 1501  git commit
+ 1502  git push origin master
+ 1503  scrapy 
+ 1504  cd ~
+ 1505  ls
+ 1506  cd ~
+ 1507  workon scrapy
+ 1508  vim ~/.zshrc
+ 1509  tmux
+ 1510  tmux --help
+ 1511  vim ~/.zshrc
+ 1512  ls -al
+ 1513  mv ~/.zshrc ~/.zshrc_18112015
+ 1514  ls -al
+ 1515  cp ~/.zshrc_original_07Nov2015 ~.zshrc
+ 1516  cp ~/.zshrc_original_07Nov2015 ~/.zshrc
+ 1517  source ~/.zshrc
+ 1518  vim ~/.zshrc
+ 1519  source ~/.zshrc
+ 1520  vim ~/.zshrc_18112015
+ 1521  exit
+ 1522  workon virtualenv
+ 1523  workon scrapy
+ 1524  vim ~/.zsrhc
+ 1525  vim ~/.zshrc
+ 1526  vim ~/.zshrc_18112015
+ 1527  source ~/.zshrc
+ 1528  vim ~/.zshrc
+ 1529  source ~/.zshrc
+ 1530  vim ~/.zshrc
+ 1531  ls -al
+ 1532  rm .zshrc.swp
+ 1533  vim .zshrc
+ 1534  antigen update
+ 1535  source ~/.zshrc
+ 1536  workon scrapy
+ 1537  ls
+ 1538  ls 
+ 1539  vim ~/.zshrc
+ 1540  deactivate
+ 1541  ls
+ 1542  cd ~/.virtualenvs
+ 1543  ls
+ 1544  workon scrapy
+ 1545  ls
+ 1546  cd scrapy
+ 1547  ls
+ 1548  dif -H
+ 1549  diff -H
+ 1550  deactivate
+ 1551  df -H
+ 1552  mount /dev/cdrom /mnt/cdrom
+ 1553  sudo mount /dev/cdrom /mnt/cdrom
+ 1554  cd /mnt/cdrom
+ 1555  ls
+ 1556  ./run_upgrader.sh
+ 1557  cp run_upgrader.sh /tmp/
+ 1558  cd /tmp
+ 1559  ls -al
+ 1560  bash ./run_upgrader.sh
+ 1561  sudo bash ./run_upgrader.sh
+ 1562  cd /mnt/cdrom
+ 1563  ls
+ 1564  cd /tmp
+ 1565  ls
+ 1566  mkdir vmwaretools18112015
+ 1567  cp /mnt/cdrom/* /tmp/vmwaretools18112015
+ 1568  cd /tmp/vmwaretools18112015
+ 1569  ls
+ 1570  sudo bash ./run_upgrader.sh
+ 1571  vim manifest.txt
+ 1572  tar xvfz VMwareTools-9.9.4-3193940.tar.gz
+ 1573  ls
+ 1574  ./vmware-tools-upgrader-64
+ 1575  sudo bash ./vmware-tools-upgrader-64
+ 1576  sudo  vmware-tools-upgrader-64
+ 1577  sudo  ./vmware-tools-upgrader-64
+ 1578  ls 
+ 1579  cd ..
+ 1580  ls
+ 1581  ls -al
+ 1582  sudo chmod 777 vmwaretools18112015
+ 1583  ls
+ 1584  cd vmwaretools18112015
+ 1585  ls
+ 1586  cd vmware-tools-distrib
+ 1587  ls
+ 1588  ./vmware-install.pl
+ 1589  sudo ./vmware-install.pl
+ 1590  cd ~
+ 1591  ls
+ 1592  sudo unmount /dev/cdrom
+ 1593  sudo umount /dev/cdrom
+ 1594  ls
+ 1595  cd ~/.virtualenv
+ 1596  cd ~/.virtualenvs
+ 1597  ls
+ 1598  cd scrapy
+ 1599  ls
+ 1600  ls -al
+ 1601  workon scrapy
+ 1602  ls
+ 1603  which python 
+ 1604  which python2
+ 1605  which python3o
+ 1606  which python3
+ 1607  which scrapy
+ 1608  ls -al
+ 1609  deactivate
+ 1610  ls
+ 1611  vim ~/.zshrc
+ 1612  source ~/.zshrc
+ 1613  workon scrapy
+ 1614  ls
+ 1615  deactivate
+ 1616  cpvirtualenv scrapy scrapydevenv
+ 1617  rmvirtualenv scrapy
+ 1618  workon scrapydevenv
+ 1619  pip install scrapy
+ 1620  which python2
+ 1621  which python2.7
+ 1622  python --version
+ 1623  deactivate
+ 1624  cd ~
+ 1625  ls 
+ 1626  mkdir myzshrc
+ 1627  cd myzshrc
+ 1628  git init
+ 1629  git status
+ 1630  echo "My zshrc with antigen virtualenv" > README.md
+ 1631  git status
+ 1632  git add README.md
+ 1633  git status
+ 1634  git commit -m "First Commit"
+ 1635  git status
+ 1636  cp ~/.zshrc ~/myzshrc
+ 1637  git status
+ 1638  git add .zshrc
+ 1639  git status
+ 1640  vim ~/.zshrc
+ 1641  git status
+ 1642  git commit -m "zshrc file first commit"
+ 1643  git push
+ 1644  git remote
+ 1645  git status
+ 1646  git branch -r
+ 1647  git remote add origin https://github.com/mtaziz/myzshrc.git
+ 1648  git push origin master
+ 1649  git remote add origin https://github.com/mtaziz/myzshrc.git
+ 1650  git push origin master
+ 1651  git remote add origin git@github.com:mtaziz/myzshrc.git
+ 1652  git push origin master
+ 1653  git pull origin master
+ 1654  git pull
+ 1655  git push -u origin master
+ 1656  git pull
+ 1657  git status
+ 1658  git add all 
+ 1659  git add README.md
+ 1660  git commit -m "commit 2"
+ 1661  git status
+ 1662  git push -u origin master 
+ 1663  git remote -v
+ 1664  git tag
+ 1665  cd ~/.antigen
+ 1666  ls
+ 1667  cd repos/
+ 1668  ls
+ 1669  ls -al
+ 1670  cd ..
+ 1671  ls
+ 1672  cd ~
+ 1673  ls
+ 1674  ls -al
+ 1675  cd antigen
+ 1676  ls
+ 1677  vim antigen.zsh
+ 1678  ls 
+ 1679  cd tests
+ 1680  ls
+ 1681  vim bundles.t
+ 1682  cd ..
+ 1683  ls
+ 1684  cd ~
+ 1685  cd /
+ 1686  ls
+ 1687  ls -al
+ 1688  cd home
+ 1689  ls
+ 1690  ls 
+ 1691  cd mtaziz
+ 1692  ls
+ 1693  cd ~/.oh-my-zsh/plugins
+ 1694  ls
+ 1695  cd vundle
+ 1696  ls
+ 1697  vim vundle.plugin.zsh
+ 1698  vim ~/.zshrc
+ 1699  source ~/.zshrc
+ 1700  git status
+ 1701  ls
+ 1702  git status
+ 1703  cd ~
+ 1704  ls
+ 1705  cd antigen
+ 1706  ls
+ 1707  vim requirements.txt
+ 1708  cd tests
+ 1709  ls
+ 1710  cd..
+ 1711  cd ~/.virtualenvs
+ 1712  ls
+ 1713  gnome-session -version
+ 1714  unity --version
+ 1715  ls
+ 1716  apt-cache search tweak
+ 1717  ps aux | grep soft
+ 1718  ps aux | grep center
+ 1719  reboot
+ 1720  sudo reboot
+ 1721  vim ~/.zshrc
+ 1722  source ~/.zshrc
+ 1723  sudo apt-get remove software-center
+ 1724  sudo apt-get autoremove software-center
+ 1725  sudo apt-get update 
+ 1726  sudo apt-get install software-center
+ 1727  software-center
+ 1728  top
+ 1729  workon scrapydevenv
+ 1730  cd ~/.virtualenvs
+ 1731  ls
+ 1732  cd scrapydevenv
+ 1733  ls
+ 1734  scrapy --version
+ 1735  pip install lxml
+ 1736  ls 
+ 1737  pip freeze > requirements.txt
+ 1738  ls 
+ 1739  cat requirements.txt
+ 1740  mkdir spider
+ 1741  cd spider
+ 1742  ls
+ 1743  scrapy startproject khda
+ 1744  cd khda
+ 1745  ls
+ 1746  cd khda
+ 1747  ls
+ 1748  tree 
+ 1749  vim items.py
+ 1750  vim ~/.vimrc
+ 1751  vim ~/.vim
+ 1752  cd ~/.vim
+ 1753  ls
+ 1754  cd bundle
+ 1755  ls
+ 1756  cd Vundle.vim
+ 1757  ls
+ 1758  cd ftplugin
+ 1759  ls
+ 1760  cd ..
+ 1761  cd autoload
+ 1762  ls
+ 1763  cd vundle
+ 1764  ls
+ 1765  cd ..
+ 1766  cd ~
+ 1767  ls
+ 1768  vim ~/.vimrc
+ 1769  source ~/.zshrc
+ 1770  vim items.py
+ 1771  vim ~/.vimrc
+ 1772  vim items.py
+ 1773  antigen update
+ 1774  cp ~/.vimrc ~/.vimrc_realpythonorg_original
+ 1775  vim 
+ 1776  vim ~/.vimrc
+ 1777  source ~/.vimrc
+ 1778  apt-get install vundle 
+ 1779  sudo apt-get install vundle
+ 1780  vim
+ 1781  source ~/.vimrc
+ 1782  vim items.py
+ 1783  deactivate
+ 1784  exit
+ 1785  workon scrapydevenv
+ 1786  ls
+ 1787  cd ~/.virtualenvs
+ 1788  ls
+ 1789  cd scrapydevenv
+ 1790  ls
+ 1791  cd spider
+ 1792  ls
+ 1793  cd khda
+ 1794  ls
+ 1795  cd khda
+ 1796  vim items.py
+ 1797  cd ~
+ 1798  cd ~/.vim
+ 1799  ls
+ 1800  cd bundle
+ 1801  ls
+ 1802  cd YouCompleteMe
+ 1803  ls
+ 1804  ./install.sh --clang-completer
+ 1805  ./install.py --clang-completer
+ 1806  sudo apt-get install cmake
+ 1807  ./install.py --clang-completer
+ 1808  cd ~/.vim/bundle/
+ 1809  ls
+ 1810  vim ~/.vimrc
+ 1811  pip install jedi
+ 1812  apt-get install jedi
+ 1813  sudo apt-get install jedi
+ 1814  sudo pip install jedi
+ 1815  vim
+ 1816  vim ~/.vimrc
+ 1817  vim
+ 1818  source ~/.vimrc
+ 1819  vim items.py
+ 1820  clear
+ 1821  sudo add-apt-repository ppa:moka/stable
+ 1822  sudo apt-get update
+ 1823  sudo apt-get install orchis-gtk-theme
+ 1824  sudo add-apt-repository ppa:upubuntu-com/gtk3themes 
+ 1825  sudo apt-get update
+ 1826  sudo apt-get install adwaita-os-x-gtk3
+ 1827  ls
+ 1828  clear
+ 1829  ls
+ 1830  vim ~/.vimrc
+ 1831  uzip -v
+ 1832  tar xvfz /tmp/CPMono_v07.zip
+ 1833  uzip xvfz /tmp/CPMono_v07.zip
+ 1834  unzip -xvf /tmp/CPMono_v07.zip
+ 1835  cd /tmp
+ 1836  ls
+ 1837  ls al
+ 1838  ls -al
+ 1839  cd va6EFJ8
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  cd ..
+ 1844  cd .
+ 1845  ls
+ 1846  cd ~
+ 1847  ls
+ 1848  locate -b cpmono
+ 1849  cd /tmp
+ 1850  ls
+ 1851  locate cpmonio
+ 1852  locate cpmono
+ 1853  locate -bi cpmono
+ 1854  locate -i cpmono
+ 1855  find / cpmono
+ 1856  find --help
+ 1857  vim items.py
+ 1858  cp /tmp/CPMono_v07/* ~/.fonts
+ 1859  cd ~/.fonts
+ 1860  ls
+ 1861  locate -b cp
+ 1862  locate -b cpmono
+ 1863  ls
+ 1864  fc-cache -fv 
+ 1865  exit
+ 1866  deactivate
+ 1867  exit
+ 1868  ls
+ 1869  apt-get install unzip 
+ 1870  sudo apt-get install unzip
+ 1871  vim ~/.vimrc_mycollection
+ 1872  cd ~/.fonts
+ 1873  ls
+ 1874  exit
+ 1875  fc-cache -fv
+ 1876  cd ~/.fonts
+ 1877  ls
+ 1878  rm CP_Mono_v_0.7_OT_Features_.pdf
+ 1879  exit
+ 1880  cd ~/Downloads
+ 1881  ls
+ 1882  mv Inconsolata+Awesome.ttf ~/.fonts
+ 1883  ls -al
+ 1884  mv CPMono_v07_Plain-webfont.ttf ~/.fonts
+ 1885  fc-cache -fv
+ 1886  clear
+ 1887  ls
+ 1888  ls -al
+ 1889  df -H
+ 1890  cd ~/.virtualenvs
+ 1891  ls
+ 1892  ping google.com
+ 1893  cd scrapydevenv
+ 1894  ls
+ 1895  cd spider
+ 1896  ls
+ 1897  cd khda
+ 1898  ls
+ 1899  vim khda/items.py
+ 1900  vim ~/.vimrc
+ 1901  vim +PluginInstall +qall
+ 1902  vim ~/.vimrc
+ 1903  sudo apt-get install ctags
+ 1904  sudo apt-get update && sudo apt-get upgrade 
+ 1905  vim --version
+ 1906  sudo add-apt-repository ppa:neovim-ppa/unstable
+ 1907  sudo apt-get update
+ 1908  vim
+ 1909  workon scrapydevenv
+ 1910  ls
+ 1911  vim khda/items.py
+ 1912  cd ~
+ 1913  ls
+ 1914  ls -al
+ 1915  vim .vimrc
+ 1916  vim ~/.vimrc_mycollection
+ 1917  vim .vimrc
+ 1918  cp .vimrc ~/.vimrc_before_fisa_vim_config
+ 1919  mv ~/.vimrc_before_fisa_vim_config ~/.vimrc_before_fisa_vim_config_19112015
+ 1920  ls -al
+ 1921  rm .vimrc
+ 1922  ls
+ 1923  sudo pip install dbgp vim-debug pep8 flake8 pyflakes isort
+ 1924  cd /tmp/
+ 1925  mkdir github
+ 1926  ls
+ 1927  cd github
+ 1928  git clone sudo pip install dbgp vim-debug pep8 flake8 pyflakes isort
+ 1929  git clone https://github.com/fisadev/fisa-vim-config.git
+ 1930  ls
+ 1931  cd fisa-vim-config
+ 1932  ls
+ 1933  ls -al
+ 1934  cp .vimrc ~/
+ 1935  cd ~
+ 1936  vim .vimrc
+ 1937  cd ~/.virtualenvs
+ 1938  ls
+ 1939  cd scrapydevenv
+ 1940  ls
+ 1941  workon scrapydevenv
+ 1942  vim spider/khda/khda/items.py
+ 1943  ls
+ 1944  cd spider/khda
+ 1945  ls
+ 1946  cd khda
+ 1947  ls -al
+ 1948  cd spiders
+ 1949  ls
+ 1950  cd ..
+ 1951  vim settings.py
+ 1952  ls
+ 1953  cd spiders
+ 1954  ls 
+ 1955  cd ..
+ 1956  ls
+ 1957  vim items.py
+ 1958  cd spiders
+ 1959  vim khda_spider.py
+ 1960  ls
+ 1961  vim khda_spider.py
+ 1962  vim ~/.vimrc
+ 1963  ls
+ 1964  workon scrapydevenv
+ 1965  ls
+ 1966  cd ~/.virtualenvs
+ 1967  cd scrapydevenv/spider
+ 1968  df -H
+ 1969  sudo poweroff
+ 1970  vim ~/.vimrc
+ 1971  workon scrapydev
+ 1972  workon scrapydevenv
+ 1973  cd ~/.virtualenvs
+ 1974  ls
+ 1975  cd scrapydevenv/spider/khda
+ 1976  ls
+ 1977  vim khda/spiders/khda_spider.py
+ 1978  ls
+ 1979  cd ..
+ 1980  ls
+ 1981  pip install pymongo
+ 1982  scrapy startproject stack
+ 1983  cd /stack/
+ 1984  ls
+ 1985  cd stack
+ 1986  ls
+ 1987  cd stack
+ 1988  ls
+ 1989  vim items.py
+ 1990  cd spiders
+ 1991  ls
+ 1992  vim stack_spider.py
+ 1993  sudo apt-cache search google
+ 1994  clear
+ 1995  sudo apt-cache search google-chrome
+ 1996  sudo apt-cache search chromium
+ 1997  clear
+ 1998  cd ~/Downloads
+ 1999  ls
+ 2000  ls -al
+ 2001  cd /tmp
+ 2002  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 2003  sudo apt-get -f install google-chrome
+ 2004  sudo apt-get -f install
+ 2005  apt-get update 
+ 2006  sudo apt-get update
+ 2007  vim stack_spider.py
+ 2008  scrapy crawl stack 
+ 2009  ls
+ 2010  scrapy crawl stack
+ 2011  cd ..
+ 2012  ls
+ 2013  cd ..
+ 2014  ls
+ 2015  scrapy crwal stack
+ 2016  scrapy crawl stack
+ 2017  cd stack
+ 2018  ls
+ 2019  scrapy crawl stack
+ 2020  ls
+ 2021  vim items.py
+ 2022  scrapy crawl stak
+ 2023  scrapy crawl stack
+ 2024  vim spiders/stack_spider.py
+ 2025  scrapy crawl stack
+ 2026  scrapy crawl stack items.json -t json
+ 2027  scrapy crawl stack --set FEED_URI=output.csv --set FEED_FORMAT=csv
+ 2028  ls
+ 2029  vim output.csv
+ 2030  scrapy crawl stack -o items_json_output.json -t json
+ 2031  cat items_json_output.json
+ 2032  clear
+ 2033  ls
+ 2034  vim settings.py
+ 2035  ls
+ 2036  vim pipelines.py
+ 2037  vim settings.py
+ 2038  vim pipelines.py
+ 2039  vim settings.py
+ 2040  scrapy crawl stack
+ 2041  workon scrapydevenv
+ 2042  service mongod start
+ 2043  sudo service mongod start
+ 2044  ps aux | grep mongo
+ 2045  ps aux | grep mongod
+ 2046  cd ~/dev_virtualenv
+ 2047  cd ~/.virtualenvs
+ 2048  ls
+ 2049  cd scrapydevenv
+ 2050  ls
+ 2051  cd local
+ 2052  ls
+ 2053  cd bin
+ 2054  ls
+ 2055  pip install pymongo
+ 2056  service pymongo
+ 2057  start service mongod
+ 2058  sudo service mongodb start
+ 2059  ps aux | grep mongo
+ 2060  workon scrapydevenv
+ 2061  ls
+ 2062  cd ..
+ 2063  pip install pymongo
+ 2064  spider
+ 2065  ls
+ 2066  cd ..
+ 2067  ls
+ 2068  bin/python -c import pymongo
+ 2069  cd ..
+ 2070  cd scrapydevenv
+ 2071  ls
+ 2072  bin/python -c import pymongo
+ 2073  ls
+ 2074  pip install pymongo
+ 2075  python
+ 2076  deactivate scrapydevenv
+ 2077  sudo apt-get install pymongo 
+ 2078  mkvirtualenv --no-site-packages scrapymongoenv
+ 2079  workon --cd scrapymongoenv
+ 2080  workon -cd scrapymongoenv
+ 2081  cd ~/.virtualenvs/scrapymongoenv
+ 2082  ls
+ 2083  pip install django scrapy pymongo lxml 
+ 2084  python -c import pymongo
+ 2085  cd /bin
+ 2086  ls
+ 2087  cd ~/.virtualenvs/scrapymongoenv
+ 2088  cd bin
+ 2089  ls
+ 2090  pip install python3
+ 2091  pip3 install python3
+ 2092  pip install pip3
+ 2093  pip install openssl
+ 2094  service mongodb start
+ 2095  ps aux | grep mongo
+ 2096  ps aux | grep mongod
+ 2097  locate -b mongod
+ 2098  workon scrapymongoenv
+ 2099  python
+ 2100  pip freeze requirements.txt
+ 2101  ls
+ 2102  clear
+ 2103  ls
+ 2104  scrapy crawl stack
+ 2105  ls
+ 2106  vim pipelines.py
+ 2107  workon scrapydevenv
+ 2108  mongo --help
+ 2109  pip search mongodb
+ 2110  ls
+ 2111  cd ~/.virtualenvs
+ 2112  ls
+ 2113  cd scrapydevenv/spider
+ 2114  ls
+ 2115  deactivate 
+ 2116  workon scrapydevenv
+ 2117  ls
+ 2118  cd ..
+ 2119  ls
+ 2120  cd stack
+ 2121  ls
+ 2122  vim scrapy.cfg
+ 2123  cd stack
+ 2124  ls
+ 2125  vim settings.py
+ 2126  clear
+ 2127  vim settings.py
+ 2128  scrapy crawl stack
+ 2129  vim settings.py
+ 2130  scrapy crawl stack
+ 2131  vim pipelines.py
+ 2132  scrapy crawl stack
+ 2133  vim pipelines.py
+ 2134  clear
+ 2135  vim settings.py
+ 2136  workon scrapydevenv
+ 2137  scrapy crawl stack
+ 2138  vim settings.py
+ 2139  scrapy crawl stack
+ 2140  vim pipelines.py
+ 2141  scrapy crwal stack
+ 2142  scrapy crawl stack
+ 2143  vim pipelines.py
+ 2144  scrapy crawl stack
+ 2145  ls
+ 2146  ls -al
+ 2147  cd..
+ 2148  cd ..
+ 2149  ls
+ 2150  scrapy crawl stack
+ 2151  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+ 2152  echo "deb http://repo.mongodb.org/apt/ubuntu "$(lsb_release -sc)"/mongodb-org/3.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
+ 2153  sudo apt-get udpate 
+ 2154  sudo apt-get update 
+ 2155  vim /etc/apt/sources.list.d/mongodb-org-3.0.list
+ 2156  sudo apt-get udpate 
+ 2157  sudo apt-get update 
+ 2158  sudo apt-get install -y mongodb
+ 2159  sudo service mongod start
+ 2160  service mongod start
+ 2161  /etc/init.d/mongodb start
+ 2162  sudo /etc/init.d/mongodb start
+ 2163  mongodb --version
+ 2164  mongod --version
+ 2165  sudo apt-get install -y mongodb-org
+ 2166  mongod
+ 2167  ps aux | grep mongo
+ 2168  scrapy crawl stack
+ 2169  cd stack
+ 2170  scrapy crawl stack
+ 2171  service mongod start
+ 2172  deactivate
+ 2173  workon scrapydevenv
+ 2174  exit
+ 2175  deactivate
+ 2176  workon scrapydevenv
+ 2177  ls
+ 2178  scrapy crawl stack
+ 2179  mongod start
+ 2180  mongod --a
+ 2181  mongod -a
+ 2182  mongod --sysinfo
+ 2183  mongod -version
+ 2184  locate -b mongodb
+ 2185  mongod status
+ 2186  service mongod status
+ 2187  sudo systemctl mongod status
+ 2188  sudo service mongod stop
+ 2189  sudo systemctl status mongod
+ 2190  sudo systemctl start mongod
+ 2191  sudo service mongod status
+ 2192  sudo service mongod start
+ 2193  /etc/init.d/mongod status
+ 2194  /etc/init.d/mongodb status
+ 2195  locate -b mongod
+ 2196  sudo apt-get update 
+ 2197  uname -a
+ 2198  lsb_release 
+ 2199  lsb_release --al
+ 2200  echo "deb http://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
+ 2201  vim /etc/apt/sources.list.d/mongodb-org-3.0.list
+ 2202  sudo apt-get update 
+ 2203  lsb_release -al
+ 2204  lsb_release -a
+ 2205  uanme -al
+ 2206  uname -a
+ 2207  apt-cache search mongodb
+ 2208  vim /etc/apt/sources.list.d/mongodb-org-3.0.list
+ 2209  sudo apt-get update
+ 2210  clear
+ 2211  ls
+ 2212  sudo service postgresql start
+ 2213  sudo service postgresql status
+ 2214  tracert google.com
+ 2215  traceroute6 google.com
+ 2216  traceroute6 http://google.com
+ 2217  sudo apt-get install postgresql-client postgresql-server-dev-all postgresql-contrib pgadmin3 -y
+ 2218  sudo service postgresql status
+ 2219  ls
+ 2220  sudo apt-get update && sudo apt-get -y upgrade 
+ 2221  deactivate
+ 2222  ls
+ 2223  cd ~/.virtualenvs
+ 2224  mkdir newcoder_io_living_social
+ 2225  cd newcoder_io_living_social
+ 2226  pip freeze > requirements.txt
+ 2227  cat requirements.txt
+ 2228  workon scrapydevenv
+ 2229  cd ..
+ 2230  cd scrapydevenv
+ 2231  ls
+ 2232  mkdir newcoder_io_living_social
+ 2233  cd newcoder_io_living_social
+ 2234  ls
+ 2235  scrapy startproject livingsocial
+ 2236  cd livingsocial
+ 2237  ls
+ 2238  cd livingsocial
+ 2239  ls
+ 2240  vim items.py
+ 2241  vim spiders
+ 2242  cd spiders
+ 2243  ls
+ 2244  cd ..
+ 2245  ls
+ 2246  cd spiders
+ 2247  ls
+ 2248  vim livingsocial_spider.py
+ 2249  cd ..
+ 2250  ls
+ 2251  cd newcoder_io_living_social
+ 2252  ls
+ 2253  vim livingsocial_spider.py
+ 2254  sudo apt-get update && sudo apt-get -y install upgrade 
+ 2255  ls
+ 2256  cd ..
+ 2257  ls
+ 2258  cdls
+ 2259  ls
+ 2260  cd ..
+ 2261  ls
+ 2262  cd spider
+ 2263  ls
+ 2264  cd ~/.virtualenvs/scrapymongoenv
+ 2265  ls
+ 2266  cd..
+ 2267  ls
+ 2268  cd ..
+ 2269  ls
+ 2270  cd scrapydevenv
+ 2271  ls
+ 2272  cd newcoder_io_living_social
+ 2273  ls
+ 2274  cd livingsocial
+ 2275  ls
+ 2276  python
+ 2277  ls
+ 2278  vim livingsocial_spider.py
+ 2279  sudo service postgresql start
+ 2280  cd ..
+ 2281  ls
+ 2282  vim settings.py
+ 2283  locate -b pgpass
+ 2284  su - postgres
+ 2285  cat /etc/passwd
+ 2286  cat /etc/passwd | grep post
+ 2287  su - postgres
+ 2288  psql
+ 2289  sudo psql
+ 2290  locate -b psql
+ 2291  sudo apt-get install  postgresal postgresql-contrib
+ 2292  sudo apt-get install  postgresql postgresql-contrib
+ 2293  sudo -i -u postgres
+ 2294  sudo su postgre
+ 2295  sudo su postgres
+ 2296  sudo su - postgres
+ 2297  locate -b pg_hba
+ 2298  vim /etc/postgresql/9.3/main/pg_hba.conf
+ 2299  apt-get install postgresql-9.4
+ 2300  sudo apt-get install postgresql-9.4
+ 2301  sudo apt-get update 
+ 2302  vim /etc/apt/sources.list.d/pgdg.list
+ 2303  sudo vim /etc/apt/sources.list.d/pgdg.list
+ 2304  cd /etc/apt/sources.list.d
+ 2305  ls
+ 2306  ls -al
+ 2307  vim pgdg.list
+ 2308  sudo vim pgdg.list
+ 2309  apt-get update 
+ 2310  sudo apt-get update
+ 2311  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+ 2312  sudo apt-get update 
+ 2313  sudo apt-get install postgresql-9.4
+ 2314  cat /etc/passwd | grep postg
+ 2315  postgresql --version
+ 2316  sudo apt-get pgadmin3
+ 2317  sudo apt-get install pgadmin3
+ 2318  pdadmin3
+ 2319  pgadmin
+ 2320  pgadmin3
+ 2321  sudo service postgresql initdb
+ 2322  sudo apt-get install chkconfig
+ 2323  sudo apt-get search chkconfig
+ 2324  sudo apt-cache search chkconfig
+ 2325  sudo service postgresql start
+ 2326  sudo service postgresql status
+ 2327  su -
+ 2328  sudo apt-get remove postgresql-9.3
+ 2329  sudo apt-get update 
+ 2330  sudo service postgresql status
+ 2331  sudo apt-get upgrade -y
+ 2332  ls
+ 2333  sudo service postgresql status
+ 2334  dpkg -l | grep postgres
+ 2335  sudo -u postgres psql postgres
+ 2336  sudo service postgresql start
+ 2337  sudo -u postgres psql postgres
+ 2338  sudo -u postgres
+ 2339  sudo service postgresql status
+ 2340  sudo -u postgres
+ 2341  sudo service postgresql start 
+ 2342  /etc/init.d/postgresql status
+ 2343  /etc/init.d/postgresql status -a
+ 2344  sudo -u postgres
+ 2345  psql postgres
+ 2346  cat /etc/passwd | grep postgres
+ 2347  psql --version
+ 2348  locate -b postgres
+ 2349  locate -b postgres.conf
+ 2350  locate -b postgresql.conf
+ 2351  cd /etc/postgresql/
+ 2352  ls
+ 2353  cd 9.4
+ 2354  ls
+ 2355  cd main
+ 2356  ls
+ 2357  vim postgresql.conf
+ 2358  ls -al
+ 2359  sudo vim postgresql.conf
+ 2360  su - postgres psql postgres
+ 2361  cp postgresql.conf postgresql.conf.backup
+ 2362  sudo cp postgresql.conf postgresql.conf.original28Nov2015
+ 2363  sudo vim postgresql.conf
+ 2364  ls
+ 2365  ls -al
+ 2366  cat pg_hba.conf
+ 2367  sudo service postgresql stop
+ 2368  sudo service postgresql start
+ 2369  su - postgres psql postgres
+ 2370  sudo vim pg_hba.conf
+ 2371  sudo -u postgres psql
+ 2372  sudo -u postgres psql postgres
+ 2373  sudo service postgresql reload
+ 2374  sudo service postgresql restart
+ 2375  sudo -u postgres psql postgres
+ 2376  sudo service postgresql stop
+ 2377  ls
+ 2378  sudo -u postgres psql ALTER USER postgres PASSWORD 'toor' 
+ 2379  sudo -u postgres psql -c "ALTER USER postgres PASSWORD 'toor';" 
+ 2380  sudo service postgresql start
+ 2381  sudo -u postgres psql -c "ALTER USER postgres PASSWORD 'toor';"
+ 2382  sudo -u postgres psql
+ 2383  su - postgres
+ 2384  passwd postgres
+ 2385  sudo passwd postgres
+ 2386  su - postgres
+ 2387  exit
+ 2388  ls
+ 2389  vim settings.py
+ 2390  ls
+ 2391  cd ..
+ 2392  ls
+ 2393  cd livingsocial
+ 2394  ls
+ 2395  cd spiders
+ 2396  ls
+ 2397  psql -h localhost -d postgres
+ 2398  sudo su - postgres
+ 2399  psql -h localhost -d postgres
+ 2400  workon scrapydevenv
+ 2401  cd ~/.virtualenvs
+ 2402  ls
+ 2403  cd newcoder_io_living_social
+ 2404  ls
+ 2405  cd ..
+ 2406  ls
+ 2407  cd scrapydevenv
+ 2408  ls
+ 2409  cd newcoder_io_living_social
+ 2410  ls
+ 2411  cd livingsocial
+ 2412  ls
+ 2413  cd livingsocial
+ 2414  ls
+ 2415  vim models.py
+ 2416  ls
+ 2417  vim pipelines.py
+ 2418  ls
+ 2419  vim settings.py
+ 2420  cd spiders
+ 2421  ls
+ 2422  cd ..
+ 2423  ls
+ 2424  cd ..
+ 2425  ls
+ 2426  vim scrapy.cfg
+ 2427  cd livingsocial
+ 2428  ls
+ 2429  cd spiders
+ 2430  ls
+ 2431  cd ..
+ 2432  ls
+ 2433  scrapy crawl livingsocial
+ 2434  ls
+ 2435  vim spiders/livingsocial_spider.py
+ 2436  scrapy crawl livingsocial
+ 2437  sudo service postgresql start
+ 2438  vim spiders/livingsocial_spider.py
+ 2439  ls
+ 2440  vim items.py
+ 2441  scrapy crawl livingsocial
+ 2442  vim spiders/livingsocial_spider.py
+ 2443  vim items.py
+ 2444  vim spiders/livingsocial_spider.py
+ 2445  scrapy crawl livingsocial
+ 2446  locate -b sqlalchemy
+ 2447  locate -b python-sqlalchemy
+ 2448  apt-cache search python-sqlalchemy
+ 2449  apt-cache search sqlalchemy
+ 2450  sudo apt-get install python-sqlalchemy
+ 2451  scrapy crawl livingsocial
+ 2452  locate -b sqlalechemy
+ 2453  locate sqlalchemy
+ 2454  cd ~
+ 2455  locate -b sqlalchemy
+ 2456  find -wholename sqlalchemy
+ 2457  sudo find -wholename sqlalchemy
+ 2458  find sqlalchemy
+ 2459  locate -b python-sqlalchemy
+ 2460  sudo apt-get install python-sqlalchemy-ext python-kinterbasdb pyton-mysqldb python-pymssql python-sqalchemy-doc python-psycopg2
+ 2461  sudo apt-get install python-sqlalchemy-ext python-kinterbasdb python-mysqldb python-pymssql python-sqalchemy-doc python-psycopg2
+ 2462  sudo apt-get install python-sqlalchemy-ext python-kinterbasdb python-mysqldb python-pymssql python-sqlalchemy-doc python-psycopg2
+ 2463  locate -b python-sqlalchemy
+ 2464  locate -b sqlalchemy
+ 2465  locate  sqlalchemy
+ 2466  ls 
+ 2467  vim pipelines.py
+ 2468  python
+ 2469  pythoon
+ 2470  python
+ 2471  pip install sqlalchemy
+ 2472  scrapy crawl livingsocial
+ 2473  workon scrapydevenv
+ 2474  cd ~/.virtualenvs
+ 2475  ls
+ 2476  cd scrapydevenv
+ 2477  ls
+ 2478  cd newcoder_io_living_social
+ 2479  ls
+ 2480  cd living
+ 2481  cd livingsocical
+ 2482  cd livingsocial 
+ 2483  ls
+ 2484  cd livingsocial
+ 2485  ls
+ 2486  vim spiders/livingsocial_spider.py
+ 2487  scrapy crawl livingsocial
+ 2488  vim spiders/livingsocial_spider.py
+ 2489  scrapy crawl livingsocial
+ 2490  vim spiders/livingsocial_spider.py
+ 2491  scrapy crawl livingsocial
+ 2492  vim spiders/livingsocial_spider.py
+ 2493  scrapy crawl livingsocial
+ 2494  pip install psycopg2
+ 2495  scrapy crawl livingsocial
+ 2496  vim spiders/livingsocial_spider.py
+ 2497  scrapy crawl livingsocial
+ 2498  vim spiders/livingsocial_spider.py
+ 2499  scrapy crawl livingsocial
+ 2500  vim spiders/livingsocial_spider.py
+ 2501  scrapy crawl livingsocial
+ 2502  pgadmin3
+ 2503  vim spiders/livingsocial_spider.py
+ 2504  psql
+ 2505  psql -h localhost -d mtaziz
+ 2506  psql -h localhost -d postgres
+ 2507  vim spiders/livingsocial_spider.py
+ 2508  ls
+ 2509  ls -al
+ 2510  vim items.py
+ 2511  vim models.py
+ 2512  vim settings.py
+ 2513  su -
+ 2514  su - postgresql
+ 2515  su - mtaziz
+ 2516  exit
+ 2517  su - mtaziz
+ 2518  psql -h localhost -d mtaziz
+ 2519  sudo vim /etc/postgresql/9.4/main/pg_hba.conf
+ 2520  pgadmin3
+ 2521  scrapy crawl livingsocial
+ 2522  vim spiders/livingsocial_spider.py
+ 2523  scrapy crawl livingsocial
+ 2524  pgadmin3
+ 2525  ls
+ 2526  df -H
+ 2527  sudo poweroff
+ 2528  sudo apt-get install localepurge
+ 2529  sudo localepurge
+ 2530  sudo localepurge -help
+ 2531  sudo apt-get install bleachbit
+ 2532  df -h
+ 2533  du
+ 2534  du -sh
+ 2535  ls
+ 2536  df -ah
+ 2537  ls
+ 2538  df -al
+ 2539  df -ah
+ 2540  ls
+ 2541  sudo apt-get update && sudo apt-get -y upgrade 
+ 2542  ls
+ 2543  df -u
+ 2544  df -ah
+ 2545  sudo apt-get udpate && sudo apt-get upgrade -y 
+ 2546  sudo apt-get udpate && sudo apt-get upgrade 
+ 2547  sudo apt-get update 
+ 2548  ls
+ 2549  cd ~/..virtualenvs
+ 2550  ls
+ 2551  cd ~/.virtualenvs
+ 2552  ls
+ 2553  cd scrapydevenv
+ 2554  ls
+ 2555  cd spider
+ 2556  ls
+ 2557  cd khda
+ 2558  ls
+ 2559  cd khda
+ 2560  ls
+ 2561  vim pipelines.py
+ 2562  vim items.py
+ 2563  cd spiders
+ 2564  ls
+ 2565  vim khda_spider.py
+ 2566  workon scrapydevenv
+ 2567  ls
+ 2568  cd..
+ 2569  ls
+ 2570  cd ..
+ 2571  ls
+ 2572  workon scrapydevenv
+ 2573  cd ~/.virtualenvs/
+ 2574  ls
+ 2575  cd scrapydevenv
+ 2576  ls
+ 2577  cd spider
+ 2578  ls
+ 2579  vim khda/khda/items.py
+ 2580  scrapy crawl khda_spider
+ 2581  subl3
+ 2582  subl
+ 2583  subl khda/khda/items.py
+ 2584  ls
+ 2585  cd spiders
+ 2586  ls
+ 2587  cd spider
+ 2588  ls
+ 2589  vim khda_spider.py
+ 2590  vim khda/khda/items.py
+ 2591  clear
+ 2592  cd /spider
+ 2593  cd ./
+ 2594  cd ../
+ 2595  cd /..
+ 2596  cd /.
+ 2597  ls
+ 2598  cd ~/.virtualenvs
+ 2599  ls
+ 2600  cd scrapydevenv
+ 2601  ls
+ 2602  scrapy startproject reddit_spider
+ 2603  cd reddit_spider
+ 2604  ls
+ 2605  cd reddit_spider
+ 2606  ls
+ 2607  vim items.py
+ 2608  ls
+ 2609  clear
+ 2610  ls
+ 2611  vim ~/.zshrc
+ 2612  cd ~/
+ 2613  ls
+ 2614  ls -al
+ 2615  vim .vimrc
+ 2616  antigen update
+ 2617  ls
+ 2618  ls -al
+ 2619  cd ~/.virtualenv
+ 2620  cd ~/.virtualenvs
+ 2621  ls
+ 2622  cd scrapydevenv
+ 2623  ls
+ 2624  cd reddit_spider
+ 2625  ls
+ 2626  pip freeze requirements.txt
+ 2627  ls
+ 2628  ls -al
+ 2629  ls
+ 2630  cd reddit_spider
+ 2631  ls
+ 2632  cd spiders
+ 2633  ls
+ 2634  cd ..
+ 2635  ls
+ 2636  tree
+ 2637  :nerdtree
+ 2638  cd ..
+ 2639  ls
+ 2640  cd ..
+ 2641  ls
+ 2642  ls -al
+ 2643  scrapy version
+ 2644  clear
+ 2645  vim ~/.zshrc
+ 2646  source ~/.zshrc
+ 2647  ls
+ 2648  scrapy startproject news
+ 2649  ls 
+ 2650  cd news
+ 2651  ls
+ 2652  cd news
+ 2653  ls
+ 2654  vim items.py
+ 2655  ls
+ 2656  cd spiders
+ 2657  l
+ 2658  ls 
+ 2659  vim BbcNewsSpider.py
+ 2660  ls
+ 2661  cd lls
+ 2662  ls
+ 2663  cd ..
+ 2664  ls
+ 2665  scrapy crawl bbcnews
+ 2666  ls
+ 2667  vim items.py
+ 2668  vim spiders/BbcNewsSpider.py
+ 2669  scrapy crawl bbcnews
+ 2670  vim spiders/BbcNewsSpider.py
+ 2671  scrapy crawl bbcnews
+ 2672  vim spiders/BbcNewsSpider.py
+ 2673  scrapy crawl bbcnews
+ 2674  vim spiders/BbcNewsSpider.py
+ 2675  scrapy crawl bbcnews
+ 2676  vim spiders/BbcNewsSpider.py
+ 2677  scrapy crawl bbcnews
+ 2678  scrapy crawl bbcnews --output bbcnewsspider_json.json
+ 2679  ls
+ 2680  cat bbcnewsspider_json.json
+ 2681  vim bbcnewsspider_json.json
+ 2682  ls
+ 2683  vim spiders/BbcNewsSpider.py
+ 2684  scrapy crawl bbcnews --output bbcnewsspider_json.json
+ 2685  vim spiders/BbcNewsSpider.py
+ 2686  scrapy crawl bbcnews --output bbcnewsspider_json.json
+ 2687  cat bbcnewsspider_json.json
+ 2688  LS
+ 2689  ls
+ 2690  vim xpath_bbc.httml
+ 2691  ls
+ 2692  vim xpath_bbcnews.htm
+ 2693  ls
+ 2694  vim spiders/BbcNewsSpider.py
+ 2695  ls
+ 2696  cd ..
+ 2697  ls
+ 2698  cd ..
+ 2699  ls
+ 2700  cd ..
+ 2701  ls
+ 2702  mv -r reddit_spider spider
+ 2703  cp -R reddit_spider spider
+ 2704  cd spider
+ 2705  ls
+ 2706  cd reddit_spider
+ 2707  ls
+ 2708  cd reddit_spider
+ 2709  ls
+ 2710  vim items.py
+ 2711  vim spiders
+ 2712  subl spiders
+ 2713  cd ..
+ 2714  subl reddit_spider
+ 2715  cd reddit_spider
+ 2716  cd spider
+ 2717  ls
+ 2718  cd spiders
+ 2719  ls
+ 2720  vim reddit_crawler.py
+ 2721  cd spider
+ 2722  ls
+ 2723  cd reddit_spider/ls
+ 2724  cd reddit_spider/reddit_spider
+ 2725  ls
+ 2726  vim settings.py
+ 2727  ls
+ 2728  cd ..
+ 2729  ls
+ 2730  scrapy crawl reddit_crawler
+ 2731  ls
+ 2732  vim items.py
+ 2733  vim spiders/reddit_crawler.py
+ 2734  scrapy crawl reddit_crawler
+ 2735  vim items.py .
+ 2736  vim items.py
+ 2737  scrapy crawl reddit_crawler
+ 2738  ls
+ 2739  vim spiders/reddit_crawler.py
+ 2740  ls
+ 2741  ls -al
+ 2742  vim ~/.vimrc
+ 2743  source ~/.vimrc
+ 2744  vim reddit_spider/reddit_spider/spiders/reddit_crawler.py
+ 2745  ls
+ 2746  vim ~/.vimrc
+ 2747  ls
+ 2748  ls -al
+ 2749  vim spiders/reddit_crawler.py
+ 2750  source ~/.vimrc
+ 2751  sudo source ~/.vimrc
+ 2752  locate -b bundler
+ 2753  source ~/.zshrc
+ 2754  ls
+ 2755  vim reddit_spider
+ 2756  ls
+ 2757  cd ..
+ 2758  scrapy crawl reddit_crawler --output reddit_output.json
+ 2759  ls
+ 2760  cat reddit_output.json
+ 2761  ls
+ 2762  vim reddit_spider
+ 2763  cd reddit_spider
+ 2764  ls
+ 2765  cd spiders/
+ 2766  ls
+ 2767  vim reddit_crawler.py
+ 2768  scrapy crawl reddit-scraper --output reddit_output.json
+ 2769  cd ..
+ 2770  ls
+ 2771  scrapy crawl reddit-scraper
+ 2772  vim spiders/reddit_crawler.py
+ 2773  scrapyd
+ 2774  workon scrapydevenv
+ 2775  scrapyd
+ 2776  service mongod status
+ 2777  sudo service mongod status
+ 2778  \n
+ 2779  ls
+ 2780  antigen selfupdate
+ 2781  antigen bundles
+ 2782  sudo apt-get install mongo-org
+ 2783  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+ 2784  echo "deb http://repo.mongodb.org/apt/ubuntu "$(lsb_release -sc)"/mongodb-org/3.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
+ 2785  sudo apt-get udpate 
+ 2786  sudo apt-get update 
+ 2787  sudo apt-get autoclean
+ 2788  sudo apt-get autoremove 
+ 2789  sudo apt-get install mongo-org
+ 2790  sudo apt-get install mongodb-org
+ 2791  workon scrapydevenv
+ 2792  ls
+ 2793  cd ~/.virtualenvs/scrapydevenv/spider
+ 2794  ls
+ 2795  cd reddit_spider
+ 2796  ls
+ 2797  vim reddit_spider/items.py
+ 2798  antigen install tmux
+ 2799  vim ~/.zshrc
+ 2800  source ~/.zshrc
+ 2801  vim ~/.zshrc
+ 2802  tmux
+ 2803  ls
+ 2804  tmux
+ 2805  ls
+ 2806  cd reddit_spider
+ 2807  ls
+ 2808  cd spiders
+ 2809  ls
+ 2810  vim reddit_crawler.py
+ 2811  ls
+ 2812  workon scrapydevenv 
+ 2813  ls
+ 2814  vim reddit_crawler.py
+ 2815  ls
+ 2816  ls -al
+ 2817  vim reddit_crawler.py
+ 2818  tumux
+ 2819  tmux
+ 2820  ls
+ 2821  vim reddit_crawler.py
+ 2822  sudo apt-get install tmux 
+ 2823  tmux -V
+ 2824  deactivate
+ 2825  ls
+ 2826  exit
+ 2827  tmux
+ 2828  vim ~/.vimrc
+ 2829  exit
+ 2830  tmux info
+ 2831  tmux server-info
+ 2832  tmux show-options
+ 2833  tmux 
+ 2834  vim ~/.zshrc
+ 2835  workon scrapydevenv
+ 2836  cd ~/.virtualenvs
+ 2837  ls
+ 2838  cd scrapydevenv
+ 2839  ls
+ 2840  cd spider
+ 2841  ls
+ 2842  cd reddit_spider
+ 2843  ls
+ 2844  vim reddit_spider/items.py
+ 2845  ls
+ 2846  cd reddit_spider
+ 2847  ls
+ 2848  cd spiders
+ 2849  ls
+ 2850  vim reddit_crawler.py
+ 2851  rm ~/.vim/dirs/tmp/reddit_crawler.py.swp
+ 2852  vim reddit_crawler.py
+ 2853  tmux
+ 2854  exit
+ 2855  tmux 
+ 2856  ls
+ 2857  tmux
+ 2858  exit
+ 2859  tmux
+ 2860  locate -b tmux
+ 2861  locate -b tmux.conf
+ 2862  vim 
+ 2863  sudo apt-get upgrade 
+ 2864  locate -b tmux.conf
+ 2865  echo $TERM
+ 2866  sudo $SHELL -c 'echo $TERM'
+ 2867  exit
+ 2868  echo $TERM
+ 2869  vim ~/.zshrc
+ 2870  tmux
+ 2871  vim ~/.vimrc
+ 2872  source  ~/.vimrc
+ 2873  vim ~/.vimrc
+ 2874  ls
+ 2875  tmux
+ 2876  exit
+ 2877  tmux
+ 2878  ls
+ 2879  exit
+ 2880  ls
+ 2881  vim ~/.vimrc
+ 2882  sudo service mongod status
+ 2883  sudo service mongod start
+ 2884  sudo service mongod status
+ 2885  ls
+ 2886  tmux
+ 2887  ls
+ 2888  workon scrapydevenv
+ 2889  ls
+ 2890  cd ~/.virtualenvs
+ 2891  ls
+ 2892  cd scrapydevenv/reddit_spider
+ 2893  ls
+ 2894  ls -al
+ 2895  ls
+ 2896  cd reddit_spider
+ 2897  vim items.py
+ 2898  ls
+ 2899  \q
+ 2900  ls
+ 2901  vim ~/.zshrc
+ 2902  source ~/.antigen.zsh
+ 2903  antigen theme prikhi/molokai-powerline-zsh molokai-powerline-zsh
+ 2904  vim ~/.zshrc
+ 2905  source ~/.zshrc
+ 2906  ls
+ 2907  vim ~/.virtualenvs/scrapydevenv/spider/khda
+ 2908  exit
+ 2909  source ~/.zshrc
+ 2910  ls
+ 2911  workon scrapydevenv
+ 2912  vim items.py
+ 2913  deactivate
+ 2914  exit
+ 2915  ls
+ 2916  exit
+ 2917  ls
+ 2918  workon scrapydevenv
+ 2919  vim ~/.antigen.zsh
+ 2920  vim ~/.zshrc
+ 2921  source ~/.zshrc
+ 2922  deactivate
+ 2923  exit
+ 2924  ls
+ 2925  workon scrapydevenv
+ 2926  ls
+ 2927  cd ~/.virtualenvs/scrapydevenv/spider/reddit_spider/reddit_spider
+ 2928  ls
+ 2929  ls -al
+ 2930  ls a-l
+ 2931  ls -al
+ 2932  vim  items.py
+ 2933  tmux
+ 2934  ls
+ 2935  workon scrapydevenv
+ 2936  ls
+ 2937  vim items.py
+ 2938  cd ~/
+ 2939  s
+ 2940  ls
+ 2941  cd ~/.antigen
+ 2942  ls
+ 2943  cd repos
+ 2944  ls
+ 2945  antigen selfupdate
+ 2946  exit
+ 2947  tmux
+ 2948  ls
+ 2949  ls -al
+ 2950  ls a-l
+ 2951  ls -al
+ 2952  vim items.py
+ 2953  exit
+ 2954  ls
+ 2955  exit
+ 2956  ls 
+ 2957  ls -al
+ 2958  vim ~/.zshrc
+ 2959  sl
+ 2960  ls
+ 2961  ls 
+ 2962  tmux
+ 2963  ls
+ 2964  ls -al
+ 2965  exit
+ 2966  ls
+ 2967  tmux ?
+ 2968  tmux --help
+ 2969  exit
+ 2970  ?
+ 2971  exit
+ 2972  ls
+ 2973  ls a-l
+ 2974  ls -al
+ 2975  ls
+ 2976  exit
+ 2977  ls
+ 2978  ls -al
+ 2979  workon scrapydevenv
+ 2980  ls
+ 2981  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 2982  ls
+ 2983  cd khda
+ 2984  ls
+ 2985  vim items.py
+ 2986  ls
+ 2987  workon scrapydevenv
+ 2988  ls
+ 2989  cd ~/.virtualenvs
+ 2990  ls
+ 2991  df -a
+ 2992  ls
+ 2993  vim ~/.tmux.conf
+ 2994  vim items.py
+ 2995  echo $TERM
+ 2996  sudo apt-get update 
+ 2997  sudo apt-get install -y python-software-properties software-properties-common
+ 2998  sudo add-apt-repository -y ppa:pi-rho/dev
+ 2999  sudo apt-get update 
+ 3000  uname -a
+ 3001  lsb_release
+ 3002  lsb_release -a
+ 3003  sudo apt-get install -y tmux=2.1-1~ppa1~t
+ 3004  sudo apt-get update 
+ 3005  sudo apt-get install -y tmux
+ 3006  tmux -V
+ 3007  sudo apt-get install -y tmux=2.1-3-1~ppa1~t
+ 3008  sudo apt-get install -y tmux=2.1-3~ppa3~t
+ 3009  sudo apt-get install -y tmux=2.1-3~ppa1~t
+ 3010  sudo apt-get install -y tmux=2.1-3-1~ppa1~t
+ 3011  exit
+ 3012  ls
+ 3013  cd ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3014  ls
+ 3015  workon scrapydevenv
+ 3016  ls
+ 3017  vim items.py
+ 3018  ls
+ 3019  ls -al
+ 3020  tmux
+ 3021  vim items.py
+ 3022  cd /tmp
+ 3023  ls
+ 3024  git clone https://github.com/tmux/tmux.git
+ 3025  cd tmux
+ 3026  ls
+ 3027  clear
+ 3028  ./configure && make
+ 3029  ls
+ 3030  sh autogen.sh
+ 3031  zsh autogen.sh
+ 3032  sh autogen.sh
+ 3033  sudo sh autogen.sh
+ 3034  bash autogen.sh
+ 3035  ./autogen.sh
+ 3036  bash
+ 3037  ls
+ 3038  sh autogen.sh
+ 3039  cd /tmp
+ 3040  ls
+ 3041  cd tmux
+ 3042  ls
+ 3043  sh autogen.sh
+ 3044  sudo apt-get install libevent-2.0-5
+ 3045  sudo apt-get upgrade
+ 3046  tmux V
+ 3047  tmux -v
+ 3048  exit
+ 3049  tmux -V
+ 3050  sudo apt-get dist-upgrade
+ 3051  sudo apt-get install tmux-2.1
+ 3052  apt-cache search tmux
+ 3053  sudo apt-get install exuberant-ctags
+ 3054  cmake
+ 3055  libevent-dev
+ 3056  exuberant-ctags
+ 3057  cmake
+ 3058  libevent-dev
+ 3059  sudo apt-get install -y exuberant-ctags cmake libevent-dev libncurses5-dev
+ 3060  sh autogen.sh
+ 3061  autogen.sh
+ 3062  cd /tmp
+ 3063  ls
+ 3064  cd tmux
+ 3065  ls
+ 3066  sh autogen.sh
+ 3067  autogen.sh
+ 3068  ./autogen.sh
+ 3069  cd ..
+ 3070  ls -al
+ 3071  rm -R tmux tmux-1000
+ 3072  rm -r tmux
+ 3073  rm -r tmux/*
+ 3074  rm tmux
+ 3075  rm tmux/*
+ 3076  rm -rf tmux/*
+ 3077  ls
+ 3078  cd tmux
+ 3079  ls
+ 3080  cd ..
+ 3081  rm tmux tmux-1000
+ 3082  rm -r tmux
+ 3083  cd tmux
+ 3084  ls
+ 3085  ls a-l
+ 3086  ls -al
+ 3087  cd ..
+ 3088  rm -rf tmux
+ 3089  ls
+ 3090  cd tmux-1000
+ 3091  ls
+ 3092  ls a-l
+ 3093  ls -al
+ 3094  cd ..
+ 3095  rm -rf tmux-1000
+ 3096  wget https://github.com/tmux/tmux/releases/download/2.1/tmux-2.1.tar.gz
+ 3097  tar xzvf tmux-2.1.tar.gz
+ 3098  ls
+ 3099  cd tmux-2.1
+ 3100  ls
+ 3101  ls -al
+ 3102  ls  
+ 3103  configure
+ 3104  ./configure
+ 3105  make
+ 3106  sudo make install
+ 3107  tmux -V
+ 3108  sudo apt-get ugrade 
+ 3109  sudo apt-get upgrade
+ 3110  sudo apt-get update 
+ 3111  tmux -V
+ 3112  exit
+ 3113  ls
+ 3114  tmux
+ 3115  ls
+ 3116  tmux _V
+ 3117  tmux -V
+ 3118  ls
+ 3119  workon scrapydevenv
+ 3120  ls
+ 3121  exit
+ 3122  ls
+ 3123  cd ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3124  ls
+ 3125  vim items.py
+ 3126  workon scrapydevenv
+ 3127  cd ~/.virtualenvs
+ 3128  cd scrapydevenv/spider/khda/khda
+ 3129  ls
+ 3130  vim xpath.txt
+ 3131  locate tmux.conf
+ 3132  locate -b tmux.conf
+ 3133  locate -b .tmux.conf
+ 3134  locate / -b tmux.conf
+ 3135  sudo apt-get install konsole
+ 3136  workon scrapydevenv
+ 3137  ls
+ 3138  ls -al
+ 3139  tmux
+ 3140  sudo apt-get install tmuxinator
+ 3141  vim ~/.tmux.conf
+ 3142  exit
+ 3143  vim xpath.txt
+ 3144  ls
+ 3145  vim spiders/khda_spider.py
+ 3146  ls
+ 3147  vim items.py
+ 3148  vim spiders/khda_spider.py
+ 3149  OA
+ 3150  vim spiders/khda_spider.py
+ 3151  ls
+ 3152  ls -al
+ 3153  pwd
+ 3154  workon scrapydevenv
+ 3155  ls
+ 3156  cd ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3157  ls
+ 3158  cd spiders
+ 3159  ls
+ 3160  cd ..
+ 3161  scrapy crawl khda_spider
+ 3162  ls
+ 3163  vim pipelines.py
+ 3164  vim settings.py
+ 3165  scrapy crawl khda
+ 3166  vim settings.py
+ 3167  ls
+ 3168  cd spiders
+ 3169  ls
+ 3170  vim khda_spider.py
+ 3171  scrapy crawl khda_spider
+ 3172  ls
+ 3173  df -aH
+ 3174  sudo apt-get auto-clean
+ 3175  sudo apt-get autoclean
+ 3176  sudo apt-get autoremove 
+ 3177  df -aH
+ 3178  ls
+ 3179  exit
+ 3180  df -h
+ 3181  sudo apt-get autoremove
+ 3182  sudo apt-get upgrade
+ 3183  sudo apt-get update
+ 3184  df -H
+ 3185  tmux
+ 3186  uname -a
+ 3187  uname -r
+ 3188  sudo dpkg --list 'linux-image'
+ 3189  sudo apt-get dist-upgrade 
+ 3190  sudo update-grub
+ 3191  sudo dpkg --list 'linux-image*'
+ 3192  sudo poweroff
+ 3193  ls
+ 3194  workon scrapydevenv
+ 3195  ls
+ 3196  cd ~/.virtualenvs
+ 3197  ls
+ 3198  cd scrapydevenv
+ 3199  ls
+ 3200  exit
+ 3201  sudo poweroff
+ 3202  tmux
+ 3203  ls
+ 3204  workon scrapydevenv
+ 3205  ls
+ 3206  ls -al
+ 3207  df -H
+ 3208  sudo apt-get update 
+ 3209  ls
+ 3210  exit
+ 3211  clear
+ 3212  ls
+ 3213  workon scrapydevenv
+ 3214  cd ~/.virtualenvs
+ 3215  cd scrapydevenv/spider/khda/khda
+ 3216  ls
+ 3217  clear
+ 3218  ls
+ 3219  cd ~/.virtualenvs
+ 3220  ls
+ 3221  cd scrapydevenv
+ 3222  ls
+ 3223  cd spider
+ 3224  ls
+ 3225  vim items.py
+ 3226  cd ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3227  ls
+ 3228  cd spiders
+ 3229  ls
+ 3230  vim khda_spider.py
+ 3231  ls
+ 3232  cd ...
+ 3233  ls
+ 3234  cd scrapydevenv
+ 3235  ls
+ 3236  cd spider
+ 3237  ls
+ 3238  scrapy startproject scrapy_test
+ 3239  cd scrapy_test
+ 3240  ls
+ 3241  cd scrapy_test
+ 3242  ls
+ 3243  vim items.py
+ 3244  vim raw.py
+ 3245  clear
+ 3246  vim items.py
+ 3247  cd ..
+ 3248  ls
+ 3249  cd .
+ 3250  cd ..
+ 3251  ls
+ 3252  cd scrapy_test
+ 3253  ls
+ 3254  cd scrapy_test
+ 3255  vim items.py
+ 3256  vim spiders
+ 3257  cd spiders
+ 3258  ls
+ 3259  clear
+ 3260  ls
+ 3261  vim scrapytest.py
+ 3262  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3263  scrapy crawl khda_spider
+ 3264  exit
+ 3265  cd ..
+ 3266  ls
+ 3267  scrapy crawl khda_spider
+ 3268  vim items.py
+ 3269  cd spiders
+ 3270  ls
+ 3271  vim khda_spider.py
+ 3272  ls
+ 3273  ls -al
+ 3274  vim khda_spider.py
+ 3275  rm ~/.vim/dirs/tmp/khda_spider.py.swp
+ 3276  vim khda_spider.py
+ 3277  workon scrapydevenv
+ 3278  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 3279  cd khda
+ 3280  ls
+ 3281  cd .
+ 3282  ls
+ 3283  cd ..
+ 3284  ls
+ 3285  scrapy crawl khda_spider
+ 3286  workon scrapydevenv
+ 3287  scrapy crwal khda_spider
+ 3288  scrapy crawl khda_spider
+ 3289  scrapy crawl khda_spider --output results.json
+ 3290  ls
+ 3291  cat results.json
+ 3292  scrapy crawl khda --output results.json
+ 3293  vim spiders/khda_spider.py
+ 3294  scrapy crawl khda_spider
+ 3295  vim spiders/khda_spider.py
+ 3296  scrapy crawl khda_spider -o results.json -t json
+ 3297  vim spiders/khda_spider.py
+ 3298  scrapy crawl khda_spider -o results.json -t json
+ 3299  cd ..
+ 3300  ls
+ 3301  cd spider
+ 3302  ls
+ 3303  scrapy startproject craiglist_roomlisting
+ 3304  cd craiglist_roomlisting
+ 3305  ls
+ 3306  cd craiglist_roomlisting
+ 3307  ls
+ 3308  vim items.py
+ 3309  vim spiders/room_spider.py
+ 3310  ls
+ 3311  vim items.py
+ 3312  vim spiders/room_spider.py
+ 3313  ls
+ 3314  scrapy crawl craiglist_roomlisting --output results.json
+ 3315  vim spiders/room_spider.py
+ 3316  scrapy crawl craiglist_roomlisting --output results.json
+ 3317  vim spiders/room_spider.py
+ 3318  ls
+ 3319  vim spiders/room_spider.py
+ 3320  scrapy crawl craiglist_roomlisting --output results.json
+ 3321  vim spiders/room_spider.py
+ 3322  scrapy crawl craiglist_roomlisting --output results.json
+ 3323  ls
+ 3324  vim settings.py
+ 3325  vim spiders/room_spider.py
+ 3326  scrapy crawl room_spider --output results.json
+ 3327  vim spiders/room_spider.py
+ 3328  scrapy crawl craiglist_roomlisting --output results.json
+ 3329  scrapy crawl room_spider --output results.json
+ 3330  ls
+ 3331  cd spiders
+ 3332  ls
+ 3333  cd ..
+ 3334  ls
+ 3335  vim pipelines.py
+ 3336  vim settings.py
+ 3337  vim spiders/room_spider.py
+ 3338  scrapy crawl rooms --output results.json
+ 3339  vim spiders/room_spider.py
+ 3340  scrapy crawl rooms --output results.json
+ 3341  ls
+ 3342  cat results.json
+ 3343  vim spiders/room_spider.py
+ 3344  scrapy crawl rooms --output results.json
+ 3345  cat results.json
+ 3346  vim spiders/room_spider.py
+ 3347  scrapy crawl rooms --output results.json
+ 3348  cat results.json
+ 3349  vim spiders/room_spider.py
+ 3350  scrapy crawl rooms --output results.json
+ 3351  vim spiders/room_spider.py
+ 3352  scrapy crawl rooms --output results.json
+ 3353  vim spiders/room_spider.py
+ 3354  scrapy crawl rooms --output results.json
+ 3355  exit
+ 3356  vim spiders/room_spider.py
+ 3357  scrapy crawl rooms --output results.json
+ 3358  cat results.json
+ 3359  scrapy crawl rooms --output results.json
+ 3360  vim spiders/room_spider.py
+ 3361  vim items.py
+ 3362  scrapy crawl rooms --output results.json
+ 3363  vim items.py
+ 3364  vim spiders/room_spider.py
+ 3365  scrapy crawl rooms --output results.json
+ 3366  cat results.json
+ 3367  cd ..
+ 3368  ls
+ 3369  cd ..
+ 3370  ls
+ 3371  cd khda
+ 3372  ls
+ 3373  cd khda
+ 3374  ls
+ 3375  vim spiders/khda_spider.py
+ 3376  exit
+ 3377  vim spiders/khda_spider.py
+ 3378  exit
+ 3379  vim spiders/khda_spider.py
+ 3380  exit
+ 3381  vim spiders/khda_spider.py
+ 3382  exit
+ 3383  vim spiders/khda_spider.py
+ 3384  exit
+ 3385  tmux
+ 3386  cd ~/.virtualenvs/scrapydevenv/spider
+ 3387  ls
+ 3388  cd craiglist_roomlisting
+ 3389  ls
+ 3390  workon scrapydevenv
+ 3391  ls
+ 3392  cd craiglist_roomlisting
+ 3393  ls
+ 3394  vim spiders/room_spider.py
+ 3395  ls
+ 3396  vim spiders/room_spider.py
+ 3397  ls
+ 3398  ls -al
+ 3399  exit
+ 3400  vim --version
+ 3401  vimifo
+ 3402  viminfo
+ 3403  vim info
+ 3404  sudo apt-get upgrade
+ 3405  sudo apt-get update
+ 3406  sudo apt-get ugprade
+ 3407  sudo apt-get upgrade
+ 3408  vim ~/.zshrc
+ 3409  cd  ~/.virtualenvs/scrapydevenv/spider/craiglist_roomlisting/craiglist_roomlisting/spiders
+ 3410  ls
+ 3411  vim room_spider.py
+ 3412  tmux
+ 3413  vim room_spider.py
+ 3414  vim ~/.vim/bundle/colorizer/plugin/colorizer.vim
+ 3415  locate -b tango
+ 3416  cd ~/.vim
+ 3417  ls
+ 3418  cd dirs
+ 3419  ls
+ 3420  cd ..
+ 3421  cd bundle
+ 3422  ls
+ 3423  vim ~/.vimrc
+ 3424  vim
+ 3425  vim ~/.vimrc
+ 3426  cd ~/.vim/bundle
+ 3427  ls
+ 3428  exit
+ 3429  tmux
+ 3430  ls
+ 3431  vim MyProject
+ 3432  vim scrapy_09112015
+ 3433  vim ~/.vimrc
+ 3434  so ~/.vimrc
+ 3435  exit
+ 3436  tmux
+ 3437  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3438  vim ~/.vimrc
+ 3439  exit
+ 3440  tmux
+ 3441  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3442  vim ~/.vimrc
+ 3443  exit
+ 3444  tmux
+ 3445  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3446  which tmux
+ 3447  set -g default-terminal $ZSH_TMUX_TERM
+ 3448  source $HOME/.tmux.conf
+ 3449  vim ~/.tmux.conf
+ 3450  cp ~/.tmux.conf ~/.tmux.conf_backup
+ 3451  rm ~/.tmux.conf
+ 3452  vim ~/.tmux.conf
+ 3453  source $HOME/.tmux.conf
+ 3454  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3455  exit
+ 3456  tmux
+ 3457  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3458  ls
+ 3459  ls 
+ 3460  cd dev_virtualenv
+ 3461  ls
+ 3462  cd ..
+ 3463  ls
+ 3464  cd lemon_bhai
+ 3465  ls
+ 3466  vim lemon_bhai
+ 3467  ls
+ 3468  vim ~/.tmux.conf
+ 3469  exit
+ 3470  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3471  exit
+ 3472  tmux
+ 3473  ls
+ 3474  exit
+ 3475  tmux
+ 3476  exit
+ 3477  ls
+ 3478  tmux
+ 3479  ls
+ 3480  which tmux
+ 3481  ls
+ 3482  source source $HOME/.tmux.conf
+ 3483  source $HOME/.tmux.conf
+ 3484  exit
+ 3485  ps aux | grep tmux
+ 3486  which $TERM
+ 3487  which $SHELL
+ 3488  LS
+ 3489  ls -al
+ 3490  ls
+ 3491  ls -al
+ 3492  ZSH_TMUX_TERM
+ 3493  zsh_Version
+ 3494  ZSH_VERSION
+ 3495  LS
+ 3496  ls 
+ 3497  ls -al
+ 3498  workon scrapydevenv
+ 3499  ls
+ 3500  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3501  tmux
+ 3502  ls
+ 3503  tmux
+ 3504  ls
+ 3505  vim ~/.tmux.conf
+ 3506  source ~/.tmux.conf
+ 3507  exit
+ 3508  tmux
+ 3509  ls
+ 3510  clear
+ 3511  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3512  ls
+ 3513  vim get-pip.py
+ 3514  ls
+ 3515  vim yankring_history_v2.txt
+ 3516  vim Scraping
+ 3517  ls
+ 3518  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 3519  exit
+ 3520  sudo apt-get autoremove software-center
+ 3521  sudo apt-get update 
+ 3522  sudo apt-get install software-center
+ 3523  sudo apt-get remove --purge software-center
+ 3524  sudo apt-get install software-center
+ 3525  sudo apt-get update
+ 3526  sudo apt-get dist-upgrade
+ 3527  sudo apt-get install python
+ 3528  sudo apt-get install python-5~
+ 3529  sudo apt-get purge software-center
+ 3530  sudo apt-get update 
+ 3531  sudo apt-get install software-center 
+ 3532  sudo dpkg-reconfigure software-center --force
+ 3533  sudo apt-get purge software-center
+ 3534  sudo apt-get --fix-broken install
+ 3535  sudo apt-get autoremove 
+ 3536  sudo apt-get update 
+ 3537  sudo apt-get install -f
+ 3538  sudo apt-get --fix-missing
+ 3539  sudo apt-get update --fix-missing
+ 3540  sudo dpkg --configure -a
+ 3541  sudo apt-get install -f
+ 3542  sudo rm /var/lib/apt/lists/* -vf
+ 3543  sudo apt-get update
+ 3544  sudo apt-get upgrade 
+ 3545  sudo apt-get dist-upgrade
+ 3546  ps aux | grep software-center
+ 3547  sudo kill 14651
+ 3548  ps aux | grep software-center
+ 3549  sudo apt-get install --reinstall software-center
+ 3550  software-center
+ 3551  sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup06122015
+ 3552  sudo rm /etc/apt/sources.list
+ 3553  sudo software-properties-gtk
+ 3554  sudo apt-get install --reinstall libpython3.4-stdlib
+ 3555  sudo apt-get update 
+ 3556  sudo apt-get install --reinstall libpython3.4-stdlib
+ 3557  sudo apt-get install libpython3.4-stdlib
+ 3558  sudo update-grub
+ 3559  sudo software-properties-gtk
+ 3560  su root
+ 3561  sudo software-properties-gtk
+ 3562  sudo apt-get install software-properties-gtk
+ 3563  sudo apt-get purge  software-properties-gtk
+ 3564  sudo apt-get install software-properties-gtk
+ 3565  sudo apt-get upgrae
+ 3566  sudo apt-get upgrade
+ 3567  sudo apt-get dist-upgrade
+ 3568  sudo apt-get autoremove 
+ 3569  sudo apt-get update 
+ 3570  sudo apt-get install software-properties-common 
+ 3571  sudo apt-get install software-properties-gtk
+ 3572  rm /etc/apt/sources.list
+ 3573  sudo rm /etc/apt/sources.list
+ 3574  rm /etc/apt/sources.list
+ 3575  cd /etc/apt/
+ 3576  ls
+ 3577  cd sources.list~
+ 3578  rm  sources.list~
+ 3579  sudo rm sources.list~
+ 3580  ls
+ 3581  cp sources.list.backup06122015 sources.list
+ 3582  sudo cp sources.list.backup06122015 sources.list
+ 3583  sudo apt-get update 
+ 3584  tmux
+ 3585  cd ..
+ 3586  ls
+ 3587  cd ..
+ 3588  ls
+ 3589  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda/spiders/khda_spider.py
+ 3590  exit
+ 3591  sudo apt-get update 
+ 3592  sudo apt-get install software-properties-gtk
+ 3593  sudo apt-get purge software-center
+ 3594  sudo apt-get install software-center 
+ 3595  do-release-upgrade
+ 3596  exit
+ 3597  tmux
+ 3598  ls
+ 3599  cd /etc/
+ 3600  ls
+ 3601  cd ..
+ 3602  ls
+ 3603  exit
+ 3604  cd ~/.virtualenvs
+ 3605  ls
+ 3606  workon scrapydevenv
+ 3607  ls
+ 3608  exit
+ 3609  ls
+ 3610  tmux 
+ 3611  cd ~/.virtualenvs
+ 3612  ls
+ 3613  workon scrapydevenv
+ 3614  ls
+ 3615  cd scrapydevenv
+ 3616  ls
+ 3617  cd spider
+ 3618  ls
+ 3619  cd khda
+ 3620  ls
+ 3621  cd khda
+ 3622  ls
+ 3623  vim items.py
+ 3624  ls
+ 3625  vim items.py
+ 3626  ls
+ 3627  dconf
+ 3628  dconf list
+ 3629  dconf --help
+ 3630  man dconf
+ 3631  dconf list /org/gnome/terminal/legacy/profiles
+ 3632  dconf list /org/gnome/terminal/legacy/profiles:/
+ 3633  dconf list ~/.gconf/apps/gnome-terminal/profiles/
+ 3634  dconf list ~/.gconf/apps/gnome-terminal/profiles:/
+ 3635  sudo apt-get install gconf2
+ 3636  sudo apt-get install gconf2-common
+ 3637  tre
+ 3638  ls
+ 3639  cd ~/.gconf/
+ 3640  ls
+ 3641  cd apps
+ 3642  ls
+ 3643  cd gnome-terminal
+ 3644  ls
+ 3645  cd profiles
+ 3646  ls
+ 3647  cd Profile0
+ 3648  ls
+ 3649  cat %gconf.xml
+ 3650  ls
+ 3651  ls -al
+ 3652  cd ..
+ 3653  cd Default
+ 3654  ls
+ 3655  cat %gconf.xml
+ 3656  ls
+ 3657  sudo apt-get gconf-cli
+ 3658  sudo apt-get install gconf-cli
+ 3659  sudo apt-get install dconf-cli
+ 3660  gnome-terminal --version
+ 3661  sudo add-apt-repository ppa:gnome3-team/gnome3-staging
+ 3662  sudo apt-get update
+ 3663  sudo add-apt-repository ppa:gnome3-team/gnome3-staging
+ 3664  sudo apt-get update 
+ 3665  sudo apt-get upgrade 
+ 3666  sudo apt-get dist-upgrade
+ 3667  sudo apt-get install gnome 
+ 3668  sudo add-apt-repository ppa:gnome3-team/gnome3-staging
+ 3669  ls
+ 3670  uname -al
+ 3671  uname -a
+ 3672  lsb_release -al
+ 3673  lsb_release -a
+ 3674  update-grub
+ 3675  sudo update-grub
+ 3676  lsb_release -a
+ 3677  lsb_release -c
+ 3678  . /etc/os-release
+ 3679  echo $VERSION
+ 3680  lsb_release -rs
+ 3681  sudo apt-get install update-manager-core
+ 3682  sudo apt-get check
+ 3683  sudo apt-get --fix-broken
+ 3684  vim /etc/apt/sources.list
+ 3685  ls
+ 3686  uname -a
+ 3687  locate -b lsb_release
+ 3688  lsb_release -a
+ 3689  cat /etc/issue
+ 3690  vim /etc/apt/sources.list
+ 3691  vim /etc/apt/sources.list.d/
+ 3692  sudo apt-get purge bleachbit 
+ 3693  sudo apt-get autoremove
+ 3694  sudo apt-get upgrade
+ 3695  sudo apt-get update
+ 3696  sudo apt-get check
+ 3697  sudo apt-get install update-manager-core
+ 3698  ls
+ 3699  lsb_release -a
+ 3700  sudo add-apt-repository ppa:gnome3-team/gnome3-staging
+ 3701  lsb_release -sc
+ 3702  vim /etc/apt/sources.list
+ 3703  . /etc/os-release
+ 3704  echo $VERSION
+ 3705  PWD
+ 3706  cd ~
+ 3707  ls
+ 3708  cd Documents
+ 3709  vim lsb_release.txt
+ 3710  . /etc/os-release && echo ${VERSION//[0-9,. ]/ }
+ 3711  sudo apt-get install update-manager-core
+ 3712  sudo do-release-upgrade
+ 3713  sudo do-release-upgrade -d
+ 3714  update-manager
+ 3715  lsb_release
+ 3716  lsb_release -a
+ 3717  . /etc/os-release
+ 3718  echo $VERSION
+ 3719  sudo vim ~/etc/lsb-release
+ 3720  vim ~/etc/lsb-release
+ 3721  su root
+ 3722  sudo apt-get update 
+ 3723  sudo intel-linux-graphics-installer
+ 3724  cat /etc/lsb-release
+ 3725  lsb_release -a
+ 3726  sudo apt-get upgrade
+ 3727  sudo apt-get install software-center software-center-aptdaemon-plugins
+ 3728  software-center
+ 3729  sudo apt-get --purge --reinstall install software-center
+ 3730  sudo dpkg -C
+ 3731  apt-cache policy software-center
+ 3732  dpkg -l policykit\*|grep -o '^i. *[^ ]* *[^ ]*'
+ 3733  aptdcon -d --upgrade-system
+ 3734  apt-cache policy aptdaemon
+ 3735  sudo start-stop-daemon -S --exec /usr/sbin/aptd -- -d
+ 3736  sudo apt-get --reinstall --only-upgrade install aptdaemon\*
+ 3737  dpkg -l python2.7
+ 3738  software-center
+ 3739  sudo software-center
+ 3740  ls -l /usr/local/lib/python2.7/dist-packages/
+ 3741  sudo apt-get install software-center
+ 3742  sudo dpkg --remove --force-remove-reinstreq  software-center
+ 3743  sudo apt-get purge software-center
+ 3744  sudo apt-get update
+ 3745  sudo apt-get install python-gobject-cairo python-aptdaemon.gtk3widgets sessioninstaller -y
+ 3746  sudo apt-get install python-software-properties
+ 3747  ls -l /usr/bin/python
+ 3748  sudo apt-get upgrade 
+ 3749  sudo apt-get udpate 
+ 3750  sudo apt-get update
+ 3751  software-center
+ 3752  apt-cache search gtk3
+ 3753  exit
+ 3754  sudo apt-get install python-aptdaemon.gtk3widgets
+ 3755  sudo apt-get install gir1.2-dbusmenu-gtk3-0.4
+ 3756  sudo rm -r /var/cache/software-center/xapian
+ 3757  sudo mv /var/lib/dpkg/info/format /var/lib/dpkg/info/format.bak
+ 3758  sudo dpkg --clear-avail
+ 3759  sudo apt-get update
+ 3760  sudo apt-get install --reinstall software-center
+ 3761  sudo apt-get install software-properties-gtk
+ 3762  sudo apt-get install --reinstall ubuntu-desktop
+ 3763  software-center
+ 3764  sudo apt-get purge software-center
+ 3765  sudo apt-get autoremove 
+ 3766  sudo apt-get install --reinstall ubuntu-desktop
+ 3767  echo "$XDG_CURRENT_DESKTOP"
+ 3768  sudo apt-get update && sudo apt-get upgrade
+ 3769  ubuntu-support-status
+ 3770  sudo apt-get install -f
+ 3771  sudo apt-get dist-upgrade
+ 3772  sudo apt-get install --reinstall python2.7
+ 3773  sudo apt-get install --reinstall software-center
+ 3774  sudo apt-get install update-manager-core
+ 3775  sudo do-release-upgrade
+ 3776  uname -a
+ 3777  uname -ars
+ 3778  exit
+ 3779  apt-getxit
+ 3780  exit
+ 3781  sudo poweroff
+ 3782  sudo apt-get install software-properties-common
+ 3783  sudo apt-get install --reinstall software-properties-common
+ 3784  vim /etc/apt/sources.list
+ 3785  cd  /etc/apt/sources.list.d/
+ 3786  ls
+ 3787  cat upubuntu-com-gtk3themes-trusty.list
+ 3788  cat moka-stable-trusty.list
+ 3789  cd ..
+ 3790  ls
+ 3791  exit
+ 3792  sudo apt-get install python-qgis
+ 3793  sudo apt-get install kubuntu-desktop
+ 3794  top
+ 3795  exit
+ 3796  ls
+ 3797  tmux
+ 3798  ls
+ 3799  sudo apt-get upgrade
+ 3800  ls
+ 3801  workon scrapydevenv
+ 3802  ls
+ 3803  cd ~/.virtualenvs/scrapydevenv/spider
+ 3804  ls
+ 3805  cd reddit_spider
+ 3806  ls
+ 3807  cd reddit_spider
+ 3808  ls
+ 3809  vim items.py
+ 3810  ls
+ 3811  vim spiders/reddit_crawler.py
+ 3812  fc-cache ~/.fonts
+ 3813  fc-cache -f -v
+ 3814  ls
+ 3815  exit
+ 3816  tmux
+ 3817  ls
+ 3818  systemsettings
+ 3819  sudo apt-get dist-uggrade 
+ 3820  sudo apt-get dist-upgrade
+ 3821  sudo mount /dev/cdrom/ /mnt/cdrom
+ 3822  cd /mnt/cdrom/
+ 3823  ls
+ 3824  cp VMwareTools-9.9.4-3193940.tar.gz /tmp
+ 3825  cd /tmp
+ 3826  ls
+ 3827  vim ~/.zshrc
+ 3828  tmux
+ 3829  exit
+ 3830  tmux
+ 3831  ls
+ 3832  vim ~/.zshrc
+ 3833  vim ~/.vimrc
+ 3834  exit
+ 3835  ls
+ 3836  tmux
+ 3837  ls
+ 3838  workon scrapydevenv
+ 3839  ls
+ 3840  cd ~/.virtualenvs/scrapydevenv/spider/khda/khda/spiders
+ 3841  ls
+ 3842  vim khda_spider.py
+ 3843  vim ~/.vimrc
+ 3844  vim khda_spider.py
+ 3845  cd /tmp
+ 3846  ls
+ 3847  tar xvfz VMwareTools-9.9.4-3193940.tar.gz
+ 3848  ls
+ 3849  cd vmware-
+ 3850  cd vmware-tools-distrib
+ 3851  ls
+ 3852  ./vmware-install.pl
+ 3853  ls
+ 3854  ./vmware-install.pl
+ 3855  ls
+ 3856  ./vmware-install.pl
+ 3857  unmount /dev/cdrom
+ 3858  sudo unmount /dev/cdrom
+ 3859  ./vmware-install.pl
+ 3860  sudo ./vmware-install.pl
+ 3861  sudo reboot
+ 3862  ls
+ 3863  tmux
+ 3864  ls
+ 3865  cd Downloads
+ 3866  ls
+ 3867  workon scrapydevenv
+ 3868  ls
+ 3869  cd ~/.virtualenvs
+ 3870  ls
+ 3871  cd scrapydevenv
+ 3872  ls
+ 3873  cd newcoder_io_living_social
+ 3874  ls
+ 3875  cd livig
+ 3876  cd livingsocial
+ 3877  ls
+ 3878  vim livingsocial/spiders/livingsocial_spider.py
+ 3879  vim ~/.virtualenvs/scrapydevenv/spider/news
+ 3880  ls
+ 3881  ls -al
+ 3882  sudo apt-get dist-upgrade
+ 3883  sudo apt-get update
+ 3884  sudo apt-get upgrade
+ 3885  sudo apt-get install open-vm-toolbox-lts-trusty
+ 3886  exit
+ 3887  ls
+ 3888  workon scrapydevenv
+ 3889  ls
+ 3890  ls a-l
+ 3891  ls -al
+ 3892  sudo add-apt-repository ppa:gnome3-team/gnome3-staging
+ 3893  sudo apt-get update
+ 3894  exit
+ 3895  tmux
+ 3896  ls
+ 3897  sudo apt-get install --reinstall gnome-terminal
+ 3898  exit
+ 3899  tmux
+ 3900  exit
+ 3901  tmux
+ 3902  ls
+ 3903  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda/spiders
+ 3904  ls
+ 3905  ehco $SHELL
+ 3906  echo $SHELL
+ 3907  echo $GNOME_TERMINAL
+ 3908  LS
+ 3909  ls 
+ 3910  ls -al
+ 3911  ls
+ 3912  workon scrapydevenv
+ 3913  ls
+ 3914  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 3915  ls
+ 3916  cd khda
+ 3917  ls
+ 3918  vim items.py
+ 3919  exit
+ 3920  xit
+ 3921  exit
+ 3922  tmux
+ 3923  ls
+ 3924  jupyter
+ 3925  python
+ 3926  ls
+ 3927  scrapy SHELLO
+ 3928  scrapy SHELL
+ 3929  LS
+ 3930  workon scrapydevenv
+ 3931  ls
+ 3932  ls -al
+ 3933  cd ~/.virtualenvs
+ 3934  ls
+ 3935  exit
+ 3936  ls
+ 3937  tmux
+ 3938  ls
+ 3939  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 3940  ls
+ 3941  vim khda/items.py
+ 3942  exit
+ 3943  ls
+ 3944  source ~/.vimrc
+ 3945  source ~/.zshrc
+ 3946  ls
+ 3947  vim khda/items.py
+ 3948  tmux
+ 3949  ls
+ 3950  vim ~/.zshrc
+ 3951  source ~/.zshrc
+ 3952  ls
+ 3953  tmux
+ 3954  exit
+ 3955  tmux
+ 3956  ls
+ 3957  vim khda/items.py
+ 3958  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 3959  ls
+ 3960  vim khda/spiders/khda_spider.py
+ 3961  ls
+ 3962  tmux source ~/.tmux.conf
+ 3963  ls
+ 3964  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 3965  vim khda/items.py
+ 3966  vim ~/.zshrc
+ 3967  git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+ 3968  vim ~/.tmux.conf
+ 3969  tmux source ~/.tmux.conf
+ 3970  exit
+ 3971  tmux
+ 3972  ls
+ 3973  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 3974  ls 
+ 3975  ls
+ 3976  cd khda/spiders
+ 3977  ls
+ 3978  vim khda_spider.py
+ 3979  ls
+ 3980  exit
+ 3981  tmux -2
+ 3982  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 3983  cd khda
+ 3984  ls
+ 3985  vim spiders/khda_spider.py
+ 3986  vim ~/.vimrc
+ 3987  echo $TERM
+ 3988  vim ~/.vimrc
+ 3989  tmux
+ 3990  vim ~/.vimrc
+ 3991  exit
+ 3992  tmux -2
+ 3993  ls
+ 3994  ls -al
+ 3995  ls
+ 3996  exit
+ 3997  tmux -2
+ 3998  ls
+ 3999  ls -al
+ 4000  vim ~/.vimrc
+ 4001  ls
+ 4002  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 4003  ls
+ 4004  cd khda
+ 4005  ls
+ 4006  vim items.py
+ 4007  ls
+ 4008  vim spiders/khda_spider.py
+ 4009  ls
+ 4010  exit
+ 4011  ls
+ 4012  tmux -2
+ 4013  ls
+ 4014  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 4015  vim khda/spiders/khda_spider.py
+ 4016  ls
+ 4017  ls -al
+ 4018  vim scrapy.cfg
+ 4019  exit
+ 4020  ls
+ 4021  ls -al
+ 4022  vim ~/.zshrc
+ 4023  tmux 
+ 4024  ls
+ 4025  history 10
+ 4026  history 100
+ 4027  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 4028  ls
+ 4029  vim scrapy.cfg
+ 4030  vim khda/spiders/khda_spider.py
+ 4031  vim ~/.vimrc
+ 4032  vim 
+ 4033  tmux vim ~/.tmux.conf
+ 4034  vim ~/.tmux.conf
+ 4035  vim ~/.vimrc
+ 4036  vim ~/Documents/tmux_navigator.txt
+ 4037  vim ~/.vimrc
+ 4038  source ~/.tmux.conf
+ 4039  vim ~/.tmux.conf
+ 4040  exit
+ 4041  exiot
+ 4042  t,ix
+ 4043  tmux 
+ 4044  ls
+ 4045  cd ~/.virtualenvs/scrapydevenv/spider/khda
+ 4046  workon scrapydevenv
+ 4047  ls
+ 4048  vim khda/spiders/khda_spider.py
+ 4049  ls
+ 4050  top
+ 4051  vim ~/.zshrc
+ 4052  antigen update
+ 4053  source ~/.zshrc
+ 4054  ls
+ 4055  workon scrapydevenv
+ 4056  ls
+ 4057  source ~/.zshrc
+ 4058  ls
+ 4059  ls -al
+ 4060  ls
+ 4061  source ~/.zshrc
+ 4062  workon scrapydevenv
+ 4063  ls
+ 4064  exit
+ 4065  ls
+ 4066  exit
+ 4067  ls
+ 4068  ps aux | grep m
+ 4069  clear
+ 4070  ps aux 
+ 4071  ls
+ 4072  vim ~/.virtualenvs/scrapydevenv/spider/news
+ 4073  ls
+ 4074  pwd
+ 4075  vim ~/.virtualenvs/scrapydevenv/spider/news
+ 4076  cd ~/.virtualenvs/scrapydevenv/spider/news
+ 4077  ls
+ 4078  vim news/spiders/BbcNewsSpider.py
+ 4079  vim ~/.vimrc
+ 4080  cd ~/.virtualenvs/scrapydevenv/spider/news
+ 4081  vim news/spiders/BbcNewsSpider.py
+ 4082  vim ~/.vimrc
+ 4083  gedit ~/.vimrc
+ 4084  vim ~/.vimrc
+ 4085  gedit
+ 4086  gedit ~/.vimrc
+ 4087  vim ~/.vimrc
+ 4088  cp ~/.vimrc ~/.vimrc_backup_SetShowCmd
+ 4089  vim ~/.vimrc
+ 4090  ls
+ 4091  vim news/spiders/BbcNewsSpider.py
+ 4092  emac
+ 4093  emacs
+ 4094  vim ~/.zshrc
+ 4095  ls
+ 4096  clear
+ 4097  ls
+ 4098  cd news/spiders
+ 4099  ls
+ 4100  vim BbcNewsSpider.py
+ 4101  exit
+ 4102  tmux
+ 4103  cd ~/.virtualenvs/scrapydevenv/spider/news
+ 4104  cd news/spiders
+ 4105  ls
+ 4106  vim BbcNewsSpider.py
+ 4107  vim ~/.vimrc
+ 4108  vim BbcNewsSpider.py
+ 4109  cd ..
+ 4110  ls
+ 4111  vim items.py
+ 4112  ls
+ 4113  source ~/.zshrc
+ 4114  ls
+ 4115  vim items.py
+ 4116  ls
+ 4117  exit
+ 4118  ls
+ 4119  vim ~/.vimrc
+ 4120  source ~/.vimrc
+ 4121  exti
+ 4122  exit
+ 4123  tmux
+ 4124  ls
+ 4125  vim get-pip.py
+ 4126  ls
+ 4127  cd ~/.virtualenvs/scrapydevenv
+ 4128  ls
+ 4129  git clone https://github.com/happylap/zuzu_spider.git
+ 4130  ls
+ 4131  cd zuzu_spider
+ 4132  ls
+ 4133  cd rhc
+ 4134  ls
+ 4135  cd RHC
+ 4136  ls
+ 4137  cd result
+ 4138  ls
+ 4139  cat 591_update_result_20151130_142358.json
+ 4140  cd ..
+ 4141  ls
+ 4142  ls -al
+ 4143  git clone https://github.com/Godley/MealPlanner/archive/master.zip
+ 4144  git clone https://github.com/Godley/MealPlanner.git
+ 4145  git clone https://github.com/ben-2995/crawl-basic.git
+ 4146  git clone https://github.com/kmab/git.git
+ 4147  ls 
+ 4148  ls -a
+ 4149  ls -
+ 4150  tree
+ 4151  clear
+ 4152  ls -al
+ 4153  cd ..
+ 4154  ls
+ 4155  cd ..
+ 4156  ls
+ 4157  ls -al
+ 4158  cd spider
+ 4159  ls
+ 4160  cd ..
+ 4161  ls
+ 4162  cd ..
+ 4163  ls
+ 4164  cd scrapydevenv
+ 4165  ls
+ 4166  mv -rf zuzu_spider ~/.virtualenvs/scrapydevenv/spider
+ 4167  mv -R zuzu_spider ~/.virtualenvs/scrapydevenv/spider
+ 4168  mv -r zuzu_spider ~/.virtualenvs/scrapydevenv/spider
+ 4169  mv --?
+ 4170  mv -help
+ 4171  mv --help
+ 4172  mv --help | grep recursive
+ 4173  mv  zuzu_spider ~/.virtualenvs/scrapydevenv/spider
+ 4174  cd ..
+ 4175  ls
+ 4176  cd scrapydevenv/spider
+ 4177  ls
+ 4178  ls -al
+ 4179  cd zuzu_spider
+ 4180  ls
+ 4181  cd rhc
+ 4182  ls
+ 4183  cd RHC
+ 4184  ls
+ 4185  mv crawl-basic ../
+ 4186  ls 
+ 4187  cd ..
+ 4188  ls
+ 4189  mv crawl-basic ../
+ 4190  ls
+ 4191  cd ..
+ 4192  ls
+ 4193  cd crawl-basic
+ 4194  ls
+ 4195  cd ..
+ 4196  ls
+ 4197  cd zuzu_spider
+ 4198  ls
+ 4199  cd RHC
+ 4200  ls
+ 4201  cd git
+ 4202  ls
+ 4203  cd ..
+ 4204  mv git india_regex
+ 4205  ls
+ 4206  mv india_regex .../
+ 4207  cd ...
+ 4208  ls
+ 4209  cd zuzu_spider
+ 4210  ls
+ 4211  cd RHC
+ 4212  ls
+ 4213  cd ..
+ 4214  ls -al
+ 4215  cd ..
+ 4216  ls -al
+ 4217  cd ..
+ 4218  ls
+ 4219  cd spider
+ 4220  ls
+ 4221  ls a-l
+ 4222  ls -al
+ 4223  locate -b india_regex
+ 4224  lcate -b india
+ 4225  locate -b india
+ 4226  ls
+ 4227  pwd
+ 4228  ls -al
+ 4229  cd zuzu_spider
+ 4230  ls -al
+ 4231  cd RHC
+ 4232  ls
+ 4233  cd 591
+ 4234  ls
+ 4235  cd ..
+ 4236  mv MealPlanner ~/.virtualenvs/scrapydevenv/spider
+ 4237  ls -al
+ 4238  cd RHC
+ 4239  ls
+ 4240  ls a-l
+ 4241  ls -al
+ 4242  vim ~/.zshrc
+ 4243  source ~/.zshrc
+ 4244  ls
+ 4245  ls -al
+ 4246  ls
+ 4247  ls -al
+ 4248  ls a-l
+ 4249  ls -al
+ 4250  cd ~/.virtualenvs
+ 4251  cd ~/.virtualenvs/scrapydevenv/spider
+ 4252  ls
+ 4253  ls -al
+ 4254  cd zuzu_spider
+ 4255  ls 
+ 4256  cd RHC
+ 4257  ls
+ 4258  tree 
+ 4259  vim ~/.zshrc
+ 4260  source ~/.zshrc
+ 4261  ls
+ 4262  workon scrapydevenv
+ 4263  ls
+ 4264  ls -al
+ 4265  cd ..
+ 4266  ls
+ 4267  cd ..
+ 4268  ls
+ 4269  ls a0l
+ 4270  ls -al
+ 4271  cd RHC
+ 4272  ls
+ 4273  -al 
+ 4274  ls -al
+ 4275  tree
+ 4276  ls -al
+ 4277  cd ...
+ 4278  git clone https://github.com/kingofghost/scrapy.git
+ 4279  ls
+ 4280  ls -al
+ 4281  mv scrapy myhome_ireland_spider
+ 4282  ls -al
+ 4283  cd myhome_ireland_spider
+ 4284  ls
+ 4285  ls a-l
+ 4286  ls -al
+ 4287  cd myhome
+ 4288  ls
+ 4289  vim spiders/myhome_spider
+ 4290  vim spiders/myhome_spider.py
+ 4291  vim spiders/myhome_spider_sale.py
+ 4292  exit
+ 4293  ls
+ 4294  ls -al
+ 4295  vim items.py
+ 4296  ls
+ 4297  cd .
+ 4298  ls
+ 4299  cd ..
+ 4300  ls
+ 4301  cd ..
+ 4302  ls
+ 4303  git clone https://github.com/binhoul/tangpoems.git
+ 4304  mv tangpoems tangpoems_mysql_based
+ 4305  ls -al
+ 4306  git clone https://github.com/emoronayuso/scraping-US.git
+ 4307  ls -al
+ 4308  mv scraping-US scraping-US-DownloadAllFiles
+ 4309  git clone https://github.com/Thibaut-Fatus/TrackMyFat.git
+ 4310  git clone https://github.com/gnemoug/distribute_crawler.git
+ 4311  sudo apt-get upgrade
+ 4312  history | grep kd
+ 4313  history | grep kde
+ 4314  history -2000| grep kde
+ 4315  history -2000 
+ 4316  history -3000 | grep kde
+ 4317  echo $DESKTOP_SESSION
+ 4318  echo "$XDG_DATA_DIRS" | grep -Eo 'xfce|kde|gnome'
+ 4319  apt-get purge kubuntu-desktop
+ 4320  sudo apt-get purge kubuntu-desktop
+ 4321  tmux
+ 4322  sudo apt-get install tasksel
+ 4323  sudo tasksel
+ 4324  sudo apt-get install aptitude
+ 4325  aptitude
+ 4326  tasksel
+ 4327  sudo tasksel
+ 4328  su root
+ 4329  synaptics
+ 4330  sudo apt-get update
+ 4331  sudo tasksel
+ 4332  sudo apt-get update --fix-missing 
+ 4333  sudo tasksel
+ 4334  sudo apt-get -f install
+ 4335  df -H
+ 4336  sudo apt-get autoremove
+ 4337  sudo apt-get autoclean
+ 4338  sudo apt-get upgrade
+ 4339  df -H
+ 4340  sudo apt-get clean
+ 4341  free -,
+ 4342  free -m
+ 4343  sudo poweroff
+ 4344  sudo apt-get upgrade
+ 4345  tmux
+ 4346  ls
+ 4347  exit
+ 4348  tmux
+ 4349  ls
+ 4350  gsettings set com.canonical.Unity always-show-menus true
+ 4351  ls
+ 4352  vim /tmp/
+ 4353  clear
+ 4354  vim /tmp/test.py
+ 4355  apt-cache search flashplayer
+ 4356  apt-get install flashplugin-installer
+ 4357  sudo apt-get install flashplayer-installer
+ 4358  sudo apt-get install flashplugin-installer
+ 4359  sudo apt-get update && sudo apt-get upgrade
+ 4360  sudo add-apt-repository ppa:noobslab/themes
+ 4361  apt-get update
+ 4362  sudo apt-get uprade 
+ 4363  sudo apt-get update
+ 4364  sudo apt-get install mbuntu-y-ithemes-v4
+ 4365  mkdir -p ~/debconf.bk
+ 4366  sudo mv /usr/lib/python2.7/dist-packages/debconf.py ~/debconf.bk
+ 4367  tmux
+ 4368  sudo mv /usr/lib/python2.7/dist-packages/debconf.pyc ~/debconf.bk
+ 4369  sudo apt-get download debconf
+ 4370  dpkg --extract debconf*.deb
+ 4371  ls
+ 4372  dpkg --extract debconf_1.5.51ubuntu2_all.deb
+ 4373  ls
+ 4374  mkdir /tmp/deb
+ 4375  dpkg --extract debconf_1.5.51ubuntu2_all.deb /tmp/deb
+ 4376  cd /tmp/deb
+ 4377  ls
+ 4378  ls -al
+ 4379  sudo mv ~/debconf.bk/debconf.py /usr/lib/python2.7/dist-packages/
+ 4380  sudo mv ~/debconf.bk/debconf.pyc /usr/lib/python2.7/dist-packages/
+ 4381  sudo apt-get install --reinstall debconf
+ 4382  sudo apt-get autoremove 
+ 4383  sudo apt-get clean
+ 4384  sudp dpkg -P flashplugin-installer
+ 4385  sudo  dpkg -P flashplugin-installer
+ 4386  sudo apt-get update
+ 4387  sudo apt-get install --reinstall debconf
+ 4388  sudo update-alternatives --config python
+ 4389  sudo apt-get --reinstall install python-debian
+ 4390  sudo apt-get install --reinstall debconf
+ 4391  sudo apt-get install mbuntu-y-ithemes-v4
+ 4392  sudo apt-get install mbuntu-y-icons-v4
+ 4393  sudo apt-get upgrade 
+ 4394  workon scrapydevenv
+ 4395  scrapy shell http://khda.gov.ae/en/directory/schools-search-results/school\?id\=205
+ 4396  vim ~/.virtualenvs/scrapydevenv/spider
+ 4397  cd ~/Downloads
+ 4398  ls
+ 4399  ls -al
+ 4400  vim ~/.vimrc
+ 4401  exit
+ 4402  cd ~/Downloads
+ 4403  ls
+ 4404  clear
+ 4405  ls
+ 4406  tar xvfz gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4407  gzip xvfz gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4408  gzip -xvfz gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4409  source ~/.zshrc
+ 4410  ls
+ 4411  ls -al
+ 4412  vim ~/.zshrc
+ 4413  source ~/.zshrc
+ 4414  ls
+ 4415  gunzip gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz.gz
+ 4416  ls -al
+ 4417  gzip -d gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4418  ls -al
+ 4419  tar -xzvf gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4420  tar xf gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4421  ls -al
+ 4422  cd usr
+ 4423  ls
+ 4424  ls -al
+ 4425  tmux
+ 4426  cd ~/Downloads
+ 4427  tar xf gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4428  ls -al
+ 4429  ls
+ 4430  ls -al
+ 4431  cd usr
+ 4432  ls
+ 4433  rm usr
+ 4434  rm -r usr
+ 4435  rm -R usr/
+ 4436  ls
+ 4437  ls -al
+ 4438  cd ..
+ 4439  rm -r usr
+ 4440  rm -rf usr
+ 4441  ls
+ 4442  ls -al
+ 4443  rm -rf gnome_extracted_3.18.2
+ 4444  rm -rf gnome-3.12-screenshots.zip
+ 4445  rm -rf gnome-terminal-3.18
+ 4446  ls -al
+ 4447  rm -rf gnome-terminal-3.18.2-1-x86_64.pkg.tar.xz
+ 4448  ls
+ 4449  ls -al
+ 4450  cp gnome-terminal-3.19.1.tar.gz /tmp/
+ 4451  cd /tmp
+ 4452  ls
+ 4453  ls -al
+ 4454  tar -xzvf gnome-terminal-3.19.1.tar.gz
+ 4455  ls
+ 4456  cd gnome-terminal-3.19.1
+ 4457  ls
+ 4458  sudo ./autogen.sh
+ 4459  ./autogen.sh
+ 4460  sudo apt-get install autoconf autogen
+ 4461  ./autogen.sh
+ 4462  sudo apt-get install Autoconf v2.69, Automake v1.14.1, Libtool v2.4.2
+ 4463  sudo apt-get install autoconf automake libtool
+ 4464  libtool --version
+ 4465  autoconf --version
+ 4466  automake --version 
+ 4467  ./autogen.sh
+ 4468  apt-cache search gettext
+ 4469  sudo apt-get install gettext-base
+ 4470  ls -a
+ 4471  ls -al
+ 4472  sudo apt-get install ppa-purge
+ 4473  sudo add-apt-repository ppa:towolf/transparent-gnome-terminal
+ 4474  sudo ppa-purge ppa:gnome3-team/gnome3-staging
+ 4475  gnome --version
+ 4476  gnome-session --version
+ 4477  gnome-terminal --version
+ 4478  sudo apt-get install gnome-terminal
+ 4479  sudo apt-get update
+ 4480  cd ~/Downloads
+ 4481  ls
+ 4482  tar -xzvf gnome-terminal-3.18.2.tar.xz
+ 4483  tar xzvf gnome-terminal-3.18.2.tar.xz
+ 4484  tar -xzf gnome-terminal-3.18.2.tar.xz
+ 4485  tar xvfJ gnome-terminal-3.18.2.tar.xz
+ 4486  ls
+ 4487  cd gnome-terminal-3.18.2
+ 4488  ls
+ 4489  gnome-shell --version
+ 4490  software-center
+ 4491  su software-center
+ 4492  su root
+ 4493  ls
+ 4494  ls -al
+ 4495  sudo apt-get install vte3
+ 4496  sudo apt-get install gnome-shell
+ 4497  ./configure --prefix=/usr             \\
+ 4498              --disable-static          \\
+ 4499              --disable-migration       \n: 1449666110:0;exit
+ 4500  cd ~/Downloads
+ 4501  ls
+ 4502  cd gnome-terminal-3.18.2
+ 4503  ls
+ 4504  ./configure --prefix=/usr \\
+ 4505  --disable-static
+ 4506  sudo apt-get install intltool
+ 4507  ./configure --prefix=/usr \\
+ 4508  --disable-static \\
+ 4509  --disable-migration \\
+ 4510  --disable-search-provider && make
+ 4511  su root
+ 4512  sudo make install
+ 4513  gedit
+ 4514  sudo apt-get install glib gio gtk3 gsettings-desktop-schemas dconf uuid
+ 4515  apt-cache search gio
+ 4516  apt-cache search gio | grep gio
+ 4517  deactivate
+ 4518  exit
+ 4519  tmux
+ 4520  ls
+ 4521  exit
+ 4522  sudo apt-get install adwaita-icon-theme*
+ 4523  apt-cache search adwaita-icon-theme
+ 4524  tmux
+ 4525  ls
+ 4526  apt-cache search adwaita-icon-theme
+ 4527  sudo apt-get install Dconf
+ 4528  apt-cache search dconf
+ 4529  sudo apt-get install gsettings-desktop-schemas
+ 4530  gsettings-desktop-schemas --version
+ 4531  dconf --version
+ 4532  man dconf
+ 4533  sudo apt-get install itstool
+ 4534  sudo apt-get insall vte
+ 4535  sudo apt-get install vte
+ 4536  apt-cache search vte
+ 4537  apt-cache search vte | grep vte
+ 4538  sudo apt-get install gtk+3
+ 4539  sudo apt-get install libvte
+ 4540  apt-cache search libvte
+ 4541  sudo apt-get install -y libvte-2.90-common
+ 4542  sudo apt-get update 
+ 4543  apt-cache search dconf-0
+ 4544  sudo apt-get install dconf
+ 4545  apt-cache search dconf
+ 4546  sudo apt-get install dconf-editor
+ 4547  sudo apt-get install dconf
+ 4548  sudo apt-get install dconf-tools
+ 4549  dconf --version
+ 4550  dconf -version
+ 4551  sudo apt-get install itstool
+ 4552  itstool --version
+ 4553  cd ~/Downloads
+ 4554  ls
+ 4555  cd gnome-terminal-3.18.2
+ 4556  ls
+ 4557  ./configure --prefix=/usr \\
+ 4558  --disable-static \\
+ 4559  --disable-migration \\
+ 4560  --disable-search-provider && make
+ 4561  sudo apt-get install gsettings-desktop-schemas
+ 4562  make install
+ 4563  sudo apt-get install appstream-glib
+ 4564  nautilus --version
+ 4565  nautilus --verison
+ 4566  nautilus --version
+ 4567  sudo apt-get install nautilux
+ 4568  sudo apt-get install nautilus
+ 4569  sudo apt-get instlall desktop-file-utils
+ 4570  sudo apt-get install desktop-file-utils
+ 4571  sudo apt-get install appstream-glib
+ 4572  ./configure && make
+ 4573  cd ..
+ 4574  ls
+ 4575  tar -xvfJ gnome-terminal-3.19.1.tar.gz
+ 4576  tar xvfJ gnome-terminal-3.19.1.tar.gz
+ 4577  tar xzfJ gnome-terminal-3.19.1.tar.gz
+ 4578  tar -xzfJ gnome-terminal-3.19.1.tar.gz
+ 4579  tar -xvzf gnome-terminal-3.19.1.tar.gz
+ 4580  ls
+ 4581  cd /tmp
+ 4582  ls 
+ 4583  cd gnome-terminal-3.19.1
+ 4584  ls
+ 4585  sudo ./autogen.sh
+ 4586  sudo apt-get install libpcre2-8
+ 4587  apt-get search libpcre2
+ 4588  apt-cahce  search libpcre2
+ 4589  apt-cache   search libpcre2
+ 4590  sudo apt-get upgrade 
+ 4591  ls
+ 4592  ./autogen.sh
+ 4593  sudo ./autogen.sh
+ 4594  sudo ./autogen.sh --without-pcre2
+ 4595  vim /etc/apt/sources.list
+ 4596  sudo vim /etc/apt/sources.list
+ 4597  sudo apt-get update
+ 4598  sudo vim /etc/apt/sources.list
+ 4599  sudo apt-get update
+ 4600  sudo vim /etc/apt/sources.list
+ 4601  sudo apt-get update
+ 4602  sudo apt-get install gnome-terminal-data
+ 4603  sudo apt-get install gnome-terminal
+ 4604  sudo apt-get install gnome-terminal -f
+ 4605  sudo apt-get install --reinstall gnome-terminal 
+ 4606  sudo apt-get install --reinstll gnome-terminal -f
+ 4607  sudo apt-get install --reinstall gnome-terminal -f
+ 4608  sudo apt-get install libvte-2.90-9
+ 4609  sudo apt-get install --reinstall gnome-terminal 
+ 4610  ls
+ 4611  vim ~/.vimrc
+ 4612  tmux
+ 4613  ls
+ 4614  ls -al
+ 4615  vim ~/.vimrc
+ 4616  ls
+ 4617  vim ~/.zshrc
+ 4618  source ~/.zshrc
+ 4619  ls
+ 4620  ls -al
+ 4621  ls
+ 4622  vim ~/.vimrc
+ 4623  exit
+ 4624  tmux
+ 4625  ls
+ 4626  ls -al
+ 4627  exit
+ 4628  sudo apt-get uprade
+ 4629  sudo apt-get upgrade 
+ 4630  sudo apt-get dist-updrade 
+ 4631  sudo apt-get dist-upgrade
+ 4632  sudo apt-get upgrade
+ 4633  ls
+ 4634  ls -al
+ 4635  sudo apt-search gnome-terminal
+ 4636  apt-cache search gnome-terminal
+ 4637  sudo apt-get install gnome-terminal
+ 4638  dpkg -l libvte-2.90-9
+ 4639  sudo apt-get install --reinstall libvte-2.90-9
+ 4640  sudo apt-get install gnome-terminal
+ 4641  sudo apt-get install --reinstall  gnome-terminal
+ 4642  df -H
+ 4643  sudo apt-get -f install
+ 4644  sudo apt-get check
+ 4645  sudo apt-get -f install 
+ 4646  sudo apt-get update --fix-missing
+ 4647  sudo dpkg --configure-a
+ 4648  sudo dpkg --configure -a
+ 4649  sudo apt-get -f install
+ 4650  sudo apt-get install --reinstall gnome-terminal
+ 4651  sudo apt-get autoclean
+ 4652  vim /etc/apt/sources.list
+ 4653  sudo apt-get clear cache
+ 4654  sudo apt-get ugprade
+ 4655  sudo apt-get upgrade
+ 4656  sudo apt-get install nautilus
+ 4657  nautilus
+ 4658  sudo apt-get autoremove 
+ 4659  sudo apt-get install -f 
+ 4660  sudo apt-get install gnome-terminal
+ 4661  sudo apt-get install gnome-shell
+ 4662  echo $SHELL
+ 4663  sudo apt-get install gnome-terminal
+ 4664  cd /tmp
+ 4665  ls
+ 4666  ROXTerm --version
+ 4667  exit
+ 4668  sudo apt-get purge gnome-shell
+ 4669  sudo apt-get autoclean
+ 4670  vim ~/.vimrc
+ 4671  sudo reboot
+ 4672  sudo apt-get install --reinstall ubuntu-desktop
+ 4673  re\tsudo apt-get install unity
+ 4674  sudo apt-get install unity 
+ 4675  sudo shutdown -r now
+ 4676  sudo apt-get install gnome-terminal
+ 4677  cd ~/.gconf
+ 4678  ls
+ 4679  sudo apt-get purge gnome-terminal
+ 4680  sudo apt-get install --reinstall  gnome-terminal
+ 4681  startx
+ 4682  sudo add-apt-repository ppa:towolf/transparent-gnome-terminal
+ 4683  sudo apt-get update
+ 4684  sudo apt-get install --reinstall gnome-terminal
+ 4685  sudo apt-get install gnome-terminal
+ 4686  sudo apt-get remove gnome-terminal
+ 4687  sudo apt-get autoremove
+ 4688  sudo apt-get install gnome-terminal
+ 4689  ls
+ 4690  cp ~/Downloads/libvte-2.90-9_0.36.3-1ubuntu2_amd64.deb /var/cache/apt/archives
+ 4691  sudo cp ~/Downloads/libvte-2.90-9_0.36.3-1ubuntu2_amd64.deb /var/cache/apt/archives
+ 4692  sudo apt-get install gdebi
+ 4693  aptitude
+ 4694  ls
+ 4695  sudo apt-get ppa-purge ppa:towolf/transparent-gnome-terminal
+ 4696  sudo ppa-purge ppa:towolf/transparent-gnome-terminal
+ 4697  sudo apt-get install gnome-terminal
+ 4698  ls
+ 4699  gnome-terminal --vesion
+ 4700  gnome-terminal --version
+ 4701  locale
+ 4702  ls
+ 4703  l
+ 4704  ls
+ 4705  tmux
+ 4706  ls
+ 4707  ls -al
+ 4708  sudo apt-get upgrade gnome-terminal
+ 4709  sudo apt-get upgrade 
+ 4710  sudo apt-get dist-upgrade
+ 4711  sudo apt-get update
+ 4712  sudo apt-get install terminator
+ 4713  ls
+ 4714  tmux
+ 4715  ls
+ 4716  ls 
+ 4717  exit
+ 4718  ls
+ 4719  tmux
+ 4720  ls
+ 4721  ls -al
+ 4722  ls
+ 4723  exit
+ 4724  ls
+ 4725  vim ~/.vimrc
+ 4726  tmux
+ 4727  ls
+ 4728  sudo apt-get install unity-tweak-tool
+ 4729  sudo apt-get install unity 
+ 4730  ls -al
+ 4731  ls
+ 4732  vim ~/.zshrc
+ 4733  exit
+ 4734  clear
+ 4735  ls
+ 4736  workon scrapydevenv
+ 4737  ls
+ 4738  vim ~/.zshrc
+ 4739  source ~/.zshrc
+ 4740  ls
+ 4741  workon scrapydevenv
+ 4742  ls
+ 4743  clear
+ 4744  ls
+ 4745  source ~/.zshrc
+ 4746  ls
+ 4747  exit
+ 4748  ls
+ 4749  ls -al
+ 4750  tmux
+ 4751  ls
+ 4752  workon scrapydevenv
+ 4753  ls
+ 4754  cd ~/.virtualenvs/scrapydevenv
+ 4755  ls
+ 4756  cd reddit_spider
+ 4757  ls
+ 4758  vim reddit_spider
+ 4759  cd ...
+ 4760  ls
+ 4761  cd scrapydevenv
+ 4762  ls
+ 4763  rm -rf reddit_spider
+ 4764  ls
+ 4765  ls -al
+ 4766  cd newcoder_io_living_social
+ 4767  ls
+ 4768  cd livingsocial
+ 4769  ls
+ 4770  cd livingsocial
+ 4771  ls
+ 4772  vim models.py
+ 4773  ls
+ 4774  ls -al
+ 4775  cd spiders
+ 4776  ls
+ 4777  cd ....
+ 4778  cd ...
+ 4779  cd scrapydevenv
+ 4780  ls
+ 4781  mv -r newcoder_io_living_social spider
+ 4782  mv -R newcoder_io_living_social spider
+ 4783  mv --help
+ 4784  vim ~/.zshrc
+ 4785  source ~/.zshrc
+ 4786  workon scrapydevenv
+ 4787  ls
+ 4788  clear
+ 4789  ls -al
+ 4790  vim ~/.vimrc
+ 4791  ls
+ 4792  vim ~/.zshrc
+ 4793  source ~/.zshrc
+ 4794  antigen theme xxf
+ 4795  exit
+ 4796  vim ~/.zshrc
+ 4797  source ~/.zshrc
+ 4798  antigen update
+ 4799  vim ~/.zshrc
+ 4800  source ~/.zshrc
+ 4801  ls
+ 4802  workon scrapydevenv
+ 4803  ls
+ 4804  tmux
+ 4805  ls
+ 4806  cd ~/.virtualenvs/scrapydevenv
+ 4807  ls
+ 4808  exit
+ 4809  deactivate
+ 4810  vim ~/.zshrc
+ 4811  source ~/.zshrc
+ 4812  ls
+ 4813  exit
+ 4814  workon scrapydevenv
+ 4815  ls
+ 4816  ls -al
+ 4817  ls
+ 4818  ~/.zshrc
+ 4819  vim ~/.zshrc
+ 4820  source ~/.zshrc
+ 4821  antigen bundle honukai
+ 4822  source ~/.zshrc
+ 4823  vim ~/.zshrc
+ 4824  source ~/.zshrc
+ 4825  cd ~/.oh-my-zsh/themes
+ 4826  git clone https://github.com/oskarkrawczyk/honukai-iterm-zsh.git
+ 4827  ls
+ 4828  cd honukai-iterm-zsh
+ 4829  ls
+ 4830  ls -al
+ 4831  mv honukai.zsh-theme ./
+ 4832  cd ..
+ 4833  mv honukai-iterm-zsh/honukai.zsh-theme ~/.oh-my-zsh/themes
+ 4834  ls
+ 4835  rm honukai-iterm-zsh
+ 4836  rm -rf honukai-iterm-zsh
+ 4837  vim ~/.zshrc
+ 4838  source ~/.zshrc
+ 4839  upgrade_oh_my_zsh
+ 4840  cd ~/antigen
+ 4841  ls
+ 4842  ls -al
+ 4843  vim antigen.zsh
+ 4844  vim ~/.zshrc
+ 4845  source ~/.zshrc
+ 4846  cd ~/.antigen
+ 4847  ls
+ 4848  cd repos
+ 4849  ls
+ 4850  ls -al
+ 4851  cd https-COLON--SLASH--SLASH-github.com-SLASH-prikhi-SLASH-molokai-powerline-zsh.git
+ 4852  ls
+ 4853  ls -al
+ 4854  cd ..
+ 4855  vim ~/.zshrc
+ 4856  source ~/.zshrc
+ 4857  vim ~/.zshrc
+ 4858  source ~/.zshrc
+ 4859  tmux 
+ 4860  ls
+ 4861  cd ~/
+ 4862  workon scrapydev
+ 4863  workon scrapydevenv
+ 4864  ls
+ 4865  cd ~/.virtualenvs/scrapydevenv
+ 4866  ls
+ 4867  cd spider 
+ 4868  ls
+ 4869  clear
+ 4870  ls
+ 4871  ls -al
+ 4872  cd khda
+ 4873  ls
+ 4874  cd khda
+ 4875  vim link.txt
+ 4876  scrapy shell
+ 4877  cd ..
+ 4878  cd ~/
+ 4879  ls
+ 4880  cd ~/.virtualenvs/scrapydevenv/spider/khda/khda
+ 4881  ls
+ 4882  ls -al
+ 4883  cat xpath.txt
+ 4884  ipython
+ 4885  scrapy shell http://khda.gov.ae/en/directory/schools-search-results/school\?id\=205
+ 4886  pip install ipython
+ 4887  ipython
+ 4888  scrapy shell http://khda.gov.ae/en/directory/schools-search-results/school\?id\=205
+ 4889  vim xpath.txt
+ 4890  top
+ 4891  scrapy shell www.khda.gov.ae/en/directory/schools-search-results/
+ 4892  scrapy shell www.khda.gov.ae/en/directory/schools-search-results
+ 4893  scrapy shell http://khda.gov.ae/en/directory/schools-search-results/school\?id\=205
+ 4894  vim spiders/khda_spider.py
+ 4895  cd ..
+ 4896  scrapy crawl khda_spider
+ 4897  scrapy crawl khda_spider --output results.json -t json
+ 4898  ls
+ 4899  cat results.json
+ 4900  cd spdiers
+ 4901  ls -al
+ 4902  cd khda
+ 4903  ls
+ 4904  scrapy crawl khda_spider
+ 4905  vim spiders/khda_spider.py
+ 4906  scrapy shell http://khda.gov.ae/en/directory/schools-search-results/school\?id\=205
+ 4907  pip install beautifulsuo
+ 4908  pip insta
+ 4909  pip install beautifulsoup4
+ 4910  pip install selenium 
+ 4911  pip install python-lxml
+ 4912  pip install lxml
+ 4913  pip install html5lib
+ 4914  scrapy shell http://khda.gov.ae/en/directory/schools-search-results/school\?id\=205
+ 4915  exit
+ 4916  ls
+ 4917  fls
+ 4918  lls
+ 4919  ls -al
+ 4920  tmux
+ 4921  ls
+ 4922  ls -al
+ 4923  vim ~/.vimrc
+ 4924  ls
+ 4925  exit
+ 4926  ls
+ 4927  /usr/lib/nux/unity_support_test -p
+ 4928  sudo apt-get update
+ 4929  df -H
+ 4930  sudo apt-get install lsof psacct monit nethogs monitorix arpwatch vnstat nmon collectl perf iostat iotop ftrace stap ebpf dtrace lttng blktrace netstat iptraf ethtool free slabtop pidstat sysdig 
+ 4931  sysdig
+ 4932  sudo apt-get install sysdig
+ 4933  sudo apt-get install strace ftrace 
+ 4934  sudo apt-get install netstat 
+ 4935  sudo apt-get install perf
+ 4936  sudo apt-get install mpstat
+ 4937  sudo apt-get install lsof
+ 4938  sudo apt-get install pcstat
+ 4939  sudo apt-cache search pcstat
+ 4940  sudo apt-cache search stat
+ 4941  sudo apt-get install sysbench
+ 4942  sudo apt-get install hdparm
+ 4943  sudo apt-get install mtr pchar tracreroute
+ 4944  sudo apt-get install hping3
+ 4945  sysbench 
+ 4946  sysbench  cpu
+ 4947  sudo apt-get install iptraf
+ 4948  iptraf
+ 4949  sudo iptraf
+ 4950  sudo apt-get install vmstat
+ 4951  sudo apt-cache search vmstat
+ 4952  sudo apt-get install ifstat dstat powerstat tcpstat procps
+ 4953  dstat
+ 4954  ls
+ 4955  ls -al
+ 4956  clear
+ 4957  ls
+ 4958  exit
+ 4959  tmux
+ 4960  ls
+ 4961  ls -al
+ 4962  ls
+ 4963  ls -al
+ 4964  workon scrapydevenv
+ 4965  ls
+ 4966  ls -al
+ 4967  vim ~/.vimrc
+ 4968  ls -al
+ 4969  vim ~/.vimrc
+ 4970  ls
+ 4971  ls -al
+ 4972  workon scrapydevenv
+ 4973  ls
+ 4974  cd ~/.virtualenvs/scrapydevenv/spider/
+ 4975  ls
+ 4976  ls -al
+ 4977  ls
+ 4978  ls -al
+ 4979  ls a-l
+ 4980  ls -al
+ 4981  ls
+ 4982  ls -al
+ 4983  ls
+ 4984  ls -al
+ 4985  ls
+ 4986  clear
+ 4987  software-center
+ 4988  sudo apt-get install gtk3
+ 4989  apt-cache search gtk3
+ 4990  software-center
+ 4991  sudo apt-get install byzanz
+ 4992  ls
+ 4993  ls -al
+ 4994  git clone https://github.com/chrishyx/scrapy-crawler.git
+ 4995  ls a-l
+ 4996  ls -al
+ 4997  cd scrapy-crawler
+ 4998  ls
+ 4999  cd lianjia/lianjia
+ 5000  ls
+ 5001  vim spiders/xiaoqu.py
+ 5002  ls
+ 5003  scrapy crawl xiaoqu
+ 5004  vim spiders/xiaoqu.py
+ 5005  ls
+ 5006  cd spiders
+ 5007  ls
+ 5008  cd ..
+ 5009  ls
+ 5010  cd ..
+ 5011  ls
+ 5012  cd lianjia
+ 5013  ls
+ 5014  vim items.py
+ 5015  ls -al
+ 5016  vim settings.py
+ 5017  cd .
+ 5018  cd ..
+ 5019  ls
+ 5020  cd ..
+ 5021  ls
+ 5022  cd neteaseauto
+ 5023  ls
+ 5024  ls -al
+ 5025  cd neteaseauto
+ 5026  ls
+ 5027  vim items.py
+ 5028  vim pipelines.py
+ 5029  vim spiders/auto.py
+ 5030  vim settings.py
+ 5031  vim pipelines.py
+ 5032  ls
+ 5033  vim spiders/auto.py
+ 5034  vim settings.py
+ 5035  scrapy crawl auto --output car_results1.json -t json 
+ 5036  vim pipelines.py
+ 5037  ls
+ 5038  cd ...
+ 5039  cd ..
+ 5040  ls
+ 5041  git clone https://github.com/wut0n9/JianshuArticles.git
+ 5042  ls
+ 5043  ls -a
+ 5044  ls -al
+ 5045  git clone https://github.com/zgbzsu/lagou.git
+ 5046  mv lagou/ zgbzsu_lagou
+ 5047  ls
+ 5048  ls -al
+ 5049  cd zgbzsu_lagou
+ 5050  ls
+ 5051  vim index.txt
+ 5052  cd lagou
+ 5053  ls
+ 5054  ls -al
+ 5055  cat spiders/index.py
+ 5056  vim spiders/index.py
+ 5057  ls
+ 5058  scrapy crawl index --output index_tariq.json -t json
+ 5059  vim items.py
+ 5060  vim pipelines.py
+ 5061  vim settings.py
+ 5062  scrapy crawl index --output index_tariq.json -t json
+ 5063  ls
+ 5064  ls -al
+ 5065  cd ..
+ 5066  ls
+ 5067  pip install scrapygraphite
+ 5068  cd ..
+ 5069  git clone https://github.com/KDF5000/NetEasyNews.git
+ 5070  pip install scrapy-redis
+ 5071  git clone https://github.com/KDF5000/RSpider.git 
+ 5072  ls -al
+ 5073  git clone https://github.com/jingzhou123/tieba-crawler.git
+ 5074  git clone https://github.com/gnemoug/distribute_crawler.git
+ 5075  ls -al
+ 5076  git clone https://github.com/yoghurtjia/Zhihu_bigdata.git
+ 5077  git clone https://github.com/chenghao/TBSpiders.git
+ 5078  sudo apt-get update 
+ 5079  sudo apt-get upgrade
+ 5080  ls
+ 5081  ls -al
+ 5082  scrapy startproject ssagov
+ 5083  cd ssagov
+ 5084  ls -al
+ 5085  cd ssagov
+ 5086  ls
+ 5087  vim items.py
+ 5088  workon scrapydevenv
+ 5089  cd ~/.virtualenvs/scrapydevenv/spider/
+ 5090  ls
+ 5091  cd ssagov
+ 5092  ls
+ 5093  cd ..
+ 5094  vim xpath_raw_info.html
+ 5095  vim spiders/gssgov_spider.py
+ 5096  cd spiders
+ 5097  ls
+ 5098  vim gssgov_spider.py
+ 5099  workon scrapydevenv
+ 5100  cd ~/.virtualenvs/scrapydevenv/spider/
+ 5101  ls
+ 5102  cd myhome_ireland_spider
+ 5103  ls
+ 5104  cd myhome
+ 5105  ls
+ 5106  cd spiders
+ 5107  ls
+ 5108  vim myhome_spider
+ 5109  vim myhome_spider.py
+ 5110  vim ssgov_spider.py
+ 5111  cd ..
+ 5112  cd myhome_ireland_spider
+ 5113  ls
+ 5114  cd myhome
+ 5115  ls
+ 5116  cd my
+ 5117  vim spiders/myhome_spider_sale.py
+ 5118  cd ...
+ 5119  ls -al
+ 5120  vim scrapy-crawler
+ 5121  cd ..
+ 5122  cd khda
+ 5123  ls
+ 5124  ls -al
+ 5125  cd khda
+ 5126  cd ..
+ 5127  ls
+ 5128  git clone LM_Scraper/blob/master/Lamudi/spiders/lmSpider.py
+ 5129  git clone https://github.com/avinashThummala/LM_Scraper.git
+ 5130  git clone https://github.com/avinashThummala/MC_Scraper.git
+ 5131  ls
+ 5132  ls -al
+ 5133  git clone https://github.com/avinashThummala/MC_Scraper.git
+ 5134  git clone https://github.com/x-hansong/Crystal.git
+ 5135  sudo npm install -g phantomjs
+ 5136  sudo apt-get install npm
+ 5137  sudo npm install -g phantomjs
+ 5138  sudo apt-get install phantomjs
+ 5139  sudo apt-get install build-essential g++ flex bison gperf ruby perl \\
+ 5140    libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev \\
+ 5141    libpng-dev libjpeg-dev python libx11-dev libxext-dev
+ 5142  git clone --recurse-submodules git://github.com/ariya/phantomjs.git
+ 5143  sudo apt-get install libicu52 libjpeg8 libfontconfig libwebp5
+ 5144  npm install phantomjs2.0
+ 5145  deactivate
+ 5146  df -H
+ 5147  top
+ 5148  npm remove  phantomjs
+ 5149  npm uninstall phantomjs
+ 5150  npm uninstall -g phantomjs
+ 5151  npm install uninstall 
+ 5152  npm --help
+ 5153  npm remove phantomjs
+ 5154  sudo apt-get purge phantomjs
+ 5155  npm install phantomjs2.0
+ 5156  top
+ 5157  exit
+ 5158  tmux
+ 5159  ls
+ 5160  npm install phantomjs2.0
+ 5161  df -H
+ 5162  df -h
+ 5163  tmux
+ 5164  phantomjs -v
+ 5165  \n\n
+ 5166  df -Hs
+ 5167  df -h
+ 5168  d
+ 5169  du -a
+ 5170  cd ~/.virtualenvs/scrapydevenv/spider
+ 5171  workon scrapydevenv
+ 5172  ls
+ 5173  sudo apt-get install phantomjs2.0
+ 5174  apt-cache search phantomjs
+ 5175  top
+ 5176  apt-get install build-essential g++ flex bison gperf ruby perl libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev libpng-dev libjpeg-dev unzip
+ 5177  sudo apt-get install build-essential g++ flex bison gperf ruby perl libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev libpng-dev libjpeg-dev
+ 5178  cd /tmp
+ 5179  ls
+ 5180  mkdir phantomjs
+ 5181  cd phantomjs
+ 5182  wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.0.0-source.zip
+ 5183  sudo apt-get install libicu52
+ 5184  git clone sudo apt-get install libicu52
+ 5185  git clone https://github.com/yswhynot/scrapy_phantomjs.git
+ 5186  ls
+ 5187  unzip phantomjs-2.0.0-source.zip
+ 5188  ls
+ 5189  cd phantomjs-2.0.0
+ 5190  time ./build.sh
+ 5191  ls
+ 5192  ls -al
+ 5193  cd bin
+ 5194  ls
+ 5195  ls -al
+ 5196  phantomjs -v
+ 5197  phantomjs -V
+ 5198  sudo cp phantomjs /usr/local/bin/
+ 5199  phantomjs -v
+ 5200  phantomjs
+ 5201  ls
+ 5202  git clone https://github.com/BlogForever/crawler.git
+ 5203  ls -al
+ 5204  du -c
+ 5205  ls -al
+ 5206  cd crawler
+ 5207  ls
+ 5208  vim README.md
+ 5209  top
+ 5210  cd ..
+ 5211  git clone https://github.com/titanjer/scraper.git
+ 5212  mkdir titanjer_scraper_with_test
+ 5213  mv scraper titanjer_scraper_with_test
+ 5214  cd titanjer_scraper_with_test
+ 5215  ls
+ 5216  cd scraper
+ 5217  ls
+ 5218  ls -al
+ 5219  clear
+ 5220  ls -al
+ 5221  vim README.md
+ 5222  cd scraper
+ 5223  ls
+ 5224  vim spiders/globaldirectshop.py
+ 5225  ls -al
+ 5226  vim items.py
+ 5227  ls
+ 5228  cd ...
+ 5229  cd ..
+ 5230  mkdir Blog_Forever
+ 5231  mv crawler Blog_Forever
+ 5232  cd Blog_Forever
+ 5233  ls
+ 5234  cd ..
+ 5235  mkdir Django_Scrapy_Wsgi_Blog_Github_Varwey
+ 5236  cd Django_Scrapy_Wsgi_Blog_Github_Varwey
+ 5237  git clone https://github.com/varwey/project.git
+ 5238  cd project
+ 5239  ls
+ 5240  ls -al
+ 5241  cd yqzbw
+ 5242  ls
+ 5243  ls -al
+ 5244  cd ....
+ 5245  git clone https://github.com/nautilus28/cars_crawler.git
+ 5246  mkdir saudi_city_phone
+ 5247  cd saudi_city_phone
+ 5248  git clone https://github.com/nautilus28/aqarcity.git
+ 5249  cd ..
+ 5250  mkdir honey_bay_com
+ 5251  cd honey_bay_com
+ 5252  git clone https://github.com/nautilus28/honeybay.git
+ 5253  cd ..
+ 5254  git clone https://github.com/nautilus28/linkedpy.git /linkedin_public
+ 5255  git clone https://github.com/nautilus28/linkedpy.git -p /linkedin_public
+ 5256  git clone https://github.com/nautilus28/linkedpy.git
+ 5257  ls -al
+ 5258  git clone https://github.com/jlamontagne/prawler.git
+ 5259  mv prawler/ important_prawler_phantomjs 
+ 5260  cd important_prawler_phantomjs
+ 5261  ls
+ 5262  vim scrapy.cfg
+ 5263  cd ..
+ 5264  mv important_prawler_phantomjs important_prawler_phantomjs_prawler
+ 5265  ls 
+ 5266  ls -al
+ 5267  cd important_prawler_phantomjs_prawler
+ 5268  ls
+ 5269  cd ls
+ 5270  ls -al
+ 5271  cd ..
+ 5272  mkdir important_prawler_phantomjs_prawler/prawler_tariq
+ 5273  mv important_prawler_phantomjs_prawler important_prawler_phantomjs_prawler/prawler_tariq
+ 5274  mv -fr important_prawler_phantomjs_prawler important_prawler_phantomjs_prawler/prawler_tariq
+ 5275  mv -f important_prawler_phantomjs_prawler important_prawler_phantomjs_prawler/prawler_tariq
+ 5276  ls -al
+ 5277  git clone https://github.com/chenjianhong/stock.git
+ 5278  git clone https://github.com/drstarry/SNS-Spider-Demos-for-test.git
+ 5279  git clone https://github.com/zhangzhenhu/scrapyc.git
+ 5280  git clone https://github.com/yidun55/autohome.git
+ 5281  ls -al
+ 5282  git clone https://github.com/luxudong/hello.git
+ 5283  mkdir otobrglez_politiki_ner
+ 5284  cd otobrglez_politiki_ner
+ 5285  git clone https://github.com/otobrglez/politiki-ner.git
+ 5286  cd ..
+ 5287  cd otobrglez_politiki_ner
+ 5288  ls
+ 5289  cd ..
+ 5290  mkdir yswhinot_scrapy_phantomjs
+ 5291  cd yswhinot_scrapy_phantomjs
+ 5292  git clone https://github.com/yswhynot/scrapy_phantomjs.git
+ 5293  cd ..
+ 5294  mkdir minimus_spider_demo
+ 5295  cd minimus_spider_demo
+ 5296  git clone https://github.com/miminus/Spider_demo.git
+ 5297  cd ..
+ 5298  mkdir malaman_other_carcrawler
+ 5299  cd malaman_other_carcrawler
+ 5300  git clone https://github.com/malaman/other.git
+ 5301  cd ..
+ 5302  mkdir daize1994/engin_spider
+ 5303  mkdir daize1994_engin_spider_slidedb_dot_com
+ 5304  rm daize1994
+ 5305  rm -f daize1994
+ 5306  rm -r daize1994
+ 5307  cd daize1994_engin_spider_slidedb_dot_com
+ 5308  git clone https://github.com/daize1994/engin_spider.git
+ 5309  cd /mnt/hgfs
+ 5310  ls
+ 5311  cd Scrapy_Github_Project_backup_17Dec2015
+ 5312  cp ~/.virtualenvs/scrapydevenv /mnt/hgfs/Scrapy_Github_Project_backup_17Dec2015
+ 5313  cp -rf ~/.virtualenvs/scrapydevenv /mnt/hgfs/Scrapy_Github_Project_backup_17Dec2015
+ 5314  daize1994/engin_spider
+ 5315  cp -rf ~/.virtualenvs/scrapydevenv /mnt/hgfs/Scrapy_Github_Project_backup_17Dec2015
+ 5316  rm -rf /mnt/hgfs/Scrapy_Github_Project_backup_17Dec2015/*
+ 5317  ls
+ 5318  cp -rf ~/.virtualenvs/scrapydevenv /mnt/hgfs/Scrapy_Github_Project_backup_17Dec2015
+ 5319  cd ..
+ 5320  mkdir leeomar_smart_buyer
+ 5321  ls -al
+ 5322  git clone https://github.com/leeomar/smart-buyer.git
+ 5323  mkdir rdryan_webspider_craiglist
+ 5324  cd rdryan_webspider_craiglist
+ 5325  run-help git
+ 5326  git clone https://github.com/rdryan/webspider.git
+ 5327  cd ..
+ 5328  mkdir smilezjw_Guba_Xueqiu_Crawler
+ 5329  cd smilezjw_Guba_Xueqiu_Crawler
+ 5330  git clone https://github.com/smilezjw/Guba_Xueqiu_Crawler.git
+ 5331  top
+ 5332  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+ 5333  sudo apt-get update 
+ 5334  sudo apt-get install sublime-text-installer
+ 5335  exit
+ 5336  tmux
+ 5337  ls
+ 5338  df -h
+ 5339  aptitude 
+ 5340  df -h
+ 5341  subl
+ 5342  workon scrapydevenv
+ 5343  cd ~/.virtualenvs/srapydevenv/spider/
+ 5344  cd ~/.virtualenvs/scrapydevenv/spider
+ 5345  scrapy startproject upwork1
+ 5346  cd upwork1
+ 5347  ls
+ 5348  ls -al
+ 5349  vim items.py
+ 5350  cd spiders
+ 5351  vim upwork_spider.py
+ 5352  cd ..
+ 5353  ls
+ 5354  cd upwork1
+ 5355  cd spiders
+ 5356  vim upwork_spider.py
+ 5357  cd ..
+ 5358  scrapy crawl jobfinder --output jobposts.json -t json
+ 5359  phantomjs
+ 5360  vim spiders/upwork_spider.py
+ 5361  locate -b phantomjs
+ 5362  workon scrapydevenv
+ 5363  selenium -v
+ 5364  pip install selenium
+ 5365  cd /usr/local/bin/
+ 5366  ls -al
+ 5367  scrapy crawl jobfinder --output jobposts.json -t json
+ 5368  pip freeze requirement.txt
+ 5369  lsof -i 4444
+ 5370  lsof -i:4444
+ 5371  sudo apt-get install lsof
+ 5372  lsof -i :4444
+ 5373  netstat --tulnap
+ 5374  netstat -tulnap
+ 5375  netstat -tulnap | grep 4444
+ 5376  su root
+ 5377  sudo netstat -tulnap | grep 4444
+ 5378  ps aux | grep 4444
+ 5379  lsof -i
+ 5380  lsof -i | grep 444
+ 5381  lsof -i | grep phantom
+ 5382  lsof -i | grep selenium
+ 5383  lsof -i :4444
+ 5384  lsof -i :8080
+ 5385  phantomjs --webdriver-selenium-grid-hub=http://127.0.0.1:4444 --webdriver=8080
+ 5386  phantomjs --webdriver-selenium-hub=http://127.0.0.1:4444 --webdriver=8080
+ 5387  phantomjs --webdriver-selenium=http://127.0.0.1:4444 --webdriver=8080
+ 5388  phantomjs --webdriver-selenium-grid-hub=http://127.0.0.1:4444 --webdriver=8080
+ 5389  ipython
+ 5390  vim spiders
+ 5391  scrapy crawl jobfinder --output jobposts.json -t json
+ 5392  vim spiders/upwork_spider.py
+ 5393  vim items.py
+ 5394  vim spiders/upwork_spider.py
+ 5395  scrapy crawl jobfinder --output jobposts.json -t json
+ 5396  ls
+ 5397  cat jobposts.json
+ 5398  exit
+ 5399  vim spiders/upwork_spider.py
+ 5400  cd //
+ 5401  cd ~/.virtualenvs/scrapydevenv/spider
+ 5402  cd khda/khda
+ 5403  ls
+ 5404  vim spiders/khda_spider.py
+ 5405  scrapy crawl  [[{"job_title": "Toggle navigation                                                                        Upwork                                                                                            JobsFreelancers                                                Browse                                                                        Browse Categories                                                                                                Web Developers                                                                                                    Mobile Developers                                                                                                    Designers & Creatives                                                                                                    Writers                                                                                                    Virtual Assistants                                                                                                    Customer Service Agents                                                                                                    Sales & Marketing Experts                                                                                                    Accountants & Consultants                                                                                                    View All Categories                                                                                                                                        Browse Freelancers                                                                                                Web, Mobile & Software Dev                                                                                                    IT & Networking                                                                                                    Data Science & Analytics                                                                                                    Engineering & Architecture                                                                                                    Design & Creative                                                                                                    Writing                                                                                                    Translation                                                                                                    Legal                                                                                                    Admin Support                                                                                                    Customer Service                                                                                                    Sales & Marketing                                                                                                    Accounting & Consulting                                                                                                    View All Freelancers                                                                                                                                        Browse Jobs                                                                                                Web, Mobile & Software Dev                                                                                                    IT & Networking                                                                                                    Data Science & Analytics                                                                                                    Engineering & Architecture                                                                                                    Design & Creative                                                                                                    Writing                                                                                                    Translation                                                                                                    Legal                                                                                                    Admin Support                                                                                                    Customer Service                                                                                                    Sales & Marketing                                                                                                    Accounting & Consulting                                                                                                    View All Categories                                                                                                                                                            How it works                                                                                                    Become a freelancer                                                                                                Sign Up                                                    Login                                                                                                        Python developer                                                                                                                Python Code needed to interface with Linux Conntrack                                                                                                                Grabbing of daily stock market summary from news website - anyone done this?                                                                                                                Python Programmer needed to write a \"Search and scrape\" function                                                                                                                Chellenge for Web-Scraper, Web-Developer, Scraping Using API                                                                                                                Google App Engine - Python App Authentication                                                                                                                Provision a shared server with a variety of services for an academic organization.                                                                                                                OpenXml - Excel - Python                                                                                                                E-Book Writer is required on Python Language                                                                                                                Program for textual data analysis"}]n
+ 5406  vim spiders
+ 5407  scrapy crawl khda_spider --output result_18Dec2015
+ 5408  scrapy crawl khda_spider --output result_18Dec2015.csv -t csv
+ 5409  vim spiders/khda_spider.py
+ 5410  scrapy crawl khda_spider --output result_18Dec2015.csv -t csv
+ 5411  vim spiders/khda_spider.py
+ 5412  scrapy crawl khda_spider --output result_18Dec2015.csv -t csv
+ 5413  vim spiders/khda_spider.py
+ 5414  scrapy crawl khda_spider --output result_18Dec2015.csv -t csv
+ 5415  vim spiders/khda_spider.py
+ 5416  scrapy crawl khda_spider --output result_18Dec2015.csv -t csv
+ 5417  vim spiders/khda_spider.py
+ 5418  scrapy crawl khda_spider --output result_18Dec2015.csv -t csv
+ 5419  vim spiders/khda_spider.py
+ 5420  scrapy crawl khda_spider --output result_18Dec2015.csv -t csv
+ 5421  cat result_18Dec2015.csv
+ 5422  scrapy crawl khda_spider --output result_18Dec2015.json -t json
+ 5423  cat result_18Dec2015.json
+ 5424  clear
+ 5425  vim spiders/khda_spider.py
+ 5426  exit
+ 5427  cd  ~/.virtualenvs/scrapydevenv/spider/khda 
+ 5428  vim khda/spiders/khda_spider.py
+ 5429  exit
+ 5430  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda/spiders/khda_spider.py
+ 5431  exit
+ 5432  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda/spiders/khda_spider.py
+ 5433  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda/result_18Dec2015.json
+ 5434  vim ~/.virtualenvs/scrapydevenv/spider/khda/khda/items.py
+ 5435  workon scrapydevenv
+ 5436  cd ~/.virtualenvs/scrapydevenv/spider/
+ 5437  deactivate
+ 5438  exit
+ 5439  tmux
+ 5440  ls
+ 5441  workon scrapydevenv
+ 5442  cd ~/.virtualenvs/scrapydevenv/spider
+ 5443  ls
+ 5444  scrapy startproject ratemds_dr_mickey
+ 5445  cd ratemds_dr_mickey
+ 5446  ls
+ 5447  ls -al
+ 5448  cd ratemds_dr_mickey
+ 5449  vim required_data.txt
+ 5450  vim xpath.htm
+ 5451  clear
+ 5452  vim items.py
+ 5453  cd spiders
+ 5454  ls
+ 5455  ls -al
+ 5456  vim ratemds_doctor_spider.py
+ 5457  cd ..
+ 5458  cat spiders/ratemds_doctor_spider.py
+ 5459  scrapy crwal ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5460  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5461  vim spiders/ratemds_doctor_spider.py
+ 5462  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5463  vim spiders/ratemds_doctor_spider.py
+ 5464  vim items.py
+ 5465  vim spiders/ratemds_doctor_spider.py
+ 5466  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5467  vim spiders/ratemds_doctor_spider.py
+ 5468  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5469  cat ratemds_json.json
+ 5470  vim spiders/ratemds_doctor_spider.py
+ 5471  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5472  cat ratemds_json.json
+ 5473  vim spiders/ratemds_doctor_spider.py
+ 5474  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5475  vim spiders/ratemds_doctor_spider.py
+ 5476  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5477  vim spiders/ratemds_doctor_spider.py
+ 5478  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5479  cat ratemds_json.json
+ 5480  rm ratemds_json.json
+ 5481  scrapy crawl ratemds_dr_mickey_spider --output ratemds_json.json -t json
+ 5482  cat ratemds_json.json
+ 5483  sudo pip2 install pylint
+ 5484  sudo pip3 install pylint
+ 5485  sudo apt-get install python-pip python-dev mysql-server libmysqlclient-dev
+ 5486  sudo mysql_install_db
+ 5487  sudo apt-get install --reinstall software-properties-gtk
+ 5488  df -H
+ 5489  sudo service start mysqld
+ 5490  /etc/init.d/mysqld start
+ 5491  /etc/init.d/mysql start
+ 5492  sudo /etc/init.d/mysql start
+ 5493  sudo mysql_install_db
+ 5494  ps aux | grep mysql
+ 5495  ipython 
+ 5496  sudo service jupyter start
+ 5497  ps aux | jupyter 
+ 5498  jupyter
+ 5499  jupyter --version
+ 5500  jupyter notebook
+ 5501  jupyter kernelspec list
+ 5502  which python2.7
+ 5503  whcih python3.*
+ 5504  whcih python3.
+ 5505  whcih python3
+ 5506  which  python3
+ 5507  which  python3..
+ 5508  which  python3.4
+ 5509  workon scrapydevenv
+ 5510  jupyter notebook
+ 5511  /usr/bin/python2.7 -m ipykernel install --name python2
+ 5512  pip install ipykernel
+ 5513  jupyter notebook
+ 5514  ipython kernel install 
+ 5515  deactivate
+ 5516  workon scrapydevenv
+ 5517  deactivate 
+ 5518  cd ~/.virtualenvs
+ 5519  ls -al
+ 5520  workon notebook
+ 5521  jupyter notebook 
+ 5522  deactivate
+ 5523  workon scrapydevenv
+ 5524  deactivate
+ 5525  jupyter kernelspec list
+ 5526  scrapydev 
+ 5527  workon scrapydevenv
+ 5528  pip install jupyter
+ 5529  jupyter notebook
+ 5530  cd scrapydevenv/spider/reddit_spider
+ 5531  ls
+ 5532  cd reddit_spider
+ 5533  ls
+ 5534  vim spiders/reddit_crawler.py
+ 5535  cd ...
+ 5536  cd upwork1/
+ 5537  cd upwork1
+ 5538  vim spiders/upwork_spider.py
+ 5539  scrapy crawl jobfinder --output scraped_data.csv -t csv
+ 5540  vim spiders/upwork_spider.py
+ 5541  rm scraped_data.csv
+ 5542  scrapy crawl jobfinder --output scraped_data.csv -t csv
+ 5543  rm scraped_data.csv
+ 5544  scrapy crawl jobfinder --output scraped_data.csv -t csv
+ 5545  rm scraped_data.csv
+ 5546  scrapy crawl jobfinder --output scraped_data.json -t json
+ 5547  rm scraped_data.json
+ 5548  scrapy crawl jobfinder --output scraped_data.json -t json
+ 5549  cd ..
+ 5550  git clone https://github.com/fooling/crazy.git
+ 5551  mkdir blog_sample_scraping
+ 5552  cd blog_sample_scraping
+ 5553  git clone https://github.com/milinda/Scrapy-Sample.git
+ 5554  cd ..
+ 5555  mkdir recursive_scraping_image
+ 5556  cd recursive_scraping_image
+ 5557  git clone https://github.com/alexanderkoumis/imgscrape.git
+ 5558  scrapy crawl jobfinder --output scraped_data.csv -t csv
+ 5559  cd ..
+ 5560  cd spider/upwork1/upwork1
+ 5561  scrapy crawl jobfinder --output scraped_data.csv -t csv
+ 5562  tmux
+ 5563  ls
+ 5564  workon scrapydevenv
+ 5565  cd ~/.virtualenvs/scrapydevenv/spider/upwork1/upwork1/
+ 5566  scrapy crawl jobfinder --output scraped_data.csv -t csv
+ 5567  cd ....
+ 5568  cd spider/
+ 5569  cp -pR ratemds_dr_mickey ratemds_dr_mickey_1
+ 5570  cd ratemds_dr_mickey1
+ 5571  cd ratemds_dr_mickey_1
+ 5572  ls
+ 5573  cd ratemds_dr_mickey
+ 5574  ls
+ 5575  ls -al
+ 5576  rm ratemds_json.json
+ 5577  scrapy crawl ratemds_dr_mickey_spider --output scraped_data.csv -t csv
+ 5578  cd ..
+ 5579  git clone https://github.com/taojy123/TBspider.git
+ 5580  cd rdryan_webspider_craiglist
+ 5581  ls
+ 5582  cd webspider
+ 5583  ls
+ 5584  cd craigslist
+ 5585  ls
+ 5586  cd craigslist
+ 5587  ls
+ 5588  vim spiders/craigslist_spider.py
+ 5589  scrapy crawl craigslist_sipider --output scraped_data.csv -t csv
+ 5590  scrapy crawl craigslist_spider --output scraped_data.csv -t csv
+ 5591  scrapy crawl craigslist_sipider -C
+ 5592  cd ...
+ 5593  cd info
+ 5594  ls 
+ 5595  cd info
+ 5596  ls
+ 5597  cd spiders
+ 5598  ls -al
+ 5599  cd ..
+ 5600  scrapy crwal a114chn --output scraped_a114chn.csv -t csv 
+ 5601  scrapy crawl a114chn --output scraped_a114chn.csv -t csv 
+ 5602  cd ..
+ 5603  cd ratemds_dr_mickey
+ 5604  cd ..
+ 5605  cd ratemds_dr_mickey_1
+ 5606  ls
+ 5607  cd ratemds_dr_mickey
+ 5608  ls
+ 5609  vim spiders/ratemds_spider.py
+ 5610  ls -al
+ 5611  vim spiders/ratemds_spider.py
+ 5612  vim items.py
+ 5613  vim spiders/ratemds_spider.py
+ 5614  scrapy crawl ratemds_spider2 --output ratemds_spider2.csv -t csv
+ 5615  scrapy shell ratemds_spider2
+ 5616  scrapy shell --help
+ 5617  scrapy shell https://www.ratemds.com/doctor-ratings/136953/Dr-Mickey%2BE.-Denen-Dayton-OH.html
+ 5618  tmux
+ 5619  scrapy crawl ratemds_spider2 --output ratemds_spider2.csv -t csv
+ 5620  scrapy shell https://www.ratemds.com/doctor-ratings/136953/Dr-Mickey%2BE.-Denen-Dayton-OH.html
+ 5621  scrapy crawl ratemds_spider2 --output ratemds_spider2.csv -t csv
+ 5622  scrapy crawl ratemds_spider_final --output ratemds_spider_final.csv -t csv
+ 5623  pip install urlparse
+ 5624  pip search urlparse
+ 5625  pip install urlparse2
+ 5626  pip install urlparse3
+ 5627  pip install uritools
+ 5628  scrapy crawl ratemds_spider_final --output ratemds_spider_final.csv -t csv
+ 5629  pip install bs4
+ 5630  pip search beautifulsoup
+ 5631  scrapy crawl ratemds_spider_final --output ratemds_spider_final.csv -t csv
+ 5632  pip install html5lib
+ 5633  pip install lxml
+ 5634  pip install beatifulsoup4
+ 5635  pip install beautifulsoup4
+ 5636  scrapy crawl ratemds_spider_final --output ratemds_spider_final.csv -t csv
+ 5637  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json.json -t json
+ 5638  scrapy shell https://www.ratemds.com/doctor-ratings/136953/Dr-Mickey%2BE.-Denen-Dayton-OH.html
+ 5639  exit
+ 5640  workon scrapydevenv
+ 5641  cd ~/.virtualenvs/scrapydevenv/spider/ratemds_dr_mickey_1
+ 5642  cd ratemds_dr_mickey
+ 5643  cd spiders
+ 5644  cd ..
+ 5645  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json1.json -t json
+ 5646  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json2.json -t json
+ 5647  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json3.json -t json
+ 5648  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json4.json -t json
+ 5649  scrapy crawl ratemds_spider_final --output ratemds_spider_final_csv5.json -t csv
+ 5650  scrapy crawl ratemds_spider_final --output ratemds_spider_final_csv6.csv -t csv
+ 5651  scrapy crawl ratemds_spider_final --output ratemds_spider_final_csv7.csv -t csv
+ 5652  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json8.json -t json
+ 5653  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json9.json -t json
+ 5654  scrapy crawl ratemds_spider_final --output ratemds_spider_final_csv10.csv -t csv
+ 5655  scrapy crawl ratemds_spider_final --output ratemds_spider_final_json11.json -t json
+ 5656  scrapy crawl ratemds_spider_final --output ratemds_spider_final_csv12.csv -t csv
+ 5657  scrapy crawl ratemds_spider_final --output ratemds_spider_final_csv12.json -t json
+ 5658  cd ..
+ 5659  cd spider/reddit_spider
+ 5660  ls
+ 5661  cd reddit_spider
+ 5662  ls
+ 5663  vim spiders/reddit_crawler.py
+ 5664  vim items.py
+ 5665  vim spiders/reddit_crawler.py
+ 5666  scrapy crawl reddit_crawler --output scraped_data.json -t json
+ 5667  vim spiders/reddit_crawler.py
+ 5668  scrapy crawl reddit_crawler --output scraped_data.json -t json
+ 5669  vim spiders/reddit_crawler.py
+ 5670  scrapy shell https://www.reddit.com/r/learnpython/new
+ 5671  scrapy crawl reddit_crawler --output scraped_data.json -t json
+ 5672  scrapy crawl reddit_crawler --output scraped_data.csv -t csv
+ 5673  ls
+ 5674  cd ~/Downloads
+ 5675  ls
+ 5676  ls -al
+ 5677  tar xzvf FreeFileSync_7.7_Ubuntu_15.10_64-bit.tar.gz
+ 5678  ls -al
+ 5679  cd FreeFileSync
+ 5680  ls
+ 5681  ./FreeFileSync
+ 5682  sudo apt-add-repository ppa:freefilesync/ffs
+ 5683  sudo apt-get update 
+ 5684  df -H
+ 5685  exit
+ 5686  cd ..
+ 5687  git clone https://github.com/blackfire70/save22-productspiders.git
+ 5688  sudo apt-get install freefilesync
+ 5689  git clone https://github.com/L-Jovi/adleida_allproject.git
+ 5690  git clone https://github.com/kols/poi_scrape.git
+ 5691  git clone https://github.com/mpresh/restate.git
+ 5692  git clone https://github.com/voshawn/MTA-Hackathon.git
+ 5693  git clone https://github.com/vmassuchetto/glotpress-scraper.git
+ 5694  git clone https://github.com/tashigaofei/BlogSpider.git
+ 5695  mkdir openhatchorg_live_code
+ 5696  cd openhatchorg_live_code
+ 5697  git clone https://github.com/openhatch/oh-bugimporters.git
+ 5698  git clone https://github.com/openhatch/oh-mainline.git
+ 5699  cd ~/.virtualenvs/scrapydevenv/spider
+ 5700  git clone https://github.com/mhnatiuk/phd_sociology_of_religion.git
+ 5701  git clone https://github.com/sorig/moodle-scraper.git
+ 5702  cd ..
+ 5703  git clone https://github.com/zjc0516/crawl_youtube.git
+ 5704  pip install toolz
+ 5705  pip install operator
+ 5706  pip search operator
+ 5707  pip install w3lib
+ 5708  pip install json
+ 5709  pip search json
+ 5710  pip search scrapy
+ 5711  git clone https://github.com/roddehugo/patents-scraper.git
+ 5712  git clone https://github.com/medialab/hyphe.git
+ 5713  git clone https://github.com/scrapy-plugins/scrapy-jsonrpc.git
+ 5714  git clone https://github.com/zhang283/carmarket.git
+ 5715  exit
+ 5716  exit()\nexit()\nexit
+ 5717  exit
+ 5718  deactivate
+ 5719  exit
+ 5720  tmux
+ 5721  ls
+ 5722  cd ..
+ 5723  git clone https://github.com/scalingexcellence/scrapybook.git
+ 5724  workon scrapyd
+ 5725  workon scrapydevenv
+ 5726  pip install scrapyd-client
+ 5727  pip install scrapyd
+ 5728  scrapyd
+ 5729  git clone https://github.com/caje731/eating-disorder.git
+ 5730  pip freeze requirements.txt
+ 5731  cd ....
+ 5732  cd ~/.virtualenvs
+ 5733  cd scrapydevenv
+ 5734  pip freeze requirements_21Dec_2015.txt
+ 5735  pip freeze >requirements_21Dec_2015.txt
+ 5736  tmux
+ 5737  cd ~/.virtualenvs/scrapydevenv
+ 5738  ls
+ 5739  cd spider
+ 5740  ls
+ 5741  ls -al
+ 5742  ls -a
+ 5743  workon scrapydevenv
+ 5744  ls
+ 5745  cd carmarket
+ 5746  ls
+ 5747  cd crawling
+ 5748  ls
+ 5749  cd cars/cars
+ 5750  ls
+ 5751  cd cars
+ 5752  ls
+ 5753  vim items.py
+ 5754  vim spiders/carPrice.py
+ 5755  scrapy crawl carPrice --output carPrice_tariq.json -t json
+ 5756  vim spiders/carPrice.py
+ 5757  scrapy crawl carPrice --output carPrice_tariq.json -t json
+ 5758  vim spiders/carPrice.py
+ 5759  cd ~/.virtualenvs/scrapydevenv/spider
+ 5760  workon scrapydevenv
+ 5761  cd carmarket/crawling/cars/cars/cars
+ 5762  vim spiders/carPrice.py
+ 5763  scrapy shell www.edmunds.com
+ 5764  scrapy shell http://www.edmunds.com
+ 5765  cd ..
+ 5766  ls
+ 5767  ls -al
+ 5768  vim dealer.json
+ 5769  vim try.json
+ 5770  cat price.json
+ 5771  ls -al
+ 5772  cd cars
+ 5773  ls
+ 5774  cat carPrice_tariq.json
+ 5775  cd ....
+ 5776  cd ..
+ 5777  cd ratemds_dr_mickey_1
+ 5778  ls
+ 5779  cd ratemds_dr_mickey
+ 5780  ls -a
+ 5781  rm *.json
+ 5782  rm *.csv
+ 5783  ls -al
+ 5784  vim spiders/ratemds_spider_final.py
+ 5785  scrapy crawl ratemds_spider_final --output scraped_json.json -t json
+ 5786  vim spiders/ratemds_spider_final.py
+ 5787  cd ...
+ 5788  cd Crystal
+ 5789  ls
+ 5790  cd crystal
+ 5791  ls -a
+ 5792  vim spiders/spider.py
+ 5793  scrapy crawl common --output scraped_data.tsv -t tsv
+ 5794  pip install tsv
+ 5795  scrapy crawl common --output scraped_data.tsv -t tsv
+ 5796  scrapy crawl common --output scraped_data.csv -t csv
+ 5797  pip install ipdb
+ 5798  scrapy crawl common --output scraped_data.csv -t csv
+ 5799  vim spiders/spider.py
+ 5800  pip install copy
+ 5801  pip search copy
+ 5802  pip info copy
+ 5803  vim spiders/spider.py
+ 5804  ls -al
+ 5805  vim spiders/spider.py
+ 5806  pip install crash_on_ipy
+ 5807  vim spiders/spider.py
+ 5808  pip install crash_on_ipy
+ 5809  pip search crash_on_ipy
+ 5810  pip search crash_on
+ 5811  cd ..
+ 5812  ls
+ 5813  vim crash_on_ipy.py
+ 5814  pip install sys
+ 5815  vim crash_on_ipy.py
+ 5816  ls -al
+ 5817  vim scrapy.cfg
+ 5818  vim run.py
+ 5819  vim preprocesser.py
+ 5820  ls -al
+ 5821  cd model
+ 5822  ls
+ 5823  vim db_config.py
+ 5824  pip install sqlalechemy
+ 5825  pip install sqlalchemy
+ 5826  pip search sqlalchemy
+ 5827  pip install SQLAlchemy
+ 5828  import sqlalchemy
+ 5829  python
+ 5830  cd ..
+ 5831  ls
+ 5832  scrapy crawl common --output scraped_data.csv -t csv
+ 5833  cd crystal
+ 5834  ls 
+ 5835  vim s
+ 5836  vim settings.py
+ 5837  cd ..
+ 5838  cd JianshuArticles
+ 5839  cd jianshu
+ 5840  ls -a
+ 5841  scrapy crawl JSSpider --output scraped_JSSpider.csv -t csv 
+ 5842  vim spiders/jianshuspider.py
+ 5843  scrapy crawl JSSpider --output scraped_JSSpider.csv -t csv 
+ 5844  scrapy crawl JSSpider --output scraped_JSSpider.json -t json 
+ 5845  curl example.com
+ 5846  curl ratemds.com
+ 5847  cd ..
+ 5848  cd ratemds_dr_mickey_1
+ 5849  cd ratemds_dr_mickey
+ 5850  cd ..
+ 5851  ls -al
+ 5852  cd ratemds_dr_mickey
+ 5853  ls -a
+ 5854  vim spiders/ratemds_spider_final.py
+ 5855  scrapy crawl ratemds_spider_final --output final.csv -t csv
+ 5856  vim spiders/ratemds_spider_final.py
+ 5857  cd ..
+ 5858  cd ratemds_dr_mickey_1/ratemds_dr_mickey/
+ 5859  scrapy shell https://www.ratemds.com/doctor-ratings/136953/Dr-Mickey%2BE.-Denen-Dayton-OH.html
+ 5860  vim spiders/ratemds_spider_final.py
+ 5861  scrapy crawl ratemds_spider_final --output final.csv -t csv
+ 5862  scrapy crawl ratemds_spider_final --output final.json -t json
+ 5863  scrapy crawl ratemds_spider_final --output final1.json -t json
+ 5864  scrapy shell https://www.ratemds.com/doctor-ratings/136953/Dr-Mickey%2BE.-Denen-Dayton-OH.html
+ 5865  scrapy crawl ratemds_spider_final --output final1.json -t json
+ 5866  OA
+ 5867  scrapy crawl ratemds_spider_final --output final1.json -t json
+ 5868  scrapy crawl ratemds_spider_final --output final2.csv -t csv
+ 5869  scrapy crawl ratemds_spider_final --output final3.json -t json
+ 5870  scrapy crawl ratemds_spider_final --output final4.json -t json
+ 5871  scrapy crawl ratemds_spider_final --output final4.csv -t csv
+ 5872  scrapy crawl ratemds_spider_final -o final.json -t json
+ 5873  scrapy crawl ratemds_spider_final --output final4.csv -t csv
+ 5874  scrapy crawl ratemds_spider_final --output final4.tsv -t tsv
+ 5875  scrapy crawl ratemds_spider_final --output final4.jsonlines -t jsonlines
+ 5876  scrapy crawl ratemds_spider_final --output final4.jsonlines -t jsonline
+ 5877  scrapy crawl ratemds_spider_final --output final4.jl -t jl
+ 5878  sudo apt-get install apt-fast
+ 5879  apt-cache search apt-fast
+ 5880  sudo apt-get install mysql-client mysql-server mysql-workbench
+ 5881  scrapy crawl ratemds_spider_final
+ 5882  cd ..
+ 5883  scrapy startproject ratemds
+ 5884  cd ratemds
+ 5885  ls
+ 5886  ls -al
+ 5887  cd ratemds
+ 5888  ls
+ 5889  vim items.py
+ 5890  ls
+ 5891  cd ..
+ 5892  cd ratemds_dr_mickey_1/ratemds_dr_mickey/
+ 5893  scrapy crwal ratemds_spider_final
+ 5894  scrapy crawl ratemds_spider_final
+ 5895  mv spiders/ratemds_spider2.py ./spiders_raw_try
+ 5896  mv spiders/ratemds_spider_final_backup.py ./spiders_raw_try
+ 5897  scrapy crawl ratemds_spider_final
+ 5898  mv spiders/ratemds_spider_final_backup.py ./spiders_raw_try
+ 5899  scrapy crawl ratemds_spider_final
+ 5900  scrapy crawl ratemds_pipeline
+ 5901  cd ~/.virtualenvs/scrapydevenv/spider
+ 5902  tmux
+ 5903  git clone https://github.com/busla/norix-scraper.git
+ 5904  git clone https://github.com/andreberg/PoE-Scrapy.git
+ 5905  scrapy crawl ratemds_pipeline
+ 5906  cd ...
+ 5907  git clone https://github.com/istresearch/scrapy-cluster.git
+ 5908  git clone https://github.com/cnu/scrapy-random-useragent.git
+ 5909  git clone https://github.com/talhashraf/major-scrapy-spiders.git
+ 5910  git clone https://github.com/dansandland/cassandra-scrapy-pipeline.git
+ 5911  git clone https://github.com/ryancerf/scrapy-sqlitem.git
+ 5912  git clone https://github.com/Unknowny/scrapy-pastebin-latest.git
+ 5913  git clone https://github.com/rahulrrixe/FinanceNewsCrawler.git
+ 5914  git clone https://github.com/manojps/google-play-apps-crawler-scrapy.git
+ 5915  scrapy crwal ratemds_spider_final -o ratemds_spider_24_2015.json -t json
+ 5916  scrapy crawl ratemds_spider_final -o ratemds_spider_24_2015.json -t json
+ 5917  cd ratemds_dr_mickey_1/ratemds_dr_mickey/
+ 5918  scrapy crawl ratemds_spider_final -o ratemds_spider_24_2015.json -t json
+ 5919  ls -al
+ 5920  cd spiders
+ 5921  ls
+ 5922  vim ratemds_spider_final.py
+ 5923  cd ..
+ 5924  vim ratemds_spider_final.py
+ 5925  vim spiders/ratemds_spider_final.py
+ 5926  scrapy crawl spiders/ratemds_pipeline.py -o ratemds_pipeline.json -t json
+ 5927  vim spiders/ratemds_spider_final.py
+ 5928  scrapy crawl ratemds_pipeline.py -o ratemds_pipeline.json -t json
+ 5929  scrapy crawl ratemds_pipeline -o ratemds_pipeline.json -t json
+ 5930  vim spiders/ratemds_spider_final.py
+ 5931  scrapy crawl ratemds_pipeline -o ratemds_pipeline.csv -t csv
+ 5932  cd ...
+ 5933  scrapy startproject khda_recursive
+ 5934  cd khda_recursive
+ 5935  ls -al
+ 5936  vim khda_recursive
+ 5937  cd khda_recursive
+ 5938  ls
+ 5939  vim items.py
+ 5940  cd ..
+ 5941  mkdir khda_projects
+ 5942  cd khda_projects
+ 5943  scrapy startproject khda_get_urls
+ 5944  cd ..
+ 5945  mkdir khda_etc
+ 5946  cd khda_etc
+ 5947  scrapy startproject khda_url
+ 5948  cd khda_url/khda_url
+ 5949  vim spiders/khda_url.py
+ 5950  sudo /etc/init.d/mysql start
+ 5951  mysql -u root -p
+ 5952  mysql -u root
+ 5953  mysql -u root -p
+ 5954  mysqladmin -u root password toor
+ 5955  mysqladmin
+ 5956  mysqladmin -u root 
+ 5957  mysqladmin -u root password toor
+ 5958  mysqladmin -u mtaziz password toor
+ 5959  sudo service mysqld stop
+ 5960  sudo service mysql stop
+ 5961  sudo service mysql --skip-grant-table
+ 5962  sudo service mysql --skip-grant-table start
+ 5963  sudo service mysql --skip-grant-tables start
+ 5964  ps aux | grep mysql
+ 5965  mysqld_safe --skip-grant-tables &
+ 5966  sudo mysqld_safe --skip-grant-tables &
+ 5967  mysql -u root
+ 5968  /etc/init.d/mysql stop
+ 5969  sudo /etc/init.d/mysql stop
+ 5970  sudo /etc/init.d/mysql start
+ 5971  mysql -u root -p
+ 5972  sudo apt-get install phpmyadmin
+ 5973  cd khda_recursive
+ 5974  ls
+ 5975  cd Khda_Urls
+ 5976  ls
+ 5977  ls -a
+ 5978  ls -al
+ 5979  vim getUrls.py
+ 5980  python getUrls.py
+ 5981  cd ..
+ 5982  cd spider
+ 5983  ls 
+ 5984  scrapy startproject khda_geturls
+ 5985  cd khda_geturls/khda_geturls
+ 5986  ls
+ 5987  vim items.py
+ 5988  vim spiders/khda_geturls.py
+ 5989  scrapy crawl khdaurls -o urls.csv -t csv
+ 5990  vim spiders/khda_geturls.py
+ 5991  scrapy crawl khdaurls -o urls.csv -t csv
+ 5992  python
+ 5993  scrapy crawl khdaurls -o khdaurls.json -t json
+ 5994  cd ..
+ 5995  cd ./khda_url/khda_url
+ 5996  ls
+ 5997  scrapy crawl khdaurls -o khdaurls.json -t json
+ 5998  cd ....
+ 5999  cd khda_geturls
+ 6000  cd khda_geturls/
+ 6001  scrapy crawl khdaurls -o khdaurls.json -t json
+ 6002  cd ..
+ 6003  cd khda_geturls/khda_geturls
+ 6004  ls 
+ 6005  scrapy shell http://www.khda.gov.ae/en/directory\?isSearched\=1\&islight\=_islight\&school\=\&textFilter\=\&rating\=\&curriculum\=\&grade\=\&fee\=\&location\=\&isNewSchool\=0\&tab\=tab-school
+ 6006  cd ..
+ 6007  git clone https://github.com/manojps/google-play-apps-crawler-scrapy.git
+ 6008  pip install scrapy-rabbitmq
+ 6009  cd ratemds
+ 6010  ls -al
+ 6011  vim spiders/ratemdsSpider.py
+ 6012  cd .../
+ 6013  cd ..
+ 6014  cd ratemds_dr_mickey_1
+ 6015  ls
+ 6016  cd ratemds_dr_mickey
+ 6017  ls
+ 6018  vim spiders/ratemds_spider_final.py
+ 6019  scrapyd
+ 6020  workon scrapydevenv
+ 6021  scrapyd
+ 6022  curl http://localhost:6800/schedule.json -d project=ratemds_dr_mickey_1 -d spider=ratemds_pipeline
+ 6023  exit
+ 6024  locate -b scrapyd.conf
+ 6025  curl http://localhost:6800/schedule.json -d project=ratemds_dr_mickey -d spider=ratemds_pipeline
+ 6026  cd ..
+ 6027  cd ratemds_dr_mickey
+ 6028  curl http://localhost:6800/schedule.json -d project=ratemds_dr_mickey -d spider=ratemds_pipeline
+ 6029  \"scrapy\"
+ 6030  pip install scrapyd
+ 6031  scrapyd -v
+ 6032  ls
+ 6033  ls -al
+ 6034  cd ..
+ 6035  ls -al
+ 6036  vim scrapy.cfg
+ 6037  curl http://localhost:6800/schedule.json -d project=ratemds_dr_mickey -d spider=ratemds_pipeline
+ 6038  cd ratemds_dr_mickey
+ 6039  curl http://localhost:6800/schedule.json -d project=ratemds_dr_mickey -d spider=ratemds_pipeline
+ 6040  scrapyd-deploy -l
+ 6041  scrapyd local-target -p ratemds_dr_mickey
+ 6042  scrapyd-deploy local-target -p ratemds_dr_mickey
+ 6043  curl http://localhost:6800/listprojects.json
+ 6044  curl http://my-ec2.amazonaws.com:6800/schedule.json -d project=projectX -d spider=spider2b -d session_id=33 -d seed_id=54 -d seed_url=http://www.blah.com/
+ 6045  curl http://localhost:6800/schedule.json -d project=ratemds_dr_mickey -d spider=ratemds_pipeline -d session_id=33 -d seed_id=54 -d seed_url=http://www.ratemds.com/
+ 6046  tmux
+ 6047  exit
+ 6048  ssh cybersecurityque@cybersecurity.com
+ 6049  ssh cybersecurityque@cybersecurityquest.com
+ 6050  sudo service ssh status
+ 6051  service ssh start
+ 6052  sudo /etc/ssh start
+ 6053  sudo /etc/init.d/ssh start
+ 6054  sudo /etc/init.d/ssh status
+ 6055  sudo service ssh start
+ 6056  ssh cybersecurityque@cybersecurityquest.com
+ 6057  sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config_backup
+ 6058  sudo vim /etc/ssh/sshd_config 
+ 6059  ssh-keygen 
+ 6060  ssh cybersecurityque@cybersecurityquest.com
+ 6061  ping cybersecurityquest.com
+ 6062  ssh-add ~/Documents/cpanel_password/id_rsa_ubuntu.pub
+ 6063  ssh cybersecurityque@cybersecurityquest.com
+ 6064  ssh cybersecurityque@cybersecurityquest.com -p 22
+ 6065  sudo apt-get install nmap
+ 6066  nmap cybersecurityquest.com
+ 6067  nmap --top-ports 10 170.75.144.130
+ 6068  nmap --top-ports 30 170.75.144.130
+ 6069  nmap --top-ports 100 170.75.144.130
+ 6070  nmap -PN 170.75.144.130
+ 6071  nmap -v 170.75.144.130
+ 6072  nmap -p- 170.75.144.130
+ 6073  nmap -p- 170.75.144.130 >~/Documents/allports_cybersecurityquest.txt
+ 6074  sudo vim /etc/ssh/sshd_config
+ 6075  sudo service ssh restart
+ 6076  sudo service ssh start
+ 6077  history
+ 6078  ssh cybersecurityque@cybersecurityquest.com -p 2222
+ 6079  ssh cybersecurityque@cybersecurityquest.com -P 2222
+ 6080  ssh cybersecurityque@cybersecurityquest.com -p 2222
+ 6081  sudo vim /etc/ssh/sshd_config
+ 6082  sudo service ssh restart 
+ 6083  ssh cybersecurityque@cybersecurityquest.com -p 54321
+ 6084  cd ~/.ssh
+ 6085  ls -al
+ 6086  ssh cybersecurityque@cybersecurityquest.com -p 22
+ 6087  history
+ 6088  ssh-keygen -t rsa
+ 6089  cd ~/.ssh
+ 6090  ls
+ 6091  ls -al
+ 6092  ls -a
+ 6093  chmod 700 id_rsa id_rsa.pub
+ 6094  ls -al
+ 6095  ssh cybersecurityque@cybersecurityquest.com -p 54321
+ 6096  vim /etc/ssh/sshd-config
+ 6097  sudo vim /etc/ssh/sshd_config
+ 6098  sudo service ssh restart 
+ 6099  ssh cybersecurityque@cybersecurityquest.com -p 54321
+ 6100  sudo vim /etc/ssh/sshd_config
+ 6101  sudo service ssh restart 
+ 6102  ssh cybersecurityque@cybersecurityquest.com
+ 6103  ssh -p 2222 cybersecurityque@cybersecurityquest.com 
+ 6104  sudo vim /etc/ssh/sshd_config
+ 6105  sudo service ssh restart 
+ 6106  sudo vim /etc/ssh/sshd_config
+ 6107  ssh -p 44410 cybersecurityque@cybersecurityquest.com 
+ 6108  sudo vim /etc/ssh/sshd_config
+ 6109  sudo service ssh restart 
+ 6110  cat /etc/ssh/ssh_config
+ 6111  sudo vim /etc/ssh/sshd_config
+ 6112  ssh -p 1024 cybersecurityque@170.75.144.130
+ 6113  sudo vim /etc/ssh/sshd_config
+ 6114  ssh -p 1024 cybersecurityque@170.75.144.130
+ 6115  sudo service ssh restart 
+ 6116  ssh -p 1024 cybersecurityque@170.75.144.130
+ 6117  ssh cybersecurityque@170.75.144.130
+ 6118  ssh -p 1024 mtaziz@192.168.1.232
+ 6119  ssh mtaziz@192.168.1.232
+ 6120  exit
+ 6121  cd ~/Downloads
+ 6122  ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.11.210.41
+ 6123  ls -al
+ 6124  chmod ls -al
+ 6125  clear
+ 6126  ls -al
+ 6127  chmod 400 aws_EC_Ubuntu14_04_Instance.pem
+ 6128  ls -al
+ 6129  ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.11.210.41
+ 6130  which python
+ 6131  python -V
+ 6132  which python 
+ 6133  python --ve
+ 6134  python -V
+ 6135  ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.11.210.41
+ 6136  cd ~/.virtualenvs/scrapydevenv/spider/ratemds_dr_mickey/ratemds_dr_mickey
+ 6137  pip freeze >requirements.txt
+ 6138  ls -al
+ 6139  vim requirements.txt
+ 6140  ifconfig 
+ 6141  sudo apt-get install filzilla
+ 6142  sudo apt-get install filezilla
+ 6143  cd ..
+ 6144  scrapyd
+ 6145  pwd
+ 6146  ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@
+ 6147  history
+ 6148  ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.11.210.41
+ 6149  history
+ 6150  ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.11.210.41
+ 6151  exit
+ 6152  scrapy startproject reaagovtnz
+ 6153  cd reaagovtnz
+ 6154  vim items.py
+ 6155  mkdir xpath
+ 6156  cd xpath
+ 6157  vim reaagovtnz_xpath.py
+ 6158  cd ..
+ 6159  scrapy crawl reaa_spider -o reaa_results.csv -t csv 
+ 6160  OA
+ 6161  scrapy crawl reaa_spider -o reaa_results.csv -t csv 
+ 6162  cd ..
+ 6163  scrapy startproject getexternallinks
+ 6164  cd getexternallinks/getexternallinks
+ 6165  ls -al
+ 6166  scrapy crwal getexternallinks -o results.csv -t csv
+ 6167  scrapy crawl getexternallinks -o results.csv -t csv
+ 6168  cd ..
+ 6169  cd..
+ 6170  cd ..
+ 6171  mkdir recursive_spider
+ 6172  rm recursive_spider
+ 6173  rm -R recursive_spider
+ 6174  scrapy startproject recursive_example
+ 6175  cd recursive_example/recursive_example/
+ 6176  vim spiders/recursiveexample.py
+ 6177  scrapy crawl recursive_spider -o recursive_spider.csv -t csv
+ 6178  workon scrapydevenv
+ 6179  cd ~/.virtualenvs/scrapydevenv/spider/recursive_example/recursive_example
+ 6180  scrapy shell http://www.reaa.govt.nz/Pages/PublicRegisterSearch.aspx\?pageNo\=1\&name\=\*\&orgName\=\&location\=\&licenceNo\=\&itemsPerPage\=100\&sortExpression\=0
+ 6181  scrapy crawl recursive_spider -o recursive_spider.csv -t csv
+ 6182  cd ..
+ 6183  scrapy crawl bdstall
+ 6184  scrapy startproject bdstall
+ 6185  cd bdstall/bdstall
+ 6186  ls
+ 6187  scrapy crawl bdstall_spider -o bdstall_spider.csv -t csv 
+ 6188  cd ..
+ 6189  cd bdstall/bdstall
+ 6190  ls
+ 6191  scrapy shell http://www.bdstall.com/advancedSearch/
+ 6192  pip install scrapy-fake-useragent
+ 6193  scrapy crawl bdstall_spider -o bdstall_spider.csv -t csv 
+ 6194  scrapy shell http://www.bdstall.com/advancedSearch/
+ 6195  scrapy crawl bdstall_spider -o bdstall_spider.csv -t csv 
+ 6196  cd ..
+ 6197  cd ratemds_dr_mickey
+ 6198  ls
+ 6199  ls -al
+ 6200  scrapy crawl ratemds_pipeline -o ratemds_pipeline.json -t json
+ 6201  cd ...
+ 6202  cd bdstall
+ 6203  scrpay crawl bdstall_spider
+ 6204  scrapy crawl bdstall_spider
+ 6205  scrpay crawl bdstall_spider
+ 6206  scrapy crawl bdstall_spider
+ 6207  scrapy shell http://www.bdstall.com/advancedSearch/
+ 6208  scrapy crawl bdstall_spider
+ 6209  exit
+ 6210  exit()
+ 6211  exit
+ 6212  workon scrapydevenv
+ 6213  tmux
+ 6214  ls
+ 6215  workon scrapydevenv
+ 6216  ls -al
+ 6217  cd ~/.virtualenvs/scrapydevenv/spider
+ 6218  cd bdstall/bdstall
+ 6219  scrapy crawl bdstall_spider
+ 6220  cd ..
+ 6221  scrapy startproject bdnews24
+ 6222  scrapy genspider bdnews24 bdnews24.com
+ 6223  cd bdnews24/bdnews24
+ 6224  scrapy genspider bdnews24 bdnews24.com
+ 6225  scrapy genspider bdnews24_spider bdnews24.com
+ 6226  scrapy crawl bdnews24_spider
+ 6227  pip install scrapy
+ 6228  pip --upgrade scrapy
+ 6229  pip install scrapy --upgrade
+ 6230  scrapy crawl bdnews24_spider
+ 6231  vim spiders/bdnews24_spider.py
+ 6232  scrapy crawl bdnews24_spider
+ 6233  vim spiders/bdnews24_spider.py
+ 6234  scrapy crawl bdnews24_spider
+ 6235  cd ..
+ 6236  cd bdstall/bdstall
+ 6237  ls
+ 6238  scrapy crawl bdstall_spider
+ 6239  scrapy crawl bdstall_spider -o bdstall_spider.csv -t csv
+ 6240  cd ..
+ 6241  mkdir Rules_Collected
+ 6242  vim rules_scrapy.py
+ 6243  cd ratemds_dr_mickey
+ 6244  ls -al
+ 6245  scrapy crawl ratemds_pipeline -o ratemds_pipeline_27122015.csv -t csv
+ 6246  scrapy crawl ratemds_pipeline -o ratemds_pipeline_27122015.json -t json
+ 6247  scrapy crawl ratemds_pipeline_demo -o ratemds_pipeline_demo_27122015.csv -t csv
+ 6248  scrapy crawl ratemds_pipeline_demo -o ratemds_pipeline_demo_27122015.json -t json
+ 6249  scrapy crawl ratemds_pipeline_demo -o ratemds_pipeline_demo_27122015_1.json -t json
+ 6250  scrapy crawl ratemds_pipeline_demo
+ 6251* tmux
+ 6252  history | grep ec2
+ 6253* history 
+ 6254* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.11.210.41
+ 6255* cd ~/Downloads
+ 6256* ls
+ 6257* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.11.210.41
+ 6258* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.35.68.251
+ 6259  cd..
+ 6260  cd ..
+ 6261  scrapy startproject realstate
+ 6262  cd realstate/realstate
+ 6263  mkdir utils
+ 6264  cd utils
+ 6265  vim what2scrape.py
+ 6266  cd ..
+ 6267  scrapy genspider realstateau realstate.com.au
+ 6268  vim spiders/realstateau.py
+ 6269  vim settings.py
+ 6270  scrapy crawl realstateau 
+ 6271* sudo add-apt-repository ppa:notepadqq-team/notepadqq
+ 6272* sudo apt-get update 
+ 6273* sudo apt-get install notepadqq
+ 6274* sudo apt-get upgrade 
+ 6275  scrapy crawl realstateau -o realstateau.json -t json
+ 6276  sudo apt-get upgrade 
+ 6277  scrapy crawl realstateau -o realstateau.json -t json
+ 6278* workon scrapydevenv
+ 6279* cd ~/.virtualenvs/scrapydevenv/spider/realstate/realstate
+ 6280* scrapy shell https://www.realestate.com.au/neighbourhoods/Alkimos-6038-wa
+ 6281  scrapy crawl realstateau -o realstateau.json -t json
+ 6282  scrapy crawl realstateau -o realstateau.csv -t csv
+ 6283  scrapy crawl realstateau -o realstateau.json -t json
+ 6284  scrapy crawl realstateau -o realstateau_current.csv -t csv
+ 6285  scrapy crawl realstateau -o realstateau_current1.csv -t csv
+ 6286  cd ..
+ 6287  scrapy startproject realstate_monthly
+ 6288  cd realstate_monthly/realstate_monthly
+ 6289  scrapy genspider realstate_monthly_spider realstate.com.au
+ 6290  cd ..
+ 6291  ls
+ 6292  scrapy startproject realstate_yearly
+ 6293  cd realstate_yearly/realstate_yearly
+ 6294  scrapy genspider realstate_yearly_spider realstate.com.au 
+ 6295  cd ..
+ 6296  cd realstate_monthly/realstate_monthly
+ 6297  scrapy crwal realstate_monthly_spider
+ 6298  scrapy crawl realstate_monthly_spider
+ 6299* cd ..
+ 6300* cd realstate_monthly
+ 6301* cd realstate_monthly/
+ 6302* scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6303  scrapy crawl realstate_monthly_spider
+ 6304  scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6305  scrapy crawl realstate_monthly_spider
+ 6306  scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6307  scrapy crawl realstate_monthly_spider
+ 6308  scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6309  scrapy crawl realstate_monthly_spider
+ 6310* exit
+ 6311  scrapy crawl realstate_monthly_spider
+ 6312  cd realstate_monthly/realstate_monthly
+ 6313  scrapy crawl realstate_monthly_spider
+ 6314  cd .. 
+ 6315  cd ..
+ 6316  cd upwork
+ 6317  cd upwork1
+ 6318  scrapy crawl jobfinder -o jobfinder_2812015.json -t json 
+ 6319* workon scrapydevenv
+ 6320* cd ~/.virtualenvs/scrapydevenv/spider/upwork1/upwork1
+ 6321* scrapy shell https://www.upwork.com/o/jobs/browse/\?q\=python
+ 6322  scrapy crawl jobfinder -o jobfinder_2812015.json -t json 
+ 6323* scrapy shell https://www.upwork.com/o/jobs/browse/\?q\=python
+ 6324  sudo apt-get install searchmonkey
+ 6325  scrapy crawl jobfinder -o jobfinder_2812015.json -t json 
+ 6326  scrapy crawl jobfinder -o jobfinder_2812015.csv -t csv 
+ 6327  cd ..
+ 6328  cd realstate_monthly/realstate_monthly
+ 6329  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider28.csv -t csv 
+ 6330* ipython
+ 6331* python
+ 6332  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider28.csv -t csv 
+ 6333* workon scrapydevenv
+ 6334* cd ~/.virtualenvs/scrapydevenv/spider
+ 6335* git clone https://github.com/anuvrat/soccerstats.git
+ 6336  cd ..
+ 6337  scrapy startproject realstate_monthly_json
+ 6338  cd realstate_monthly_json
+ 6339  ls
+ 6340  scapy genspider realstate_monthly_json realstate.com.au
+ 6341  scrapy genspider realstate_monthly_json realstate.com.au
+ 6342  scrapy genspider realstate_monthly_json_spider realstate.com.au
+ 6343  scrapy crawl realstate_monthly_json -o realstate_monthly_json.csv -t csv 
+ 6344  scrapy crawl realstate_monthly_json_spider -o realstate_monthly_json.csv -t csv 
+ 6345  cd ..
+ 6346  cd realstate_monthly
+ 6347  ls
+ 6348  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider28.csv -t csv 
+ 6349* cd realstate_monthly/realstate_monthly
+ 6350* scrapy shell https://www.realestate.com.au/neighbourhoods/Alkimos-6038-wa
+ 6351* vim 
+ 6352  scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6353* exit
+ 6354  scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6355* scrapy crawl realstate_monthly_spider -o realstate_monthly30.csv -t csv 
+ 6356* scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6357* scrapy crawl realstate_monthly_spider -o realstate_monthly30.csv -t csv 
+ 6358* scrapy shell https://www.realestate.com.au/neighbourhoods/Anketell-6167-wa
+ 6359* scrapy crawl realstate_monthly_spider -o realstate_monthly30.csv -t csv 
+ 6360* scrapy shell https://www.realestate.com.au/neighbourhoods/Ascot-6104-wa
+ 6361  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_31122015.json -t json
+ 6362  vim spiders/realstate_monthly_spider.py
+ 6363  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_31122015.json -t json
+ 6364  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_31122015.csv -t csv
+ 6365  scrapy crawl realstate_monthly_spider -o realstate_monthly30.csv -t csv 
+ 6366  scrapy crawl realstate_monthly_spider -o realstate_monthly301.csv -t csv 
+ 6367  scrapy shell https://www.realestate.com.au/neighbourhoods/Ascot-6104-wa
+ 6368  scrapy crawl realstate_monthly_spider -o realstate_monthly301.csv -t csv 
+ 6369  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_31122015.json -t json
+ 6370  \n\n
+ 6371  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_31122015.json -t json
+ 6372  \n\n
+ 6373  clear
+ 6374  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_final.csv -t csv \n\n
+ 6375  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_final.csv -t csv
+ 6376  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_final1.csv -t csv
+ 6377* pip install collections 
+ 6378* pip search collectons 
+ 6379* pip install functools 
+ 6380* sudo apt-get install functools 
+ 6381* python -c import collections
+ 6382* python 
+ 6383  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_final1.csv -t csv
+ 6384  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_final.csv -t csv
+ 6385* scrapy shell https://www.realestate.com.au/neighbourhoods/Armadale-6112-wa
+ 6386  scrapy crawl realstate_monthly_spider -o realstate_monthly_spider_final.csv -t csv
+ 6387* cd ..
+ 6388* git clone https://github.com/giang271291/cafeland.git
+ 6389* git clone https://github.com/ajenhl/inbuds-scraper.git
+ 6390* git clone https://github.com/LiterateLabs/shelder.git
+ 6391* mkdir csvExportProjects
+ 6392* mv -R shelder csvExportProjects
+ 6393* mv -r shelder csvExportProjects
+ 6394* mv -rf shelder csvExportProjects
+ 6395* mv -r shelder/ csvExportProjects
+ 6396* mv -f shelder/ csvExportProjects
+ 6397* cd csvExportProjects
+ 6398* ls 
+ 6399* cd ..
+ 6400* mv -f inbuds-scraper cafeland csvExportProjects
+ 6401* cd csvExportProjects
+ 6402* git clone https://github.com/sa000/reviewGrabber.git
+ 6403* git clone https://github.com/guoronghua/baojing.git
+ 6404* git clone https://github.com/ravi9884/spirit.git
+ 6405* cd baojing
+ 6406* ls
+ 6407* ls -al
+ 6408* cd venv
+ 6409* ls
+ 6410* cd ..
+ 6411* cd app
+ 6412* ls
+ 6413* ls -al
+ 6414* cd main
+ 6415* ls
+ 6416* cd ..
+ 6417* ls -al
+ 6418* vim quickstart.py
+ 6419* vim client_secret.json
+ 6420* CD..
+ 6421* cd ..
+ 6422* ls
+ 6423* git clone https://github.com/hbhdytf/scrapy_email.git
+ 6424* cd ..
+ 6425* git clone https://github.com/psstores/E-business.git
+ 6426* cd csvExportProjects/scrapy_email
+ 6427* ls
+ 6428* cd ipo
+ 6429* ls
+ 6430* cd dirbot
+ 6431* nerdtree
+ 6432* which nerdtree
+ 6433* ls -al
+ 6434* df 
+ 6435* sudo apt-get update 
+ 6436* cd ..
+ 6437* cd ...
+ 6438* cd..
+ 6439* cd ..
+ 6440* cd csvExportProjects
+ 6441* git clone class RealEstateSpider(scrapy.Spider):
+ 6442* \tname = "past_realestate"
+ 6443* \tallowed_domains = ["www.realestate.com.au"]
+ 6444* \tf = open("postCode.txt")
+ 6445* \tstart_urls = [
+ 6446* \t\t"http://www.realestate.com.au/sold/in-nsw+" + n.rstrip()+ "/list-1?includeSurrounding=false" for n in f.readlines()\n\t\t#"http://www.realestate.com.au/sold/in-nsw+2000/list-1?includeSurrounding=false"\n\t\t#"http://www.realestate.com.au/property-apartment-nsw-walsh+bay-116104147",\n\t]
+ 6447* \tf.close()
+ 6448* git clone https://github.com/harrisonnguyen/realestate.git
+ 6449* git clone https://github.com/zhang283/carmarket.git
+ 6450* git clone https://github.com/mart2010/brd.git
+ 6451  pip install pickle
+ 6452  scrapy crawl realstate_monthly_spider
+ 6453  pip install unidecode
+ 6454  scrapy crawl realstate_monthly_spider
+ 6455  scrapy crawl realstate_monthly_spider -o realstate_pipeline_csv.csv -t csv
+ 6456* cd ~/Downloads
+ 6457* ls -l
+ 6458* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.33.246.242
+ 6459  \t\t"http://www.realestate.com.au/sold/in-nsw+" + n.rstrip()+ "/list-1?includeSurrounding=false" for n in f.readlines()\n\t\t#"http://www.realestate.com.au/sold/in-nsw+2000/list-1?includeSurrounding=false"\n\t\t#"http://www.realestate.com.au/property-apartment-nsw-walsh+bay-116104147",\n\t]
+ 6460  scrapy crawl realstate_monthly_spider -o realstate_yield_test.csv -o csv
+ 6461  scrapy crawl realstate_monthly_spider -o realstate_yield_test.csv -t csv
+ 6462  scrapy crawl realstate_monthly_spider -o realstate_yield_pipeline_finaltry.csv -t csv
+ 6463  pip freeze requirements.txt 
+ 6464  pip freeze > requirements.txt 
+ 6465  cd ..
+ 6466  cd ratemds_dr_mickey
+ 6467  vim scrapy.cfg
+ 6468* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@ec2.52.33.246.242
+ 6469* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.33.246.242
+ 6470* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@172.31.29.159
+ 6471* ssh -i aws_EC_Ubuntu14_04_Instance.pem ubuntu@52.33.246.242
+ 6472  cd ..
+ 6473  cd realstate_monthly/realstate_monthly
+ 6474  vim scrapyd_localhost600_scrip.sh
+ 6475* workon scrapydevenv
+ 6476* scrapyd
+ 6477  bash scrapyd_localhost600_scrip.sh
+ 6478  vim scrapyd_localhost600_scrip.sh
+ 6479  cd ..
+ 6480  vim scrapy.cfg
+ 6481  locate scrapyd
+ 6482  locate -b scrapyd
+ 6483  which scrapyd
+ 6484  cd realstate_monthly
+ 6485  bash scrapyd_localhost600_scrip.sh
+ 6486  vim settings.py
+ 6487  vim scrapyd_localhost600_scrip.sh
+ 6488  bash  scrapyd_localhost600_scrip.sh
+ 6489  vim scrapyd_localhost600_scrip.sh
+ 6490* scrapyd
+ 6491  bash  scrapyd_localhost600_scrip.sh
+ 6492  cd ..
+ 6493  mkdir bigdata
+ 6494  cd bigdata
+ 6495  git clone https://github.com/mutaphore/bigdata_project.git
+ 6496  cd ..
+ 6497  mkdir CSV_Scrapyd_projects
+ 6498  mkdir csv-scrapyd-projects
+ 6499  cd csv-scrapyd-projects
+ 6500  git clone https://github.com/PartnerInnovationCenter/scrape-edgar.git
+ 6501  cd ..
+ 6502  rm CSV_Scrapyd_projects
+ 6503  rm -f CSV_Scrapyd_projects
+ 6504  rm -rf CSV_Scrapyd_projects
+ 6505  cd csvExportProjects
+ 6506  git clone https://github.com/aladagemre/istanbul-transportation-network.git
+ 6507  cd ..
+ 6508  cd spiders 
+ 6509  cd spider 
+ 6510  cd realstate_monthly/realstate_monthly
+ 6511  ls
+ 6512  vim scrapyd_localhost600_scrip.sh
+ 6513* cd ///home
+ 6514* ls -al
+ 6515* cd mtaziz
+ 6516* cd .virtualenvs
+ 6517  bash scrapyd_localhost600_scrip.sh
+ 6518  vim settings.py
+ 6519* scrapyd
+ 6520  vim scrapyd_localhost600_scrip.sh
+ 6521  bash scrapyd_localhost600_scrip.sh
+ 6522  scrapy crawl realstate_monthly_spider 
+ 6523  scrapy crawl realstate_monthly_spider -o realstate_monthly_csv_01 -t csv
+ 6524* python
+ 6525  scrapy crawl realstate_monthly_spider
+ 6526  scrapy crawl realstate_monthly_spider -o realstate_monthly_unit_date_price_count.csv -t csv
+ 6527  cd ..
+ 6528  mkdir selenium-captcha
+ 6529  cd selenium-captcha
+ 6530  git clone https://github.com/4ch7ung/aid-reg.git
+ 6531  git clone https://github.com/davidmace/Captcha-Scraping.git
+ 6532  git clone https://github.com/kybernetyk/Reddit-Account-Creator.git
+ 6533  git clone https://github.com/chainsawriot/hkrug_selenium.git
+ 6534  git clone https://github.com/ptigas/simple-captcha-solver.git
+ 6535  sudo apt-get install libjpeg-dev
+ 6536  sudo apt-get install libpng-dev
+ 6537  pip install git+https://github.com/mekarpeles/captcha-decoder.git
+ 6538  decaptcha http://indianvisa-bangladesh.nic.in/captcha.gif --min 0 --max 20 --limit 5 --channels 5 --tolerance 7
+ 6539  cd simple-captcha-solver
+ 6540  ls
+ 6541  vim pyocr.py
+ 6542  pip install pil
+ 6543  pip install PIL
+ 6544  vim pyocr.py
+ 6545  cd ..
+ 6546  mkdir upwork
+ 6547  cd upwork
+ 6548  scrapy startproject doximity
+ 6549  cd doximity
+ 6550  scrapy genspider --help
+ 6551  scrapy genspider doximity_spider doximity.com
+ 6552  cd doximity
+ 6553  cd spiders/
+ 6554  ls 
+ 6555  cd ..
+ 6556  cd spiders/
+ 6557  ls -al
+ 6558  vim doximity_spider.py
+ 6559  cd ..
+ 6560  scrapy crawl doximity_spider -o doximity_spider1.csv -t csv 
+ 6561  vim doximity_spider.py
+ 6562  vim spiders/doximity_spider.py
+ 6563  vim items.py
+ 6564  scrapy crawl doximity_spider -o doximity_spider1.csv -t csv 
+ 6565  vim spiders/doximity_spider.py
+ 6566  scrapy crawl doximity_spider -o doximity_spider1.csv -t csv 
+ 6567  vim spiders/doximity_spider.py
+ 6568  scrapy crawl doximity_spider -o doximity_spider1.csv -t csv 
+ 6569* exit
+ 6570* cd ....
+ 6571* cd spider/upwork/doximity/doximity
+ 6572* ls
+ 6573  scrapy crawl doximity_spider -o doximity_spider1.csv -t csv 
+ 6574  cd ....
+ 6575  git clone https://github.com/wonderfan/python.git
+ 6576  cd upwork/doximity/doximity
+ 6577  scrapy crawl doximity_spider -o doximity_spider1.csv -t csv 
+ 6578  scrapy crawl doximity_spider -o doximity_spider1.csv -t csv
+ 6579* scrapy shell https://www.doximity.com/pub/dot-jorgen-quistgaard-md
+ 6580  scrapy crawl doximity_spider -o doximity_spider2.csv -t csv
+ 6581* cd /tmp
+ 6582* wget https://www.torproject.org/dist/torbrowser/5.0.6/tor-browser-linux64-5.0.6_en-US.tar.xz
+ 6583* sudo add-apt-repository "deb http://deb.torproject.org/torproject.org trusty main\n"
+ 6584* sudo add-apt-repository deb-src http://deb.torproject.org/torproject.org trusty main
+ 6585* sudo add-apt-repository "deb-src http://deb.torproject.org/torproject.org trusty main"
+ 6586* vim /etc/apt/sources.list
+ 6587* sudo add-apt-repository "deb-src http://deb.torproject.org/torproject.org trusty main\n"
+ 6588* sudo add-apt-repository 'deb http://deb.torproject.org/torproject.org trusty main;
+ 6589* sudo add-apt-repository 'deb http://deb.torproject.org/torproject.org trusty main'
+ 6590* sudo apt-get update 
+ 6591* apt-get install tor deb.torproject.org-keyring
+ 6592* sudo apt-get install tor deb.torproject.org-keyring
+ 6593* cd ..
+ 6594* export HISTCONTROL=ignoredups >history_01012016
+ 6595* cat history_01012016
+ 6596* export HISTCONTROL=ignoredups >> history_01012016
+ 6597* ls 
+ 6598* cat history_01012016
+ 6599* export HISTCONTROL=ignoredups
+ 6600* history >> history_01012016
+ 6601* vim history_01012016

@@ -1,0 +1,9 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Age: 12
+Server: Sucuri/Cloudproxy
+Location: http://abtu.edu
+Date: Mon, 15 Feb 2016 17:05:04 GMT
+X-Frame-Options: GOFORIT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

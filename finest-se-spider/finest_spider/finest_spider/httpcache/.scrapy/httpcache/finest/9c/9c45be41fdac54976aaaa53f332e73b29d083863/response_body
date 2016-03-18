@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>liinadolk | Elitryttare i dressyr</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/liinadolk/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/liinadolk/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="liinadolk &raquo; flöde" href="http://finest.se/liinadolk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="liinadolk &raquo; kommentarsflöde" href="http://finest.se/liinadolk/comments/feed/" />
+<meta property="og:title" content="liinadolk"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/liinadolk/"/><meta property="og:description" content="Dressyrryttare som elitsatsar"/><meta property="og:site_name" content="finest.se/liinadolk/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/57882.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/liinadolk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/liinadolk/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/liinadolk/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/liinadolk/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/liinadolk/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/liinadolk/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/liinadolk/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/liinadolk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/liinadolk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/liinadolk\/wp-admin\/admin-ajax.php","categories":"traning"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://cdn.finest.se/wp-content/uploads/sites/7883/2014/11/1416568077-8084.png'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/liinadolk/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 7883);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/liinadolk/" title="liinadolk" rel="home">liinadolk</a>
+                    </h1>
+
+                    <h2 class="site-description">Elitryttare i dressyr</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/liinadolk/">Hem</a></li><li class="page_item page-item-11488"><a href="http://finest.se/liinadolk/lina-dolk/">Lina Dolk</a></li><li class="page_item page-item-14516"><a href="http://finest.se/liinadolk/mina-hastar/">Mina hästar</a></li><li class="page_item page-item-11578"><a href="http://finest.se/liinadolk/sponsorer/">Sponsorer</a></li><li class="page_item page-item-12392"><a href="http://finest.se/liinadolk/tjanster-jag-kan-erbjuda-via-dolk-dressage/">Tjänster jag kan erbjuda via Dolk Dressage</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/liinadolk/"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2015/07/cropped-1436531115-8084.png" class="header-image" width="980" height="500" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-23226" class="post-23226 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/28/rosta-garna-pa-mig/" rel="bookmark">Rösta gärna på mig</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Skrev ett inlägg för några veckor sedan att jag har blivit nominerad till Flens idrottsgala i kategorin &#8221;Årets idrottskvinna&#8221;&nbsp;</p>
+<p>Om ni tycker jag förtjänar en röst för min och hästarnas tävlingar 2015 får ni gärna lägga er röst på mig&nbsp;</p>
+<p><b>Då skickar ni ett mejl till:</b> flensidrottsgala@flen.se , man kan rösta till 5/2 så det börjar dra ihop sig.&nbsp;</p>
+<p>Och skriver &#8221;Lina Dolk- årets idrottskvinna&#8221; sedan är det klart <img src="http://finest.se/liinadolk/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &nbsp;den 12/2 är galan så då får vi se hur det går.&nbsp;</p>
+<p><b>Mina topp 5 för 2015 är:</b></p>
+<p>&#8211; NM guld inviduella</p>
+<p>&#8211; NM silver lag</p>
+<p>&#8211; finalplatsen på Breeders</p>
+<p>&#8211; kvalade in till Falsterbo med Lazzie</p>
+<p>&#8211; SM finalen&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0199-1.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0199-1.jpeg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/28/rosta-garna-pa-mig/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/28/rosta-garna-pa-mig/" title="6:08 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T18:08:01+00:00">januari 28, 2016 18:08</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-23222" class="post-23222 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/28/denna-dag/" rel="bookmark">Denna dag</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><b>Dagen började tidigt i blåsten, satt på Jullan redan 06.05, hela tio minuter innan planeringen 😉 Jag och Elin gjorde iordning henne tillsammans sedan åkte Elin till Biggles för att promenera med honom och mocka under tiden jag började rida hemma.</b></p>
+<p>Jullan var spänd idag vilket var blåstens fel, det var ordentliga vindar och det knakade i ridhusväggarna &nbsp;och taket riktigt mycket. Fick henne bra igenom i slutet av passet men det tog sin tid.&nbsp;</p>
+<p>Lazzie red jag direkt efter, och jag tänkte att nu skulle jag få hålla i mig när jag satt på henne. Men icke! Lazzie förvånade mig &nbsp; genom att inte bry sig det minsta om blåsten? Haha svårt att veta vad hon reagerar på då det tydligen inte är saker jag räknar med 😉 ett riktigt bra pass på henne och hon fortsätter leverera härliga pass efter varandra nu!</p>
+<p>Sedan gjorde vi klart stallet för att skynda in i duschen för att åka till PS huset för möte. Direkt vidare till skolan och nu kom jag hem 16.40 för att ta in hästarna och skulle ha tränat Biggles för Emelie. Men hon har varit på sjukhuset med sin arm och behöver vila stackarn. Skit att Elin jobbar sent ikväll hade gärna haft hennes hjälp istället då. Men jag byter träningspasset mot ett lösgörande joggingpass på Biggles istället. Kan inte byta vilodag då vi ska bort imorgonkväll.. &nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0636.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0636.jpeg" alt=""></a>&nbsp;<br />
+Men det ska nog gå bra! Känns lite konstigt att jag sitter och rider en GP häst helt själv utan hjälp haha. Bara att vänja sig med denna underbara vardag med Mr B!&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/28/denna-dag/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/28/denna-dag/" title="5:48 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T17:48:50+00:00">januari 28, 2016 17:48</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-23218" class="post-23218 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/28/grooming-bag/" rel="bookmark">Grooming bag</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><b>Denna fina väska fick jag med mig ifrån PS huset idag, Den kunde&nbsp;inte komma mer lägligt då min ryggsäck till tävlingar sjunger på sista sången.. &nbsp;</b></p>
+<p>Ni hittar väskan här: &nbsp; &nbsp;<a href="http://www.psofsweden.se/sv/grooming-bag-marin.html">Grooming bag</a></p>
+<p>Pris: 599kr<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0684.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0684.jpeg" alt=""></a>&nbsp;&nbsp;</p>
+<p>Blått med brunt är snyggt tycker jag så valet blev denna&nbsp;<br />
+&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0683.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0683.jpeg" alt=""></a>&nbsp;&nbsp;</p>
+<p>Tre fack i väskan, då går det förhoppningvis hålla ordning i den så vi hittar sakerna snabbt och smidigt&nbsp;<br />
+&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0681.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0681.jpeg" alt=""></a>&nbsp;</p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0691.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0691.jpeg" alt=""></a>&nbsp;<br />
+<i>Inlägget är i samarbete med PS OF SWEDEN&nbsp;</i></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/28/grooming-bag/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/28/grooming-bag/" title="5:07 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T17:07:47+00:00">januari 28, 2016 17:07</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-23211" class="post-23211 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/28/nytt-samarbete-med-ps/" rel="bookmark">Nytt samarbete med PS</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><b>Är superglad över mitt nya samarbete med&nbsp;<a href="http://www.psofsweden.se/sv/">PS OF SWEDEN</a>&nbsp;, både jag och Emelie fick möjligheten att låna hem provträns/kandar för att testa på hästarna och nu är jag fast.&nbsp;</b></p>
+<p>Jag har fått en massa fina saker med mig hem, skydd, huva, pannband, träns, kandar, &#8221; grooming bag&#8221;, tyglar. Visste inte ens att de hade deras välkända &#8221;vagga&#8221; som finns på tränsen/kandaren även i tyglarna för lite sedan. Himla smart!</p>
+<p>Så påsen är stor och jag läääängtar att börja använda allt. Kommer bilder senare på sakerna.&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0669.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0669.jpeg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0665.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0665.jpeg" alt=""></a>&nbsp;<br />
+Biggles har fått nytt &nbsp;träns och kandar, tyvärr fanns det inte hemma just nu men det kommer om 2 veckor! Längtar! Lazzie fick med sig ett high-jump träns hem för att prova, hon har så litet huvud så hon behöver cob haha. Biggles och Jullan har storlek full.</p>
+<p><i>Inlägget är i samarbete med PS</i></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/28/nytt-samarbete-med-ps/#comments"><span class="leave-reply">12 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/28/nytt-samarbete-med-ps/" title="11:52 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T11:52:42+00:00">januari 28, 2016 11:52</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-23207" class="post-23207 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/28/nytt-tacke-5/" rel="bookmark">Nytt täcke</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><b>Nytt täcke, och ja det blev ett Horsewaretäcke igen 😉</b></p>
+<p>Lazzie hade fått ärva E-types röda tjocka vintertäcke, men det satt inte så bra på henne och gled, vi löste det med extra gjord runt magen men det blev ändå inte bra.</p>
+<p>Såå vi fick helt enkelt köpa ett nytt utetäcke till Lazzie. Supernöjd med täcket som Jullan fick tidigare, &nbsp;och väldigt smidigt att det går sätta i täcken på detta skaltäcke så kan vi ändra tjockleken efter väder.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0606.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0606.jpeg" alt=""></a>&nbsp;Köpt hos MaskinCenter i Sparreholm. Blått på nästan alla våra täcken gillar att ha likadana samt att blått är min favorit färg på täcken. Sedan vill jag alltid att de ska vara enfärgade, ej rutiga eller randiga. Ytliga saker.. &nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0613.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0613.jpeg" alt=""></a>&nbsp;&nbsp;<br />
+Hatti är utan täcke när det är såhär varmt och inge regn i luften.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0604.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0604.jpeg" alt=""></a>&nbsp;<br />
+Storlek 155 cm har båda, något stort på Lazzie men tanken är att hon ska biffa till sig! Och 145 blir för tajt.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/28/nytt-tacke-5/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/28/nytt-tacke-5/" title="8:15 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T08:15:50+00:00">januari 28, 2016 08:15</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-23199" class="post-23199 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/27/23199/" rel="bookmark">Formen</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><b>Fråga: Hur tänker du med formen när du rider honom? Jag har, också under tidigare ryttare, tänkt att jag tycker han blir så otroligt hög i nacken samt viker in huvudet&#8230; Hans hals är ju lite lång o smal så det kan ju spela in i bilden jag får men vore intressant att höra hur du som ryttare tänker. Tycker att du rider dina andra hästar i mkt fin form..</b></p>
+<p>Svar: puhh visste att denna fråga skulle komma så lika bra jag tar det inför er alla. Formen är ett hett ämne i dressyren.&nbsp;</p>
+<p>Tänker exakt samma sak som när jag rider andra hästar, jag vill kunna förändra genom att kunna länga, korta, ställa efter mina önskemål närsomhelst i passet. Och vi jobbar med formen hela tiden precis som jag gör på de andra hästarna jag tränar och säkert Biggles tidigare ryttare också har gjort. Biggles har en lång hals och har den lite mot sig, men vi kämpar på så gott jag klarar av det. Jag är är långt ifrån lika skicklig som de ryttarna innan mig är så det kommer ta tid men jag försöker så gott jag kan. Rom byggdes inte på en dag som det heter. Alla hästar och ryttare har en (flera) svaga punkter men Biggles har mycket annat som han gör helt fantastiskt. &nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0646.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0646.jpeg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/27/23199/#comments"><span class="leave-reply">10 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/27/23199/" title="10:14 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T22:14:45+00:00">januari 27, 2016 22:14</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-23171" class="post-23171 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/27/dagens-biggles/" rel="bookmark">Dagens Biggles</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Ridbilder ifrån dagens träning, tyvärr inga på Jullan då Elin gjorde färdigt Biggles för träningen samt skrittade fram honom åt mig när jag red Jullan. Eftersom Jullan kan skrittas av i skrittmaskinen så är det bäst lösning att ta henne före Biggles, men det kommer ett inlägg om hennes träningspass senare.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910059-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910059-8084.jpg" class="alignnone size-full wp-image-23172" alt="IMG_7435" width="1500" height="1000"></a></p>
+<p>Ibland &nbsp;i början av skritten har jag bredare händer och lägre för att få Biggles att sänka sig lite, så länge &nbsp;jag gör det medvetet är det okej men aldrig annars.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910100-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910100-8084.jpg" class="alignnone size-full wp-image-23173" alt="IMG_7441" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910141-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910141-8084.jpg" class="alignnone size-full wp-image-23174" alt="IMG_7442" width="1500" height="1000"></a>&nbsp; <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910226-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910226-8084.jpg" class="alignnone size-full wp-image-23176" alt="IMG_7456" width="1500" height="1000"></a></p>
+<p>Fin öppna!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910268-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910268-8084.jpg" class="alignnone size-full wp-image-23177" alt="IMG_7460" width="1500" height="1000"></a></p>
+<p>Härligt trav efter öppnan</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910353-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910353-8084.jpg" class="alignnone size-full wp-image-23179" alt="IMG_7472" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910393-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910393-8084.jpg" class="alignnone size-full wp-image-23180" alt="IMG_7479" width="1500" height="1000"></a>&nbsp; <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910477-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910477-8084.jpg" class="alignnone size-full wp-image-23182" alt="IMG_7486" width="1500" height="1000"></a></p>
+<p>Klapp och klia på halsen under passet gillar alla hästar &lt;3</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910559-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910559-8084.jpg" class="alignnone size-full wp-image-23184" alt="IMG_7491" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910601-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910601-8084.jpg" class="alignnone size-full wp-image-23185" alt="IMG_7523" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910643-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910643-8084.jpg" class="alignnone size-full wp-image-23186" alt="IMG_7527" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910685-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910685-8084.jpg" class="alignnone size-full wp-image-23187" alt="IMG_7535" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910727-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910727-8084.jpg" class="alignnone size-full wp-image-23188" alt="IMG_7545" width="1500" height="1000"></a></p>
+<p>Nöjda och glada för träningen, känns som att Biggles har energi att gå hur många timmar som helst haha</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910773-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910773-8084.jpg" class="alignnone size-full wp-image-23189" alt="IMG_7600" width="1500" height="1000"></a>&nbsp; <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910852-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910852-8084.jpg" class="alignnone size-full wp-image-23191" alt="IMG_7630" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910892-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453910892-8084.jpg" class="alignnone size-full wp-image-23192" alt="IMG_7631" width="1500" height="1000"></a></p>
+<p>Fina killen, jag leder honom 20-30 minuter efter varje träningspass samt innan.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/27/dagens-biggles/#comments"><span class="leave-reply">11 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/27/dagens-biggles/" title="8:52 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T20:52:08+00:00">januari 27, 2016 20:52</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-23195" class="post-23195 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/27/budgettips/" rel="bookmark">Budgettips</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Mina hästar står på olja, och att köpa det i vanliga hästaffärer kostar skjortan om man jämför med rapsoljan på Willys&nbsp;</p>
+<p>Vi ger oljan för flera anledningar, det rundsmörjer magen lite för att minimera risken för förstoppning. Lazzie som lätt faller ur klarar sig bättre när hon får olja i maten samt att de blir lite mer glansiga i pälsen har vi också märkt.&nbsp;</p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0641.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0641.jpeg" alt=""></a>&nbsp;<br />
+6 liter olja för under 85kr! Den lilla för att kunna hälla över ifrån den stora, annars är det nog lätt hänt att någon av de får alldeles för mycket..;)&nbsp;</p>
+<p>Vi ger 2 dl om dagen till både Jullan och Lazzie. Tänk på att vänja in oljan försiktigt på hästarna precis som med allt foder.&nbsp;</p>
+<p>Och ha koll på den stora dunken gällande datum.&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/27/budgettips/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/27/budgettips/" title="7:43 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T19:43:16+00:00">januari 27, 2016 19:43</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-23162" class="post-23162 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/27/efter-traningen/" rel="bookmark">Efter träningen</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Biggles och jag efter träningen, gäller att passa på att fota när det fortfarande är ljust ute 😉</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909237-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909237-8084.jpg" class="alignnone size-full wp-image-23163" alt="IMG_7674" width="667" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909309-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909309-8084.jpg" class="alignnone size-full wp-image-23164" alt="IMG_7676" width="667" height="1000" /></a></p>
+<p>Jacka av märket Musto, gillar verkligen denna färg! Ifrån Kvalite Häst och Hund i Flen</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909353-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909353-8084.jpg" class="alignnone size-full wp-image-23165" alt="IMG_7681" width="1500" height="1000" /></a></p>
+<p>Kandar: PS, pannbandet är dock i det kortaste format på honom haha</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909391-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909391-8084.jpg" class="alignnone size-full wp-image-23166" alt="IMG_7684" width="667" height="1000" /></a></p>
+<p>Hjälm OneK</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909420-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909420-8084.jpg" class="alignnone size-full wp-image-23167" alt="IMG_7690" width="667" height="1000" /></a></p>
+<p>Skrittade av utomhus idag för att variera underlaget lite, roligare att gå ute än i ridhuset också <img src="http://finest.se/liinadolk/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909457-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909457-8084.jpg" class="alignnone size-full wp-image-23168" alt="IMG_7691" width="667" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909489-8084.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/1453909489-8084.jpg" class="alignnone size-full wp-image-23169" alt="IMG_7692" width="667" height="1000" /></a></p>
+<p>Ländtäcke Hansbo ifrå MaskinCenter i Sparreholm, +9 grader idag lite skillnad mot förra veckan med -17 och vi hade trippelt med täcken på.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/27/efter-traningen/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/27/efter-traningen/" title="7:29 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T19:29:49+00:00">januari 27, 2016 19:29</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-23160" class="post-23160 post type-post status-publish format-standard hentry category-tvling">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/liinadolk/2016/01/27/duktiga-lazzie/" rel="bookmark">Duktiga Lazzie!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><b>Wow vilken träningspass Lazzie levererade idag! Nu har Jullan och Biggles mycket att leverera för att komma till hennes nivå idag 😀</b>&nbsp;</p>
+<p>Jag började med att jogga fram henne ensam, sedan kom Elin och hjälpte mig ifrån marken. Vi har bestämt oss för att vi måste komma igång lite mer på allvar nu, för snart är det dags med kval och grejer &nbsp;inför Falsterbo och breeders som vi tänker försöka med i år också.&nbsp;</p>
+<p>Skolorna var riktigt bra, speciellt slutorna som vi förut kunde få lite &#8221;korvstoppning&#8221; i på diagonalen och det gillar inte Lazzie. Men nu har vi hittat lagom flyt i dom och jag vet exakt hur mycket jag kan begära av henne. Vi gjorde fyra byten idag och de alla var rena och faktiskt ärligt på hjälpen så det var superkul! Vi ska börja leka lite med registret i samlingen nu, Msv B kräver mycket mera än LA så det är ett stort kliv vi ska försöka oss på.&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0601.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0601.jpeg" alt=""></a>&nbsp;<br />
+Lazzie var väldigt nöjd med sig själv idag efter passet 😉&nbsp;</p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0609.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2016/01/img_0609.jpeg" alt=""></a>&nbsp;<br />
+Sevilla tränade jag också, vi jobbade ordentligt med lösgörande på henne. Vilket gick riktigt bra, använde oss av travbommar som alltid är bra att ha med i träningen enligt mig. Problemet med Sevilla är att hon spänner till ordentligt ibland på både träningen men speciellt på tävling. Så nu funderar vi på att backa bandet och gå ner till LA:3 igen. Hon segrade och tog placeringar i Msv C förra året med mig men sista tävlingen blev verkligen inte alls bra då hon nästan blev okontrollerbar. Ifrån en superfin framridning till att helt bli blockerad för att vi kommer in i en ny miljö. Så hon kanske skulle må gott av att få starta 1-3 LA klasser innan vi går upp igen. Viktigt att det blir en positiv upplevelse för henne att vara iväg, för när hon är ridbar är hon superfin! Vem säger att resan med hästar ska vara enkel och rak?;)&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/liinadolk/2016/01/27/duktiga-lazzie/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/liinadolk/category/tvling/" rel="category tag">tävling</a> på <a href="http://finest.se/liinadolk/2016/01/27/duktiga-lazzie/" title="11:36 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T11:36:18+00:00">januari 27, 2016 11:36</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/liinadolk/author/liinadolk/" title="View all posts by liinadolk" rel="author">liinadolk</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/liinadolk/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/57882.jpg" class="" /></div><div class="profile-desc">Dressyrryttare som elitsatsar</div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><span id="blogportalstats" title="149893"></span>
+<script type="text/javascript">
+(function() {
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+s.src = 'https://www.bloggportalen.se/BlogPortal/js/stats/blogstat.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+})();
+</script> </div>
+		</aside>            <aside class="widget" id="blog_user_banner">
+                <img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2014/11/1416567813-8084.png" alt="Banner" class="img-responsive"/>            </aside>
+                    <aside class="widget" id="blog_user_banner">
+                <img src="http://cdn.finest.se/wp-content/uploads/sites/7883/2014/11/1416567806-8084.jpg" alt="Banner" class="img-responsive"/>            </aside>
+        </div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="http://instagram.com/liinadolk" target="_blank"><img src="http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/liinadolk/feed/rss/" target="_blank"><img src="http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/liinadolk/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/liinadolk/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/liinadolk.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/liinadolk/) in 0.34300 seconds, on: Jan 28th, 2016 @ 6:33 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:33 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/liinadolk) in 0.00265 seconds, on: Jan 28th, 2016 @ 6:38 pm UTC. -->

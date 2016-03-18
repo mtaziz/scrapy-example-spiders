@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Tessanbakar | Bakglädje för alla!</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/tessanbakar/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Tessanbakar &raquo; flöde" href="http://finest.se/tessanbakar/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tessanbakar &raquo; kommentarsflöde" href="http://finest.se/tessanbakar/comments/feed/" />
+<meta property="og:title" content="Tessanbakar"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/tessanbakar/"/><meta property="og:description" content="Therese heter jag som bakar. Jag håller till i Göteborg och min stora passion på fritiden är bakning. Det ger lugn, utlopp för kreativitet och, inte minst, något gott till fikat ;-)
+Kontakta mig på therese.salmi@gmail.com"/><meta property="og:site_name" content="finest.se/tessanbakar/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/10/wpid-psx_20150919_133305.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/tessanbakar\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/tessanbakar/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-typography-font-css'  href='//fonts.googleapis.com/css?family=Amatic+SC:normal' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/tessanbakar/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/tessanbakar/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/tessanbakar/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/tessanbakar/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/tessanbakar/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/tessanbakar/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/tessanbakar/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+
+<style type="text/css">
+h2, .entry-header .entry-title a{ font-family: "Amatic SC"; font-weight: normal; font-size: 60px; color: #222222;  }
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/tessanbakar\/wp-admin\/admin-ajax.php","categories":"foto, mat-recept, familjeliv"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family: verdana            }
+            .entry-content p {
+                font-family: verdana            }
+            footer.entry-meta {
+                font-family: verdana            }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f9f9f9; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/tessanbakar/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 11609);
+        ga('create', 'UA-66849535-1', 'auto', {'name': 'userTracker'});
+        ga('send', 'pageview');
+        ga('userTracker.send', 'pageview');
+    </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/tessanbakar/" title="Tessanbakar" rel="home">Tessanbakar</a>
+                    </h1>
+
+                    <h2 class="site-description">Bakglädje för alla!</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="menu-tessan-container"><ul id="menu-tessan" class="nav-menu"><li id="menu-item-2145230145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230145"><a href="http://finest.se/tessanbakar/category/brod/">Bröd</a></li>
+<li id="menu-item-2145230146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230146"><a href="http://finest.se/tessanbakar/category/bullar/">bullar</a></li>
+<li id="menu-item-2145230148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230148"><a href="http://finest.se/tessanbakar/category/desserter/">Desserter</a></li>
+<li id="menu-item-2145230149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230149"><a href="http://finest.se/tessanbakar/category/godis/">Godis</a></li>
+<li id="menu-item-2145230150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230150"><a href="http://finest.se/tessanbakar/category/kakor/">kakor</a></li>
+<li id="menu-item-2145230152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230152"><a href="http://finest.se/tessanbakar/category/tartor/">Tårtor</a></li>
+<li id="menu-item-2145230305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230305"><a href="http://finest.se/tessanbakar/category/steg-for-steg/">Steg för steg</a></li>
+<li id="menu-item-2145230900" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145230900"><a href="http://finest.se/tessanbakar/category/veckans-baktips/">Veckans baktips!</a></li>
+</ul></div>                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/tessanbakar/"><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/10/cropped-1444381952-11820.jpg" class="header-image" width="1500" height="763" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-2145231017" class="post-2145231017 post type-post status-publish format-standard hentry category-desserter category-recept category-tartor">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/27/hallon-och-kolatarta/" rel="bookmark">Hallon- och kolatårta</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160127_142115.jpg" class="alignnone size-full wp-image-2145231019" alt="wpid-psx_20160127_142115.jpg" width="1077" height="1499" /></p>
+<p>Klart att jag ska fira min födelsedag med stil. Och klart att jag ska ha dulce de leche i tårtan ;-). Det blev en tårta med vaniljbottnar, hallonmousse och dulce de leche samt vaniljkräm och hallonsylt. Lite italiensk maräng och dekorerad med färska bär, brända mandlar och kolakräm.</p>
+<p>Den här kräver lite förberedelser och jag brukar alltid fylla tårtan kvällen innan för att den ska safta till sig lite. Så ett tips är att göra grunden till tårtan ena dagen och sedan &#8221;utsidan&#8221; dagen den ska serveras.<br />
+Bottnarna ska ju hinna svalna innan de delas även fyllningarna ska svalna/stelna innan tårtan fylls, du hittar alla recept nedan.</p>
+<p><strong>Hallon- och kolatårta:</strong><br />
+Dela bottnen i tre delar. På första lagret brer du ut ett tunt lager hallonsylt och ovanpå det vaniljkrämen. På andra lagret brer du ut ett tunt lager hallonsylt, ovanpå det brer du ett 0,5 cm tjockt lager med dulce de leche eller karamelliserad mjölk, och efter det hallonmoussen. Lägg på översta delen av bottnen, plasta in och låt stå i kylen över natten.</p>
+<p>Vispa 2 dl grädde och spackla tårtan med det runt om. Gör marängen och spritsa runt sidorna och kanten på tårtan. Bränn av marängen och dekorera sedan efter egen fantasi. Jag hade färska hallon och jordgubbar, dulce de leche och brända mandlar.</p>
+<p><strong>Bottnar &#8221;tre lika&#8221;:</strong><br />
+Glas 1 &#8211; 4 ägg<br />
+Glas 2 &#8211; socker<br />
+Glas 3 &#8211; Vetemjöl/potatismjöl<br />
+1 tsk bakpulver<br />
+1 mask vaniljsocker</p>
+<p>Sätt ugnen på 175 grader. Ta fram en form på 20 cm och klä in den i bakplåtspapper.<br />
+Knäck 4 ägg i glas 1, häll sedan upp socker i glas 2 och hälften vetemjöl, hälften potatismjöl i glas 3. Rör ner bakpulver och vaniljsocker i glaset med mjöl. Vispa ägg och socker pösigt i ca 10 minuter. Sikta sedan ner mjölblandningen och vänd försiktigt ner det tills allt är blandat. Häll upp i formen och grädda ca 30 minuter längst ner i ugnen.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/04/temporary-image1429796293866_5538f5c6ddf2b362c7746cce.jpg" class="alignnone size-full wp-image-1953287680" alt="" width="1000" height="672" /></p>
+<p><strong>Hallonmousse:</strong><br />
+150 gram frysta hallon<br />
+0,5 dl florsocker<br />
+75 gram philadelphiaost<br />
+3 gelatinblad<br />
+1,5 dl dl grädde</p>
+<p>Koka upp dom frysta hallonen i en kastrull och låt koka i ca 5 minuter. Passera hallonen genom en sil eller mixa med en stavmixer och låt svalna en stund. Jag mixar mina men vill man ha den helt slät så är det bättre att sila. Blanda hälften av hallonsaften/mixade hallonen med philadelphia och florsocker.<br />
+Blötlägg gelatinbladen enligt anvisningarna på förpackningen och vispa grädden. Smält gelatinbladen i resten av hallonsaften/mixade hallonen på låg värme tills de löst upp helt. Låt svalna en stund och blanda ner i hallon-philadelphian.<br />
+Blanda till sist ner den vispade grädden. Låt stelna en stund i kylskåpet innan du fyller tårtan.<br />
+<strong><br />
+Vaniljkräm:</strong><br />
+3 äggulor (vitorna sparas till marängen)<br />
+1 dl strösocker<br />
+0,5 dl maizena majsstärkelse<br />
+1 vaniljstång eller 1 tsk vaniljpulver<br />
+2 dl mjölk<br />
+15 gram smör</p>
+<p>Blanda äggula, socker och maizena i en bunke. Dela vaniljstången på längden, skrapa ur fröna och lägg dem och stången i en kastrull tillsammans med mjölken. Koka upp under omrörning och plocka sedan upp stången. Häll blandningen i bunken och blanda väl. Häll tillbaka alltsammans i kastrullen och värm på medelvärme och under konstant omröring tills det blir en tjock och fin kräm. Häll krämen i en bunke, tillsätt smöret och blanda. Plasta över bunken och låt svalna i kylen innan du fyller tårtan.</p>
+<p><strong>Schweizisk maräng:</strong><br />
+3 äggvitor<br />
+2,25 dl strösocker<br />
+1 tsk ättikssprit eller citronsaft</p>
+<p>Vispa äggvitor, strösocker och ättika i en rostfri bunke över vattenbad. Vispa tills sockerkristallerna löst sig (c:a 55-60 grader).<br />
+2. Tag bunken från vattenbadet och vispa marängen tills den svalnat.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160127_141934.jpg" class="alignnone size-full wp-image-2145231020" alt="wpid-psx_20160127_141934.jpg" width="1045" height="1324" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/27/hallon-och-kolatarta/#comments"><span class="leave-reply">3 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/desserter/" rel="category tag">Desserter</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a>,<a href="http://finest.se/tessanbakar/category/tartor/" rel="category tag">Tårtor</a> på <a href="http://finest.se/tessanbakar/2016/01/27/hallon-och-kolatarta/" title="20:59" rel="bookmark"><time class="entry-date" datetime="2016-01-27T20:59:52+00:00">januari 27, 2016 20:59</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-2145230994" class="post-2145230994 post type-post status-publish format-standard hentry category-kakor category-recept category-steg-for-steg tag-frystorkade-hallon tag-jordnotssmor tag-jordnotssnittar tag-smakakakor tag-snittar">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/26/jordnotssnittar-med-hallon/" rel="bookmark">Jordnötssnittar med hallon</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_105407.jpg" class="alignnone size-full wp-image-2145231005" alt="wpid-psx_20160126_105407.jpg" width="1647" height="1080" /></p>
+<p>Dom här jordnötssnittarna har jag bakat i många år och är en återkommande favorit. Den här gången hottade jag upp dem med lite frystorkade hallon och mjölkchoklad och hjälp vad gott det blev. En HELT annan kaka!<br />
+Tänkt dig en peanutbutter-jellymacka fast som kaka &lt;3<br />
+Den här rekommenderas <strong>väldigt</strong> varmt!</p>
+<p><strong>Jordnötssnittar med hallon (24 st):</strong><br />
+100 g rumsvarmt smör<br />
+1 dl socker<br />
+1,5 dl jordnötssmör<br />
+2 msk sirap<br />
+2,5 dl vetemjöl<br />
+0,5 tsk bikarbonat<br />
+<strong><br />
+Dekoration:</strong><br />
+100 gram hackad mjölkchoklad<br />
+Frystorkade hallon</p>
+<p>Sätt ugnen på 175 grader.<br />
+Vispa smör, socker och jordnötssmör till en jämn smet och rör sedan ner sirapen.<br />
+Blanda mjöl och bikarbonat och rör ner det i smeten. Forma kakdegen till två rullar. Lägg dem på en plåt med bakplåtspapper, platta till dem och grädda i 12-15 minuter.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_104536.jpg" class="alignnone size-full wp-image-2145231014" alt="wpid-psx_20160126_104536.jpg" width="1767" height="966" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_104606.jpg" class="alignnone size-full wp-image-2145231013" alt="wpid-psx_20160126_104606.jpg" width="1920" height="696" /><br />
+Direkt när kakorna kommer ut från ugnen strör du över den hackade mjölkchokladen. Vänta någon minut och bre sedan ut chokladen till ett jämt täcke över längderna. Strö över hallon (snåla inte för det äår <strong>jättegott</strong>)<br />
+Skär sneda snittar när kakan svalnat. Ställ sedan kallt så chokladen stelnar.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_104639.jpg" class="alignnone size-full wp-image-2145231012" alt="wpid-psx_20160126_104639.jpg" width="1920" height="609" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_104709.jpg" class="alignnone size-full wp-image-2145231011" alt="wpid-psx_20160126_104709.jpg" width="1920" height="725" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_104741.jpg" class="alignnone size-full wp-image-2145231010" alt="wpid-psx_20160126_104741.jpg" width="1920" height="1080" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_105153.jpg" class="alignnone size-full wp-image-2145231006" alt="wpid-psx_20160126_105153.jpg" width="1920" height="1080" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160126_105007.jpg" class="alignnone size-full wp-image-2145231007" alt="wpid-psx_20160126_105007.jpg" width="1866" height="619" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/26/jordnotssnittar-med-hallon/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/kakor/" rel="category tag">kakor</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a>,<a href="http://finest.se/tessanbakar/category/steg-for-steg/" rel="category tag">Steg för steg</a> på <a href="http://finest.se/tessanbakar/2016/01/26/jordnotssnittar-med-hallon/" title="11:00" rel="bookmark"><time class="entry-date" datetime="2016-01-26T11:00:06+00:00">januari 26, 2016 11:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-2145230973" class="post-2145230973 post type-post status-publish format-standard hentry category-kakor category-recept tag-choklad tag-dulce-de-leche tag-smakakor tag-strassburgare">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/25/strassburgare-choklad-kolasmak/" rel="bookmark">Strassburgare med choklad och kolasmak</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160124_154107.jpg" class="alignnone size-full wp-image-2145230986" alt="wpid-psx_20160124_154107.jpg" width="1377" height="1056" /></p>
+<p>Strassburgare är en av de mest tacksamma kakorna som finns. Man har för det mesta ingredienserna hemma, de smakar underbart och man kan variera färg, form och smak i oändlighet.</p>
+<p>Jag valde att smaksätta halva smeten med choklad och halva med dulce de leche. Pampas deli har en dulce de leche som är speciellt anpassad för bakning och den är lite fastare i konsistensen.</p>
+<p><strong>Strassburgare 16-20 st:</strong><br />
+125 gram mjukt smör<br />
+0,5 dl florsocker<br />
+1 msk vaniljsocker<br />
+1 dl potatismjöl<br />
+1 dl vetemjöl<br />
+1 dl dulce de leche (gärna baking) eller karamelliserad mjölk</p>
+<p>0,5 msk kakao</p>
+<p>Sätt ugnen på 175 grader.<br />
+Vispa ihop smör, florsocker och vaniljsocker så det ljusnat och blivit pösigt. Vispa ner dulce de leche. Sikta ner potatismjöl och vetemjöl lite i taget samtidigt som du rör kraftigt. Dela smeten i två skålar. I den ena rör du ner kakaon. Ta fram en sprits och en spritspåse. Lägg först i den ena smeten längs ens sidan av påsen och lägg sedan dit resten av smeten brevid så det blir tvåfärgat när du spritsar.<br />
+Spritsa ut kakan till önskad form, tänk på att inte använda för liten sprits då det kan vara svårt att få ut kaksmeten då.<br />
+Grädda mitt i ugnen i ca 10 minuter, håll koll för de ska inte övergräddas. Låt svalna.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160124_153339.jpg" class="alignnone size-full wp-image-2145230991" alt="wpid-psx_20160124_153339.jpg" width="1296" height="642" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160124_153728.jpg" class="alignnone size-full wp-image-2145230990" alt="wpid-psx_20160124_153728.jpg" width="1920" height="760" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160124_153813.jpg" class="alignnone size-full wp-image-2145230989" alt="wpid-psx_20160124_153813.jpg" width="1514" height="957" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160124_154214.jpg" class="alignnone size-full wp-image-2145230985" alt="wpid-psx_20160124_154214.jpg" width="967" height="946" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/25/strassburgare-choklad-kolasmak/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/kakor/" rel="category tag">kakor</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a> på <a href="http://finest.se/tessanbakar/2016/01/25/strassburgare-choklad-kolasmak/" title="09:00" rel="bookmark"><time class="entry-date" datetime="2016-01-25T09:00:58+00:00">januari 25, 2016 09:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-2145230976" class="post-2145230976 post type-post status-publish format-standard hentry category-kakor category-recept category-veckans-baktips tag-dulce-de-leche tag-veckans-baktips">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/24/veckans-baktips-vecka-3-dulce-de-lecherutor/" rel="bookmark">Veckans baktips vecka 3 &#8211; Dulce de lecherutor</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-aqkaaaacsijodhrwczovl2nkbjiuy2rubwuuc2uvndu3njy4ms85ltmvzhnjxzawmjlfntyxzdq2mtmyytzimjiwnzg5nda5otqxlmpwzw.jpg" class="alignnone size-full wp-image-2145230980" alt="wpid-aqkaaaacsijodhrwczovl2nkbjiuy2rubwuuc2uvndu3njy4ms85ltmvzhnjxzawmjlfntyxzdq2mtmyytzimjiwnzg5nda5otqxlmpwzw.jpg" width="640" height="425" /></p>
+<p>Ja ni hör ju på nammet varför jag fastnade för de här ;-). Dulce de leche är så underbart gott så det här kan inte bli annat än fantastiskt. Sen gillar jag verkligen sen här typen av kakor som görs på plåt och skärs i rutor. Smidigt och man kan skära dem i lite olika storlekar.</p>
+<p><a href="http://jonasbakar.se">Jonasbakar</a> är det som står för inspirationen idag. Hos Jonas hittar man alltid nästan fööör mycket godsaker, så kika runt och låt dig frestas!</p>
+<p>Jonas recept på Dulce lecherutor hittar du <a href="http://jonasbakar.se/2015/october/dulce-de-leche-rutor-med-mork-choklad.html">HÄR.</a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/24/veckans-baktips-vecka-3-dulce-de-lecherutor/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/kakor/" rel="category tag">kakor</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a>,<a href="http://finest.se/tessanbakar/category/veckans-baktips/" rel="category tag">Veckans baktips!</a> på <a href="http://finest.se/tessanbakar/2016/01/24/veckans-baktips-vecka-3-dulce-de-lecherutor/" title="12:24" rel="bookmark"><time class="entry-date" datetime="2016-01-24T12:24:21+00:00">januari 24, 2016 12:24</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2145230964" class="post-2145230964 post type-post status-publish format-standard hentry category-desserter category-recept tag-kladdkaka tag-kladdkakans-dag tag-mandelmassa tag-semlor tag-semmelkladdkaka">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/22/semmelkladdkaka/" rel="bookmark">Semmelkladdkaka</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160121_214344.jpg" class="alignnone size-full wp-image-2145230968" alt="wpid-psx_20160121_214344.jpg" width="1558" height="1058" /></p>
+<p>Jag har aldrig varit jättejätte förtjust i semlor. Jag äter en om året och tycker det är helt ok, det handlar väl egentligen mest om att jag tycker det finns så mycket annat som är godare.<br />
+Men nu har det ju kommit så många nya varianter baserade på semlan så nu finns det ju faktiskt nått för mig också. Den här semmelkladdkakan till exempelt är ju helt himmelsk.</p>
+<p>Och det finns ingen anledning att inte testa för den tar <strong>bara 10 (!!) minuter att röra ihop</strong>. Sen in i ugnen och efter det svalna. Jag rörde ihop min medans pastan kokade och sedan hade den svalnat lagom till kvällsfikat :-).</p>
+<p><strong>Semmelkladdkaka;</strong><br />
+150 gram smält smör<br />
+2,5 dl mjöl<br />
+2,5 dl socker<br />
+0,5 msk vaniljsocker<br />
+100 gram riven mandelmassa<br />
+0,5 tsk salt<br />
+0,5 msk nystött kardemumma<br />
+3 ägg</p>
+<p><em>Florsocker till dekoration</em></p>
+<p>Sätt ugnen på 180 grader. Ta fram en springform (22-24 cm) Och lägg bakplåtspapper på bottnen.<br />
+Blanda de torra ingredienserna i en bunke och rör ihop dem ordentligt. Tillsätt det smälta smöret, äggen och mandelmassan och rör sedan ihop till en smet. Häll över i en formen och grädda i mitten av ugnen i ca 20 minuter . Låt kallna, sikta över florsocker och servera med vispad grädde.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160121_214055.jpg" class="alignnone size-full wp-image-2145230971" alt="wpid-psx_20160121_214055.jpg" width="1889" height="989" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160121_214155.jpg" class="alignnone size-full wp-image-2145230969" alt="wpid-psx_20160121_214155.jpg" width="1920" height="1080" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/22/semmelkladdkaka/#comments"><span class="leave-reply">6 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/desserter/" rel="category tag">Desserter</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a> på <a href="http://finest.se/tessanbakar/2016/01/22/semmelkladdkaka/" title="09:00" rel="bookmark"><time class="entry-date" datetime="2016-01-22T09:00:08+00:00">januari 22, 2016 09:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2145230952" class="post-2145230952 post type-post status-publish format-standard hentry category-kakor category-recept tag-marang tag-marangsnittar tag-mordeg tag-smakakor tag-snittar">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/19/marangsnittar/" rel="bookmark">Marängsnittar</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160119_154019.jpg" class="alignnone size-full wp-image-2145230961" alt="wpid-psx_20160119_154019.jpg" width="1591" height="1080" /></p>
+<p>Någon som smakat jitterbuggar någon gång? Helt fantastiskt god kaka som består av mördeg och maräng hopsnurrat.<br />
+Någon som bakat jitterbuggar någon gång? Inte riktigt lika roligt som att äta dem kan jag lova er ;-). Jag har försökt ett otal gånger och det bästa jag fått till har varit hyfsat.<br />
+Men varför krångla till det egentligen, det går ju faktiskt lika bra att baka dem som snittar. Inte riktigt lika imonerande snyggt kanske men gott blir det, det kan jag lova.<br />
+Och helt plötsligt blev det enkelt också.</p>
+<p>Receptet ger ca 20 snittar.</p>
+<p><strong>Mördeg:</strong><br />
+150 g kylskåpskallt smör<br />
+2 msk strösocker<br />
+3 dl vetemjöl</p>
+<p>Blanda snabbt ihop ingredienserna, helt i en matberedare.<br />
+Plasta in den och lägg den i kylen ca 30 minuter.<br />
+Dela degen i två delar och rulla ut längder som du lägger på en plåt med bakplåtspapper.</p>
+<p>Maräng:<br />
+2 äggvitor<br />
+1 dl socker<br />
+1 dl riven kokos</p>
+<p>Vispa äggvitorna till ett fast skum i en ren bunke (helst inte plast då det kan finnas fettrester i). Tillsätt sockret under vispning och vänd sedan ner kokosen.<br />
+Fördela ut marängsmeten på mördegen och grädda i 175 grader i 15 minuter. Låt svalna något innan du delar i ca 20 snittar.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160119_154434.jpg" class="alignnone size-full wp-image-2145230955" alt="wpid-psx_20160119_154434.jpg" width="1170" height="1080" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160119_154214.jpg" class="alignnone size-full wp-image-2145230958" alt="wpid-psx_20160119_154214.jpg" width="1387" height="1049" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160119_154245.jpg" class="alignnone size-full wp-image-2145230957" alt="wpid-psx_20160119_154245.jpg" width="1920" height="954" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/19/marangsnittar/#comments"><span class="leave-reply">14 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/kakor/" rel="category tag">kakor</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a> på <a href="http://finest.se/tessanbakar/2016/01/19/marangsnittar/" title="15:32" rel="bookmark"><time class="entry-date" datetime="2016-01-19T15:32:36+00:00">januari 19, 2016 15:32</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2145230946" class="post-2145230946 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/18/vab-och-receptskrivardag/" rel="bookmark">VAB och receptskrivardag</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Idag blev det VAB med den minsta lilla bönan. Feber och halsont har hon stackarn och det är få barn som kan vara så sjuka som hon. Hon tar definitivt efter min make på den fronten ;-).<br />
+Hon har spenderat dagen i soffan/sängen/fotöljen och pipit efter vatten och saft.<br />
+Totala intaget &#8221;fast&#8221; föda hittils idag är en halv tallrik youghurt. Hoppas på snabb tillfriskning &lt;3.</p>
+<p>När jag inte har passat upp på henne så har jag passat på att fundera ut lite idéer på recept så förhoppningen är att jag ska hinna baka lite av det i morgon på VAB-dag nr 2.</p>
+<p>Sen vill jag faktiskt till jobbet. Vi startade jullovet här hemma den 23 december och jag skulle börjat igen förra veckan. Då var det jag som låg nerbäddad med feber och ont i halsen (ingen som levererade saft och vatten till mig inte) och nu var det alltså lillfisans tur. Så nästan en månad, vet knappt vad jag höll på med innan jag gick hem ;-).</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20150625_105412.jpg" class="alignnone size-full wp-image-2145230945" alt="wpid-psx_20150625_105412.jpg" width="1037" height="1393" /><br />
+<em>En något friskare Casandra provsmakar kakor</em></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/18/vab-och-receptskrivardag/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/tessanbakar/2016/01/18/vab-och-receptskrivardag/" title="18:02" rel="bookmark"><time class="entry-date" datetime="2016-01-18T18:02:47+00:00">januari 18, 2016 18:02</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2145230940" class="post-2145230940 post type-post status-publish format-standard hentry category-veckans-baktips tag-tinsspoons tag-veckans-baktips">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/17/veckans-baktips-vecka-2-applepie-granolabars/" rel="bookmark">Veckans baktips vecka 2 &#8211; Applepie granolabars</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/1452979032-11820.jpg" class="alignnone size-full wp-image-2145230941" alt="applepiagranolabars" width="640" height="426" /><br />
+<em>Foto: Nina Lundström</em></p>
+<p>Hur gott lät inte det här då? Applepie granolabars&#8230; Jag vill ta en bara jag hör namnet. Att de dessutom lämpar sig som mellanmål när man behöver lite extra energi känns ju ännu bättre. Nina skriver själv att <em>&#8221;De är lätta att ta med i väskan och äta efter till exempel ett träningspass eller skicka med barnen i skolväskan. Ibland när jag har bråttom på morgonen brukar jag äta en sån här till frukost&#8221;</em><br />
+Låter perfekt både för oss med skolbarn och även om man själv kanske pluggar eller är mycket på språng.</p>
+<p>Tipset kommer från Nina Lundströms blogg <strong><a href="http://tinsandspoons.blogspot.se/">Tins&amp;Spoons</a></strong> och där kan man hitta massor med gott att baka. Allt från kakor och godis till bröd och mellanmål. Hon har dessutom en jättebra FAQ-flik med ovandlingstabell för olika mått och volymer. Stort plus för det!</p>
+<p>Receptet på Ninas Applepie granolabars hittar du <strong><a href="http://tinsandspoons.blogspot.se/2015/08/applepiegranolabars.html">HÄR.</a></strong></p>
+<p>Vill ni läsa mer om Nina som driver Tinsspoons så kan ni göra det <a href="http://tinsandspoons.blogspot.se/p/blog-page.html"><strong>HÄR.</strong></a></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/1452980074-11820.jpg" class="alignnone size-full wp-image-2145230942" alt="Tinsandspoons" width="921" height="828" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/17/veckans-baktips-vecka-2-applepie-granolabars/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/veckans-baktips/" rel="category tag">Veckans baktips!</a> på <a href="http://finest.se/tessanbakar/2016/01/17/veckans-baktips-vecka-2-applepie-granolabars/" title="09:00" rel="bookmark"><time class="entry-date" datetime="2016-01-17T09:00:04+00:00">januari 17, 2016 09:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2145230932" class="post-2145230932 post type-post status-publish format-standard hentry category-desserter category-recept">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/16/hallon-och-kola-paj/" rel="bookmark">Hallon- och kola paj</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160116_003100.jpg" class="alignnone size-full wp-image-2145230935" alt="wpid-psx_20160116_003100.jpg" width="1715" height="1080" /></p>
+<p>Jag har spanat in kesellan med dulce de leche ett bra tag nu och funderat på vad jag ska göra med den. I går bestämde jag mig för att det var dags och att jag skulle skapa fredagsmyset utifrån den. Paj var jag sugen på dessutom så det var jag rätt inställd på. Med ljus smuldeg. Och hallon. Så det blev en hallonpaj med dulce de leche.</p>
+<p>Hittar man inte Kesella dulce de leche så går det bra med vanilg kesella och röra ut ett par matskedar dulce de leche (eller karamelliserad mjölk) i den.</p>
+<p><strong>Pajdeg:</strong><br />
+250 gram smör<br />
+5 dl vetemjöl<br />
+2 dl strösocker<br />
+2 tsk vaniljsocker</p>
+<p>Fyllning:<br />
+1 burk kesella dulce de leche<br />
+250 gram tinade avrunna hallon<br />
+0,5 dl socker<br />
+2 ägg</p>
+<p>Ca 200 gram (2 dl) dulce de leche (eller karamelliserad mjölk)<br />
+<em><br />
+Eventuellt färska hallon på toppen</em></p>
+<p>Börja med pajdegen. Sätt ugnen på 200 grader.<br />
+Arbeta snabbt ihop smör, mjöl, socker, vaniljsocker och bakpulver till en smuldeg i en matberedare. Tryck ut drygt hälften av degen i en pajform.<br />
+Rör ihop alla ingredienser utom dulce de lechen till fyllningen och häll i formen. Ringla över dulce de leche och smula sedan resten av degen över pajen. Grädda i mitten av ugnen i ca 25 minuter.</p>
+<p>Servera med vaniljglass och eventuellt färska hallon.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160116_003403.jpg" class="alignnone size-full wp-image-2145230934" alt="wpid-psx_20160116_003403.jpg" width="729" height="792" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160116_002829.jpg" class="alignnone size-full wp-image-2145230937" alt="wpid-psx_20160116_002829.jpg" width="1541" height="1018" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/16/hallon-och-kola-paj/#comments"><span class="leave-reply">4 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/desserter/" rel="category tag">Desserter</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a> på <a href="http://finest.se/tessanbakar/2016/01/16/hallon-och-kola-paj/" title="09:00" rel="bookmark"><time class="entry-date" datetime="2016-01-16T09:00:56+00:00">januari 16, 2016 09:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2145230928" class="post-2145230928 post type-post status-publish format-standard hentry category-desserter category-godis category-kakor category-recept tag-choklad tag-citronpaj tag-fredagsmys tag-geisha tag-kladdkaka tag-kondenserad-mjolk tag-maranger tag-mjuk-kaka tag-nobless tag-polly tag-sockerkaka">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/tessanbakar/2016/01/15/vinterns-basta-fredagsmys/" rel="bookmark">Vinterns bästa fredagsmys</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Ja så var det redan fredag igen. Har man småbarn så är dessutom Fångarna på fortet på tillbaka, och med det även lugnet i TV-soffan. Men även kravet på fredagsmys som det faktiskt inte varit så noga med under jullovet. Kan bero på att det har varit fredag hela veckan under lovet. Besök hit och dit med tillhörande fika blev nästan vardag under helgerna.</p>
+<p>Men nu är det dessutom, kallt, mörkt och ruggigt. Och dagarna känns alldeles för korta. Så bara därför förtjänar man väl det bästa fredagsmys man kan få? Här tipsar jag om mina och familjens favoriter.</p>
+<p>Vad vi ska ha till fredagsmys? Det får ni veta imorgon 😉 Något gott ska det bli iallafall!</p>
+<p>Klicka på bilderna eller rubrikerna för att komma till receptet.</p>
+<p><strong><a href="http://finest.se/tessanbakar/2015/06/17/2015_june_geisha-maranger/">Geishamaränger</a></strong><br />
+<a href="http://finest.se/tessanbakar/2015/06/17/2015_june_geisha-maranger/"><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/06/temporary-image1434546656075_558171e42a6b22207862cd54.jpg" class="alignnone size-full wp-image-1657623552" alt="" width="699" height="1000" /></a><br />
+Det här är både gott och enkelt och känns dessutom lite lyxigt i all sin enkelhet. Har du inte provat så är det dags! Behöver vara i ugnen en timme men i övrigt går den snabbt att få ihop.</p>
+<p><strong><a href="http://finest.se/tessanbakar/2015/09/01/2015_august_pollykladdkaka-med-vaniljswirl/">Pollykladdkaka</a></strong><br />
+<a href="http://finest.se/tessanbakar/2015/09/01/2015_august_pollykladdkaka-med-vaniljswirl/"><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/09/temporary-image1441089635078_55e548679606ee1f22ac7330.jpg" class="alignnone size-full wp-image-1401737216" alt="" width="1000" height="605" /></a><br />
+Man måste alltid ha en kladdkaka som alternativ. Den här söta goda Pollykladdkakan fräschas upp av en syrlig vaniljvirvel. Såå himla god!</p>
+<p><strong><a href="http://finest.se/tessanbakar/2015/11/04/noblesskakor/">Noblesskakor</a></strong><br />
+<a href="http://finest.se/tessanbakar/2015/11/04/noblesskakor/"><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/11/wpid-psx_20151104_204344.jpg" class="alignnone size-full wp-image-2145230353" alt="wpid-psx_20151104_204344.jpg" width="1920" height="1080" /></a><br />
+Det här är en kaka för alla. Barn som vuxna, gillar man choklad gillar man förmodligen den här. Att det dessutom är en av de enklaste kakorna man kan baka skadar ju inte direkt 😉</p>
+<p><a href="http://finest.se/tessanbakar/2015/09/09/2015_september_saftig-chokladkaka-med-mjolkchokladganache-och-kokos/"><strong>Saftig chokladkaka med kokos</strong></a><br />
+<a href="http://finest.se/tessanbakar/2015/09/09/2015_september_saftig-chokladkaka-med-mjolkchokladganache-och-kokos/"><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/09/temporary-image1441785585827_55efe6faddf2b366dd64ad16.jpg" class="alignnone size-full wp-image-1689064960" alt="" width="1000" height="668" /></a><br />
+Den här chokladkakan är nästan sammetslen i konsistensen. Tillsammans med en härlig mjölchokladglasys och kokos så är det en helt magisk kombination.</p>
+<p><a href="http://finest.se/tessanbakar/2016/01/07/lemon-meringue-pie-citron-och-marangpaj/"><strong>Citron- och marängpaj</strong></a><br />
+<a href="http://finest.se/tessanbakar/2016/01/07/lemon-meringue-pie-citron-och-marangpaj/"><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2016/01/wpid-psx_20160107_123025.jpg" class="alignnone size-full wp-image-2145230896" alt="wpid-psx_20160107_123025.jpg" width="1702" height="1045" /></a><br />
+Lite tisdkrävande men inte så svår som jag trodde. Väldigt, väldigt gott iallafall <img src="http://finest.se/tessanbakar/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Hoppas att du hittade något gott! Kommentera gärna vad det blev (även om det inte blev härifrån), kul att veta vad som knapras i stugorna på fredagskvällarna.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/tessanbakar/2016/01/15/vinterns-basta-fredagsmys/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/tessanbakar/category/desserter/" rel="category tag">Desserter</a>,<a href="http://finest.se/tessanbakar/category/godis/" rel="category tag">Godis</a>,<a href="http://finest.se/tessanbakar/category/kakor/" rel="category tag">kakor</a>,<a href="http://finest.se/tessanbakar/category/recept/" rel="category tag">Recept</a> på <a href="http://finest.se/tessanbakar/2016/01/15/vinterns-basta-fredagsmys/" title="09:00" rel="bookmark"><time class="entry-date" datetime="2016-01-15T09:00:52+00:00">januari 15, 2016 09:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/tessanbakar/author/tessanbakar/" title="View all posts by tessanbakar" rel="author">tessanbakar</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/tessanbakar/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/sites/11609/2015/10/wpid-psx_20150919_133305.jpg" class="" /></div><div class="profile-desc">Therese heter jag som bakar. Jag håller till i Göteborg och min stora passion på fritiden är bakning. Det ger lugn, utlopp för kreativitet och, inte minst, något gott till fikat ;-)
+Kontakta mig på therese.salmi@gmail.com</div></aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><a href="http://www.bloggportalen.se/" target="_blank"><img src="https://www.bloggportalen.se/BlogPortal/view/Statistics?id=160473" border="0" /></a> </div>
+		</aside><aside id="archives-4" class="widget widget_archive"><h3 class="widget-title">Arkiv</h3>		<label class="screen-reader-text" for="archives-dropdown-4">Arkiv</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://finest.se/tessanbakar/2016/01/'> januari 2016 </option>
+	<option value='http://finest.se/tessanbakar/2015/12/'> december 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/11/'> november 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/10/'> oktober 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/09/'> september 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/08/'> augusti 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/07/'> juli 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/06/'> juni 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/05/'> maj 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/04/'> april 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/03/'> mars 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/02/'> februari 2015 </option>
+	<option value='http://finest.se/tessanbakar/2015/01/'> januari 2015 </option>
+	<option value='http://finest.se/tessanbakar/2014/12/'> december 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/11/'> november 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/10/'> oktober 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/09/'> september 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/08/'> augusti 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/07/'> juli 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/06/'> juni 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/05/'> maj 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/04/'> april 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/03/'> mars 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/02/'> februari 2014 </option>
+	<option value='http://finest.se/tessanbakar/2014/01/'> januari 2014 </option>
+	<option value='http://finest.se/tessanbakar/2013/12/'> december 2013 </option>
+
+		</select>
+</aside><aside id="search-4" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://finest.se/tessanbakar/">
+    <div><label class="screen-reader-text" for="s">Sök efter</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Sök" />
+    </div>
+</form></aside><aside id="categories-4" class="widget widget_categories"><h3 class="widget-title">Kategorier</h3>		<ul>
+	<li class="cat-item cat-item-2"><a href="http://finest.se/tessanbakar/category/allmant/" >Allmänt</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://finest.se/tessanbakar/category/barntartor/" >Barntårtor</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://finest.se/tessanbakar/category/brod/" >Bröd</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://finest.se/tessanbakar/category/bullar/" >bullar</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://finest.se/tessanbakar/category/cupcakes/" >cupcakes</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://finest.se/tessanbakar/category/desserter/" >Desserter</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://finest.se/tessanbakar/category/godis/" >Godis</a>
+</li>
+	<li class="cat-item cat-item-344"><a href="http://finest.se/tessanbakar/category/jul/" >Jul</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://finest.se/tessanbakar/category/kakor/" >kakor</a>
+</li>
+	<li class="cat-item cat-item-370"><a href="http://finest.se/tessanbakar/category/matratter/" >Maträtter</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://finest.se/tessanbakar/category/modellering/" >Modellering</a>
+</li>
+	<li class="cat-item cat-item-360"><a href="http://finest.se/tessanbakar/category/nyar/" >Nyår</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://finest.se/tessanbakar/category/okategoriserade/" >Okategoriserade</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://finest.se/tessanbakar/category/recept/" >Recept</a>
+</li>
+	<li class="cat-item cat-item-309"><a href="http://finest.se/tessanbakar/category/steg-for-steg/" >Steg för steg</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://finest.se/tessanbakar/category/tartor/" >Tårtor</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://finest.se/tessanbakar/category/tavlingar/" >Tävlingar</a>
+</li>
+	<li class="cat-item cat-item-346"><a href="http://finest.se/tessanbakar/category/veckans-baktips/" >Veckans baktips!</a>
+</li>
+		</ul>
+</aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h3 class="widget-title">Senaste inläggen</h3>		<ul>
+					<li>
+				<a href="http://finest.se/tessanbakar/2016/01/27/hallon-och-kolatarta/">Hallon- och kolatårta</a>
+						</li>
+					<li>
+				<a href="http://finest.se/tessanbakar/2016/01/26/jordnotssnittar-med-hallon/">Jordnötssnittar med hallon</a>
+						</li>
+					<li>
+				<a href="http://finest.se/tessanbakar/2016/01/25/strassburgare-choklad-kolasmak/">Strassburgare med choklad och kolasmak</a>
+						</li>
+					<li>
+				<a href="http://finest.se/tessanbakar/2016/01/24/veckans-baktips-vecka-3-dulce-de-lecherutor/">Veckans baktips vecka 3 &#8211; Dulce de lecherutor</a>
+						</li>
+					<li>
+				<a href="http://finest.se/tessanbakar/2016/01/22/semmelkladdkaka/">Semmelkladdkaka</a>
+						</li>
+				</ul>
+		</aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a title="myTaste.se" href="http://www.mytaste.se/" id="hr-rLxvV" target="_parent"><img src="http://widget.mytaste.se/blogcounter/image?image=red_s&amp;blog_id=rLxvV" alt="myTaste.se" border="0"></a><script> var hr_currentTime = new Date(); var hr_timestamp = Date.parse(hr_currentTime.getMonth() + 1 + "/" + hr_currentTime.getDate() + "/" + hr_currentTime.getFullYear()) / 1000; document.write(''); </script>
+</div>
+		</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><script>var tsId=2488660;</script>
+<script src="http://script.tailsweep.com/js/analytics.js"></script></div>
+		</aside><aside id="pages-2" class="widget widget_pages"><h3 class="widget-title">Om Tessanbakar</h3>		<ul>
+			<li class="page_item page-item-2145230161"><a href="http://finest.se/tessanbakar/om-mig/">Om mig</a></li>
+		</ul>
+		</aside><aside id="meta-3" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://finest.se/tessanbakar/wp-login.php">Logga in</a></li>
+			<li><a href="http://finest.se/tessanbakar/feed/">Inlägg via <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://finest.se/tessanbakar/comments/feed/">Kommentarer via <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Drivs med WordPress, en toppmodern, semantisk publiceringsplattform.">WordPress.org</a></li>			</ul>
+</aside></div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="https://www.facebook.com/tessanbakar" target="_blank"><img src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/facebook.png" alt="Facebook" /></a><a href="http://@tessanbakar" target="_blank"><img src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/twitter.png" alt="Twitter" /></a><a href="http://@tessanbakar" target="_blank"><img src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/tessanbakar/feed/rss/" target="_blank"><img src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/tessanbakar/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/tessanbakar/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/tessanbakar.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/tessanbakar/) in 0.30606 seconds, on: Jan 28th, 2016 @ 7:19 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:19 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/tessanbakar/) in 0.00528 seconds, on: Jan 28th, 2016 @ 7:23 pm UTC. -->

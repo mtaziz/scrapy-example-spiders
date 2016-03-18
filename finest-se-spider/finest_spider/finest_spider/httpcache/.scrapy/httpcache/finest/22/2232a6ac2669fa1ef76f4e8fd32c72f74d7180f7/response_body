@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Linnsblogg | One day you might be in and the next day you might be out.</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/linnsblogg/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/linnsblogg/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="Linnsblogg &raquo; flöde" href="http://finest.se/linnsblogg/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Linnsblogg &raquo; kommentarsflöde" href="http://finest.se/linnsblogg/comments/feed/" />
+<meta property="og:title" content="Linnsblogg"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/linnsblogg/"/><meta property="og:description" content="Mitt namn är Linn och jag driver linnsblogg och har gjort det sedan mars 2014. Jag tycker det är jätteroligt att få prata med er som läser, ni är guldvärda! Här på bloggen kan ni läsa om min häst Fia. Om våra äventyr, men även om mitt liv. Det händer en hel del. Välkomna!"/><meta property="og:site_name" content="finest.se/linnsblogg/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445333967-7159.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/linnsblogg\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/linnsblogg/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/linnsblogg/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/linnsblogg/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/linnsblogg/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/linnsblogg/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/linnsblogg/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/linnsblogg/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/linnsblogg/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/linnsblogg/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/linnsblogg/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/linnsblogg\/wp-admin\/admin-ajax.php","categories":"traning, livsstil"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-header h1 a,
+            .site-header h2 {
+                color: #e00296;
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/linnsblogg/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 7025);
+        ga('create', 'UA-64591715-1', 'auto', {'name': 'userTracker'});
+        ga('send', 'pageview');
+        ga('userTracker.send', 'pageview');
+    </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                
+								<div class="website-logo">
+									<img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/09/1443209728-7159.jpg" alt="Linnsblogg">
+								</div>
+						                     <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                            <h1 class="site-title">
+                            <a href="http://finest.se/linnsblogg/" title="Linnsblogg" rel="home">Linnsblogg</a>
+                        </h1>
+                                        <h2 class="site-description">One day you might be in and the next day you might be out.</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul class="nav-bar">
+                            <li class="page_item page-item-3282 page_item_has_children"><a href="http://finest.se/linnsblogg/hastar-jag-agt/">Hästar jag ägt</a>
+<ul class='children'>
+	<li class="page_item page-item-3284"><a href="http://finest.se/linnsblogg/hastar-jag-agt/lady-gaga/">Lady Gaga</a></li>
+	<li class="page_item page-item-3287"><a href="http://finest.se/linnsblogg/hastar-jag-agt/magnetic-media/">Magnetic Media</a></li>
+</ul>
+</li>
+<li class="page_item page-item-518"><a href="http://finest.se/linnsblogg/homepage/">Hem</a></li>
+<li class="page_item page-item-3266 page_item_has_children"><a href="http://finest.se/linnsblogg/kontakta-mig/">Kontakta mig</a>
+<ul class='children'>
+	<li class="page_item page-item-3181"><a href="http://finest.se/linnsblogg/kontakta-mig/om-mig/">Om mig</a></li>
+</ul>
+</li>
+<li class="page_item page-item-3179"><a href="http://finest.se/linnsblogg/pokka-fra-blesastodum/">Pokka Fra Blesastödum &#8211; &#8221;Fia&#8221;</a></li>
+                        </ul>
+                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-4106" class="post-index post-4106 post type-post status-publish format-standard hentry category-linns-vardag tag-blogg tag-frisk tag-islandshast tag-linnsblogg tag-magsjuk tag-sjuk">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/28/hej-hoppas-jag/" title="Permalink to Hej, hoppas jag!" rel="bookmark">Hej, hoppas jag!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 15:05">januari 28, 2016 15:05</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Heeeeeej! Jag är tillbaka, så smått! Och vad glad jag blev när jag såg att ni hänger kvar trots att uppdateringen varit minimal. Dock det enda som gått att leverera när man knappt orkar kolla flödet på Facebook ;).  Vem trodde att det skulle ta fyra &#8211; fem dagar att återhämta sig från magsjuka? Det har varit hemskt rent ut sagt. Det började på måndagen med att jag var lite illamående efter lunch. Men det kändes bättre när jag kom till stallet. Väl hemma somnade jag på soffan och frös som en galning. Sen åt jag middag och efter det mådde jag jätteilla men tänkte att det nog skulle gå över. Men icke, vid halv elva kräktes jag första gången. Sen var det igång. Tisdagskväll var sista gången jag kräktes och hej och hå vad matt, trött, ont i revben, liten och ynklig jag varit. Är fortfarande matt, försöker komma igång med maten men är inte sugen på någonting, är inte hungrig är liksom ingenting. Har inga behov alls, förutom att ligga i soffan och sen gå till sängen och se morden i midsommer, plöjde två avsnitt på raken igår 😉 Jag som blir uttråkad av att titta på tv för länge annars. Då vet man att man är sjuk. Åt nudlar precis, det tog ungefär 45 minuter, äter en tugga mår lite illa sen släpper det så mår jag bra. Jag planerade stallet idag för jag trodde jag skulle orka, men kommer inte göra det. Bara att diska tar på alla krafter. Så lite energi har jag. Ska försöka åka och handla så jag åtminstone har mjölk hemma. Nej fy och usch för magsjuka. Verkligen inget att rekommendera! Ni är så fina som är kvar här! Jag hoppas att jag orkar fixa ett inlägg ikväll och att vi kommer igång igen som vanligt fredag, lördag :). Det verkar som att ni gillar tre inlägg om dagen. Så då försöker jag fixa det, det ni gillar är min lag! :).</p>
+<p>Vi hörs (förhoppningsvis) ikväll. Ta hand om er &lt;3</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/1452289037-7159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/1452289037-7159.jpg" class="alignnone size-full wp-image-3926" alt="DSC00258" width="1500" height="1125" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/28/hej-hoppas-jag/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/28/hej-hoppas-jag/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/28/hej-hoppas-jag/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/linns-vardag/" rel="category tag">Linns vardag</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/28/hej-hoppas-jag/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4106 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-4104" class="post-index post-4104 post type-post status-publish format-standard hentry category-linns-vardag">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/27/hej-jag-lever/" title="Permalink to hej, jag lever." rel="bookmark">hej, jag lever.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 15:22">januari 27, 2016 15:22</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>här skriver jag ett inlägg liggandes på sidan i sängen illamående. yay. idag är det mycket bättre men fortfarande inte särskillt bra :(. jag åt en macka vid elva tiden och har mått illa sedan dess, tmi! ev kan jag göra ett inlägg ikväll men jag får se. har ni förresten tips på bra mat man kan äta som är snällt för magen så mottages det gärna :). jag hoppas vi hörs ikväll, annars hörs vi imorgon! <img src="http://finest.se/linnsblogg/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453154838049.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453154838049.jpg" class="alignnone size-full wp-image-4037" alt="wpid-wp-1453154838049.jpg" width="2000" height="1125" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/27/hej-jag-lever/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/27/hej-jag-lever/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/27/hej-jag-lever/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/linns-vardag/" rel="category tag">Linns vardag</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/27/hej-jag-lever/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4104 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-4102" class="post-index post-4102 post type-post status-publish format-standard hentry category-linns-vardag">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/26/magsjuk/" title="Permalink to Magsjuk" rel="bookmark">Magsjuk</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 17:45">januari 26, 2016 17:45</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Hej. Jag är ledsen att setts blir det enda inlägg idag förutom det jag tidsställde till imorse. Jag har blivit magsjuk och mår inte alls bra. Jag hoppas vi hörs imorgon.</p>
+<p>Ta hand om er! &lt;3</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453823071114.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453823071114.jpg" title="wp-1453823071114" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/26/magsjuk/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/26/magsjuk/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/26/magsjuk/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/linns-vardag/" rel="category tag">Linns vardag</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/26/magsjuk/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4102 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-4099" class="post-index post-4099 post type-post status-publish format-standard hentry category-arsresume">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/26/arsresume-november/" title="Permalink to Årsresumé &#8211; November." rel="bookmark">Årsresumé &#8211; November.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 08:51">januari 26, 2016 08:51</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>November 2015.</p>
+<p>Jag var med goda vänner och åt på Pinchos för första gången i mitt liv. För er som inte vet vad Pinchos är så ska jag förklara. Pinchos är ett tapas ställe där du beställer allt i din mobil och sen får du hämta maten när mobilen plingar till. Det är ungefär världens minsta mat och kostnaden är rätt hög med tanke på vad du får. Det var i vilket fall väldigt trevligt. Efter maten såg vi på sista Hunger games filmen!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/IMG_4504.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/IMG_4504.jpg" class="alignnone size-full wp-image-3613" alt="IMG_4504.JPG" width="2250" height="3000" /></a></p>
+<p>Det kom galet mycket snö! Och under snön var all is! Denna snö försvann såklart dagen efter.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/IMG_4459.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/IMG_4459.jpg" class="alignnone size-full wp-image-3585" alt="IMG_4459.JPG" width="3000" height="2250" /></a></p>
+<p>Jag fick efter fyra dagar på VFU i en första klass ÅRETS förkylning! Men jag trotsade den och åkte med familjen och min mosters familj till kivik där vi var på spa och övernattade med fantastiskt trerätters meny! 😀</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/1447525730-7159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/1447525730-7159.jpg" class="alignnone size-full wp-image-3520" alt="IMG_4352" width="844" height="1125" /></a></p>
+<p>Fia blev klippt för andra gången den hösten. Hon skulle kunna klippas nu också men jag skippar det eftersom hon inte rids hårt nog för att behöva bli av med pälsen <img src="http://finest.se/linnsblogg/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/wpid-wp-1447261296422.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/11/wpid-wp-1447261296422.jpg" class="alignnone size-full wp-image-3493" alt="wpid-wp-1447261296422.jpg" width="2000" height="1125" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/26/arsresume-november/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/26/arsresume-november/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/26/arsresume-november/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/arsresume/" rel="category tag">Årsresumé</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/26/arsresume-november/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4099 -->
+                    
+					
+<article id="post-4096" class="post-index post-4096 post type-post status-publish format-standard hentry category-fia">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/25/idag-var-fia-hog-och-lag/" title="Permalink to Idag var Fia hög och låg!" rel="bookmark">Idag var Fia hög och låg!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 20:50">januari 25, 2016 20:50</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Dagens ridpass. Det var högt och lågt. Fia var pinnen själv och pinnade på ställd mycket åt vänster i högervarv. Hon kändes lite stel, jag måste ta upp stretchingen igen. Jag funderar på att ta ut en massör eller kiropraktor för att se om hon har några spänningar. Vad kostar det? Sen måste jag ha en ny sadel till Fia för den jag har nu är alldeles för stor, den glider hit och dit&#8230;    :(. Vilket fall, ridpasset, jag började med skänkelvikningar, öppnor och slutor för att få henne mer följsam. Hon är lite stel som sagt. Sen skulle vi trava och eftersom Fia ibland är en springis så la jag spöet. Då blev hon jätteseg och ville inte trava alls&#8230;  Så jag fick ta spöet igen. Allt fokus låg på att håll henne rak och få med mig henne. Jag skiter i nacken (vi vet alla att formen sitter i kroppen 😉 ) och vill bara ha henne rak och inom ramen. Hon har en tendens att vara lite vinglig och gärna få mig lite ur balans. Såhär travade vi en stund runt, runt. Sen kände jag att hon lugnade ner sig och då kan jag länga på tyglarna så följer hon med ner. Några steg.</p>
+<p>Hon var väldigt pigg och jag blir lite mesig och försiktig då och funderade på om jag skulle våga galoppera. Hon kan dra iväg i galoppen ibland, det är egentligen inget farligt men jag var osäker. Men galoppen gick jättebra! Speciellt högergaloppen där hon har tendens att helt böja sig som ett bananskal ut mot vänster. Jag tror det är för att kompensera hennes svaghet i höger. Men denna gång gick det jättebra och jag tycker att hon ändå galopperade väldigt stabilt. Det var bara en långsida men ändå! :D. Massor av beröm och klappar. Sen avslutade vi passet med att jag travade och satt ner och då märker man ännu tydligare när hon slutar springa och trava fint. Hon avslutade lång och lång, ungefär en långsida. Jag var supernöjd! Även om passet var väldigt springit och hon kändes stel så avslutade vi bättre! Imorgon blir det ett till pass i ridhuset eftersom det är superhalt då all snö smält och kvar är is och vatten!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/1452778668-7159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/1452778668-7159.jpg" class="alignnone size-full wp-image-3990" alt="DSC00333" width="1500" height="1125" /></a></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/25/idag-var-fia-hog-och-lag/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/25/idag-var-fia-hog-och-lag/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/25/idag-var-fia-hog-och-lag/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/fia/" rel="category tag">Fia</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/25/idag-var-fia-hog-och-lag/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4096 -->
+                    
+					
+<article id="post-4094" class="post-index post-4094 post type-post status-publish format-standard hentry category-linns-vardag">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/25/jag-anpassar-mig/" title="Permalink to Jag anpassar mig." rel="bookmark">Jag anpassar mig.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 13:58">januari 25, 2016 13:58</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Saker om my mind.<br />
+1. Jag jobbar på max varannan helg och jag jobbade denna helg som var. Det har kommit in en ny hamburgare, bbq burgaren. Jag drömde om den inatt, om hur man gör den x). </p>
+<p>2. Valle la sig på min kudde så jag fick inte plats och fick lägga mig på prydnadskudden. Sen slog det mig hur jag finner mig i att han tar plats i sängen. Ligger han på kudden då tar jag en annan. Ligger han på täcket då får jag ligga inklämd för att han ska kunna ligg kvar. Haha! Gör ni också så? <img src="http://finest.se/linnsblogg/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Nu är jag påväg till stallet idag är det dressyrmåndag och om det hunnit smälta undan ordentligt så ska jag rida ut. Jag tar med cyklop för det kan behövas x) :D. </p>
+<p>Vi hörs ikväll!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453723023820.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453723023820.jpg" title="wp-1453723023820" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/25/jag-anpassar-mig/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/25/jag-anpassar-mig/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/25/jag-anpassar-mig/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/linns-vardag/" rel="category tag">Linns vardag</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/25/jag-anpassar-mig/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4094 -->
+                    
+					
+<article id="post-4091" class="post-index post-4091 post type-post status-publish format-standard hentry category-linns-vardag">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/25/haha-5/" title="Permalink to HAHA!" rel="bookmark">HAHA!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 08:07">januari 25, 2016 08:07</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Hahahahah kolla vad jag hittade!! 😀 😀</p>
+<p>&nbsp;</p>
+<p><strong><em>1. Efter sex</em></strong></p>
+<p>Situation: Du har haft sex med din tjej (score, dude!). Efteråt lägger du dig bekvämt på rygg och blundar en stund. Du känner hur kroppen blir tyngre och tyngre. Kort sagt, du vill sova. Och du vill göra det nu.<br />
+<strong>Hon säger: </strong>”Är du trött älskling?”<br />
+<strong>Du tror att hon menar: </strong>”Det var verkligen en ordentlig insats du gjorde älskling. Lätt det bästa jag varit med om. Jag förstår om du är trött och vill sova nu, det är du värd.”<br />
+<strong>Hon menar egentligen: </strong>”Tänk inte för ett ögonblick att du ska somna ifrån mig bara för att du själv råkar vara tillfredsställd. I så fall kan du lika gärna sova på soffan i natt, och resten av månaden.”</p>
+<p><strong><em>2. På restaurangen</em></strong></p>
+<p><strong>Situation:</strong> Ni har ätit middag tillsammans ute på restaurang. Nu har notan kommit in, och dyrt blev det. Ni är väl mer eller mindre lika skyldiga. Att du tog ställets största biff och hon åt en liten sallad borde ändå jämnas ut av hennes dyra fruktdrinkar tillsammans med det dyra vinet. Själv nöjde du dig med två (eller var det fem?) öl. Frågan är, vem betalar?<br />
+<strong>Hon säger:</strong> ”Vi delar väl på det här?”<br />
+<strong>Du tror att hon menar: </strong>”Jag är en modern kvinna som inte tycker att mannen har försörjningsansvar för sin kvinna. Jag vill betala halva. Det är faktiskt 2013 liksom.”<br />
+<strong>Hon menar egentligen: </strong>”Tro inte för ett ögonblick att du kan köpa mig. Tro heller inte för ett ögonblick att du förbättrar dina odds för sex ikväll genom att INTE insistera på att få bjuda mig.”</p>
+<p><strong><em>3. Hos svärföräldrarna</em></strong></p>
+<p><strong>Situation:</strong> När du skaffar dig en kvinna betyder det tyvärr inte att du bara får just en kvinna, du får också en hel familj på köpet. Du har inte valt dem, och de har inte valt dig. Du är redan på förhand ingen favorit direkt, då hennes pappa ”minsann vet vad du gör i sovrummet med hans dotter”. Det är dags för den första gemensamma middagen hemma hos hennes föräldrar.<br />
+<strong>Hon säger:</strong> ”Min pappa kan vara lite svår i början, men han brukar öppna sig när man väl lärt känna honom. ”<br />
+<strong>Du tror att hon menar: </strong>”Den gamle gubben är lite grinig, men det går nog att lösa genom att du ler lite grann och drar en rolig ordvits. Pappa älskar ordvitsar.”<br />
+<strong>Hon menar egentligen: </strong>”Pappa vet en del om dig, och tyvärr hatar han dig redan. Möjligen, möjligen skulle det kunna lösa sig om smörar ihjäl dig samt lovar att måla om sommarstugan i höst. Men räkna inte med att lyckas.”</p>
+<p><strong><em>4. Vid garderoben</em></strong></p>
+<p><strong>Situation</strong>: Ni ska gå ut och göra ”något roligt” tillsammans. Här har du givetvis fått höra att ni bara sitter hemma, och det är hon trött på. Oavsett om det är middag med ett annat par (som du hatar), eller bara ska på bio så ska hon nu välja kläder. Här börjar problemen.  Hon vet såklart inte vad hon ska ha på sig. Du däremot valde t-shirt på 2 minuter, tog på jeansen och suckar nu irriterat sedan 30 minuter tillbaks. Givetvis är ni redan sena också.<br />
+<strong>Hon säger: </strong>”Vilken ska jag ta, den, den eller den?”<br />
+<strong>Du tror att hon menar: </strong>”Eftersom jag uppenbarligen inte kan bestämma mig så låter jag dig avgöra, så att vi blir klara och kan komma iväg någon gång.”<br />
+<strong>Hon menar egentligen: </strong>”Jag har inget som helst förtroende för ditt omdöme, men försöker vinna lite tid. Skulle du välja någon av dem som jag egentligen inte tänkt mig, vilket du antagligen kommer att göra, så blir jag däremot sur.”</p>
+<p><strong><em>5. Hennes ex hör av sig</em></strong></p>
+<p><strong>Situation:</strong> Förutsatt att du inte fiskade upp henne direkt från skolgården i mellanstadiet så finns det i regel en historik av andra män i bakgrunden. JA, det gör det. Inbilla dej inget annat. Nu har hon precis kommit tillbaka efter ett telefonsamtal som hon tog i andra rummet. Blicken är lite obekväm.<br />
+<strong>Hon säger:</strong> ”Det var mitt ex, Johan. Han har haft det lite svårt att släppa att det tog slut mellan oss så han ringer ibland. Men det är ingen fara.”<br />
+<strong>Du tror att hon menar</strong><strong>: </strong>”Mitt ex Johan vägrar inse att det är slut och försöker fortfarande övertala mig att komma tillbaka, men det är ingen fara. Jag tänker inte ligga med honom.”<br />
+<strong>Hon menar egentligen: </strong>”Mitt ex Johan är en misstänkt fullblodspsykopat med klara stalkertendenser. Förmodligen ligger både du och jag illa till (mest du). Jag är livrädd, men jag vill inte oroa dig i onödan.”</p>
+<p><strong>6. Om hushållsarbete</strong></p>
+<p><strong>Situation:</strong> Ni bor ihop. Det har sina fördelar, helt klart. Det har också sina nackdelar. Dina fotbollsplanscher på en svettig Martin Dahlin får inte hänga uppe och ditt Playstation 3 får inte stå framme när ni har gäster. ”Det ser så töntigt ut”. Att leva med en kvinna betyder också att man plötsligt måste tänka på det där med hemarbete. Städning osv alltså.<br />
+<strong>Hon säger:</strong> ”Det finns disk i maskinen och det är lite dammigt i hallen. Om du har tid och orkar efter jobbet får du gärna fixa det.”<br />
+<strong>Du tror att hon menar</strong><strong>: </strong>”Vi har några ganska oväsentliga saker som skulle kunna åtgärdas om du verkligen inte har något bättre för dig. Vill du hellre koppla av med tv-spel tillsammans med din sliskiga polare Jocke så kan vi ordna det en annan dag, eller så tar jag det när jag kommer hem.”<br />
+<strong>Hon menar egentligen: </strong>”Eftersom jag gör allt i det här hushållet så är det minsann på tiden att du tar tag i något. Är inte detta fixat när jag kommer hem så är helvetet rena semesterparadiset gentemot vad du kommer möta när jag är tillbaka.”</p>
+<p><strong>7. När ni planerar semestern</strong></p>
+<p><strong>Situation:</strong> Ni har blivit ett lite mer etablerat par, och som sådant så åker man ju också på semester ihop. I smyg sörjer du att det inte blir Magaluf med gamla handbollslaget i år igen, men tänker att det säkert går överleva i alla fall. Du tänker uteserveringar, vilt hotellsex och sånt där som du läst om i söndagsbilagorna på jobbet. Kroatien kan ju också vara trevligt? Eller Kreta? Eller?<br />
+<strong>Hon säger:</strong> ”Skulle du ha något emot att vi tar en vecka hos mina föräldrar på Öland? De skulle bli så väldigt glada då.”<br />
+<strong>Du tror att hon menar</strong><strong>: </strong>”Jag förstår om du inte vill sätta dig på ett utedass mitt i obygden under din surt förvärvade semester, men alternativet finns i alla fall och jag kan tänka mig det. Annars kan vi åka någon annanstans.”<br />
+<strong>Hon menar egentligen: </strong>”Om du inte går med på att åka till Öland kommer inte bara jag, utan även mina föräldrar att hata dig. Vi kan absolut åka någon annanstans, men då kommer jag att sura mig igenom hela resan. Du väljer.”</p>
+<p><strong>8. I klädbutiken</strong></p>
+<p><strong>Situation:</strong> Utan att gnälla (okej, lite har du nog gnällt) har du nu sprungit efter din kvinna i flera timmar på stan. Du är bärhjälpen. Det blir nämligen många påsar med inköpta kläder när flickvännen shoppar. Ändå har hon hittills konstigt nog inte hittat det hon egentligen sökte. Men så äntligen verkar hon tillslut ha hittat det hon letat efter. Det är något färgglatt som verkar rätt onödigt, eftersom hon säkert har minst fyra likadana saker i samma färger hemma. Men men.<br />
+<strong>Hon säger: </strong>”OMG OMG OMG!!. Det här är klänningen jag drömt om hela livet! Jag skulle göra vad som helst för den, men den kostar alldeles för mycket… Jag har inte råd.”<br />
+<strong>Du tror att hon menar: </strong>”Allt var helt i onödan. Men nu kan vi i alla fall gå hem.”<br />
+<strong>Hon menar egentligen: </strong>”Om du ruinerar dig själv och köper den här åt mig kommer jag göra vad som helst för dig i flera dagar. Om du inte gör det kommer jag att sura över klänningen dubbelt så länge. Och ditt PS3 åker upp på vinden. För alltid.”</p>
+<p><strong>9. I provrummet</strong></p>
+<p><strong>Situation:</strong> Som punkt 8, men nu har hon hittat något hon faktiskt har råd med. Medan hon tvingat på sig plagget i fråga (i en storlek XS trots att M hade varit mer passande) har dina tankar hunnit sväva iväg till något annat. (exempelvis den där exotiska skönheten som du skymtar i bås nummer 4), men nu har avgörandets stund infallit.<strong><br />
+</strong><strong>Hon säger: ”</strong>Ser jag tjock ut i den här?”<br />
+<strong>Du tror att hon menar</strong><strong>: </strong>”Framhäver den här min figur på bästa sätt, eller är den missvisande? Jag behöver din åsikt, det handlar trots allt om flera hundra kronor.”<br />
+<strong>Hon menar egentligen: </strong>”Nu ska du ge mig bekräftelse på att jag minsann inte alls tappat formen, även om vågen visat några kilo mer på sistone. Alla andra svar än <em>”nej, absolut inte, du är skitsnygg”</em> kommer att resultera i kastade saker och minst en veckas sexstrejk, kanske två.”</p>
+<p><strong>10. När hon gör slut</strong></p>
+<p><strong>Situation:</strong> Jaha, då står du där igen då. Du borde förstås sett den här dagen komma, men valde att titta bort och fokusera energin och tankarna på att levla upp på Call of Duty istället. Med andra ord har du mest dig själv att skylla, men det är ju en klen tröst i den mest förnedrande av alla situationer: Hon tänker dumpa dig. Och hon tänker göra det nu.<br />
+<strong>Hon säger: </strong>”Jag tycker verkligen om dig, och jag vill att det ska vara vi. Men just nu känns det inte helt bra och jag tror att jag behöver lite tid för mig själv.”<br />
+<strong>Du tror att hon menar: ”</strong>Vi tar en paus ett tag, alltså typ som att vara ihop, men du får ligga med andra. Sen blir vi ihop igen och lever lyckliga i alla våra dagar. Plus att du får lite extra tid för dina polare, det har du förtjänat älskling.”<br />
+<strong>Hon menar egentligen: </strong>”Jag är så trött på att du alltid är så omogen och tråkig. Det är slut för alltid. Ring mig aldrig mer.”</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/25/haha-5/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/25/haha-5/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/25/haha-5/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/linns-vardag/" rel="category tag">Linns vardag</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/25/haha-5/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4091 -->
+                    
+					
+<article id="post-4089" class="post-index post-4089 post type-post status-publish format-standard hentry category-linns-vardag category-loveguru">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/24/lovegurun-vad-menar-han/" title="Permalink to Lovegurun &#8211; vad menar han?" rel="bookmark">Lovegurun &#8211; vad menar han?</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 24, 2016 21:54">januari 24, 2016 21:54</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Jag tänkte att det var längesedan Lovegurun hjälpte er att förstå hur män fungerar. Därför ska jag med hjälp av sajten <a href="http://vadmenarhan.se/" target="_blank">varmenarhan.se</a> som kan vara det bästa som någonsin uppfunnits!</p>
+<p>Dagens första fall har ni här:<br />
+<em>Hej jag flyttade nyligen till en förort utanför Göteborg. Där har jag nu bott i cirka 3 veckor. Eftersom det tog slut mellan mig och mitt ex i början , så skaffade jag en dejtingsajt. Jag pratade med en del olika killar, inga fångade dock mitt intresse. Förns en kille 1 kilometer bort skrev till mig. Jag spanade in hans bilder &amp; tänkte &#8216; shit han är snygg &#8216; . Iallafall vi skrev till varandra fram och tillbaka. Några dagar efter de träffades vi i irl och vi pratade en del. Jag kände att kemin och intensiviten mellan oss var väldigt stark. under den kvällen kysste han mig ett flertal gånger och sa hur vacker jag va. Dagen efter det berättade han på sms att han inte gillar och skriva så mycket på ( sociala medier ) eftersom han föredrar att visa känslor i irl. Han &amp; hans ex gjorde slut för 2-3 månader sedan, så vi båda är ganska nya som singlar. Grejen med mig är att jag har en tendens och spamma honom eftersom jag tycker det är lättare och skriva vad man känner än och berätta. Han blev som sagt jävligt pissed of eftersom han hade missade samtal, missade sms med mera. Jag känner i hela min kropp att jag börjar bli kär i honom och att jag skulle kunna gå genom eld för honom. Men hur fan ska jag göra? Vi har typ kommit överens om att träffas nästa vecka &amp; ligga. Men jag vill ha så mkt mer än sex med honom. Jag fyller 17 år och han fyller 20. Kan det bero på åldersskillnaden ? </em></p>
+<p>1. Vad är detta för DUDE! Han säger att han inte vill skriva på sociala medier. VILKEN KILLE SKRIVER SÅ!!!!????!!!! Alla nuförtiden gillar att skriva på sociala medier -_-.  Sen är det också en otroligt dålig ursäkt för att slippa skriva alls.</p>
+<p>2. De har bestämt att de sa ses nästa vecka och ligga. VEM BESTÄMMER SÅNT! Stackars tös, hon vill bara ha ett förhållande och han vill bara ligga&#8230;</p>
+<p>3. Vem blir pissed of för att någon hör av sig! Är han intressera så gör det inget om du hör av dig 20000 gånger om dagen.</p>
+<p>&nbsp;</p>
+<p><em>2.Jag har blivit lite intresserad av en kille jag träffat några gånger på fester. Jag har märkt att han är intresserad men han har även sagt att han dejtar en annan tjej. Jag vet vem hon är. Men i alla fall så bjöd han hem mig till sig den festkvällen, men jag sa nej. Tog inte ens chansen att hångla med honom fast han försökte. Hur hade ni gjort i min situation? Hade ni kört på? Eller? Sen tycker jag inte att det bästa är att dra hem och ligga det första man gör när jag känner ett intresse för mer än det. Han verkar ju inte så seriös med sin dejt när han bjöd hem mig. Men å andra sidan hade han börjat dejta henne innan han ens visste vem jag var. Vet inte om jag vågar visa hur intresserad jag är av honom.</em></p>
+<p>Jag tror att vi alla tillsammans ska komma överrens om att om en kille bara vill se dig på fester så vill han bara ligga. Och om han dejtar någon annan men ändå vill hångla med dig, skulle du vilja vara tillsammans med en kille som gör så?</p>
+<p>&nbsp;</p>
+<p>Vad tycker ni? Håller ni med er loveguru är killarna intresserade? <img src="http://finest.se/linnsblogg/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1452967867437.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1452967867437.jpg" class="alignnone size-full wp-image-4012" alt="wpid-wp-1452967867437.jpg" width="1080" height="1920" /></a></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/24/lovegurun-vad-menar-han/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/24/lovegurun-vad-menar-han/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/24/lovegurun-vad-menar-han/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/linns-vardag/" rel="category tag">Linns vardag</a>, <a href="http://finest.se/linnsblogg/category/loveguru/" rel="category tag">Loveguru</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/24/lovegurun-vad-menar-han/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4089 -->
+                    
+					
+<article id="post-4086" class="post-index post-4086 post type-post status-publish format-standard hentry category-linns-vardag">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/24/5-eller-5/" title="Permalink to +5 eller -5?" rel="bookmark">+5 eller -5?</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 24, 2016 11:23">januari 24, 2016 11:23</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Hej hej!<br />
+Imorse hade jag och Helen utsläpp. Vi hade hjälp av Helens familj så det gick riktigt fort. Det finns 21 hästar i stallet och när vi var fyra stycken så gick det riktigt fort! :). </p>
+<p>Som jag nämnde innan kan man aldrig lita på skånsk vinter så efter nästan två veckor av snö och kyla började det idag töa. 2 grader och framåt veckan ska det bli 5 grader. Det är lite synd. Det är mysigt med snö! Fia fick gå ner i täcke till 100 grams och det fodrade regntäcket. Hon hade säkert kunnat skippa innetäcket men eftersom jag inte ska vara i stallet förrän imorgon eftermiddag så är det bättre att hon har täcken som även funkar om det skulle bli lite kallare imorgon :). Dessa dilemma när vintern ibland är 5 grader och ibland -5 ;). </p>
+<p>Vi hörs sen. Ta hand om er! </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453627357241.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2016/01/wpid-wp-1453627357241.jpg" title="wp-1453627357241" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/24/5-eller-5/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/24/5-eller-5/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/24/5-eller-5/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/linns-vardag/" rel="category tag">Linns vardag</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/24/5-eller-5/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4086 -->
+                    
+					
+<article id="post-4078" class="post-index post-4078 post type-post status-publish format-standard hentry category-arsresume">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/linnsblogg/2016/01/23/arsresume-oktober/" title="Permalink to Årsresumé &#8211; Oktober." rel="bookmark">Årsresumé &#8211; Oktober.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 23, 2016 15:14">januari 23, 2016 15:14</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Jag och Sofia var i Brucesskog med hästarna! Det var så mysigt 😀<a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/wpid-wp-1446214437476.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/wpid-wp-1446214437476.jpg" class="alignnone size-full wp-image-3405" alt="wpid-wp-1446214437476.jpg" width="1080" height="1920" /></a></p>
+<p>Det togs söta bilder på tulle, mig och fia <img src="http://finest.se/linnsblogg/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445861633-7159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445861633-7159.jpg" class="alignnone size-full wp-image-3381" alt="IMG_7933" width="1500" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445674844-7159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445674844-7159.jpg" class="alignnone size-full wp-image-3364" alt="IMG_7904" width="1376" height="1500" /></a></p>
+<p>En pojke gick in på en skola i Trollhättan och dödade flera människor. Sverige stannade av. Att en skolmassaker skett i Sverige var svårt att förstå.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445589457-7159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445589457-7159.jpg" class="alignnone size-full wp-image-3352" alt="bild" width="700" height="457" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Fia blev klippt för första gången och var sååååå duktig! Rörde inte en min när jag klippte av den redan (!) jättelånga vinterpälsen! <a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1444331205-7159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1444331205-7159.jpg" class="alignnone size-full wp-image-3215" alt="IMG_7706" width="1500" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Jag blev den fjärde oktober faster för andra gången till en liten Aron! 😀 &lt;3<a href="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/wpid-wp-1443965954802.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/wpid-wp-1443965954802.jpg" class="alignnone size-full wp-image-3167" alt="wpid-wp-1443965954802.jpg" width="1080" height="1081" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/linnsblogg/2016/01/23/arsresume-oktober/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/23/arsresume-oktober/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/linnsblogg/2016/01/23/arsresume-oktober/"></div></span></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/linnsblogg/category/arsresume/" rel="category tag">Årsresumé</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/linnsblogg/2016/01/23/arsresume-oktober/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-4078 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/linnsblogg/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2015/10/1445333967-7159.jpg" class="" /></div><div class="profile-desc">Mitt namn är Linn och jag driver linnsblogg och har gjort det sedan mars 2014. Jag tycker det är jätteroligt att få prata med er som läser, ni är guldvärda! Här på bloggen kan ni läsa om min häst Fia. Om våra äventyr, men även om mitt liv. Det händer en hel del. Välkomna!</div></aside><aside id="archives-4" class="widget widget_archive"><h2 class="widget-title">Arkiv</h2>		<label class="screen-reader-text" for="archives-dropdown-4">Arkiv</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://finest.se/linnsblogg/2016/01/'> januari 2016 &nbsp;(66)</option>
+	<option value='http://finest.se/linnsblogg/2015/12/'> december 2015 &nbsp;(61)</option>
+	<option value='http://finest.se/linnsblogg/2015/11/'> november 2015 &nbsp;(59)</option>
+	<option value='http://finest.se/linnsblogg/2015/10/'> oktober 2015 &nbsp;(63)</option>
+	<option value='http://finest.se/linnsblogg/2015/09/'> september 2015 &nbsp;(59)</option>
+	<option value='http://finest.se/linnsblogg/2015/08/'> augusti 2015 &nbsp;(60)</option>
+	<option value='http://finest.se/linnsblogg/2015/07/'> juli 2015 &nbsp;(60)</option>
+	<option value='http://finest.se/linnsblogg/2015/06/'> juni 2015 &nbsp;(61)</option>
+	<option value='http://finest.se/linnsblogg/2015/05/'> maj 2015 &nbsp;(63)</option>
+	<option value='http://finest.se/linnsblogg/2015/04/'> april 2015 &nbsp;(59)</option>
+	<option value='http://finest.se/linnsblogg/2015/03/'> mars 2015 &nbsp;(57)</option>
+	<option value='http://finest.se/linnsblogg/2015/02/'> februari 2015 &nbsp;(49)</option>
+	<option value='http://finest.se/linnsblogg/2015/01/'> januari 2015 &nbsp;(57)</option>
+	<option value='http://finest.se/linnsblogg/2014/12/'> december 2014 &nbsp;(55)</option>
+	<option value='http://finest.se/linnsblogg/2014/11/'> november 2014 &nbsp;(56)</option>
+	<option value='http://finest.se/linnsblogg/2014/10/'> oktober 2014 &nbsp;(62)</option>
+	<option value='http://finest.se/linnsblogg/2014/09/'> september 2014 &nbsp;(62)</option>
+	<option value='http://finest.se/linnsblogg/2014/08/'> augusti 2014 &nbsp;(66)</option>
+	<option value='http://finest.se/linnsblogg/2014/07/'> juli 2014 &nbsp;(65)</option>
+	<option value='http://finest.se/linnsblogg/2014/06/'> juni 2014 &nbsp;(57)</option>
+	<option value='http://finest.se/linnsblogg/2014/05/'> maj 2014 &nbsp;(49)</option>
+	<option value='http://finest.se/linnsblogg/2014/04/'> april 2014 &nbsp;(61)</option>
+	<option value='http://finest.se/linnsblogg/2014/03/'> mars 2014 &nbsp;(45)</option>
+	<option value='http://finest.se/linnsblogg/2014/02/'> februari 2014 &nbsp;(3)</option>
+
+		</select>
+</aside><aside id="nav_menu-3" class="widget widget_nav_menu"></aside><aside id="finestsharemyblogwidget-3" class="widget widget_finestsharemyblogwidget"><h3 class="widget-title">Dela min blogg</h3><textarea readonly style="resize: none;" cols="28" rows="4" onfocus="this.select();" onmouseup="return false;"><a href="http://finest.se/linnsblogg"><button class="button">Linnsblogg</button></a></textarea><br/><br/><span style="cursor: pointer;" class="what-share-widget">What's this ?</span></aside>                            <aside class="widget" id="blog_user_banner">
+                                <a href="Kontakt Linn.winberg.lw@gmail.com"><img src="http://cdn.finest.se/wp-content/uploads/sites/7025/2014/11/1416698868-7159.png" alt="Banner" class="img-responsive"/></a>                            </aside>
+                        			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            <div class="social-profiles"><a href="http://linnsblogg " target="_blank"><img src="http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/images/instagram.png" alt="Instagram" /></a><a href="https://www.youtube.com/user/SuperTolouse" target="_blank"><img src="http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/images/youtube.png" alt="Youtube" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/linnsblogg/feed/rss/" target="_blank"><img src="http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/linnsblogg/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+                <!-- scripts for Google -->
+                <script src="https://apis.google.com/js/platform.js" async defer>
+                    {
+                        lang: 'sv'
+                    }
+                </script>
+            <script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/linnsblogg/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/linnsblogg.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/linnsblogg/) in 0.95136 seconds, on: Jan 28th, 2016 @ 6:35 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:35 pm UTC (based on your configured expiration time). -->

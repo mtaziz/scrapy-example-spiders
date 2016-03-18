@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Faces By Sandy | Beauty and Fashion</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/mskawekwa/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/mskawekwa/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Faces By Sandy &raquo; flöde" href="http://finest.se/mskawekwa/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Faces By Sandy &raquo; kommentarsflöde" href="http://finest.se/mskawekwa/comments/feed/" />
+<meta property="og:title" content="Faces By Sandy"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/mskawekwa/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/mskawekwa/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/11551/2015/12/1451519450-11762.png"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/mskawekwa\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/mskawekwa/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/mskawekwa/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/mskawekwa/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/mskawekwa/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/mskawekwa/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/mskawekwa/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/mskawekwa/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/mskawekwa/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/mskawekwa\/wp-admin\/admin-ajax.php","categories":"mode, skonhet, livsstil"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-header h1 a,
+            .site-header h2 {
+                color: #070707;
+            }
+                    </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #070707; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/mskawekwa/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 11551);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/mskawekwa/" title="Faces By Sandy" rel="home">Faces By Sandy</a>
+                    </h1>
+
+                    <h2 class="site-description">Beauty and Fashion</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/mskawekwa/">Hem</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/mskawekwa/"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2015/10/cropped-1443904941-11762.jpg" class="header-image" width="1199" height="619" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-914" class="post-914 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/28/my-pics-of-the-day/" rel="bookmark">My Pics Of The Day</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Am looking for a new handbag/Bags .</p>
+<p>Something in black and something in color &#x1f60d;</p>
+<p>This Orange and Red &#8211; perfect for spring/summer and on my skin oufff child it will be like candy.<a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001362-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001362-11762-298x300.png" class="aligncenter size-medium wp-image-915" alt="Screenshot_2016-01-28-16-55-59-1" width="298" height="300" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001396-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001396-11762-300x225.png" class="aligncenter size-medium wp-image-917" alt="Screenshot_2016-01-28-16-55-13-1" width="300" height="225" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>This is an everyday bag that I need in life.<a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001408-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001408-11762-286x300.png" class="aligncenter size-medium wp-image-918" alt="Screenshot_2016-01-28-17-01-40-1" width="286" height="300" /></a></p>
+<p>This outfit would be my go to look. Comfortable,sexy and cute yaas!  <a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001421-11762.png"><br />
+</a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001433-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1454001433-11762-291x300.png" class="aligncenter size-medium wp-image-920" alt="Screenshot_2016-01-28-18-12-03-1" width="291" height="300" /></a></p>
+<p>In every divas bag should be a light on the phone so the celfies will look on fleek  &#x1f602; nerdy I know,but it&#8217;s a must have.</p>
+<p>&#x1f60e;</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/28/my-pics-of-the-day/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/28/my-pics-of-the-day/" title="18:30" rel="bookmark"><time class="entry-date" datetime="2016-01-28T18:30:23+00:00">januari 28, 2016 18:30</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-911" class="post-911 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/28/topic-of-the-day-trust/" rel="bookmark">Topic Of The Day -Trust</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Trust is when you have confidence in someone or something other than yourself—is social superglue. It is the binding for the deepest love, the strongest friendships, and the world’s communities. Modern society is built on trust, and in the absence of trust, fear rules.</p>
+<p>With this in mind, it is easy to understand how people with trust issues might have difficulty engaging in certain social contexts and leading the most fulfilling life they can.</p>
+<p>Some of the most common settings in which individuals display a lack of trust are in interpersonal relationships (romantic or otherwise), business dealings, politics, and even the use of technology. And with these different facets of life becoming increasingly interconnected, mistrust could conceivably spread from one part of a person’s life to another.</p>
+<p>Trust can take years to develop, but it can be destroyed in an instant. People like me  who have issues with trust people we  have often had significant negative experiences in the past with individuals or organizations that initially we deemed trustworthy and when a person’s trust is repeatedly violated, there  belief system can be affected causing future concerns with placing trust in people or organizations.</p>
+<p><span style="font-size: 1rem;line-height: 1">I trust in the Lord with all my heart, but people I don&#8217;t put too much trust in them unfortunately. </span><span style="line-height: 1.714285714;font-size: 1rem">so when people I don&#8217;t know reach out to me and they have good hearts and  intentions I&#8217;m very wary.  it&#8217;s almost like I can&#8217;t tell the difference when someone is genuine and when someone has a hidden agenda. I&#8217;m always thinking that they&#8217;re out to use me&#8230;&#x1f629;</span></p>
+<p>Am working on it as I want to have an effectively happy, rich life. I&#8217;v seaked spiritual guidence to build my shaky  foundation because of events in the past..  you can go and talk to  a professional if ypu rarher,that can give you some key point and guidelines because trust is the foundation of most healthy relationships.</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/28/topic-of-the-day-trust/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/28/topic-of-the-day-trust/" title="15:57" rel="bookmark"><time class="entry-date" datetime="2016-01-28T15:57:31+00:00">januari 28, 2016 15:57</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-902" class="post-902 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/27/date-night/" rel="bookmark">Date Night</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Hey Lovelies,</p>
+<p>I just came back home from my first date to be specific. Its been a minute since I dated and  it was fun I almost forgot the feeling of being in a man&#8217;s company.<a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933123-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933123-11762-225x300.jpg" class="aligncenter size-medium wp-image-904" alt="res_1453933089996" width="225" height="300" /></a></p>
+<p>This was my outfit for the night. I thought I would you know cover up so that he can pay attention to my face not my clevelage.</p>
+<p>We aint about giving up the goodies that easy&#x1f61c;&#x1f60e; and where not  looking for a jumpoff but a king.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933026-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933026-11762-169x300.jpg" class="aligncenter size-medium wp-image-903" alt="20160127_192849" width="169" height="300" /></a></p>
+<p>He was a perfect gentleman, open the doors,recommended something from the menu,made me laugh throughout the night and walked me home.&#x1f44c;</p>
+<p>He had made reservations at this really cute spots downtown Stockholm however when we got there the service was crap and they wanted us to wait around 10 to 20 minutes to get our tabel and it wasn&#8217;t like this place was big enough for us to sit at the bar and have some drinks so we decided to take a walk around the neighborhood and just find whatever that we could find.</p>
+<p>I could tell that he was getting frustrated,  you just have to make the best of the situation that you&#8217;re in so I just keep my cool and try to keep the situation light. I mean it wasn&#8217;t his fault!</p>
+<p>We ended up going to Copan young, its like Thailand in the middle of the city.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933320-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933320-11762-169x300.jpg" class="aligncenter size-medium wp-image-905" alt="20160127_202046" width="169" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Coconut shakes and pinaple shakes were the drinks of the night. I think Carl my personal trainer will be very happy to know that I did not have champagne to night lol</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933364-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933364-11762-169x300.jpg" class="aligncenter size-medium wp-image-906" alt="20160127_205119" width="169" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>I chose the salmon from the BBQ and it was delicious actually.</p>
+<p>&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933518-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453933518-11762-300x169.jpg" class="aligncenter size-medium wp-image-907" alt="20160127_211359" width="300" height="169" /></a></p>
+<p>It was a long time ago that I had this type of experience with a male. It was relaxed the chemistry was there and of course there was some awkward moments but I think that&#8217;s what&#8217;s so charming about first dates.</p>
+<p>These days men like this don&#8217;t come around that often and if nothing blooms out of this. Well i think we bothe made a good expretion on itch othet.</p>
+<p>First I was going to cancel because I was just feeling down today but I have been giving this guy a hard time for probably like 3 years so I thought he deserves a date,a chance and I am really happy that I did.</p>
+<p>He&#8217;s  easy on the eyes he got great sense of humor,he&#8217;s a gentleman and we vibe like friends and convesation had different levels of depth.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/27/date-night/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/27/date-night/" title="23:45" rel="bookmark"><time class="entry-date" datetime="2016-01-27T23:45:55+00:00">januari 27, 2016 23:45</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-899" class="post-899 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/27/topic-of-the-day-rejection/" rel="bookmark">Topic Of The Day -Rejection</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Big or Small, Rejection Affects Us All</p>
+<p>It doesn&#8217;t have to be about the big stuff like not getting into your top college, not making the team, or not getting asked out to a galla or prom.</p>
+<p>Everyday situations can lead to feelings of rejection, too, like if your joke didn&#8217;t get a laugh, if no one remembered to save you a seat at the lunch table, or if the person you really like talks to everyone but you.</p>
+<p>Feeling rejected is the opposite of feeling accepted which we all experience once or  more than once in their lives</p>
+<p>Rejection hurts. But it&#8217;s impossible to avoid it altogether. In fact People who become too afraid of rejection might hold back from going after something they want. Sure, they avoid rejection, but they&#8217;re also 100% guaranteed to miss out on what they want but won&#8217;t try for</p>
+<p>rejection is not a sign that something is wrong with you. rejection happens when those people at that job, the family,the community,the individual has no longer the capacity for your greatness. It means  you&#8217;re too big,to great,too powerful to anointed, to smart,to intelligent to stay in that rame any longer.</p>
+<p>you will no longer cry when  people reject you or beet your self about it. Because Rejection is an indication that God is getting ready to promote you!!! Amen!!</p>
+<p>I want to share with you what someone told me.</p>
+<p>YOU&#8217;R not an underachiever, YOU are an overcomer by the blood of the Lamb. Every resistance your overcoming, every power your overcoming,every crisis your overcoming! You  have the grace and with the Grace you come over it all.</p>
+<p>Hope that this words touch someone feeling down and Rejected.</p>
+<p>❤</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/27/topic-of-the-day-rejection/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/27/topic-of-the-day-rejection/" title="18:33" rel="bookmark"><time class="entry-date" datetime="2016-01-27T18:33:21+00:00">januari 27, 2016 18:33</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-892" class="post-892 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/27/obsession-about-balmains/" rel="bookmark">Obsession About Balmain&#8217;s</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Check out the new collection from Balmain it is everything y&#8217;all <a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908471-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908471-11762-293x300.png" class="aligncenter size-medium wp-image-893" alt="Screenshot_2016-01-27-12-35-41-1" width="293" height="300" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908488-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908488-11762-292x300.png" class="aligncenter size-medium wp-image-894" alt="Screenshot_2016-01-27-12-34-41-1" width="292" height="300" /></a></p>
+<p>May God bless me with a man that can give me some babies so I can dress them in these clothes.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908532-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908532-11762-300x217.png" class="aligncenter size-medium wp-image-895" alt="Screenshot_2016-01-27-12-36-00-1" width="300" height="217" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908550-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453908550-11762-300x220.png" class="aligncenter size-medium wp-image-896" alt="Screenshot_2016-01-27-12-36-04-1" width="300" height="220" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/27/obsession-about-balmains/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/27/obsession-about-balmains/" title="16:29" rel="bookmark"><time class="entry-date" datetime="2016-01-27T16:29:27+00:00">januari 27, 2016 16:29</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-886" class="post-886 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/27/kevin-hart/" rel="bookmark">Kevin Hart</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>I went to Kevin Hart with my boo thing</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453849846-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453849846-11762-169x300.jpg" class="aligncenter size-medium wp-image-887" alt="20160126_184329" width="169" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Make up and hair on fleek<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453849895-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453849895-11762-225x300.jpg" class="aligncenter size-medium wp-image-888" alt="20160126_191012" width="225" height="300" /></a></p>
+<p>Nails on fleek <a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453849965-11762.jpg"><br />
+</a> <a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453849978-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453849978-11762-169x300.jpg" class="aligncenter size-medium wp-image-890" alt="20160126_184643" width="169" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>The show was of the chain but the people that came out. Ohhh girl they where not on fleek.lol</p>
+<p>fake as people,chickes that think that there shit don&#8217;t stink but it shore do once a month &#x1f602;&#x1f602;</p>
+<p>bye Felicia</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/27/kevin-hart/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/27/kevin-hart/" title="00:27" rel="bookmark"><time class="entry-date" datetime="2016-01-27T00:27:33+00:00">januari 27, 2016 00:27</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-879" class="post-879 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/26/take-negative-to-positive/" rel="bookmark">Take Negative to Positive</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Everyone has a energie that is  attach to them and when there energy doesn&#8217;t have the same frequency with your energy a big clash happens.</p>
+<p>This is what I noticed this morning  when I  had a harmonic and peaceful energy, but it all got interuped when I had a conversation with aka delusional dud, aka psychopathic dude aka  stalker dude I told you about yesterday. the energy just changed real quick.</p>
+<p>He didn&#8217;t see anything wrong with his actins and kept on aprovoking me to get a reaction. I was so vext that I even let this person in to my space. He doesn&#8217;t see his actions as sirious&#8230; i mean really thou it&#8217;s not enuf that I don&#8217;t feel safe and i have told you that and that I will call the police twice for you to understand.</p>
+<p>He feelt some type of way because I shared the story on my blog</p>
+<p>I&#8217;m so unbothered in 2016 okay!</p>
+<p>let me clear something to everyone that reads my blog and follows me.  This is the place where I will speak my truth and you may like it or you may not like it, I do not really care as this is my place of expression nobody is safe in this zone.</p>
+<p>&nbsp;</p>
+<p>so the perfect way to release all of these negative energy that&#8217;s been dropped off on me I went over to the Gym in Gulmarsplan to meet Carl.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453813433-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453813433-11762-169x300.jpg" class="aligncenter size-medium wp-image-880" alt="20160126_131158" width="169" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Girl did he work me out reall good!  that&#8217;s exactly what I needed and I&#8217;m feeling great. Ass hurts a little bit,but that&#8217;s okay it&#8217;s for a good purpose.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453813473-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453813473-11762-225x300.jpg" class="aligncenter size-medium wp-image-881" alt="res_1453813250753" width="225" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>we did some cardio,he work my ass and the hole body.</p>
+<p>I got the opportunity to box and take out that frustration and negative energy.</p>
+<p>I&#8217;m excited too have more one on one with him. as I thought he was a really cool person with great energy and he really pushed me to my limit witch I need.</p>
+<p>no pain no gain.</p>
+<p>&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453814555-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453814555-11762-169x300.jpg" class="aligncenter size-medium wp-image-882" alt="20160126_140923" width="169" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>We gonna work on bigger and stronger. What my nickname to be missed Thicky Thicky thunder thighs&#x1f602;&#x1f61c;</p>
+<p>Thank you Carl for bringing  me from Negative back to the positivevibrators &#x1f60d;&#x1f64c;&#x1f38a;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/26/take-negative-to-positive/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/26/take-negative-to-positive/" title="14:24" rel="bookmark"><time class="entry-date" datetime="2016-01-26T14:24:24+00:00">januari 26, 2016 14:24</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-874" class="post-874 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/25/topic-of-the-day-psycho-dude/" rel="bookmark">Topic of the Day &#8211; psycho dude</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>&nbsp;</p>
+<p>Seriously I don&#8217;t know what to do about this unstabel individual that I let into my life to help me do some work&#8230; a part of me wants to serve him with the drama and the other part of me just says leave it let it be.</p>
+<p>A couple of months ago I met this dude throw some friends and at first he was really cool. we would hang out and he helping me paint my apartment,nothing physical ever happened between us. -He&#8217;s not my type let&#8217;s just say that!</p>
+<p>He started getting caught up in his emotions and he started getting feelings for me even though I was telling him that I was not interested in the romantic relationship and we can be friends.</p>
+<p>He kept pushing himself on me, pushing his existence,pushing his feelings, to the point where I just stopped answering his calls. I started blocking him wherever I could block him and then he came to my house unannounced.&#x1f628;&#x1f615;&#x1f620;&#x1f624;&#x1f629;</p>
+<p>Rang the doorbell a couple of times and when I didn&#8217;t answer he started grabing the handle trying to open the door.</p>
+<p>That&#8217;s when I knew that obviously the boundaries that I had set we&#8217;re not firm enough. He was a psychopath,a stalker  because he thought that it was okay to act that way. Also he was comfortable doing and behaving the way he was behaving.</p>
+<p>So I called him and I told him not to ever come to my house house unannounced and if he did I would report him to the police for harassment  and for stalking me.</p>
+<p>I also have have messages prov his actions. I know he would really not want me to as he actually doesn&#8217;t have papers here. Maybe that&#8217;s why he&#8217;s really clingy.</p>
+<p>So I&#8217;m thinking everything is all good he gets the memo he&#8217;s moved on blase blase blah</p>
+<p>Til he calls me and pleading to me to have him back in my life because he needs me&#8230;&#x1f440;</p>
+<p>Wait What?!</p>
+<p>N**** please</p>
+<p>I don&#8217;t know you and why do you need me in your life so desperately ?</p>
+<p>He should be meeting Jesus and the Holy Spirit desperately not a female that obviously wants nothing to do with him.</p>
+<p>You can call me paranoid if you want, but I am very very wary of people  that pushe themselves on me.</p>
+<p>It was Christmas I thought I would be nice at least then I called him back and I had a very calm and kind voice when I vocalized that this would be the last conversation we will have.</p>
+<p>I don&#8217;t want to have anything to do with you, I am not mad at you anymore, but you&#8217;re not somebody that I want to have in my life. you&#8217;re only sucking up my energy.Your never welcome&#8230;</p>
+<p>I should have the right to choose who I have around me and what type of energy is that I allow myself to be apart of.</p>
+<p>Once the conversation was done he said he understands and he said he loved me.&#x1f634;&#x1f634;&#x1f634;</p>
+<p>why I don&#8217;t know ,because I&#8217;ve never been that nice to you for you to say that you love me and you don&#8217;t know me for you to say that you love me.</p>
+<p>I guess he thought that by throwing the L would somehow would help his situatio . I said ok *****</p>
+<p>I mean what I said and I say what I mean. Am I not clear enuf</p>
+<p>A little while after that he continued to contacts me and asking me to go to my church thing &#x1f620;</p>
+<p>AGH NO!!!</p>
+<p>first of all if someone wants to go to church with you they simply say hey I want to go to church,do you mind if I come with you one day.</p>
+<p>but to say my church thing that lets me know that you just want to be around me,want atention that i do not want to give you and why would I take you with me to a place that is holy and peaceful to me when i honestly think that you are everything that is unholy.</p>
+<p>Just saying!</p>
+<p>I get on the phone for the last time and this time I was shouting I told him to f*** off I told him he was the f*** Boy I told him he&#8217;s a f****** Babylon of 2015 and I left him and every person that is beneath me back there why is he still pushing his existence on me.</p>
+<p>You would  think that when someone has been shouting at you on the phone and calling you out of your name that you will let them be alone.</p>
+<p>instead he just called me and asked me if I would braid his hair. his exactly these words</p>
+<p>yo slave master will you do Kunta kinte&#8217;s braids?</p>
+<p>So first your calling me a queen,then your  calling me a slave master.  he&#8217;s being disrespectful and insulting me but then he&#8217;s asking me for a favor. What is up with dude?</p>
+<p>Yes y&#8217;all I braid,I got alot of hiden talents</p>
+<p>Anyhoo&#8230;</p>
+<p>So right now am  I&#8217;m in a place where I am probably  going to call the police or I&#8217;m going to call the homies to handel this annoying young stupid fuck boy,because I am tired of having a psychopathic person harass me because I was nice to him one day.</p>
+<p>So when people meet me and they say am paranoid because i wuedtiin propkes intentions,well I have my reasons and this is one of them.</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/25/topic-of-the-day-psycho-dude/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/25/topic-of-the-day-psycho-dude/" title="21:28" rel="bookmark"><time class="entry-date" datetime="2016-01-25T21:28:30+00:00">januari 25, 2016 21:28</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-868" class="post-868 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/25/rihannas-dolce-gabbana-headphones-are-everything/" rel="bookmark">My Pics Of The Day</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Rihanna&#8217;s dolce gabbana headphones are everything however the prices are a little redonkulous $8,895 for these babies.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453743873-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453743873-11762-300x225.png" class="aligncenter size-medium wp-image-869" alt="Screenshot_2016-01-25-17-55-08-1" width="300" height="225" /></a> hopefully someone will create something similar and the prices will be realistic for the everyday woman like you and me and probably that would throw some Sorosky stones on them and they can go for 5000 SEK</p>
+<p>&nbsp;</p>
+<p>Now imagine a big afro this headphones and then this outfit to go with it.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453743967-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453743967-11762-231x300.png" class="aligncenter size-medium wp-image-870" alt="Screenshot_2016-01-25-18-30-36-1" width="231" height="300" /></a></p>
+<p>And then I will probably do like a pop of color on the lips. Like a Red or even a plum.</p>
+<p>But my days of walking in stilettos like that are over abd done so I would probably choose a heel that is a little bit thicker cuz your girl aint about that burning feet life&#x1f61c;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/25/rihannas-dolce-gabbana-headphones-are-everything/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/25/rihannas-dolce-gabbana-headphones-are-everything/" title="18:49" rel="bookmark"><time class="entry-date" datetime="2016-01-25T18:49:45+00:00">januari 25, 2016 18:49</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-861" class="post-861 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/mskawekwa/2016/01/25/behind-the-scenes/" rel="bookmark">Behind the Scenes</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Hi lovelies and happy Monday.</p>
+<p>It&#8217;s a new week with new ideas,new inspiration, new zeal,new anointing. Well  child I can go on and on and on.</p>
+<p>I started off my week with having a blast recording  A POD together with my partner and friend for this club Bambaataa.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453732812-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453732812-11762-169x300.jpg" class="aligncenter size-medium wp-image-862" alt="20160125_145332" width="169" height="300" /></a> Auntie Jolie sirious when looking for musik &#x1f602;&#x1f602;</p>
+<p>I can&#8217;t with that buttocks</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453732877-11762.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453732877-11762-225x300.jpg" class="aligncenter size-medium wp-image-863" alt="20160125_145357" width="225" height="300" /></a></p>
+<p>We have souch fun together&#8230;. any way the video will be reliced this week so stay tuned</p>
+<p>&nbsp;</p>
+<p>Anyhoo Bambaataa was very successful in during summer of 2015 and now there back working on there premier with Stockholms Groupen.</p>
+<p>So if you&#8217;re looking for an awesome party with good vibes and beautiful people</p>
+<p>Come by Le Bon Palais  Barnhusgatan 12 111 23 Stockholm</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453733067-11762.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2016/01/1453733067-11762-213x300.png" class="aligncenter size-medium wp-image-864" alt="Screenshot_2016-01-25-15-43-24-1" width="213" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Don&#8217;t miss it y&#8217;all come out and twirk &#8230; that night Fuck being polite &#x1f602; that will be our moto for that night.</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/mskawekwa/2016/01/25/behind-the-scenes/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/mskawekwa/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/mskawekwa/2016/01/25/behind-the-scenes/" title="15:48" rel="bookmark"><time class="entry-date" datetime="2016-01-25T15:48:41+00:00">januari 25, 2016 15:48</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/mskawekwa/author/mskawekwa/" title="View all posts by mskawekwa" rel="author">mskawekwa</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/mskawekwa/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/11551/2015/12/1451519450-11762.png" class="" /></div></aside></div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="http://sandy Kawekwa" target="_blank"><img src="http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/images/facebook.png" alt="Facebook" /></a><a href="http://@mskawekwa" target="_blank"><img src="http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a><a href="http://Faces By Sandy soon coming" target="_blank"><img src="http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/images/youtube.png" alt="Youtube" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/mskawekwa/feed/rss/" target="_blank"><img src="http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/mskawekwa/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/mskawekwa/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/mskawekwa.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/mskawekwa/) in 0.82951 seconds, on: Jan 28th, 2016 @ 6:41 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:41 pm UTC (based on your configured expiration time). -->

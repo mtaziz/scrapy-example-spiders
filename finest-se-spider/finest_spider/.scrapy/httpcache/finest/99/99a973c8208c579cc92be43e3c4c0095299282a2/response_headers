@@ -1,0 +1,12 @@
+X-Aspnet-Version: 4.0.30319
+Content-Encoding: gzip
+Set-Cookie: myLanguage=en-US; expires=Sun, 28-Oct-2018 07:42:27 GMT; path=/
+Set-Cookie: ASP.NET_SessionId=s0iqu1qbrptc45oubes3dnyi; path=/; HttpOnly
+Age: 1
+X-Powered-By: ASP.NET
+Vary: Accept-Encoding,Accept-Encoding
+Server: Microsoft-IIS/8.5
+Cache-Control: private
+Date: Mon, 01 Feb 2016 07:42:26 GMT
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=utf-8

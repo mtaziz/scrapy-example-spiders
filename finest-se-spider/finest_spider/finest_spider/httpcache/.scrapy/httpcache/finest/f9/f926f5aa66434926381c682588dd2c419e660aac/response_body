@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Majs | Räcker det inte med att jag är människa</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/majsan/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/majsan/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Majs &raquo; flöde" href="http://finest.se/majsan/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Majs &raquo; kommentarsflöde" href="http://finest.se/majsan/comments/feed/" />
+<meta property="og:title" content="Majs"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/majsan/"/><meta property="og:description" content="Jag skriver mest för mig egen del. Min själ kanske är blå men mitt hjärta är rött trots att jag är gul.
+Jobbar med mat, RFSL Hälsingland, Pride, matfotografering, event, fester, stora som småtillställningar, evenemang över hela Sverige.
+
+Kontakt: majsan.keller@finest.se"/><meta property="og:site_name" content="finest.se/majsan/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/31205.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/majsan\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/majsan/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/majsan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/majsan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/majsan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/majsan/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/majsan/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/majsan/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/majsan/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/majsan/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/majsan/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/majsan/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/majsan\/wp-admin\/admin-ajax.php","categories":"samhalle, livsstil, hbtq"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/majsan/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 1541);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/majsan/" title="Majs" rel="home">Majs</a>
+                    </h1>
+
+                    <h2 class="site-description">Räcker det inte med att jag är människa</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/majsan/">Hem</a></li><li class="page_item page-item-14023"><a href="http://finest.se/majsan/mat/">CORNSFOOD</a></li><li class="page_item page-item-14021"><a href="http://finest.se/majsan/event/">EVENT &amp; KONTAKT</a></li><li class="page_item page-item-18901"><a href="http://finest.se/majsan/film/">FILM</a></li><li class="page_item page-item-14096"><a href="http://finest.se/majsan/hotell-restaurang-cafe/">HOTELL &#8211; RESTAURANG &amp; CAFÈ</a></li><li class="page_item page-item-14035"><a href="http://finest.se/majsan/musik/">MUSIK</a></li><li class="page_item page-item-14031"><a href="http://finest.se/majsan/politik/">POLITIK</a></li><li class="page_item page-item-14033"><a href="http://finest.se/majsan/sport/">SPORT &amp; GYM</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/majsan/"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2014/11/cropped-1416612291-1573.jpg" class="header-image" width="1050" height="523" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-22412" class="post-22412 post type-post status-publish format-standard hentry category-personligt">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/28/nominera-motivera-till-karlekspriset/" rel="bookmark">Nominera &amp; motivera till Kärlekspriset</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Jag är emot alla priser där vi ska hylla personer som gör något värdefullt. Självklart är det fint, ärofyllt och motiverande. Jag är jätteglad för att jag år 2013 blev sommarens Söderhamn are,&nbsp; <strong><a href="http://www.helahalsingland.se/halsingland/soderhamn/majs-keller-far-karlekspris-1">år 2014 fick kärlekspriset</a></strong>,&nbsp; år 2005 vann årets klubb med Connection och år 2006 nominerad i Keep up the good work. Alla dessa nomineringar är såklart ett statement och ett bevis på det du gör är bra. </p>
+<p>Jag tycker ändå att det är jobbigt. Det har inget med jantelagen. Det har att göra med att det ofta är orättvist när det finns så oerhört många som arbetar i det tysta, som inte har behov att tala om allt som anordnas. Hur ska vi veta om vi inte skriver om det? Om ingen nominerar? Jag önskade det fanns en tävling där folk som inte pratar om det får ett pris eller chans. Idag är det välrenommerade namn som tilldelas och uppmärksammas. I all ära. Det är ändå många som borde träda fram. Det är ni som bör få detta pris. </p>
+<p><strong><a href="http://karlekspriset.se/nominering.html">Motivera &amp; Nominera här</a></strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-1200.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-1200.jpg" title="1200.jpg" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/28/nominera-motivera-till-karlekspriset/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/28/nominera-motivera-till-karlekspriset/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/28/nominera-motivera-till-karlekspriset/" title="9:49 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T21:49:14+00:00">januari 28, 2016 21:49</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-22409" class="post-22409 post type-post status-publish format-standard hentry category-personligt tag-frank-dandy">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/28/tack-till-frank-dandy/" rel="bookmark">Tack till Frank Dandy</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Jag tycker om att samarbeta med företag som inte har något vinnande syfte i vissa ändamål, där givmildheten är större än vinsten. </p>
+<p><strong><a href="http://www.frankdandy.com/sv/underklader/kalsonger/">Frank Dandy</a></strong> är ett utav dom företag som inte bidrar till varmare rumpa för reklamen i denna situation, utan för att det är en viktig insats. </p>
+<p>Det kanske inte är livsviktigt med Frank Dandy på sin kropp men av hälsosamma skäl och känsla av att få ha något nytt stärker ens personlighet.</p>
+<p>För mig är det värt att lyfta upp blygsamma företag även om det i andras ögon kan vara tvärtom beroende på syfte och värde för olika tillställningar. </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-frank_dandy.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-frank_dandy.png" title="frank dandy" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/28/tack-till-frank-dandy/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/28/tack-till-frank-dandy/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/28/tack-till-frank-dandy/" title="6:42 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T18:42:46+00:00">januari 28, 2016 18:42</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-22406" class="post-22406 post type-post status-publish format-standard hentry category-personligt">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/28/snoslask/" rel="bookmark">Snöslask!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Idag har jag skottat snö. Eller är snö det rätta ordet? Det kändes mer som sten, blytunga stenklumpar.</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/28/snoslask/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/28/snoslask/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/28/snoslask/" title="5:51 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T17:51:57+00:00">januari 28, 2016 17:51</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-22368" class="post-22368 post type-post status-publish format-standard hentry category-personligt tag-semla">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/20/semeltarta/" rel="bookmark">Semeltårta</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1453321480375.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1453321480375.jpg" title="wp-1453321480375" class="alignnone size-full" alt="image" /></a></p>
+<p>Semmeltårta är en jättestor semla att bjuda många semmelälskare på. En maffig semmeltårta passar utmärkt till kalas. Häromveckan var det första gången jag bakade semlor. Idag testade jag en semeltårta. Det gick sådär. Degen var perfekt, fluffig och bra konsistens. Jag tog ut bullen för tidigt men det verkade inte spela någon roll för hela semeltårtan gick åt. Fyllning blev nougat och choklad med laktosfri grädde.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-img_20160120_213318.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-img_20160120_213318.jpg" title="IMG_20160120_213318.jpg" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/20/semeltarta/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/20/semeltarta/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/20/semeltarta/" title="10:31 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-20T22:31:47+00:00">januari 20, 2016 22:31</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-22360" class="post-22360 post type-post status-publish format-standard hentry category-personligt">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/19/en-rutten-lok/" rel="bookmark">En rutten lök?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1453232843801.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1453232843801.jpg" title="wp-1453232843801" class="alignnone size-full" alt="image" /></a></p>
+<p>Det här hände mig för några veckor. Jag försökte peppa mig själv till att laga något med rödlök. Jag handlar, ser framemot matlagning, börjar skala och skär bort roten. Så här såg det ut. Fräscht?&nbsp; Roligt?&nbsp; Glädjande?&nbsp; Inte alls. Samtidigt är jag så fånig i detta sammanhang att en inte orkar bråka över en rutten rödlök. Det är inte värt besväret och gå ner till stan för att få en ny. Eller?</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/19/en-rutten-lok/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/19/en-rutten-lok/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/19/en-rutten-lok/" title="9:53 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-19T21:53:47+00:00">januari 19, 2016 21:53</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-22354" class="post-22354 post type-post status-publish format-standard hentry category-mat-2">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/18/da-kan-jag-bajsa-pa-din-serveringsdisk/" rel="bookmark">Då kan jag bajsa på din serveringsdisk?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1453137630822.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1453137630822.jpg" title="wp-1453137630822" class="alignnone size-full" alt="image" /></a></p>
+<p>Det är så himla drygt att fråga efter laktosfria dressingar och om osten är laktosfri eller om det ens är möjligt. En känner sig så besvärlig och jag avskyr det. Förlåt mig men går det bra om jag kan bajsa på din serveringsdisk?</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/18/da-kan-jag-bajsa-pa-din-serveringsdisk/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/18/da-kan-jag-bajsa-pa-din-serveringsdisk/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/mat-2/" rel="category tag">mat</a> på <a href="http://finest.se/majsan/2016/01/18/da-kan-jag-bajsa-pa-din-serveringsdisk/" title="7:08 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-18T19:08:34+00:00">januari 18, 2016 19:08</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-22349" class="post-22349 post type-post status-publish format-standard hentry category-personligt">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/17/laktosfria-semlor/" rel="bookmark">Laktosfria semlor!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Det enda jag tycker om med semlor är locket och om semlan är fylld med äppelmos. Jag älskar äppelmos men hur många semlor är fylld med det? Här ser ni några laktosfria semlor som jag har bakat för första gången och jag följde recept på arla.se.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1452983610193.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1452983610193.png" title="wp-1452983610193" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/17/laktosfria-semlor/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/17/laktosfria-semlor/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/17/laktosfria-semlor/" title="12:39 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-17T00:39:09+00:00">januari 17, 2016 00:39</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-22335" class="post-22335 post type-post status-publish format-standard hentry category-personligt">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/15/kokar-lite-varm-mjolk/" rel="bookmark">Kokar lite varm mjölk!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Jag har kokat lite mjölk med honung. Jag sover så fruktansvärt dåligt att det börjar bli jobbigt.</p>
+<p>I alla fall så har jag idag försökt hjälpa till men på avstånd. Hjälpt en anonym person för mig som behöver lite kläder till sig själv och barn. </p>
+<p>Livet är så grymt. Kanske jag inte ska gnälla på mitt mående och att jag inte har kunnat sova på flera veckor. Samtidigt är alla problem individuella. </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-screenshot_2016-01-14-17-28-01-1.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-screenshot_2016-01-14-17-28-01-1.png" title="Screenshot_2016-01-14-17-28-01-1.png" class="alignnone size-full" alt="image" /></a></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/15/kokar-lite-varm-mjolk/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/15/kokar-lite-varm-mjolk/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/15/kokar-lite-varm-mjolk/" title="11:29 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-15T23:29:11+00:00">januari 15, 2016 23:29</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-22332" class="post-22332 post type-post status-publish format-standard hentry category-personligt">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/15/en-bra-bild-gor-en-glad/" rel="bookmark">En bra bild gör en glad!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-edited_20160115_100117.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-edited_20160115_100117.jpg" title="edited_20160115_100117.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p>En dag där jag såg solen för en kort sekund. Jag kan nog leva som en björn en långperiod och komma ut mot våren. Det blir nog det bästa eller så tar jag mig i kragen, sätter på mig en skjorta och gör något?</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/15/en-bra-bild-gor-en-glad/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/15/en-bra-bild-gor-en-glad/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/personligt/" rel="category tag">Personligt</a> på <a href="http://finest.se/majsan/2016/01/15/en-bra-bild-gor-en-glad/" title="6:25 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-15T18:25:37+00:00">januari 15, 2016 18:25</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-22319" class="post-22319 post type-post status-publish format-standard hentry category-hbtq">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/majsan/2016/01/14/det-finns-andra-barn-i-min-situation/" rel="bookmark">Det finns andra barn i min situation!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1452777164690.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2016/01/wpid-wp-1452777164690.png" title="wp-1452777164690" class="alignnone size-full" alt="image" /></a></p>
+<p>Så himla fint och starkt av killen Alex och berätta detta inför hundratusentals tittare i ett av Sveriges viktigaste program för barn och ungdomar.</p>
+<p>Alex får frågan om varför han vill berätta detta i <strong><a href="http://www.svtplay.se/klipp/5598080/alex-foddes-som-tjej-men-vill-hellre-vara-kille?start=auto">REA &#8211; SVT</a>:</strong></p>
+<p>&#8211; Det finns andra barn i min situation och det ska inte spela nån roll om du är kille eller tjej. Alla är lika mycket värda och man behöver inte hålla det inom sig. </p>
+<p>Tänk att barn kan vara så starka förebilder.</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/majsan/2016/01/14/det-finns-andra-barn-i-min-situation/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/majsan/2016/01/14/det-finns-andra-barn-i-min-situation/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/majsan/category/hbtq/" rel="category tag">HBTQ</a> på <a href="http://finest.se/majsan/2016/01/14/det-finns-andra-barn-i-min-situation/" title="3:17 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-14T15:17:37+00:00">januari 14, 2016 15:17</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/majsan/author/majsan/" title="View all posts by majs" rel="author">majs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/majsan/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/31205.jpg" class="" /></div><div class="profile-desc">Jag skriver mest för mig egen del. Min själ kanske är blå men mitt hjärta är rött trots att jag är gul.
+Jobbar med mat, RFSL Hälsingland, Pride, matfotografering, event, fester, stora som småtillställningar, evenemang över hela Sverige.
+
+Kontakt: majsan.keller@finest.se</div></aside><aside id="search-3" class="widget widget_search"><h3 class="widget-title">Sök</h3><form role="search" method="get" id="searchform" action="http://finest.se/majsan/">
+    <div><label class="screen-reader-text" for="s">Sök efter</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Sök" />
+    </div>
+</form></aside><aside id="archives-3" class="widget widget_archive"><h3 class="widget-title">Arkiv</h3>		<label class="screen-reader-text" for="archives-dropdown-3">Arkiv</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://finest.se/majsan/2016/01/'> januari 2016 </option>
+	<option value='http://finest.se/majsan/2015/12/'> december 2015 </option>
+	<option value='http://finest.se/majsan/2015/11/'> november 2015 </option>
+	<option value='http://finest.se/majsan/2015/10/'> oktober 2015 </option>
+	<option value='http://finest.se/majsan/2015/09/'> september 2015 </option>
+	<option value='http://finest.se/majsan/2015/08/'> augusti 2015 </option>
+	<option value='http://finest.se/majsan/2015/07/'> juli 2015 </option>
+	<option value='http://finest.se/majsan/2015/06/'> juni 2015 </option>
+	<option value='http://finest.se/majsan/2015/05/'> maj 2015 </option>
+	<option value='http://finest.se/majsan/2015/04/'> april 2015 </option>
+	<option value='http://finest.se/majsan/2015/03/'> mars 2015 </option>
+	<option value='http://finest.se/majsan/2015/02/'> februari 2015 </option>
+	<option value='http://finest.se/majsan/2015/01/'> januari 2015 </option>
+	<option value='http://finest.se/majsan/2014/12/'> december 2014 </option>
+	<option value='http://finest.se/majsan/2014/11/'> november 2014 </option>
+	<option value='http://finest.se/majsan/2014/10/'> oktober 2014 </option>
+	<option value='http://finest.se/majsan/2014/09/'> september 2014 </option>
+	<option value='http://finest.se/majsan/2014/08/'> augusti 2014 </option>
+	<option value='http://finest.se/majsan/2014/07/'> juli 2014 </option>
+	<option value='http://finest.se/majsan/2014/06/'> juni 2014 </option>
+	<option value='http://finest.se/majsan/2014/05/'> maj 2014 </option>
+	<option value='http://finest.se/majsan/2014/04/'> april 2014 </option>
+	<option value='http://finest.se/majsan/2014/03/'> mars 2014 </option>
+	<option value='http://finest.se/majsan/2014/02/'> februari 2014 </option>
+	<option value='http://finest.se/majsan/2014/01/'> januari 2014 </option>
+	<option value='http://finest.se/majsan/2013/12/'> december 2013 </option>
+	<option value='http://finest.se/majsan/2013/11/'> november 2013 </option>
+	<option value='http://finest.se/majsan/2013/10/'> oktober 2013 </option>
+	<option value='http://finest.se/majsan/2013/09/'> september 2013 </option>
+	<option value='http://finest.se/majsan/2013/08/'> augusti 2013 </option>
+	<option value='http://finest.se/majsan/2013/07/'> juli 2013 </option>
+	<option value='http://finest.se/majsan/2013/06/'> juni 2013 </option>
+	<option value='http://finest.se/majsan/2013/05/'> maj 2013 </option>
+	<option value='http://finest.se/majsan/2013/04/'> april 2013 </option>
+	<option value='http://finest.se/majsan/2013/03/'> mars 2013 </option>
+	<option value='http://finest.se/majsan/2013/02/'> februari 2013 </option>
+	<option value='http://finest.se/majsan/2013/01/'> januari 2013 </option>
+	<option value='http://finest.se/majsan/2012/12/'> december 2012 </option>
+	<option value='http://finest.se/majsan/2012/11/'> november 2012 </option>
+	<option value='http://finest.se/majsan/2012/10/'> oktober 2012 </option>
+	<option value='http://finest.se/majsan/2012/09/'> september 2012 </option>
+	<option value='http://finest.se/majsan/2012/08/'> augusti 2012 </option>
+	<option value='http://finest.se/majsan/2012/07/'> juli 2012 </option>
+	<option value='http://finest.se/majsan/2012/06/'> juni 2012 </option>
+	<option value='http://finest.se/majsan/2012/05/'> maj 2012 </option>
+	<option value='http://finest.se/majsan/2012/04/'> april 2012 </option>
+	<option value='http://finest.se/majsan/2012/03/'> mars 2012 </option>
+	<option value='http://finest.se/majsan/2012/02/'> februari 2012 </option>
+	<option value='http://finest.se/majsan/2012/01/'> januari 2012 </option>
+	<option value='http://finest.se/majsan/2011/12/'> december 2011 </option>
+	<option value='http://finest.se/majsan/2011/11/'> november 2011 </option>
+	<option value='http://finest.se/majsan/2011/10/'> oktober 2011 </option>
+	<option value='http://finest.se/majsan/2011/09/'> september 2011 </option>
+	<option value='http://finest.se/majsan/2011/08/'> augusti 2011 </option>
+	<option value='http://finest.se/majsan/2011/07/'> juli 2011 </option>
+	<option value='http://finest.se/majsan/2011/06/'> juni 2011 </option>
+	<option value='http://finest.se/majsan/2011/05/'> maj 2011 </option>
+	<option value='http://finest.se/majsan/2011/04/'> april 2011 </option>
+	<option value='http://finest.se/majsan/2011/03/'> mars 2011 </option>
+	<option value='http://finest.se/majsan/2011/02/'> februari 2011 </option>
+	<option value='http://finest.se/majsan/2011/01/'> januari 2011 </option>
+	<option value='http://finest.se/majsan/2010/12/'> december 2010 </option>
+	<option value='http://finest.se/majsan/2010/11/'> november 2010 </option>
+	<option value='http://finest.se/majsan/2010/10/'> oktober 2010 </option>
+	<option value='http://finest.se/majsan/2010/09/'> september 2010 </option>
+	<option value='http://finest.se/majsan/2010/08/'> augusti 2010 </option>
+	<option value='http://finest.se/majsan/2010/07/'> juli 2010 </option>
+	<option value='http://finest.se/majsan/2010/06/'> juni 2010 </option>
+	<option value='http://finest.se/majsan/2010/05/'> maj 2010 </option>
+	<option value='http://finest.se/majsan/2010/04/'> april 2010 </option>
+	<option value='http://finest.se/majsan/2010/01/'> januari 2010 </option>
+	<option value='http://finest.se/majsan/2009/12/'> december 2009 </option>
+	<option value='http://finest.se/majsan/2009/11/'> november 2009 </option>
+	<option value='http://finest.se/majsan/2009/09/'> september 2009 </option>
+	<option value='http://finest.se/majsan/2009/08/'> augusti 2009 </option>
+	<option value='http://finest.se/majsan/2008/11/'> november 2008 </option>
+
+		</select>
+</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Etiketter</h3><div class="tagcloud"><a href='http://finest.se/majsan/tag/arton-78/' class='tag-link-37' title='11 ämnen' style='font-size: 12.719101123596pt;'>Arton.78</a>
+<a href='http://finest.se/majsan/tag/attendo/' class='tag-link-126' title='5 ämnen' style='font-size: 10.359550561798pt;'>Attendo</a>
+<a href='http://finest.se/majsan/tag/bravalla-festival/' class='tag-link-147' title='3 ämnen' style='font-size: 8.9438202247191pt;'>Bråvalla Festival</a>
+<a href='http://finest.se/majsan/tag/campus/' class='tag-link-268' title='14 ämnen' style='font-size: 13.505617977528pt;'>Campus</a>
+<a href='http://finest.se/majsan/tag/centerpartiet/' class='tag-link-211' title='11 ämnen' style='font-size: 12.719101123596pt;'>Centerpartiet</a>
+<a href='http://finest.se/majsan/tag/centrat/' class='tag-link-103' title='3 ämnen' style='font-size: 8.9438202247191pt;'>Centrat</a>
+<a href='http://finest.se/majsan/tag/chokladfestivalen/' class='tag-link-331' title='3 ämnen' style='font-size: 8.9438202247191pt;'>Chokladfestivalen</a>
+<a href='http://finest.se/majsan/tag/clarion-hotell/' class='tag-link-302' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Clarion Hotell</a>
+<a href='http://finest.se/majsan/tag/clean/' class='tag-link-106' title='5 ämnen' style='font-size: 10.359550561798pt;'>Clean</a>
+<a href='http://finest.se/majsan/tag/eat-meet/' class='tag-link-22' title='7 ämnen' style='font-size: 11.303370786517pt;'>Eat Meet</a>
+<a href='http://finest.se/majsan/tag/elite-grand-hotel-norrkoping/' class='tag-link-150' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Elite Grand Hotel Norrköping</a>
+<a href='http://finest.se/majsan/tag/eurogames/' class='tag-link-170' title='5 ämnen' style='font-size: 10.359550561798pt;'>EuroGames</a>
+<a href='http://finest.se/majsan/tag/film/' class='tag-link-57' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Film</a>
+<a href='http://finest.se/majsan/tag/fiska/' class='tag-link-134' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Fiska</a>
+<a href='http://finest.se/majsan/tag/food/' class='tag-link-10' title='6 ämnen' style='font-size: 10.910112359551pt;'>Food</a>
+<a href='http://finest.se/majsan/tag/frisyr/' class='tag-link-133' title='5 ämnen' style='font-size: 10.359550561798pt;'>Frisyr</a>
+<a href='http://finest.se/majsan/tag/frukost/' class='tag-link-28' title='3 ämnen' style='font-size: 8.9438202247191pt;'>Frukost</a>
+<a href='http://finest.se/majsan/tag/goteborgs-rape-with-pride/' class='tag-link-175' title='181 ämnen' style='font-size: 22pt;'>Göteborgs Rapé with pride</a>
+<a href='http://finest.se/majsan/tag/hbtq/' class='tag-link-1' title='2 ämnen' style='font-size: 8pt;'>HBTQ</a>
+<a href='http://finest.se/majsan/tag/hudiksvall/' class='tag-link-196' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Hudiksvall</a>
+<a href='http://finest.se/majsan/tag/halsingland/' class='tag-link-21' title='6 ämnen' style='font-size: 10.910112359551pt;'>Hälsingland</a>
+<a href='http://finest.se/majsan/tag/ica/' class='tag-link-182' title='5 ämnen' style='font-size: 10.359550561798pt;'>Ica</a>
+<a href='http://finest.se/majsan/tag/jordgubbar/' class='tag-link-135' title='3 ämnen' style='font-size: 8.9438202247191pt;'>Jordgubbar</a>
+<a href='http://finest.se/majsan/tag/jarvso/' class='tag-link-137' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Järvsö</a>
+<a href='http://finest.se/majsan/tag/lanthandeln-vaxbo/' class='tag-link-117' title='3 ämnen' style='font-size: 8.9438202247191pt;'>Lanthandeln växbo</a>
+<a href='http://finest.se/majsan/tag/lax/' class='tag-link-258' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Lax</a>
+<a href='http://finest.se/majsan/tag/ljusne/' class='tag-link-197' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Ljusne</a>
+<a href='http://finest.se/majsan/tag/maltwhisky-vm/' class='tag-link-52' title='8 ämnen' style='font-size: 11.696629213483pt;'>Maltwhisky-VM</a>
+<a href='http://finest.se/majsan/tag/mat/' class='tag-link-9' title='10 ämnen' style='font-size: 12.404494382022pt;'>Mat</a>
+<a href='http://finest.se/majsan/tag/melodifestivalen/' class='tag-link-69' title='8 ämnen' style='font-size: 11.696629213483pt;'>Melodifestivalen</a>
+<a href='http://finest.se/majsan/tag/politik/' class='tag-link-11' title='2 ämnen' style='font-size: 8pt;'>Politik</a>
+<a href='http://finest.se/majsan/tag/polstjarnan/' class='tag-link-327' title='10 ämnen' style='font-size: 12.404494382022pt;'>Polstjärnan</a>
+<a href='http://finest.se/majsan/tag/polstjarnan-ab/' class='tag-link-343' title='6 ämnen' style='font-size: 10.910112359551pt;'>Polstjärnan AB</a>
+<a href='http://finest.se/majsan/tag/pride/' class='tag-link-13' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Pride</a>
+<a href='http://finest.se/majsan/tag/pride-hudik/' class='tag-link-172' title='5 ämnen' style='font-size: 10.359550561798pt;'>Pride Hudik</a>
+<a href='http://finest.se/majsan/tag/renault-espace/' class='tag-link-96' title='5 ämnen' style='font-size: 10.359550561798pt;'>Renault Espace</a>
+<a href='http://finest.se/majsan/tag/schools-out/' class='tag-link-105' title='5 ämnen' style='font-size: 10.359550561798pt;'>School's Out</a>
+<a href='http://finest.se/majsan/tag/stockholm-pride/' class='tag-link-77' title='29 ämnen' style='font-size: 15.865168539326pt;'>Stockholm Pride</a>
+<a href='http://finest.se/majsan/tag/soderhielmska/' class='tag-link-263' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Söderhielmska</a>
+<a href='http://finest.se/majsan/tag/the-color-run/' class='tag-link-161' title='3 ämnen' style='font-size: 8.9438202247191pt;'>The Color run</a>
+<a href='http://finest.se/majsan/tag/transgenderday-of-remembrance/' class='tag-link-314' title='4 ämnen' style='font-size: 9.7303370786517pt;'>Transgenderday of remembrance</a>
+<a href='http://finest.se/majsan/tag/trana/' class='tag-link-91' title='8 ämnen' style='font-size: 11.696629213483pt;'>Träna</a>
+<a href='http://finest.se/majsan/tag/utstallning/' class='tag-link-306' title='3 ämnen' style='font-size: 8.9438202247191pt;'>Utställning</a>
+<a href='http://finest.se/majsan/tag/vaxbo/' class='tag-link-100' title='13 ämnen' style='font-size: 13.269662921348pt;'>Växbo</a>
+<a href='http://finest.se/majsan/tag/ol/' class='tag-link-38' title='3 ämnen' style='font-size: 8.9438202247191pt;'>ÖL</a></div>
+</aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Kategorier</h3><label class="screen-reader-text" for="cat">Kategorier</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Välj kategori</option>
+	<option class="level-0" value="16">Cornsfood</option>
+	<option class="level-0" value="19">Event</option>
+	<option class="level-0" value="1">HBTQ</option>
+	<option class="level-0" value="14">Hotell</option>
+	<option class="level-0" value="29">mat</option>
+	<option class="level-0" value="17">Musik</option>
+	<option class="level-0" value="45">Personligt</option>
+	<option class="level-0" value="11">Politik</option>
+	<option class="level-0" value="15">Restaurang &amp; Café</option>
+	<option class="level-0" value="18">Sport</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://finest.se/majsan/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside><aside id="finestsharemyblogwidget-2" class="widget widget_finestsharemyblogwidget"><h3 class="widget-title">Finestblogg</h3><textarea readonly style="resize: none;" cols="28" rows="4" onfocus="this.select();" onmouseup="return false;"><a href="http://finest.se/majsan"><button class="button">Majs</button></a></textarea><br/><br/><span style="cursor: pointer;" class="what-share-widget">What's this ?</span></aside>            <aside class="widget" id="blog_user_banner">
+                <img src="http://cdn.finest.se/wp-content/uploads/sites/1541/2015/03/wpid-img_20150303_152708.jpg" alt="Banner" class="img-responsive"/>            </aside>
+        </div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="https://www.facebook.com/cornsfood " target="_blank"><img src="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/facebook.png" alt="Facebook" /></a><a href="http://instagram.com/majscorn" target="_blank"><img src="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a><a href="https://www.youtube.com/channel/UCjNkn9XM5sC9yTYvKgPVWYA" target="_blank"><img src="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/youtube.png" alt="Youtube" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/majsan/feed/rss/" target="_blank"><img src="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/majsan/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/majsan/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/majsan/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/majsan.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/majsan/) in 0.82845 seconds, on: Jan 28th, 2016 @ 7:51 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:51 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/majsan/) in 0.00160 seconds, on: Jan 28th, 2016 @ 8:05 pm UTC. -->

@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Linn Rönnwall | Fashion, Fitness &amp; Horses</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/linnronnwall/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/linnronnwall/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Linn Rönnwall &raquo; flöde" href="http://finest.se/linnronnwall/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Linn Rönnwall &raquo; kommentarsflöde" href="http://finest.se/linnronnwall/comments/feed/" />
+<meta property="og:title" content="Linn Rönnwall"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/linnronnwall/"/><meta property="og:description" content="Välkommen till finest.se/linnronnwall
+Jag heter Linn Rönnwall och är en tjej på 15 år. Jag har bloggat i 3 år och här kan du läsa om allt från vardag, ridsport &amp; mode."/><meta property="og:site_name" content="finest.se/linnronnwall/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/10350/2015/10/IMG_4720.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/linnronnwall\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/linnronnwall/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/linnronnwall/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/linnronnwall/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/linnronnwall/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/linnronnwall/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/linnronnwall/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/linnronnwall/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/linnronnwall/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/linnronnwall\/wp-admin\/admin-ajax.php","categories":"mode, traning"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+    	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/linnronnwall/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 10350);
+        ga('create', 'Linn Rönnwall', 'auto', {'name': 'userTracker'});
+        ga('send', 'pageview');
+        ga('userTracker.send', 'pageview');
+    </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-background-white custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/linnronnwall/" title="Linn Rönnwall" rel="home">Linn Rönnwall</a>
+                    </h1>
+
+                    <h2 class="site-description">Fashion, Fitness &amp; Horses</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/linnronnwall/">Hem</a></li><li class="page_item page-item-12"><a href="http://finest.se/linnronnwall/linnronnwalllive-se/">linnronnwall@live.se</a></li><li class="page_item page-item-10"><a href="http://finest.se/linnronnwall/mode/">Mode</a></li><li class="page_item page-item-8"><a href="http://finest.se/linnronnwall/tavlingar/">Tävlingar</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/linnronnwall/"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2015/12/1450363638-10557.png" class="header-image" width="1500" height="998" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-4075" class="post-4075 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/28/random-fran-kamerarullen-2/" rel="bookmark">Random från kamerarullen </a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>med mina 8000 bilder finns det en del, enjoy 😉</p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2641.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2641.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2704.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2704.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3083.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3083.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3623-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3623-0.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_4668-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_4668-0.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5127.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5127.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5137.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5137.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5289.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5289.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_4238.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_4238.jpg" alt=""></a>&nbsp;<br />
+&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_4332.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_4332.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3648.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3648.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_6833.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_6833.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3306.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_3306.jpg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/28/random-fran-kamerarullen-2/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/28/random-fran-kamerarullen-2/" title="16:30" rel="bookmark"><time class="entry-date" datetime="2016-01-28T16:30:48+00:00">januari 28, 2016 16:30</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-4060" class="post-4060 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/28/snart-helg/" rel="bookmark">Snart helg!!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>veckan har segat fram för min del och ska bli extremt skönt<i>&nbsp;</i>med helg! I helgen blir det inte vila utan stenhård träning då jag missat en hel träningsvecka (!!!!!!) och har lite panik.&nbsp;</p>
+<p>Har ångest på grund utav skolan, alla prov, inlämningar och gymnasiet. Allt på samma gång. Träning för mig är &#8221;avkopplande&#8221; och får mig att rensa tankarna. Vill inget hellre än att sätta på mig joggingskorna och lurarna, men väntar till helgen.&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5265.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_5265.jpg" alt=""></a>&nbsp;<br />
+<i>Saknar min älskade Pok!&nbsp;</i></p>
+<p>Ridprofilen idag gick helt okej. Fick en sjövild häst vid namnet Gaja. Gaja galen säger jag bara 😉 Roligt att rida olika hästar då man får variera sin ridning. Framförallt glad för att få sitta på hästryggen igen!&nbsp;</p>
+<p>Red markarbete med fokus på rytm. Min häst blev finare mot slutet när vi travade av. Vet hästen vad halt är?&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/28/snart-helg/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/28/snart-helg/" title="16:17" rel="bookmark"><time class="entry-date" datetime="2016-01-28T16:17:32+00:00">januari 28, 2016 16:17</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-4057" class="post-4057 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/27/marabou/" rel="bookmark">Marabou </a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Min kvällsmat bestod utav havregrynsgröt och två äggmackor. Magen mätt och belåten!&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8367.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8367.jpg" alt=""></a><i>Mamma köpte med choklad till mig&lt;3</i></p>
+<p><i>Har ni sett att Marabou skänker 1 kr för varje krambild man lägger ut på Instagram när man hashtagar #kramkalas&nbsp;</i>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/27/marabou/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/27/marabou/" title="20:59" rel="bookmark"><time class="entry-date" datetime="2016-01-27T20:59:13+00:00">januari 27, 2016 20:59</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-4054" class="post-4054 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/27/favs-atm/" rel="bookmark">Favs atm</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8363.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8363.png" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8364.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8364.png" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/27/favs-atm/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/27/favs-atm/" title="10:23" rel="bookmark"><time class="entry-date" datetime="2016-01-27T10:23:43+00:00">januari 27, 2016 10:23</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-4050" class="post-4050 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/27/sjuk-och-plugg/" rel="bookmark">Sjuk och plugg</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Valde att stanna hemma från skolan idag då min förkylning är extrem. Ingen träning för min del heller, tyvärr&#8230;&nbsp;</p>
+<p>Hatar när man inte kan träna, om man ligger sängliggande så är det en sak, men att vara förkyld&#8230; Värsta som finns!&nbsp;</p>
+<p>Får inte träna för min mamma i detta tillstånd heller då man kan bli riktigt sjuk. &nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2825.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2825.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2673.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_2673.jpg" alt=""></a>&nbsp;<br />
+Hittade två bilder från i somras.&nbsp;</p>
+<p><b>Vad är erat bästa sommarminne? Skriv gärna i kommentarerna och dela med er 😉&nbsp;</b></p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_9910.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_9910.jpg" alt=""></a>&nbsp;<b><br />
+</b></p>
+<p><i>Resten av dagen kommer jag spendera för plugg. Massa plugg just nu&#8230;</i></p>
+<p><i>Kommer även sätta mig vid datorn och jobba lite. Fixa lite inlägg, kolla mejlen osv. Ska ta vara på dagen och hinna med det jag ska samt föröka bota min förkylning</i></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/27/sjuk-och-plugg/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/27/sjuk-och-plugg/" title="10:11" rel="bookmark"><time class="entry-date" datetime="2016-01-27T10:11:42+00:00">januari 27, 2016 10:11</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-4045" class="post-4045 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/26/bananpannkaka/" rel="bookmark">Bananpannkaka</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Perfekt som mellis innan eller efter träning!</p>
+<p><b><i>Du behöver 2 ägg, 1 banan och en skvätt vaniljsocker.&nbsp;</i></b></p>
+<p><b><i>Mosa bananen, vispa ihop tillsammans med äggen och vaniljsockret. Stek sedan i stekpanna</i></b></p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8360.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8360.png" alt=""></a>&nbsp;<b><i><br />
+</i></b></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/26/bananpannkaka/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/26/bananpannkaka/" title="16:40" rel="bookmark"><time class="entry-date" datetime="2016-01-26T16:40:16+00:00">januari 26, 2016 16:40</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-4042" class="post-4042 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/26/1000-crunches-platt-mage/" rel="bookmark">1000 crunches &amp; platt mage?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Har kollat en del på gamla avsnitt från &#8221;<b>studio fitness&#8221;</b>, jag tänkte ta upp några saker jag funderat på under veckan.&nbsp;</p>
+<p>Träning för det flesta (absolut inte alla) handlar om platt mage och snygg rumpa. Träning är så mycket mer än så för mig. Träning har blivit min nya livsstil, jag vill bygga muskler och få en starkare kropp. Jag vill kunna se mina muskler utan att ha råpumpat innan!&nbsp;</p>
+<p>Den här myten om att tjejer inte vågar ta vikter för att dem tror att resultatet kommer bli att man får en manlig kropp är&#8230; Vet inte vad!?&nbsp;</p>
+<p><b>Lyssna här!&nbsp;</b></p>
+<p>Det krävs månader, om inte år för att bygga en sådan kropp. Din träning kommer bli mycket effektivare om du lägger på vikter i lagom grad. <b>När du bygger muskler kommer dina muskler kräva energi som den drar av ditt underhudsfett just där muskeln sitter vilket ökar fettförbränningen.&nbsp;</b></p>
+<p>Därför tipsar jag er som vill ha ett snabbare resultat att köra dina magmuskler &nbsp;(ett exempel) med vikter eller i maskiner. Det är effektivare än att göra 1000 crunches varje dag. &nbsp;&nbsp;</p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8246.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8246.png" alt=""></a>&nbsp; &nbsp;</p>
+<p><i>Något som är jätte viktigt är att äta! Ät ät ät, men av rätt saker!!!&nbsp;</i></p>
+<p><i>För att få snabbare resultat gäller det att käka rätt. Ät massa protein, ät rätt mängd kolhydrater. Protein är kroppens byggstenar och behövs för att bygga muskler och kolhydraterna behöver du får att få energi till träningen.&nbsp;</i></p>
+<p><i>Det är så himla viktigt att käka efter ett träningspass. Om du inte käkar kommer dina muskler att brytas ner!&nbsp;</i></p>
+<p><i><b>Lycka till med träningen!&nbsp;</b></i>&nbsp;&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8334-1.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8334-1.jpg" alt=""></a>&nbsp;&nbsp;<br />
+(Lol, var är mina biceps? :/ 😉 )</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/26/1000-crunches-platt-mage/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/26/1000-crunches-platt-mage/" title="16:11" rel="bookmark"><time class="entry-date" datetime="2016-01-26T16:11:43+00:00">januari 26, 2016 16:11</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-4033" class="post-4033 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/26/last-hours/" rel="bookmark">Last hours </a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8351.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8351.jpg" alt=""></a>&nbsp;<i>Ett sent god morgon till mina sunshines!&nbsp;</i></p>
+<p><i>Ska ha min näst sista lektion vilket är biologi. Sista lektionen är 85 min SO, segt (hundra utropstecken)!!</i></p>
+<p><b><i>Vaknade upp och var jätte förkyld. Helt täppt i näsan, lite smått huvudverk och halsont. Oklart om jag ska tassa iväg till gymmet ändå?!</i></b></p>
+<p><b><i>&nbsp;</i></b><b><i>Se y&#8217;all soon&nbsp;</i></b></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/26/last-hours/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/26/last-hours/" title="12:39" rel="bookmark"><time class="entry-date" datetime="2016-01-26T12:39:09+00:00">januari 26, 2016 12:39</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-4024" class="post-4024 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/26/traningsschema-v-4/" rel="bookmark">Träningsschema v.4</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Måndag: &#8211; (läxor)</p>
+<p><i>Tisdag: gymmet tillsammans med Ellen. Rygg och mage för min del eller rygg &amp; armar med fokus på triceps&nbsp;</i></p>
+<p><i>Onsdag: mördande magpass</i></p>
+<p><i>Torsdag: armar + lite bröst</i></p>
+<p><i>Fredag: ?</i></p>
+<p><i>Lördag: rygg med fokus på nedredelen av ryggen</i></p>
+<p><i>Söndag: armar fokus triceps och biceps</i></p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8294.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8294.jpg" alt=""></a>&nbsp;<i><br />
+</i></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/26/traningsschema-v-4/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/26/traningsschema-v-4/" title="07:31" rel="bookmark"><time class="entry-date" datetime="2016-01-26T07:31:33+00:00">januari 26, 2016 07:31</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-4028" class="post-4028 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/linnronnwall/2016/01/25/hi-honeys/" rel="bookmark">Hi honeys</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8342.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8342.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8343.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2016/01/IMG_8343.jpg" alt=""></a>&nbsp;<br />
+Blev en enkel men god kvällsmat gjord utav kyckling, broccoli och andra wokgrönsaker.&nbsp;</p>
+<p>Haft en väldigt seg eftermiddag som bestått utav plugg. Plugg enda upp till näsan just nu&#8230; Suck..</p>
+<p>2 inlägg på G som ska skrivas under veckan. Håll utkik!&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/linnronnwall/2016/01/25/hi-honeys/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/linnronnwall/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/linnronnwall/2016/01/25/hi-honeys/" title="18:58" rel="bookmark"><time class="entry-date" datetime="2016-01-25T18:58:33+00:00">januari 25, 2016 18:58</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/linnronnwall/author/linnronnwall/" title="View all posts by Linn Rönnwall" rel="author">Linn Rönnwall</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/linnronnwall/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/10350/2015/10/IMG_4720.jpg" class="" /></div><div class="profile-desc">Välkommen till finest.se/linnronnwall
+Jag heter Linn Rönnwall och är en tjej på 15 år. Jag har bloggat i 3 år och här kan du läsa om allt från vardag, ridsport &amp; mode.</div></aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://finest.se/linnronnwall/">
+    <div><label class="screen-reader-text" for="s">Sök efter</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Sök" />
+    </div>
+</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Senaste inläggen</h3>		<ul>
+					<li>
+				<a href="http://finest.se/linnronnwall/2016/01/28/random-fran-kamerarullen-2/">Random från kamerarullen </a>
+						</li>
+					<li>
+				<a href="http://finest.se/linnronnwall/2016/01/28/snart-helg/">Snart helg!!</a>
+						</li>
+					<li>
+				<a href="http://finest.se/linnronnwall/2016/01/27/marabou/">Marabou </a>
+						</li>
+					<li>
+				<a href="http://finest.se/linnronnwall/2016/01/27/favs-atm/">Favs atm</a>
+						</li>
+					<li>
+				<a href="http://finest.se/linnronnwall/2016/01/27/sjuk-och-plugg/">Sjuk och plugg</a>
+						</li>
+				</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Senaste kommentarer</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Anna</span> om <a href="http://finest.se/linnronnwall/2016/01/15/tankar-kring-gymnasiet/#comment-49">Tankar kring gymnasiet </a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://Vanessaandersson.Se' rel='external nofollow' class='url'>Vanessa Andersson</a></span> om <a href="http://finest.se/linnronnwall/2016/01/01/my-new-years-eve/#comment-48">My new years eve</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://finest.se/linnronnwall' rel='external nofollow' class='url'>Linn Rönnwall</a></span> om <a href="http://finest.se/linnronnwall/2015/12/04/3382/#comment-47"></a></li><li class="recentcomments"><span class="comment-author-link">Anonym</span> om <a href="http://finest.se/linnronnwall/2015/12/04/3382/#comment-46"></a></li><li class="recentcomments"><span class="comment-author-link">Anonym</span> om <a href="http://finest.se/linnronnwall/2015/12/04/3382/#comment-44"></a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Arkiv</h3>		<ul>
+	<li><a href='http://finest.se/linnronnwall/2016/01/'>januari 2016</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/12/'>december 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/11/'>november 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/10/'>oktober 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/09/'>september 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/08/'>augusti 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/07/'>juli 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/06/'>juni 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/05/'>maj 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/04/'>april 2015</a></li>
+	<li><a href='http://finest.se/linnronnwall/2015/03/'>mars 2015</a></li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Kategorier</h3>		<ul>
+	<li class="cat-item cat-item-2"><a href="http://finest.se/linnronnwall/category/mode/" >Mode</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://finest.se/linnronnwall/category/okategoriserade/" >Okategoriserade</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://finest.se/linnronnwall/category/om-mig/" >Om mig</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://finest.se/linnronnwall/category/tavlingar/" >Tävlingar</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://finest.se/linnronnwall/category/traning/" >Träning</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://finest.se/linnronnwall/wp-login.php">Logga in</a></li>
+			<li><a href="http://finest.se/linnronnwall/feed/">Inlägg via <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://finest.se/linnronnwall/comments/feed/">Kommentarer via <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Drivs med WordPress, en toppmodern, semantisk publiceringsplattform.">WordPress.org</a></li>			</ul>
+</aside></div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="http://@linnronnnwall" target="_blank"><img src="http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a><a href="http://linnronnnwall" target="_blank"><img src="http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/images/videofyme.png" alt="Videofyme" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/linnronnwall/feed/rss/" target="_blank"><img src="http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/linnronnwall/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/linnronnwall/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/linnronnwall.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/linnronnwall/) in 0.95430 seconds, on: Jan 28th, 2016 @ 6:36 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:36 pm UTC (based on your configured expiration time). -->

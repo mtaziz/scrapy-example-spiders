@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Ge aldrig upp | En till Finest.se Member Blogs webbplats</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/veronikaastrom/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/veronikaastrom/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Ge aldrig upp &raquo; flöde" href="http://finest.se/veronikaastrom/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ge aldrig upp &raquo; kommentarsflöde" href="http://finest.se/veronikaastrom/comments/feed/" />
+<meta property="og:title" content="Ge aldrig upp"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/veronikaastrom/"/><meta property="og:description" content="Hej alla glada!
+Mitt namn är Veronika Åström, är 22 år och bor i Stockholm. Jag är en person som älskar att resa och upptäcka nya saker. Jag kommer skriva om allt mellan himmel och jord så jag hoppas ni följer denna blogg  :) / V"/><meta property="og:site_name" content="finest.se/veronikaastrom/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/9684/2015/05/1431098684-9886.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/veronikaastrom\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/veronikaastrom/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/veronikaastrom/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/veronikaastrom/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/veronikaastrom/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/veronikaastrom/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/veronikaastrom/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/veronikaastrom\/wp-admin\/admin-ajax.php","categories":"traning"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+    	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/veronikaastrom/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 9684);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/veronikaastrom/" title="Ge aldrig upp" rel="home">Ge aldrig upp</a>
+                    </h1>
+
+                    <h2 class="site-description">En till Finest.se Member Blogs webbplats</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/veronikaastrom/">Hem</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/veronikaastrom/"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2014/12/cropped-1419967035-9886.jpg" class="header-image" width="720" height="477" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-2124" class="post-2124 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/28/forsoker-motsta/" rel="bookmark">Försöker motstå</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1454003488-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1454003488-9886-300x300.jpg" class="alignnone size-medium wp-image-2125" alt="image" width="300" height="300" /></a></p>
+<p>Dom har köpt hem godis idag men jag försöker motstå. Har inte ätit godis på hela veckan så varför idag!? Kan erkänna att det är lite svårt men det ska gå så jag får gå och ta en banan istället <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/28/forsoker-motsta/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/28/forsoker-motsta/" title="18:53" rel="bookmark"><time class="entry-date" datetime="2016-01-28T18:53:42+00:00">januari 28, 2016 18:53</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-2121" class="post-2121 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/27/baseball/" rel="bookmark">Baseball</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453931076-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453931076-9886-300x240.jpg" class="alignnone size-medium wp-image-2122" alt="image" width="300" height="240" /></a></p>
+<p>&nbsp;</p>
+<p>När jag ändå är i LA så vill jag verkligen passa på att gå på någon sport. Basket hade varit min första prioritering för att få se Lakers spela men tyvärr så är inte säsongen igång. Kan va slutspel som pågår då men då måste ju Lakers vara i slutspel också. En annan sport som skulle vara häftig att se är amerikansk fotboll men även den sporten är inte heller i säsong så då hade jag tänkt mig att försöka gå på en baseball match. Laget heter LA Dodgers och jag hoppas verkligen att jag hittar biljetter. Kan ingenting om sporten om jag ska vara ärlig men bara att ha fått vara och titta på en match hade varit en upplevelse! <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/27/baseball/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/27/baseball/" title="22:49" rel="bookmark"><time class="entry-date" datetime="2016-01-27T22:49:16+00:00">januari 27, 2016 22:49</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-2116" class="post-2116 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/26/i-miss-you/" rel="bookmark">I miss you</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453837514-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453837514-9886-225x300.jpg" class="alignnone size-medium wp-image-2118" alt="image" width="225" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Barcelona &lt;3</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/26/i-miss-you/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/26/i-miss-you/" title="20:46" rel="bookmark"><time class="entry-date" datetime="2016-01-26T20:46:08+00:00">januari 26, 2016 20:46</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-2113" class="post-2113 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/26/courage/" rel="bookmark">Courage</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453837191-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453837191-9886-300x210.jpg" class="alignnone size-medium wp-image-2114" alt="image" width="300" height="210" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/26/courage/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/26/courage/" title="20:40" rel="bookmark"><time class="entry-date" datetime="2016-01-26T20:40:11+00:00">januari 26, 2016 20:40</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2109" class="post-2109 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/25/mycket-gott/" rel="bookmark">Mycket gott!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453756037-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453756037-9886-300x300.jpg" class="alignnone size-medium wp-image-2111" alt="image" width="300" height="300" /></a></p>
+<p>Lyxade till middagen idag då det blev Smördegsinbakad fläskfilé med ris. Så gott blev det, riktigt lyckat!!! <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/25/mycket-gott/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/25/mycket-gott/" title="22:08" rel="bookmark"><time class="entry-date" datetime="2016-01-25T22:08:36+00:00">januari 25, 2016 22:08</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2105" class="post-2105 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/goodnight-people/" rel="bookmark">Goodnight people</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453671317-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453671317-9886-300x300.jpg" class="alignnone size-medium wp-image-2106" alt="image" width="300" height="300" /></a></p>
+<p>Försökte ha ögonen öppna och ge er en helt vanlig bild men blixten var för stark så jag fick ont i ögonen och man kunde tro att jag hade en allergiattack eller något :p så ni får nöja er med denna när jag säger god natt <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/goodnight-people/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/24/goodnight-people/" title="22:37" rel="bookmark"><time class="entry-date" datetime="2016-01-24T22:37:32+00:00">januari 24, 2016 22:37</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2102" class="post-2102 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/my-breakfast/" rel="bookmark">My breakfast</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453668581-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453668581-9886-300x300.jpg" class="alignnone size-medium wp-image-2103" alt="image" width="300" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Idag åkte jag och mamma till port 73 för att gå in på in och finn. Jag letade efter nya sparbössor och det hittade jag. Har haft en ganska stor sparbössa tidigare men har varit nyfiken på hur mycket jag har haft i den därför ville jag köpa nya innan jag tog sönder den, tyvärr måste man göra det för att få ut pengarna. Eller tyvärr och tyvärr, det tycker jag bara är bra för då kan man inte ta pengar lika lätt <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Har faktiskt sparat ihop en del 😉 Har velat haft en shaker också och på vägen till in och finn hittade jag en butik där dom sålde så imorgon blir det smoothie till frukost <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/my-breakfast/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/24/my-breakfast/" title="22:05" rel="bookmark"><time class="entry-date" datetime="2016-01-24T22:05:40+00:00">januari 24, 2016 22:05</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2098" class="post-2098 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/knasig-ar-man-ibland/" rel="bookmark">Knasig är man ibland</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453668234-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453668234-9886-300x300.jpg" class="alignnone size-medium wp-image-2099" alt="image" width="300" height="300" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453668238-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453668238-9886-300x300.jpg" class="alignnone size-medium wp-image-2100" alt="image" width="300" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Idag blev det sallad till middag och det hände faktiskt en liten rolig sak under middagen. Efter någon minut när jag hade ätit ett tag så tappar jag kniven på golvet, självklart så går jag upp och hämtar en ny. Medans jag då äter så tycker jag att det känns lite konstigt att äta men tänker inte så mycket mer på det förens min mormor frågar &#8221;äter du med två gafflar&#8221; och ja mycket riktigt så sitter jag där och äter med just två gafflar och då har jag ändå gjort det ett tag haha <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> jag tyckte det fungerar bra så jag fortsatte äta så <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ja ibland är man nog lite snurrig och inte tänker så långt <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/knasig-ar-man-ibland/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/24/knasig-ar-man-ibland/" title="21:48" rel="bookmark"><time class="entry-date" datetime="2016-01-24T21:48:10+00:00">januari 24, 2016 21:48</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2094" class="post-2094 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/langtar-2/" rel="bookmark">Längtar</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453640915-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453640915-9886-169x300.jpg" class="alignnone size-medium wp-image-2096" alt="image" width="169" height="300" /></a></p>
+<p>&nbsp;</p>
+<p>Tiden får gärna gå snabbare känner jag, längtar <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/24/langtar-2/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/24/langtar-2/" title="14:09" rel="bookmark"><time class="entry-date" datetime="2016-01-24T14:09:04+00:00">januari 24, 2016 14:09</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2091" class="post-2091 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/veronikaastrom/2016/01/23/dinner-2/" rel="bookmark">Dinner</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453575121-9886.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2016/01/1453575121-9886-300x300.jpg" class="alignnone size-medium wp-image-2092" alt="image" width="300" height="300" /></a></p>
+<p>Testade något nytt idag. Stekte kyckling och när den var klar hällde jag i en mild currysås så fick det ligga där i och dra sig lite. Ris till det blev det och självklart majs 😉 Var bara jag och mormor som åt så jag fick två matlådor till nästa vecka <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> perfekt <img src="http://finest.se/veronikaastrom/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/veronikaastrom/2016/01/23/dinner-2/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/veronikaastrom/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/veronikaastrom/2016/01/23/dinner-2/" title="19:54" rel="bookmark"><time class="entry-date" datetime="2016-01-23T19:54:45+00:00">januari 23, 2016 19:54</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/veronikaastrom/author/veronikaastrom/" title="View all posts by veronikaastrom" rel="author">veronikaastrom</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/veronikaastrom/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/9684/2015/05/1431098684-9886.jpg" class="" /></div><div class="profile-desc">Hej alla glada!
+Mitt namn är Veronika Åström, är 22 år och bor i Stockholm. Jag är en person som älskar att resa och upptäcka nya saker. Jag kommer skriva om allt mellan himmel och jord så jag hoppas ni följer denna blogg  :) / V</div></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Senaste inläggen</h3>		<ul>
+					<li>
+				<a href="http://finest.se/veronikaastrom/2016/01/28/forsoker-motsta/">Försöker motstå</a>
+						</li>
+					<li>
+				<a href="http://finest.se/veronikaastrom/2016/01/27/baseball/">Baseball</a>
+						</li>
+					<li>
+				<a href="http://finest.se/veronikaastrom/2016/01/26/i-miss-you/">I miss you</a>
+						</li>
+					<li>
+				<a href="http://finest.se/veronikaastrom/2016/01/26/courage/">Courage</a>
+						</li>
+					<li>
+				<a href="http://finest.se/veronikaastrom/2016/01/25/mycket-gott/">Mycket gott!</a>
+						</li>
+				</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Kategorier</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://finest.se/veronikaastrom/category/barcelona-2014/" >Barcelona 2014</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://finest.se/veronikaastrom/category/musik/" >Musik</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://finest.se/veronikaastrom/category/okategoriserade/" >Okategoriserade</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://finest.se/veronikaastrom/category/traning/" >Träning</a>
+</li>
+		</ul>
+</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Senaste kommentarer</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">En Vän</span> om <a href="http://finest.se/veronikaastrom/2015/04/25/ny-troja/#comment-32">Ny tröja</a></li><li class="recentcomments"><span class="comment-author-link">Tove Lindgren</span> om <a href="http://finest.se/veronikaastrom/2015/11/17/keep-it-healthy/#comment-31">Keep it healthy</a></li><li class="recentcomments"><span class="comment-author-link">LISA</span> om <a href="http://finest.se/veronikaastrom/2015/11/01/oatmeal/#comment-30">November</a></li><li class="recentcomments"><span class="comment-author-link">veronikaastrom</span> om <a href="http://finest.se/veronikaastrom/2015/08/27/ny-favorit/#comment-29">Ny favorit</a></li><li class="recentcomments"><span class="comment-author-link">Sofie</span> om <a href="http://finest.se/veronikaastrom/2015/08/27/ny-favorit/#comment-28">Ny favorit</a></li></ul></aside><aside id="search-2" class="widget widget_search"><h3 class="widget-title">Sök</h3><form role="search" method="get" id="searchform" action="http://finest.se/veronikaastrom/">
+    <div><label class="screen-reader-text" for="s">Sök efter</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Sök" />
+    </div>
+</form></aside><aside id="calendar-4" class="widget widget_calendar"><h3 class="widget-title">Kalender</h3><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>januari 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="måndag">m</th>
+		<th scope="col" title="tisdag">ti</th>
+		<th scope="col" title="onsdag">o</th>
+		<th scope="col" title="torsdag">to</th>
+		<th scope="col" title="fredag">f</th>
+		<th scope="col" title="lördag">l</th>
+		<th scope="col" title="söndag">s</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://finest.se/veronikaastrom/2015/12/">&laquo; Dec</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td><a href="http://finest.se/veronikaastrom/2016/01/01/" title="Nyårsafton 2015">1</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/02/" title="2016
+Mulan">2</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/03/" title="Lyx godis
+Filmåret 2015">3</a></td>
+	</tr>
+	<tr>
+		<td>4</td><td><a href="http://finest.se/veronikaastrom/2016/01/05/" title="Planer">5</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/06/" title="Smoothie
+Långpromenader i kylan">6</a></td><td>7</td><td>8</td><td><a href="http://finest.se/veronikaastrom/2016/01/09/" title="The Heat">9</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/10/" title="Grymt bra film
+Joy
+Quote of the day">10</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/veronikaastrom/2016/01/11/" title="Brings back good memories">11</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/12/" title="LA vs NY">12</a></td><td>13</td><td><a href="http://finest.se/veronikaastrom/2016/01/14/" title="Kylan har kommit">14</a></td><td>15</td><td><a href="http://finest.se/veronikaastrom/2016/01/16/" title="Glass med varma hallon">16</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/17/" title="Maybe now&#8230;">17</a></td>
+	</tr>
+	<tr>
+		<td>18</td><td><a href="http://finest.se/veronikaastrom/2016/01/19/" title="Drömmar är till för att uppfyllas">19</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/20/" title="Sveriges mästerkock">20</a></td><td>21</td><td><a href="http://finest.se/veronikaastrom/2016/01/22/" title="Melanders
+Runyon Canyon">22</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/23/" title="Scones
+Nike
+Dinner">23</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/24/" title="Längtar
+Knasig är man ibland
+My breakfast
+Goodnight people">24</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/veronikaastrom/2016/01/25/" title="Mycket gott!">25</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/26/" title="Courage
+I miss you">26</a></td><td><a href="http://finest.se/veronikaastrom/2016/01/27/" title="Baseball">27</a></td><td id="today"><a href="http://finest.se/veronikaastrom/2016/01/28/" title="Försöker motstå">28</a></td><td>29</td><td>30</td><td>31</td>
+	</tr>
+	</tbody>
+	</table></div></aside></div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="http://Veronikaastrom" target="_blank"><img src="http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/veronikaastrom/feed/rss/" target="_blank"><img src="http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/veronikaastrom/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/veronikaastrom/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/veronikaastrom.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/veronikaastrom/) in 0.91165 seconds, on: Jan 28th, 2016 @ 6:26 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:26 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/veronikaastrom) in 0.00197 seconds, on: Jan 28th, 2016 @ 6:29 pm UTC. -->

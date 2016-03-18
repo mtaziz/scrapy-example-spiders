@@ -1,0 +1,9 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Age: 13
+Server: Sucuri/Cloudproxy
+Location: http://www.bk.psu.edu/StudentServices/Veterans/vets.htm
+Date: Mon, 15 Feb 2016 17:07:55 GMT
+X-Frame-Options: GOFORIT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>buggoansaldo | Finest.se Toppbloggare</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/buggoansaldo/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/buggoansaldo/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="buggoansaldo &raquo; flöde" href="http://finest.se/buggoansaldo/feed/" />
+<link rel="alternate" type="application/rss+xml" title="buggoansaldo &raquo; kommentarsflöde" href="http://finest.se/buggoansaldo/comments/feed/" />
+<meta property="og:title" content="buggoansaldo"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/buggoansaldo/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/buggoansaldo/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/04/1429463301-9542.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/buggoansaldo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/buggoansaldo/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/buggoansaldo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/buggoansaldo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/buggoansaldo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/buggoansaldo/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/buggoansaldo/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/buggoansaldo\/wp-admin\/admin-ajax.php","categories":"mode, traning"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/buggoansaldo/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 9343);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                
+								<div class="website-logo">
+									<a href="http://finest.se/buggoansaldo/" title="buggoansaldo" rel="home">
+										<img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/07/1436188625-9542.jpg" alt="buggoansaldo">
+									</a>
+								</div>
+						                     <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                        <h2 class="site-description">Finest.se Toppbloggare</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul id="menu-meny-1" class="nav-bar"><li id="menu-item-6796" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-6796"><a href="http://finest.se/buggoansaldo/">Homepage</a></li>
+<li id="menu-item-6798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6798"><a href="http://finest.se/buggoansaldo/homepage/">Skönhet</a></li>
+<li id="menu-item-6799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6799"><a href="http://finest.se/buggoansaldo/homepage/">Mode</a></li>
+<li id="menu-item-6800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6800"><a href="http://finest.se/buggoansaldo/homepage/">Träning &amp; Hälsa</a></li>
+<li id="menu-item-6801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6801"><a href="http://finest.se/buggoansaldo/homepage/">Vardag</a></li>
+<li id="menu-item-6802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6802"><a href="http://finest.se/buggoansaldo/homepage/">Tankar &amp; Åsikter</a></li>
+</ul>                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-6920" class="post-index post-6920 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/23/nya-bloggar/" title="Permalink to Nya bloggar" rel="bookmark">Nya bloggar</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 23, 2015 15:33">september 23, 2015 15:33</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Bloggen har blivit dåligt uppdaterad denna vecka då vi bestämt att börja blogga enskilt.&nbsp;</p>
+<p>Våra nya bloggar är <a href="http://finest.se/sannaansaldo/">http://finest.se/sannaansaldo/ &amp;</a> <a href="http://finest.se/emmabuggo/">http://finest.se/emmabuggo</a>/ (Klickbara länkar)<br />
+Ni hittar oss där i framtiden. KRAM FRÅN OSS</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/23/nya-bloggar/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6920 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-6910" class="post-index post-6910 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/22/my-armcandy/" title="Permalink to My armcandy" rel="bookmark">My armcandy</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 22, 2015 10:12">september 22, 2015 10:12</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Godmorgon Babes! Jag är påväg in till stan nu till salong styleing by Brazil för att göra en askinpackning för få håret i en liten kallare ton istället för mitt naturliga hår som är mer åt det guldblonda hållet. Dessa inpackningar måste man göra ganska ofta om man vill hålla färgen uppe, men tycker fortfarande det är ett bättre allternativ än att färga permanent. Så idag ska jag bli fin i håret, det är alltid kul 😉 Sen i eftermiddag ska jag möta upp Sanna och gå på ett möte hos finest , då det kommer hända lite med bloggen framöver som vi kommer förklara i ett annat inlägg. Fick äntligen hem min klocka ifrån&nbsp;<a href="https://www.danielwellington.com/se/">Danielwellington</a>&nbsp;and i Love it! Fick hem ett matchande armband ifrån&nbsp;<a href="http://lahoyde.com">Lahoyde.com</a>&nbsp;typ samtidigt , skit snygg combo då båda är i brunt läder och i färgen rose. Definitivt favoriterna just nu. Jag har fixat så att ni kan ha exakt samma combo som mig för ett bra pris!&nbsp;</p>
+<p>Ni får 15% på alla daniel Wellington klockor om ni uppger rabattkoden &#8221;EMMABUGGO&#8221;.&nbsp;</p>
+<p>Ni får 20% på Lahoyde trendiga armband om ni uppger rabattkoden &#8221;EMMABUGGO&#8221;</p>
+<p>Min klocka ifrån Daniel Wellington hittar ni <a href="https://www.danielwellington.com/se/grace-glasgow">HÄR </a>&nbsp;och armbandet ifrån Lahoyde kommer komma ut i deras webbshop inom kort i både svart och brunt läder. Deras hemsida med massa snygga armband hittar ni&nbsp;<a href="http://lahoyde.com/shop/">HÄR </a></p>
+<p>PUSS EMMA &nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5891.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5891.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5892.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5892.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5894.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5894.jpg" alt=""></a>&nbsp;&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/22/my-armcandy/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6910 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-6904" class="post-index post-6904 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/21/new-2/" title="Permalink to New" rel="bookmark">New</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 21, 2015 13:08">september 21, 2015 13:08</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"> <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4585.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4585.jpg" class=" aligncenter" alt="" /></a>Fick hem denna klocka i veckan från www.deevotion.se</p>
+<p style="text-align: center">Supersnygg och lite annorlunda.<br />
+Ni hittar den <a href="http://www.deevotion.se/klockor/group-2673075/pure-white.html">HÄR</a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/21/new-2/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6904 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-6901" class="post-index post-6901 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/20/sondags-marknad-i-hornstull/" title="Permalink to Söndags marknad i Hornstull " rel="bookmark">Söndags marknad i Hornstull </a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 20, 2015 22:40">september 20, 2015 22:40</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Idag gick jag upp &#8221;tidigt&#8221; alltså typ klockan 9 för att göra mig iordning och sen åka till Hornstull för att träffa mor min,moster och gudmor med Zebbe. Dem har en jätte mysig marknad varje söndag i Hornstull längsr vattnet som vi brukar gå på ganska ofta. Idag var det bra väder så vi satt på en trappa i solen och käkade god mat! Efteråt hade jag och Zebbe bestämt oss för att dra till gymmet efter typ tre månader uppehåll&#8230; Inte bra.. Men sommaren= inga rutiner= ingen träning, någon som känner igen sig? Men nu är det dags att ta tag i det igen, har fått hem en massa goda Bcca drycker ochså perfekt nu till tränings starten som jag kommer visa i ett annat inlägg. Dagens &#8221;nybörjar&#8221; pass kommer också komma upp imorn! Blev ett lugnt pass, men ändå ett pass 😉 Nu ska jag krypa ner i min nybädade säng kolla lite paradise hotel sen sova! Mycket som ska göras imorn. PUSS EMMA &nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5869.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5869.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5870.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5870.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5871.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5871.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5872.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5872.jpg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/20/sondags-marknad-i-hornstull/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6901 -->
+                    
+					
+<article id="post-6888" class="post-index post-6888 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/19/ny-bikini/" title="Permalink to Ny bikini " rel="bookmark">Ny bikini </a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 19, 2015 18:06">september 19, 2015 18:06</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>I veckan fick jag hem en vit bikini från Beachy.se, Emma en svart! Tänkte bara visa upp den, sjukt läcker! Min är i storlek M och ni hittar den&nbsp;<a href="http://beachy.se/product/white-mesh-bikini-set">HÄR</a>!&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4201.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4201.jpg" alt=""></a>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4267.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4267.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4266.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4266.jpg" alt=""></a>&nbsp;&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4251.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4251.jpg" alt=""></a>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4262.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4262.png" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/19/ny-bikini/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6888 -->
+                    
+					
+<article id="post-6879" class="post-index post-6879 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/19/buggosbloppis/" title="Permalink to @BUGGOSBLOPPIS" rel="bookmark">@BUGGOSBLOPPIS</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 19, 2015 10:49">september 19, 2015 10:49</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>&nbsp;Godmorgon! Jag vaknade tidigt imorse för var hemma och tog det lugnt igår för en gångs skull haha. Det var faktiskt väldigt skönt att vakna upp välmående och pigg! Ligger just nu och kollar idol, då min kompis Malikah är med så lite extra roligt att titta.Tänkte dela med mig om några av de senaste grejer jag lagt upp på min bloppis på instagram som heter @buggosbloppis missa den inte! Kommer komma upp massa nytt under veckan!&nbsp;</p>
+<p>PUSS EMMA&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5829.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5829.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5830.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5830.jpg" alt=""></a>&nbsp;&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5858.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5858.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5859.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5859.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5865.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5865.jpg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/19/buggosbloppis/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6879 -->
+                    
+					
+<article id="post-6872" class="post-index post-6872 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/17/armcandy/" title="Permalink to Armcandy!" rel="bookmark">Armcandy!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 17, 2015 15:34">september 17, 2015 15:34</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Denna snygga klocka &nbsp;ifrån <a href="https://www.danielwellington.com">danielwellington.com</a>&nbsp;är nu påväg hem till mig! Hur snygg är den inte? En blandning mellan deras läderbands klockor och deras tygbands modeller. En riktigt snygg blandning enligt mig. Toppen över iet så är uret i rosé. Jag personligen älskar rosé och har alltid gjort det, men de är lite extra snyggt nu till hösten. När man klär sig mer i beige, brunt, vinrött och blått. Cant whait! Nu kan ni också införskaffa er en snygg klocka inför hösten och få 15% rabatt om ni uppger rabattkoden &#8221;EMMABUGGO&#8221;. Plus att de är fri frakt på ALLA deras klockor. Min klocka hittar ni&nbsp;<a href="https://www.danielwellington.com/se/grace-glasgow">HÄR</a></p>
+<p>PUSS EMMA</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5811.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5811.jpg" width="800" height="800" alt="" title="" class="size-custom"></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5812.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5812.jpg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/17/armcandy/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6872 -->
+                    
+					
+<article id="post-6867" class="post-index post-6867 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/17/birthday-pics/" title="Permalink to Birthday pics" rel="bookmark">Birthday pics</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 17, 2015 10:30">september 17, 2015 10:30</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>&nbsp;Godmorgon! Är påväg hem till mig nu för att ta bilder på massa klöder som jag ska lägga ut på bloppisen, kommer komma upp lite nytt o fräscht under de kommande dagarna så ni får hålla utkik på @buggosbloppis Efter jag &#8221;jobbat&#8221; lite så ska jag möta upp min pappa och lillebror och följa med på en fotografering som min lillebror Gibson ska göra för H&amp;M. Sen så ska vi hem och fira mig! Alltid kul att ha två födelsedagar. Här är lite bilder från igår, blev inte så mycket bilder faktiskt var så himla inne i att vara med mina vänner o min familj. Men några tog jag iallafall, ett inlägg om vad jag fick kommer i ett annat inlägg!&nbsp;</p>
+<p>PUSS EMMA&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5694.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5694.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5697.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5697.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5699.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5699.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5705.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5705.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5711.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5711.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5713.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5713.jpg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/17/birthday-pics/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6867 -->
+                    
+					
+<article id="post-6849" class="post-index post-6849 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/16/tattstore/" title="Permalink to Tattstore" rel="bookmark">Tattstore</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 16, 2015 20:46">september 16, 2015 20:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"> <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4072.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4072.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4071.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4071.jpg" alt="" /></a>  <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4070.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4070.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4069.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_4069.jpg" alt="" /></a><br />
+<i>Tatueringarna <a href="http://www.tattstore.se">HÄR</a> // Top: <a href="http://www.shein.com/White-Halter-Floral-Crochet-Lace-Cami-Top-p-220931-cat-1779.html?utm_source=finest.se/buggoansaldo&amp;utm_medium=blogger&amp;url_from=buggoansaldo">HÄR</a></i></p>
+<p style="text-align: center">I veckan fick jag hem massa coola tatueringar från tattstore.com. De har alla möjliga sorters tillfälliga tatueringar, metalliska, små, stora, enfärgade, ord osvosv! Den jag nu har på min skulder är mer rockigigt-häftig liksom. Men de har något för alla!</p>
+<p style="text-align: center">Ni hittar sidan HÄR</p>
+<p style="text-align: center">Kram Sanna</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/16/tattstore/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6849 -->
+                    
+					
+<article id="post-6840" class="post-index post-6840 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/16/tessie-dress/" title="Permalink to Tessie dress" rel="bookmark">Tessie dress</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 16, 2015 17:35">september 16, 2015 17:35</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center">Onsdag idag och Emmas födelsedag! Con gratz to her. Igår var en katastrof-dag och jag fick ingenting gjort. Låg och grät i Calles famn hela kvällen, men sånna kvällar måste man också ta sig igenom, right? Jag fick för lite likes på min bild helt enkelt, makes me so sad. Nä, skämtosido. Nu är jag påväg hem med till mig med Michaela och vi ska plugga och ta det lugnt.</p>
+<p style="text-align: center">Hörs mer senare!</p>
+<p style="text-align: center">Kramiz</p>
+<p style="text-align: center">        <i>Klänning <a href="http://www.tessieshop.se/klanningar/rib-klanning.html">HÄR</a></i><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3140.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3140.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3141.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3141.jpg" alt="" /></a>  <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3142.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3142.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3144.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3144.jpg" alt="" /></a>  <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_2968.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_2968.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3159.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3159.jpg" alt="" /></a>  <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3157.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3157.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3606.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3606.png" alt="" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/16/tessie-dress/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6840 -->
+                    
+					
+<article id="post-6827" class="post-index post-6827 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/15/vad-skulle-jag-gora-utan-dig-2/" title="Permalink to Vad skulle jag göra utan dig" rel="bookmark">Vad skulle jag göra utan dig</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 15, 2015 22:45">september 15, 2015 22:45</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>&nbsp;Frågade mig själv idag vad jag skulle göra utan min franstjej Felicia, och jag vet ärligt inte haha&#8230; Skulle iallafall inte vara såhär fin 😉 Ingen är bättre en henne, hon är så himla grym och gör mig lika fin varje gång. Lööv it! Här är lite bättre bilder på fransarna, har ju inte själv en camera så passade på att be Sanna ta kort på dem eftersom hon har en systemcamera. Är ju verkligen en sjukt stor skillnad på bild kvalité. Dock så är det här 1,5 vecka efter jag gjort dem för Sanna var ju i kebenekaise så fick vänta tills hon kom hem haha, så hunnit åka av några, sen så måste jag erkänna att jag inte är den bästa på att sköta dem.. Tyvärr hehe.. Ska skärpa mig med det. Jag andvänder singel fransar med böj CC och en blandning mellan längderna 12,13 och 14. Låter oftast bara Felicia göra sin grej, då jag litar fullständigt på att jag kommer gå därifrån nöjd i vilket fall, så har testat lite olika böjar och längder några gånger för att prova på. Men min favorit hittills är faktiskt böj CC längd 13,14.&nbsp;</p>
+<p>Hennes instagram är @cassergren&nbsp;</p>
+<p>Ni kan kontakta henne på hennes nummer :070-015 61 51</p>
+<p>Nu ska jag gå och lägga mig för imorn fyller jag år!! Wihoooo!&nbsp;</p>
+<p>PUSS EMMA&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5669-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5669-0.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5671-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5671-0.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5672.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5672.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5673-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5673-0.jpg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5674-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_5674-0.jpg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/15/vad-skulle-jag-gora-utan-dig-2/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6827 -->
+                    
+					
+<article id="post-6811" class="post-index post-6811 post type-post status-publish format-standard hentry category-sanna-ansaldo">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/buggoansaldo/2015/09/15/details/" title="Permalink to Details" rel="bookmark">Details</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="september 15, 2015 20:08">september 15, 2015 20:08</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center">Klocka: Daniel Wellington // Naglar: @NAILSBYMS // Set: <a href="http://m.shein.com/Blue-White-Short-Sleeve-Floral-Crop-Top-With-Shorts-p-209350-cat-1780.html#click=www&amp;to=m&amp;originUrl=www?utm_source=finest.se/buggoansaldo&amp;utm_medium=blogger&amp;url_from=buggoansaldo">HÄR</a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3973.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3973.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3975.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3975.jpg" alt="" /></a>  <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3990.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3990.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3987.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3987.jpg" alt="" /></a>  <a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3984.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3984.jpg" alt="" /></a><br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3977.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/09/IMG_3977.jpg" alt="" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/buggoansaldo/category/sanna-ansaldo/" rel="category tag">Sanna Ansaldo</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/buggoansaldo/2015/09/15/details/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-6811 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/buggoansaldo/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2015/04/1429463301-9542.jpg" class="" /></div></aside><aside id="instagramwidget-10" class="widget widget_instagramwidget"><h3 class="widget-title">Följ på instagram </h3><div class="instagram-contain"><a href="https://www.instagram.com/p/BBFnk2PwiqY/" title="Yesterdayz 🍹" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c136.0.808.808/12383216_1544935525818842_1524145405_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBFi5PGQigI/" title=""DET VÄRSTA DU KAN KALLA EN TJEJ" 👉finest.se/sannaansaldo👈 #finestse" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.134.1080.1080/12599099_1548617518787130_1415256316_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBDfs9wQiog/" title="ITS HER B-DAY 🎉❤️ Håret stylat by the best @creativeheadz_se" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c74.0.899.899/12502020_522506091260399_751367746_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBC80YHQij7/" title="HAPPY B-DAY MY DARLING! 20 år idag, tänk så fort tiden går. Ikväll ska det firas, återigen!! LOVE YOU 🎉❤️ @alvahammarstedt" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12523726_1029129540493694_969527502_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBCe1Z5Qihg/" title="Mot @nailsbyms (ofc!!) för att få klorna tillpiffade 🎉💅🏽" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.18.1080.1080/12383544_563094383838581_1568659888_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBAx8vuwigC/" title="When your friend sneezes in the picture but you cute 😌" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c135.0.810.810/12479377_972185519525246_807032051_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBAfjLuwiss/" title="In love with this dress from @tobyheartginger X @nellycom 😍👌🏼💥 📷: @pavelmairase" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12558521_176530602712110_898198891_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA-dh2SQilE/" title="Så taggad på lajf" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c135.0.810.810/12545403_961088580652188_141532156_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA-R2W5Qitt/" title="🇬🇧💥🚎" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c54.0.971.971/12552269_1026636024069978_1175812774_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA8Lp1fwioo/" title="Tourist much??" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12628051_1637933609801101_72652008_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA7F3LSQitu/" title="Afternoon Tea at @theritzlondon 🇬🇧💄" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12407152_993815747323131_1876419582_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA7EECNQiqI/" title="Pose" target="_blank"><img src="https://scontent.cdninstagram.com/l/t51.2885-15/s150x150/e35/c135.0.810.810/12545518_1551117101880707_57984976_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA4ii9JQipI/" title="LONDON RINGER 🇬🇧" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12445972_423623994503085_589756123_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA4Sfd0Qirf/" title="We gotta move to London #wemaddox #maddox" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c135.0.809.809/12523530_1562276290763093_1754043286_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAz_M4nwipy/" title="Haha this pic tho...😐😂 #thagang #fab" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c21.0.1038.1038/12547307_1517271908569297_1004740013_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAz1pxhQipD/" title="In Love with this two piece from @affingoshop 😍👌🏼 more pics on blog #linkinbio #finestse" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12555958_1197528213609876_1952670429_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAxSTT3wih5/" title="När @michaelaleonardi säger något kul mitt i vår photoshoot😜🎉" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12519347_506694366169179_386113569_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAuuUrrQio_/" title="Förhandsvisning av The 5th wave😌🎉" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/1391264_626154054191377_945083274_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAutPPCQim6/" title=""När körskoleläraren frågar om man vill betala i sex"👉finest.se/sannaansaldo👈 #linkinbio" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.117.936.936/10354289_1702830003287563_1421733488_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAub5goQilD/" title="The perfect winter set from @lovelyofsweden 😍 more pics on blog😌 #linkinbio" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12547607_958267600947454_1287458141_n.jpg" class="instagram-media"></a></div></aside><aside id="calendar-3" class="widget widget_calendar"><h2 class="widget-title">KALENDER</h2><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>januari 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="måndag">m</th>
+		<th scope="col" title="tisdag">ti</th>
+		<th scope="col" title="onsdag">o</th>
+		<th scope="col" title="torsdag">to</th>
+		<th scope="col" title="fredag">f</th>
+		<th scope="col" title="lördag">l</th>
+		<th scope="col" title="söndag">s</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://finest.se/buggoansaldo/2015/09/">&laquo; Sep</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td>
+	</tr>
+	<tr>
+		<td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
+	</tr>
+	<tr>
+		<td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td>
+	</tr>
+	<tr>
+		<td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td>
+	</tr>
+	<tr>
+		<td>25</td><td>26</td><td>27</td><td id="today">28</td><td>29</td><td>30</td><td>31</td>
+	</tr>
+	</tbody>
+	</table></div></aside>		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h2 class="widget-title">Senaste inläggen</h2>		<ul>
+					<li>
+				<a href="http://finest.se/buggoansaldo/2015/09/23/nya-bloggar/">Nya bloggar</a>
+						</li>
+					<li>
+				<a href="http://finest.se/buggoansaldo/2015/09/22/my-armcandy/">My armcandy</a>
+						</li>
+					<li>
+				<a href="http://finest.se/buggoansaldo/2015/09/21/new-2/">New</a>
+						</li>
+					<li>
+				<a href="http://finest.se/buggoansaldo/2015/09/20/sondags-marknad-i-hornstull/">Söndags marknad i Hornstull </a>
+						</li>
+					<li>
+				<a href="http://finest.se/buggoansaldo/2015/09/19/ny-bikini/">Ny bikini </a>
+						</li>
+					<li>
+				<a href="http://finest.se/buggoansaldo/2015/09/19/buggosbloppis/">@BUGGOSBLOPPIS</a>
+						</li>
+					<li>
+				<a href="http://finest.se/buggoansaldo/2015/09/17/armcandy/">Armcandy!</a>
+						</li>
+				</ul>
+		</aside><aside id="search-4" class="widget widget_search">	<form method="get" id="searchform" action="http://finest.se/buggoansaldo/" role="search">
+		<label for="s" class="assistive-text">Sök</label>
+		<input type="text" class="field" name="s" value="" id="s" placeholder="Sök" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Sök" />
+	</form></aside><aside id="text-2" class="widget widget_text"><h2 class="widget-title">Sanna &amp; Emma</h2>			<div class="textwidget"><p><a href="http://finest.se/buggoansaldo"><button class="button">buggoansaldo</button></a></p>
+</div>
+		</aside>                            <aside class="widget" id="blog_user_banner">
+                                <img src="http://cdn.finest.se/wp-content/uploads/sites/9343/2014/11/1416592615-9542.png" alt="Banner" class="img-responsive"/>                            </aside>
+                        			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            <div class="social-profiles"><a href="https://www.facebook.com/sanna.ansaldo" target="_blank"><img src="http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/images/facebook.png" alt="Facebook" /></a><a href="http://instagram.com/sannaansaldo" target="_blank"><img src="http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/buggoansaldo/feed/rss/" target="_blank"><img src="http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/buggoansaldo/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/buggoansaldo/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/buggoansaldo.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/buggoansaldo/) in 0.20363 seconds, on: Jan 28th, 2016 @ 7:21 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:21 pm UTC (based on your configured expiration time). -->

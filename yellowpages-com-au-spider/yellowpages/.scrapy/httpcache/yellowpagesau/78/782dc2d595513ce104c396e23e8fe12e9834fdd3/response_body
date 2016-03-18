@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+    <title>
+        Online Data Protection Notification | Sensis
+    </title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Sensis online data protection alert">
+
+    <link type="text/css" rel="stylesheet" href="/extrafiles/screen.css" media="screen, projection">
+    <link type="text/css" rel="stylesheet" href="/extrafiles/layout.css" media="screen, projection">
+    <link type="text/css" rel="stylesheet" href="/extrafiles/print.css" media="print">
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.2.1/css/bootstrap-combined.min.css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/odp.css" media="screen, projection">
+
+    <link rel="shortcut icon" type="image/ico" href="favicon.ico">
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/application.js"></script>
+
+</head>
+<body id="sensis-com">
+
+<!--Skip Link-->
+<a href="#main-content" class="hide">Skip to main content</a>
+<!--//Skip Link-->
+
+
+
+<!--Wrapper-->
+<div id="wrapper">
+
+    <!--Inner-->
+    <div id="inner" class="clearfix">
+        <!--Header-->
+        <div role="banner" id="header">
+
+            <a href="http://about.sensis.com.au/"><img src="/extrafiles/logo.png" width="124" id="logo" alt="Sensis" height="121"></a>
+            <p>Australia's Marketing Partner</p>
+
+        </div>
+        <!--//Header-->
+
+
+        <div id="sidebar">
+            <div class="inner">
+                <a href="http://yellowpages.com.au/" title="Yellow Pages&reg;"><img src="/images/yellowpages-logo.png" alt="Yellow Pages&reg;" ></a>
+            <a href="http://whitepages.com.au/" title="White Pages&reg;"><img src="/images/whitepages-logo.png" alt="White Pages&reg;" ></a></div>
+        </div>
+
+
+        <!--Main Content Area-->
+        <div id="main-content">
+
+            <div role="main" id="content">
+                
+<h3>We have detected unusual traffic activity<br>originating from your IP address.</h3>
+<p>To continue please type in the characters below and press submit.</p>
+
+<br/>
+<form action="/captcha/submit" method="post" >
+    <script type="text/javascript">
+        var RecaptchaOptions = {theme:'clean'};
+    </script>
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LdCudcSAAAAACvrzlONXIxL8dTyAlH8op47gdi8&error=null"></script>
+    <noscript>
+        <iframe src="https://www.google.com/recaptcha/api/noscript?k=6LdCudcSAAAAACvrzlONXIxL8dTyAlH8op47gdi8&error=null" height="300" width="500" frameborder="0"></iframe><br>
+        <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+        <input type="hidden" name="recaptcha_response_field" value="manual_challenge">
+    </noscript>
+
+    <br/>
+
+    <div id="captcha-error" style="display: none;">
+        Incorrect CAPTCHA text. Please try again.
+        <div class="spacer"></div>
+    </div>
+
+    <input type="submit" name="_action_submit" value="Submit" class="btn btn-primary" />
+</form>
+
+<div>
+    <i class="icon-plus" id="odp-toggle-icon"></i>
+    <a class="infoHeading" id="odp-capture-toggle" href="#" title="Click for information on why this happened.">Why did this happen?</a>
+</div>
+<div id="odp-capture-info" class="infoBlock" style="display:none;">
+    <p>This page appears when Sensis' online data protection services detect requests coming from your computer network which appear to be in violation of our website's
+        <a href="http://about.sensis.com.au/Terms-of-use/" title="View Terms of Use">Terms of Use</a>.
+    </p>
+    <p>Solving the above CAPTCHA will let you continue to use our services.</p>
+</div>
+
+<script type="text/javascript">
+    $(function() {
+        if (document.location.search === "?retry") {
+            $('#captcha-error').show();
+        }
+
+        $('#recaptcha_response_field').focus()
+    });
+</script>
+
+                <div>
+                    <i class="icon-plus" id="sds-toggle-icon"></i>
+                    <a class="infoHeading" id="sensis-data-solutions-toggle" href="#" title="Are you interested in using data from Sensis? Click for more information">Are you interested in using data from Sensis?</a>
+                </div>
+                <div class="infoBlock" id="sensis-data-solutions-info" style="display:none;">
+                    <p>If you are interested in using data from a Sensis site to assist in the running of your business, please consider the following services we provide: </p>
+                    <ul>
+                        <li><a href="http://www.sensisdata.com.au/products/macromatch.html" title="MacroMatch &reg;">MacroMatch &reg;</a>
+                            <br>This service is designed to maximise the value of your customer data by helping keep it as up to date and complete as possible.</li>
+                        <li><a href="http://www.sensisdata.com.au/products/white-pages-totalcheck.html" title="White Pages &reg; TotalCheck">White Pages &reg; TotalCheck</a>
+                            <br>This product offers the power to quickly verify contact details by combining the power of White Pages&reg; directories and the Australia Post Postal Address File.</li>
+                        <li><a href="http://developers.sensis.com.au/" title="Sensis Business Search API">Sensis Business Search API</a>
+                            <br>An API that combines business listings from both White Pages&reg; and Yellow Pages&reg; - available to registered users free of charge.</li>
+                    </ul>
+                </div>
+            </div>
+            <div id="cright">Copyright © 2012 Sensis Pty Ltd</div>
+        </div>
+        <!--//Main Content Area-->
+
+    </div>
+
+</div>
+<!--//Wrapper-->
+
+</body></html>

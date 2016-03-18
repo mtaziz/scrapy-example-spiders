@@ -1,0 +1,11 @@
+X-Powered-By: PHP/5.5.9-1ubuntu4.14
+Age: 1
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Warning: 110 localhost:8123 Object is stale
+Location: http://finest.se/booteylicious/
+Pragma: no-cache
+Cache-Control: no-cache, must-revalidate
+Date: Tue, 02 Feb 2016 10:21:23 GMT
+Content-Type: text/html; charset=UTF-8
+X-Pingback: http://finest.se/booteylicious/xmlrpc.php

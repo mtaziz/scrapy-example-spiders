@@ -1,0 +1,10 @@
+E-Tag: IE=Edge,chrome=1
+Set-Cookie: X-Mapping-fjhppofk=FF2414E2F929F6BD664BBAABF302CD83; path=/
+Set-Cookie: ASP.NET_SessionId=2ipvrkzvj33dh1ow2v1drivo; path=/; HttpOnly
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Microsoft-IIS/8.0
+Warning: 110 localhost:8123 Object is stale
+Pragma: no-cache
+Cache-Control: no-cache
+Date: Mon, 25 Jan 2016 13:03:05 GMT
+Content-Type: text/html; charset=utf-8

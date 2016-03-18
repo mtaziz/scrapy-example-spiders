@@ -1,0 +1,7 @@
+X-Squid-Error: ERR_READ_ERROR 104
+Age: 2
+Server: squid
+Cache-Control: no-store
+Date: Mon, 01 Feb 2016 16:53:26 GMT
+Content-Type: text/html
+Mime-Version: 1.0

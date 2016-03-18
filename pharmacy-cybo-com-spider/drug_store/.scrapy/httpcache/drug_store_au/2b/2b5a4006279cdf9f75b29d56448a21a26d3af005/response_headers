@@ -1,0 +1,11 @@
+Alternate-Protocol: 443:npn-spdy/2
+Content-Language: en
+Set-Cookie: anonymous-adventurer=fvea1q5ig88jts59vf7n95ibldhx7l9c; Domain=.cybo.com; expires=Sun, 17-Jan-2016 15:22:22 GMT; HttpOnly; Max-Age=1209600; Path=/; Secure
+Expires: Sun, 03 Jan 2016 15:22:22 GMT
+Vary: Cookie, User-Agent, Accept-Language
+Server: nginx
+Last-Modified: Sun, 03 Jan 2016 15:22:22 GMT
+Location: https://yellowpages.cybo.com/sorry/?next=https%3A//pharmacy.cybo.com/AU-biz/tolar-pharmacy
+Cache-Control: max-age=0
+Date: Sun, 03 Jan 2016 15:22:43 GMT
+Content-Type: text/html; charset=utf-8

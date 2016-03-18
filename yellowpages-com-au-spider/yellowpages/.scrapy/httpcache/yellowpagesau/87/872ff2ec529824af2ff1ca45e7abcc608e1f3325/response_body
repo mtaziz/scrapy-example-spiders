@@ -1,0 +1,1131 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="apple-itunes-app" content="app-id= 325629947"/>
+    
+    
+        
+    
+        
+            <title>Bytes &#39;N Colours - Printers &amp; Printing Services - Braddon</title>
+        
+    
+
+    
+        <link id="https-alt-url" rel="alternate" href="https://www.yellowpages.com.au/act/braddon/bytes-n-colours-13153429-listing.html?context=businessTypeSearch" type="text/html" title="Secure version of page (HTTPS/SSL)"/>
+    
+
+    
+        <link rel="canonical" href="http://www.yellowpages.com.au/act/braddon/bytes-n-colours-13153429-listing.html" />
+    
+
+    
+
+    
+        <meta name="ROBOTS" content="NOARCHIVE"/>
+    
+
+    
+        <meta name="keywords" content="Printers &amp; Printing Services, Braddon, ACT, 2612"/>
+    
+
+    
+        <meta name="description" content="Printers &amp; Printing Services in Braddon, Australian Capital Territory, 2612 - Bytes &#39;N Colours, From Business Cards To Billboards, We Design And Print It All. To continually exceed our customer&#39;s expectations by providing a product of quality delivered on time, every time. - Yellow Pages&reg; directory"/>
+    
+
+
+
+
+    
+
+    <link rel="shortcut icon" href="/favicon.ico?v=2" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png">
+    
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYHVFRACQcHV1NQAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+    <!-- BEGIN Akamai RUM script -->
+    <script type="text/javascript">
+        //<![CDATA[
+        var AKSB = AKSB || {};
+        AKSB.q = [];
+        AKSB.mark = function(c, b) {
+            AKSB.q.push(["mark", c, b || (new Date).getTime()])
+        };
+        AKSB.measure = function(c, b, a) {
+            AKSB.q.push(["measure", c, b, a || (new Date).getTime()])
+        };
+        AKSB.done = function(c) {
+            AKSB.q.push(["done", c])
+        };
+        AKSB.mark("firstbyte", (new Date).getTime());
+        AKSB.prof = {
+            origin: true,
+            custid: "406171",
+            beaconrate: 100
+        };
+        (function(b) {
+            var a = document.createElement("iframe");
+            a.src = "javascript:false";
+            (a.frameElement || a).style.cssText = "width: 0; height: 0; border: 0; display: none";
+            var c = document.getElementsByTagName("script"),
+                    c = c[c.length - 1];
+            c.parentNode.insertBefore(a, c);
+            a = a.contentWindow.document;
+            a.open().write("<body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '" + b + "';document.body.appendChild(js);\">");
+            a.close()
+        })(("https:" === document.location.protocol ? "https:" : "http:") + "//ds-aksb-a.akamaihd.net/406171/aksb-a/aksb.min.js");
+        //]]>
+    </script>
+<!-- END Akamai RUM script -->
+    
+    
+    
+        
+        
+        
+    
+    
+    
+    <script>
+        var youtubeUrl = "//www.youtube.com/embed/";
+
+        var MAILTO_HANDLER_RESULT = true;
+        var YELLOW = YELLOW || {};
+        YELLOW.config = {};
+        YELLOW.config.youtube = { apiUrl: 'https://www.googleapis.com', apiKey: 'AIzaSyAXd1w0QDg7YkwSvdCGiQr-t4_4VTxjBfM'};
+        YELLOW.features = {};
+    </script>
+
+    <link rel="stylesheet" href="/assets/common-56f6e043e3fe8384e56b2528f90c05b5.css"/>
+    <link rel="stylesheet" href="/assets/app-a6b7e1a770fe554ddc5ef2555b189baa.css"/>
+    <link rel="stylesheet" href="/assets/srp-1969b2cd0b7e040810f5d3732617b4af.css"/>
+    <link rel="stylesheet" href="/assets/bpp-8914d964ec02eb83d4e31a010bb46041.css"/>
+
+    <script src="/assets/app-head-9a2711254592ad4444917f2a715380f6.js" type="text/javascript" ></script>
+    
+        <script src="/assets/app-omniture-547ac624fcedad6453ad99440ad13852.js" type="text/javascript" ></script>
+    
+
+    <!--[if (lt IE 9)&!(IEMobile)]><script src="/assets/ie/respond.sensis-9575467dfbc008e5b0d486dc4f481624.js" type="text/javascript" ></script><![endif]-->
+    <!--[if (lt IE 10)&!(IEMobile)]><script src="/assets/ie/custom-event-ie9-36bb8183dc7f3636ca2e985baec492bc.js" type="text/javascript" ></script><![endif]-->
+    <!--[if (lt IE 10)&!(IEMobile)]><link rel="stylesheet" href="/assets/ie/gradient-hacks-ie89-26a7cc546c8ede2accda1d49e3b98406.css"/><![endif]-->
+
+    
+
+    
+    
+</head>
+<body data-logged-in="false" class="bpp-page-content bpp-body has-brand-bar has-promo-tiles has-hero-carousel" id="">
+
+<script src="/assets/omniture/s_code.js" type="text/javascript" ></script>
+    
+        
+<div id="business-profile-page"
+    class="listing listing-data" itemscope itemtype="http://schema.org/LocalBusiness"
+    data-listing-id="13153429" data-listing-name="bytes-n-colours" data-family-id="7f73a906-b5d8-43c3-9627-2ef5bc81fa1a" data-advertiser-id="100000999256" data-product-version="9" data-product-id="498598163" data-product-code="YPD04-DC" data-business-id="95564f25-c26a-4d5d-903b-cc74bc91a7e3" data-business-name="Bytes_N_Colours" data-result-type="B" data-heading-code="12017" data-heading-name="Printers &amp;amp; Printing Services" data-suburb="Braddon" data-state="ACT" data-intent="businessTypeSearch" data-referred-by="www.yellowpages.com.au" data-context="businessTypeSearch" data-about-id="3860d0ebbfc7e638d04c088077913bdedaa2e5b66a2d0199c477f2246ece02e4" data-total-reviews="0" data-omniture-average-rating="0.0" data-url="/act/braddon/bytes-n-colours-13153429-listing.html?referredBy=www.yellowpages.com.au" data-is-free="false" data-is-top-of-list="false" data-preview-mode="null" data-raw-business-name="Bytes 'N Colours" data-listing-url="/act/braddon/bytes-n-colours-13153429-listing.html?context=businessTypeSearch" data-is-free="false" >
+    <meta itemprop="name" content="Bytes 'N Colours"/>
+    <div class="bpp-layout">
+        <div class="bpp-layout-top">
+        <div class="search-bar scroll-on-load default">
+    <div class="inner clamp-widest">
+        <div  class='flow-layout search-bar-layout inside-gap inside-gap-medium'><div class='cell search-bar-form-container inner first-cell' >
+                
+<a class="search-bar-logo default" href="/">
+    <span class='icon sprite-icons-logo-YP-full' ><span class='alt'>Yellow Pages</span></span>
+    <span class='icon sprite-icons-logo-YP-full-small' ><span class='alt'>Yellow Pages</span></span>
+</a>
+<form action="/search/listings" method="get" class="search-bar-form" >
+                <div class="search-bar-fields clearfix">
+                    <div class="search-bar-field what">
+                    
+
+
+<div class="liquid-input-text yellow-border-type">
+    <div class="padding">
+        
+            <label for="what">Business type or name</label>
+        
+        <input type="text" class="input-text-input" id="what" name="clue" value=""
+               autocorrect="off"
+               autocomplete="off"
+            
+            
+            
+            
+        />
+    </div>
+</div>
+                    </div>
+                    <div class="search-bar-field where">
+    
+
+
+<div class="liquid-input-text yellow-border-type">
+    <div class="padding">
+        
+            <label for="where">Suburb or Postcode</label>
+        
+        <input type="text" class="input-text-input" id="where" name="locationClue" value=""
+               autocorrect="off"
+               autocomplete="off"
+            
+            
+            
+            
+        />
+    </div>
+</div>
+    <input type="hidden" name="lat" class="lat" value="" id="lat" />
+    <input type="hidden" name="lon" class="lon" value="" id="lon" />
+</div>
+                    <a href="javascript:" class="close">Cancel this search</a>
+                    </div>
+                <button title="Search" type="submit" class="button white-border large-border equilateral-button button-search">
+    <span class='glyph icon-search size-medium'></span>
+</button>
+                    
+                <input type="hidden" name="selectedViewMode" class="selectedViewMode" value="list" id="selectedViewMode" />
+</form>
+            </div><div class='cell search-bar-view-toggle-container middle-cell' >
+                <div class='search-bar-view-toggle'>
+                <div data-view-mode='list' class='toggle-button toggle-button-list'>
+                <div class='icon-view-list'></div>
+                <span>List</span>
+                </div>
+                <div data-view-mode='map' class='toggle-button toggle-button-map'>
+                <div class='icon-view-map'></div>
+                <span>Map</span>
+                </div>
+                <div data-view-mode='compare' class='toggle-button toggle-button-compare'>
+                <div class='icon-view-compare'></div>
+                <span>Compare</span>
+                </div></div>
+            </div><div class='cell auth-bar-container last-cell' >
+                <div  class='flow-layout auth-bar default inside-gap inside-gap-large middle'><div class='cell first-cell' >
+        <div class="nav-single-item submit-free-listing">
+    <a href='http://www.yellowadvertising.com.au/contact/complimentary-listing/complimentary-listing?referrer=ypheadsublist' target='_blank'>
+        <div class='text-and-image '>
+            <span class='image  '>
+                <span class='glyph icon-submit2'></span>
+            </span>
+            <span class='text   '>
+                Submit your free listing
+            </span>
+        </div>
+    </a>
+</div>
+    </div><div class='cell last-cell' >
+        
+
+    <div class='nav-bar-user auth-bar-user'>
+        <a class='login facebook' rel="nofollow" href='/login?forwardURI=%2Fact%2Fbraddon%2Fbytes-n-colours-13153429-listing.html%3Fcontext%3DbusinessTypeSearch' >
+            <div class='text-and-image '>
+                <span class='image  '>
+                    <span class='glyph icon-login-circle'></span>
+                    <span class='glyph icon-login-small'></span>
+                </span>
+                <span class='text   user-details'>Login</span>
+            </div>
+        </a>
+    </div>
+
+    </div></div>
+            </div></div>
+    </div>
+</div>
+<script type="text/javascript">
+    YELLOW.InPageReady().triggerReady();
+</script>
+
+        
+    </div>
+        <div class="bpp-layout-middle clamp-widest ">
+            
+        <div class="hero-carousel">
+    <div class="container">
+        <div class='yellowSlider rsDefaultInv rsDefault  rsWithBullets' data-show-control='true' data-enable-drag-touch='true' data-enable-keyboard-nav='true' data-disable-css3='false' data-animation-disabled='false'>
+  <div class='rsContent'>
+                    <div class="hero-image">
+    <div class="rsImg">//s0.yellowpages.com.au/066f55c5-bc91-4303-811a-04cfd429a323/bytes-n-colours-image.jpg</div>
+</div>
+
+                    
+                </div>
+  <div class='rsContent'>
+                    <div class="hero-image">
+    <div class="rsImg">//s0.yellowpages.com.au/83075615-eb2f-4910-86a8-4d4e281ce4db/bytes-n-colours-image.jpg</div>
+</div>
+
+                    
+                </div>
+  <div class='rsContent'>
+                    <div class="hero-image">
+    <div class="rsImg">//s0.yellowpages.com.au/3e417967-bc5f-4e78-9cb0-b8d7a57b100c/bytes-n-colours-image.jpg</div>
+</div>
+
+                    
+                </div>
+  <div class='rsContent'>
+                    <div class="hero-image">
+    <div class="rsImg">//s0.yellowpages.com.au/9e65bef0-c8eb-4f77-9f4f-0cf77d9abc3b/bytes-n-colours-image.jpg</div>
+</div>
+
+                    
+                </div>
+  <div class='rsContent'>
+                    <div class="hero-image">
+    <div class="rsImg">//s0.yellowpages.com.au/3d69df27-f2bc-428d-b038-74fc9373c7c1/bytes-n-colours-image.jpg</div>
+</div>
+
+                    
+                </div>
+</div>
+        <div class="blocker grab-cursor"></div>
+    </div>
+    <div class="collapse">
+        <span class='icon sprite-icons-close-panel' ></span>
+    </div>
+</div>
+    
+            
+    <div class="brand-bar-container">
+        <div class="brand-bar brand-background-color" style="background-color: #3D3B3B">
+            <div class='ribbon'>
+                <div class='ribbon-content'><a href="http://www.bytesncolours.com.au" rel="nofollow" target="_blank" title="Visit website for Bytes 'N Colours in a new window"><img src="//s0.yellowpages.com.au/9ae30b97-330a-4d22-8971-0b56bd20afc9/bytes-n-colours-logo.jpg" alt="Visit website for Bytes 'N Colours in a new window" title="Visit website for Bytes 'N Colours in a new window" class="brand-logo"/></a></div>
+            </div>
+        </div>
+    </div>
+
+            <div class="bpp-layout-primary-content">
+        
+<div class="business-details global-width  primary-contacts-3">
+    
+<div class="contact-details">
+    <div class="media-object clearfix inside-gap-medium image-on-right "><div class='image right'>
+                <a href="http://www.bytesncolours.com.au" rel="nofollow" target="_blank" title="Visit website for Bytes 'N Colours in a new window" class="image logo"><img src="//s0.yellowpages.com.au/9ae30b97-330a-4d22-8971-0b56bd20afc9/bytes-n-colours-logo.jpg" alt="Visit website for Bytes 'N Colours in a new window" title="Visit website for Bytes 'N Colours in a new window" class="listing-logo enhanced-logo large-logo"/></a>
+            </div><div class='body left'>
+               <h1 class="listing-name">Bytes &#39;N Colours</h1>
+<h2 class='listing-heading'>Printers & Printing Services - Braddon, ACT</h2>
+<h3 class='listing-short-description'>From Business Cards To Billboards, We Design And Print It All</h3>
+<div  class='flow-layout bpp-accreditations-container vertical bpp-accreditations-count-1 inside-gap inside-gap-medium liquid-even-width'><div class='cell first-cell last-cell' ><div class='text-and-image inside-gap inside-gap-medium accreditation-text-and-image'><a  rel='nofollow' class='accreditation no-url' href='javascript:void(0)' data-omniture-awards-name='ACT_Page_Award_2014'><span class='image top '><span class='accreditation-logo'><span class='glyph icon-awards'></span></span></span><span class='text   text-container'>ACT Page Award 2014</span></a></div></div></div>
+
+<p class='listing-address mappable-address mappable-address-with-poi' data-address-line="Unit 2 42 Mort St" data-address-suburb="Braddon ACT" data-geo-granularity="PROPERTY" data-geo-latitude="-35.272425" data-geo-longitude="149.132013" data-referred-by="www.yellowpages.com.au">Unit 2 42 Mort St, Braddon ACT 2612</p>
+
+            </div></div>
+        
+</div>
+
+    
+    
+    <div class='primary-contacts-container' id='contact-card-scroll-to'>
+  <div class='primary-contacts count-3'>
+    <div class='left'>
+      <div class='contacts'>
+        <div class='main'><a href="tel:0262577266" title="Phone" class="click-to-call contact contact-preferred contact-phone" rel="nofollow"><div class='text-and-image inside-gap inside-gap-medium grow'>
+    <span class='image top '>
+        
+            <span class='glyph icon-phone border border-dark-blue'><span class='alt'>Phone</span></span>
+        
+    </span>
+    <span class='text middle  '>
+        <div>(02) 6257 7266</div>
+        
+    </span>
+</div></a><a href="mailto:frontdesk%40bytesncolours.com.au?subject=Enquiry%2C%20sent%20from%20yellowpages.com.au&amp;body=%0A%0A%0A%0A%0A------------------------------------------%0AEnquiry%20via%20yellowpages.com.au%0Ahttp%3A%2F%2Fyellowpages.com.au%2Fact%2Fbraddon%2Fbytes-n-colours-13153429-listing.html%3FreferredBy%3Dwww.yellowpages.com.au" title="Email frontdesk@bytesncolours.com.au" class="contact contact-main contact-email" rel="nofollow" data-email="frontdesk@bytesncolours.com.au"><div class='text-and-image inside-gap inside-gap-medium grow'>
+    <span class='image top '>
+        
+            <span class='glyph icon-email border border-dark-blue'><span class='alt'>Email frontdesk@bytesncolours.com.au</span></span>
+        
+    </span>
+    <span class='text middle  '>
+        <div>Email</div>
+        
+    </span>
+</div></a><a href="http://www.bytesncolours.com.au" title="www.bytesncolours.com.au (opens in a new window)" class="contact contact-main contact-url" target="_blank" rel="nofollow"><div class='text-and-image inside-gap inside-gap-medium grow'>
+    <span class='image top '>
+        
+            <span class='glyph icon-website border border-dark-blue'><span class='alt'>www.bytesncolours.com.au (opens in a new window)</span></span>
+        
+    </span>
+    <span class='text middle  '>
+        <div>Website</div>
+        
+    </span>
+</div></a></div>
+      </div>
+    </div>
+    <div class='right'>
+      <div class='more'>
+        <a href='javascript:' title='More contacts'><span class='glyph icon-arrow-down-thick'></span></a>
+      </div>
+    </div>
+  </div>
+  <div class='additional-contacts'>
+    <div class='group'>
+      <div class='name'>Other Contacts</div>
+      <div class='contacts'><a href="tel:0262577266" title="Phone" class="click-to-call contact contact-other contact-phone" rel="nofollow"><div class='text-and-image inside-gap inside-gap-medium grow'>
+    <span class='image top '>
+        
+            <span class='glyph icon-phone'><span class='alt'>Phone</span></span>
+        
+    </span>
+    <span class='text middle  '>
+        <div>(02) 6257 7266</div>
+        
+    </span>
+</div></a></div>
+    </div>
+    <div class="group">
+        <div class="name">Postal Address</div>
+        <div class="contacts">
+            
+                <div class="contact contact-other contact-postal">
+                    <div class='text-and-image inside-gap inside-gap-medium grow'>
+    <span class='image top '>
+        
+            <span class='glyph icon-postal'><span class='alt'>Postal Address</span></span>
+        
+    </span>
+    <span class='text middle  '>
+        <div>PO Box 96, Braddon ACT 2612</div>
+        
+    </span>
+</div>
+                </div>
+            
+        </div>
+    </div>
+
+  </div>
+</div>
+    
+            <div class="geo-seo-meta" itemtype="http://schema.org/GeoCoordinates" itemprop="geo" itemscope="">
+               <meta itemprop="latitude" content="-35.272425">
+               <meta itemprop="longitude" content="149.132013">
+            </div>
+        
+</div>
+
+        
+    </div>
+            <div class="bpp-layout-map-container">
+                
+<div class="map-status">
+    <div class="map-status-loading">Loading map...</div>
+    <div class="map-status-unavailable">Sorry, maps are currently unavailable</div>
+</div>
+
+                <div id="bpp-map" class="bpp-layout-map">
+                    <div class="bpp-layout-map-radial-overlay"></div>
+                </div>
+                <button title="Toggle full screen map" class="button white-background small-rounded-corners shadow equilateral-button bpp-layout-map-full-map-toggle"><span class='icon sprite-icons-map-fullscreen' ><span class='alt'>Toggle full screen map</span></span></button>
+                <div class="bpp-layout-map-transparent-overlay"></div>
+                <div class="bpp-layout-map-interaction-blocker"></div>
+                
+                <div class="where-is-container on-bpp">
+    <div class="where-is-content">
+        <span class='glyph icon-whereis-text with-text'></span><a href='http://www.whereis.com/products/terms-of-use/index.html' target='_blank' rel="nofollow">legals</a>
+    </div>
+</div>
+            </div>
+            <div class="get-directions-detailed"><a href="/getDirections?elat=-35.272425&amp;elon=149.132013&amp;estr=Unit+2+42+Mort+St&amp;esu=Braddon+ACT&amp;ena=Bytes+%27N+Colours&amp;xu=http%3A%2F%2Fwww.yellowpages.com.au%2Fact%2Fbraddon%2Fbytes-n-colours-13153429-listing.html%3Fcontext%3DbusinessTypeSearch%26referredBy%3Dwww.yellowpages.com.au&amp;xl=Back+to+Yellow+Pages&amp;productVersion=9&amp;productId=498598163&amp;context=businessTypeSearch&amp;referredBy=www.yellowpages.com.au&amp;directionMode=true&amp;ref=ypgd&amp;yellowId=13153429" class="get-directions" rel="nofollow">
+    
+        <span class='glyph icon-directions border border-dark-blue with-text'></span>Directions
+    
+</a></div>
+        </div>
+        <div class="bpp-layout-bottom clamp-widest">
+
+        
+            
+<div class="utility-bar">
+    <div class='dropdown opening-hours no-service-notes has-secondary-view'>
+  <div class='primary-view' id='openingHours'>
+    <a href='javascript:void(0);' title='View opening hours for the entire week'>
+      <div class='content'><div class='text-and-image inside-gap inside-gap-medium'><span class='image  '><span class='glyph icon-clock border border-dark-blue'></span></span><span class='text   '><div class='opening-hours-today opening-hours-one-period'>
+  <div class='label-wrapper'>
+    <span class='label'>Open Today</span>
+    <span class='label-mini'>Today</span>
+  </div>
+  <div class='opening-times'>
+    <div class='opening-time'>
+      <span class='from-time'>8:30am</span>
+      <span class='divider'>-</span>
+      <span class='to-time'>5:30pm</span>
+    </div>
+  </div>
+</div></span></div></div>
+      <div class='plus-cross'><span class='glyph icon-arrow-down-thick'></span></div>
+    </a>
+  </div>
+  <div class='secondary-view dropdown-content not-animated'>
+    <div class='opening-hours opening-hours-monday  opening-hours-one-period'>
+      <div class='opening-times'>
+        <span class='day-wrapper'>
+          <span class='day'>Mon</span>
+        </span>
+        <div class='opening-time-wrapper'>
+          <div class='opening-time'>
+            <span class='from-time'>8:30am</span>
+            <span class='divider'>-</span>
+            <span class='to-time'>5:30pm</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='opening-hours opening-hours-tuesday  opening-hours-one-period'>
+      <div class='opening-times'>
+        <span class='day-wrapper'>
+          <span class='day'>Tue</span>
+        </span>
+        <div class='opening-time-wrapper'>
+          <div class='opening-time'>
+            <span class='from-time'>8:30am</span>
+            <span class='divider'>-</span>
+            <span class='to-time'>5:30pm</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='opening-hours opening-hours-wednesday  opening-hours-one-period'>
+      <div class='opening-times'>
+        <span class='day-wrapper'>
+          <span class='day'>Wed</span>
+        </span>
+        <div class='opening-time-wrapper'>
+          <div class='opening-time'>
+            <span class='from-time'>8:30am</span>
+            <span class='divider'>-</span>
+            <span class='to-time'>5:30pm</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='opening-hours opening-hours-thursday opening-hours-today opening-hours-one-period'>
+      <div class='opening-times'>
+        <span class='day-wrapper'>
+          <span class='day'>Thu</span>
+        </span>
+        <div class='opening-time-wrapper'>
+          <div class='opening-time'>
+            <span class='from-time'>8:30am</span>
+            <span class='divider'>-</span>
+            <span class='to-time'>5:30pm</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='opening-hours opening-hours-friday  opening-hours-one-period'>
+      <div class='opening-times'>
+        <span class='day-wrapper'>
+          <span class='day'>Fri</span>
+        </span>
+        <div class='opening-time-wrapper'>
+          <div class='opening-time'>
+            <span class='from-time'>8:30am</span>
+            <span class='divider'>-</span>
+            <span class='to-time'>5:30pm</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='opening-hours opening-hours-saturday  opening-hours-status'>
+      <div class='opening-times'>
+        <span class='day-wrapper'>
+          <span class='day'>Sat</span>
+        </span>
+        <span class='status-wrapper'>
+          <span class='status'>Not Provided</span>
+        </span>
+      </div>
+    </div>
+    <div class='opening-hours opening-hours-sunday  opening-hours-status'>
+      <div class='opening-times'>
+        <span class='day-wrapper'>
+          <span class='day'>Sun</span>
+        </span>
+        <span class='status-wrapper'>
+          <span class='status'>Not Provided</span>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+    <div  class='flow-layout share-buttons vertical'><div class='cell share-business-button first-cell' >
+        <a href="/renderSendToMobile?listingId=13153429&amp;productId=498598163&amp;productVersion=9&amp;context=businessTypeSearch&amp;referredBy=www.yellowpages.com.au" class="send-to-mobile" value="Send to mobile" rel="nofollow">
+    <div class='text-and-image inside-gap inside-gap-medium'>
+        <span class='image  '>
+            <span class='glyph icon-mobile border border-dark-blue'></span>
+        </span>
+        <span class='text   '>
+            <span class="first-text">Share</span>
+            <span class="second-text">by mobile</span>
+        </span>
+    </div>
+</a>
+
+    </div><div class='cell share-business-button last-cell' >
+        
+
+<a class="email-to-friend" href="#" rel="nofollow">
+    <div class='text-and-image inside-gap inside-gap-medium'>
+        <span class='image  '>
+            <span class='glyph icon-email border border-dark-blue'></span>
+        </span>
+        <span class='text   '>
+            <span class="first-text">Share</span>
+            <span class="second-text">by email</span>
+        </span>
+    </div>
+</a>
+    </div></div>
+    <div  class='flow-layout map-interaction-buttons'><div class='cell utility-bar-show-map first-cell' >
+                <span class='colored-glyph dark-blue'><span class='glyph icon-poi border border-dark-blue with-text colored-glyph dark-blue'></span><span class="show">Show map</span>
+                    <span class="hide">Hide map</span></span>
+            </div><div class='cell utility-bar-get-directions last-cell' >
+            <a href="/getDirections?elat=-35.272425&amp;elon=149.132013&amp;estr=Unit+2+42+Mort+St&amp;esu=Braddon+ACT&amp;ena=Bytes+%27N+Colours&amp;xu=http%3A%2F%2Fwww.yellowpages.com.au%2Fact%2Fbraddon%2Fbytes-n-colours-13153429-listing.html%3Fcontext%3DbusinessTypeSearch%26referredBy%3Dwww.yellowpages.com.au&amp;xl=Back+to+Yellow+Pages&amp;productVersion=9&amp;productId=498598163&amp;context=businessTypeSearch&amp;referredBy=www.yellowpages.com.au&amp;directionMode=true&amp;ref=ypgd&amp;yellowId=13153429" class="get-directions" rel="nofollow">
+    
+        <span class='glyph icon-directions border border-dark-blue with-text'></span>Directions
+    
+</a>
+        </div></div>
+
+</div>
+
+<div class="bpp-layout-side-bar">
+
+    
+        <div class="paid-listing">
+            <div class='panel'><img src="//s0.yellowpages.com.au/df7b4fbe-8d3f-4f9b-a6fa-bccb456e8342/bytes-n-colours-billboard-large.jpg" alt="" class="brand-package-image" /></div>
+            <div class='bpp-related-container side-bar'>
+    <div class="sprite-title-container">
+        <div class='bpp-related-title'>People Also Viewed</div>
+    </div>
+    <div  class='flow-layout people-also-viewed-layout'><div class='cell people-also-viewed-cell second-cell first-cell' >
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/printers-printing-services/braddon-act">Printers &amp; Printing Services</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/printers-digital/braddon-act">Printers--Digital</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/photocopying-services/braddon-act">Photocopying Services</a>
+                    </p>
+                
+            </div><div class='cell people-also-viewed-cell second-cell last-cell' >
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/graphic-designers/braddon-act">Graphic Designers</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/labels-self-adhesive/braddon-act">Labels--Self-Adhesive</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/signwriters/braddon-act">Signwriters</a>
+                    </p>
+                
+            </div></div>
+
+</div>
+        </div>
+    
+
+    
+</div>
+
+
+
+
+
+<div  class='flow-layout bpp-bottom-content outside-gap-large inside-gap inside-gap-large vertical'><div class='cell first-cell' >
+           <div id='promo-tiles' class='promo-tiles'><div data-match-media-class='vertical' data-match-media='(max-width: 630px)' class='flow-layout inside-gap inside-gap-medium liquid-even-width unprocessed-match-media'><div class='cell first-cell' ><a class="promo-tile black no-text first" data-link-url="http://www.bytesncolours.com.au/content/display-systems" href="http://www.bytesncolours.com.au/content/display-systems" target="_blank" rel="nofollow"><div  class='flow-layout middle'><div class='cell promo-tile-image first-cell' ><img src="//s0.yellowpages.com.au/477d53d1-b414-4043-a079-f1555dc2e14f/bytes-n-colours-promo.jpg" alt="" /></div><div class='cell promo-tile-color-strip middle-cell' style='background-color: #3D3B3B'></div><div class='cell promo-tile-strip last-cell' ><div  class='flow-layout middle'><div class='cell promo-tile-strip-text first-cell last-cell' >&nbsp;</div></div></div></div></a></div><div class='cell inner-gap'></div><div class='cell middle-cell' ><a class="promo-tile black no-text" data-link-url="http://www.bytesncolours.com.au/content/large-format-printing" href="http://www.bytesncolours.com.au/content/large-format-printing" target="_blank" rel="nofollow"><div  class='flow-layout middle'><div class='cell promo-tile-image first-cell' ><img src="//s0.yellowpages.com.au/223e08c9-4cfa-43fb-9a4a-216b359ebd64/bytes-n-colours-promo.jpg" alt="" /></div><div class='cell promo-tile-color-strip middle-cell' style='background-color: #3D3B3B'></div><div class='cell promo-tile-strip last-cell' ><div  class='flow-layout middle'><div class='cell promo-tile-strip-text first-cell last-cell' >&nbsp;</div></div></div></div></a></div><div class='cell inner-gap'></div><div class='cell last-cell' ><a class="promo-tile black no-text last" data-link-url="http://www.bytesncolours.com.au/content/short-run-printing" href="http://www.bytesncolours.com.au/content/short-run-printing" target="_blank" rel="nofollow"><div  class='flow-layout middle'><div class='cell promo-tile-image first-cell' ><img src="//s0.yellowpages.com.au/a953b3d2-b654-418a-bb40-48c79d401161/bytes-n-colours-promo.jpg" alt="" /></div><div class='cell promo-tile-color-strip middle-cell' style='background-color: #3D3B3B'></div><div class='cell promo-tile-strip last-cell' ><div  class='flow-layout middle'><div class='cell promo-tile-strip-text first-cell last-cell' >&nbsp;</div></div></div></div></a></div></div></div>
+        </div><div class='cell middle-cell' >
+            
+<div class="ratings-and-reviews-container">
+    
+
+    <div class="review-strip no-content write-collapsed">
+    <div class="scroll-to-top" id="write-review-scroll-to"></div>
+    <div class='text-and-image review-strip-header grow bpp-panel-header'>
+    <span class='text   responsive-h2'>
+        Ratings & Reviews
+    </span>
+    <span class='image  '>
+        
+            <div class="panel-button write-a-review">
+                <span class='colored-glyph dark-blue'><span class='glyph icon-pen border border-dark-blue with-text colored-glyph dark-blue'></span>Write<span class="full-button-text"> a review</span></span>
+            </div>
+        
+    </span>
+</div>
+    <div  class='flow-layout review-strip fill'><div class='cell fill call-to-action text-and-image first-cell last-cell' >
+            <span class="text first">Have you used this business?</span>
+            <span class="text second">Tell others about it with a</span>
+            <span class="text yellow-pages-text">Yellow Pages<span class="superscript">®</span></span>
+            <span class="text">review!</span>
+        </div></div>
+</div>
+
+    
+    <ul class="dropdown-content animated ratings-and-reviews" data-about-id="3860d0ebbfc7e638d04c088077913bdedaa2e5b66a2d0199c477f2246ece02e4">
+    	
+	</ul>
+</div>
+
+        </div><div class='cell middle-cell' >
+            
+<div class="panel-no-margin mediaGallery expandableThumbnails" data-product-id="498598163" data-product-version="9">
+    
+    <div class="sliderContainer scroll-to-top" id="gallery-scroll-to">
+        <div class="royalSlider rsDefault">
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/0d290d17-1519-4fc7-8aa6-7d22cd446b63/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/0d6c4961-3b30-4284-92e0-46fb6139d69a/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/3d284a38-abdc-4323-8355-0252517b27a1/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/02d6a76f-1d09-4da3-a4aa-a9017fa3b5c4/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/2165eec5-5474-452a-9335-aa42979e934b/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/3eab1644-8cd6-46da-b0aa-ff6cd6b73f1d/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/50bd95e9-e720-43c8-8d6d-b5959d389887/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/c2154b75-76eb-45d4-a654-ed753f270f7e/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/fb5fd46f-abd5-4fbe-b4ed-37bb83354b25/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/bf33db40-18f8-4213-aaaa-a3348d404ced/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/c301e49e-e561-47ed-8f1a-b765e1133483/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/cc9de487-6aa8-4e2d-870b-3f6648340ddf/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/9b032578-935a-40f8-8145-ee49a9d70868/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/34960c19-b531-441a-98bc-cf8e131e43b9/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+                <a class="rsImg" data-rsDelay="1000" href="//s0.yellowpages.com.au/598f24f8-19ea-4402-874f-5f4c6cd727ff/bytes-n-colours-image.jpg">
+                    
+                    
+                        <img src="//s0.yellowpages.com.au/ef8e6b89-f43c-45d0-ab32-2ccfdd125f57/bytes-n-colours-thumbnail.jpg" class="rsTmb" alt=""/>
+                    
+                </a>
+            
+        </div>
+        <div class="rsClose"></div>
+    </div>
+</div>
+
+
+        </div><div class='cell middle-cell' >
+        <div class='tabcordion collapse-to-accordion'>
+  <div class='tab-header-wrapper'>
+    <ol class='tab-headers clearfix '><li class='tab-header active tab-header-branded' data-name='about-us' data-omniture-name='About Us'>
+  <div class='tab-header-container'>
+    <h2 class='tab-label'>About Us</h2>
+  </div>
+</li><li class='tab-header  tab-header-branded' data-name='products-and-services' data-omniture-name='Products and Services'>
+  <div class='tab-header-container'>
+    <h2 class='tab-label'>Products and Services</h2>
+  </div>
+</li><li class='tab-header  tab-header-branded' data-name='faqs' data-omniture-name='FAQs'>
+  <div class='tab-header-container'>
+    <h2 class='tab-label'>FAQs</h2>
+  </div>
+</li></ol>
+  </div>
+            <div class='tab '>
+  <div class='accordion-header active scroll-to-top' data-name='about-us' data-omniture-name='About Us' data-scroll-to='about-us-scroll-to' id='about-us-scroll-to'><span class='glyph icon-arrow-down-thick'></span>
+    <h2>About Us</h2>
+  </div>
+  <div class='tab-body active no-outside-gap' data-name='about-us'><div class='about-us global-width two-column-mode has-brand-package'>
+     <div class="media-object clearfix inside-gap-medium image-on-right "><div class='image right'>
+                <div class="top center brand-package">
+                    <img src="//s0.yellowpages.com.au/df7b4fbe-8d3f-4f9b-a6fa-bccb456e8342/bytes-n-colours-billboard-large.jpg" alt="" class="brand-package-image" />
+                </div>
+            </div><div class='body left'>
+            <div class="about-us-content">
+                <div class='listing-descriptors about-us-section'>
+  <h2 class='h2 padded-large-bottom'>About Bytes 'N Colours</h2><div class='item-list-heading'>AT A GLANCE<ul class='item-list item-list-usp'><li><span class='glyph icon-tick with-text'></span>Fast Turnaround</li><li><span class='glyph icon-tick with-text'></span>ISO 9001 certified</li><li><span class='glyph icon-tick with-text'></span>High quality service at competitive prices</li><li><span class='glyph icon-tick with-text'></span>Expert solutions</li><li><span class='glyph icon-tick with-text'></span>Wide range of products and services</li></ul></div>
+  <div class='paragraph'>To continually exceed our customer's expectations by providing a product of quality delivered on time, every time.</div>
+  <div class='paragraph'>Established in 1989, Bytes 'n Colours are an innovator in digital printing. We are a one-stop shop for all of your printing needs, and pride ourselves in providing fantastic quality that is delivered to you on time, every time.</div>
+  <div>
+    <h3 class='bpp-heading-3'>Graphic Design for everyone</h3>
+    <div class='paragraph'><p>You can&#39;t expect great prints without good design. At Bytes&#39;n Colours, we understant how to design to get the best off our equipment. Our designers will sit with you and discuss your needs. They will give you options not only with regards to the design and the layout but also the choice of colours and paper.</p></div>
+  </div>
+  <div>
+    <h3 class='bpp-heading-3'>Design produced on time every time</h3>
+    <div class='paragraph'><p>We are committed to our customers&#39; deadline and we endeavour to deliver quality design on time every time.</p></div>
+  </div>
+</div>
+                <div class="about-us-side-bar">
+                    <div class='payment-methods about-us-section'>
+  <h3 class='bpp-heading-3'>Payment Methods</h3><span class='icon sprite-icons-payment-american-express payment-method' ><span class='alt'>American Express</span></span><span class='icon sprite-icons-payment-cash payment-method' ><span class='alt'>Cash</span></span><span class='icon sprite-icons-payment-cheques payment-method' ><span class='alt'>Cheques</span></span><span class='icon sprite-icons-payment-eftpos payment-method' ><span class='alt'>EFTPOS</span></span><span class='icon sprite-icons-payment-mastercard payment-method' ><span class='alt'>Mastercard</span></span><span class='icon sprite-icons-payment-visa payment-method' ><span class='alt'>Visa</span></span>
+</div>
+                    
+                    <dl class='business-info about-us-section'><dt class='abn'><abbr title='Australian Business Number'>ABN</abbr></dt><dd class='abn'>56 073 415 166</dd><dt class='number-of-employees'>Staff</dt><dd class='number-of-employees'>1-10</dd><dt class='established'>Established</dt><dd class='established'>1988</dd><dt class='legal-id'>Legal ID</dt><dd class='legal-id'>High quality service at competitive prices</dd><dt class='also-listed-under'>Also listed under</dt><dd class='also-listed-under'><a href="/act/braddon/bytes-n-colours-13242140-listing.html?referredBy=www.yellowpages.com.au" title="View Bytes 'N Colours listing in Display &amp; Exhibition Equipment &amp; Supplies">Display & Exhibition Equipment & Supplies</a>, <a href="/act/braddon/bytes-n-colours-12294042-listing.html?referredBy=www.yellowpages.com.au" title="View Bytes 'N Colours listing in Graphic Designers">Graphic Designers</a></dd></dl>
+                </div>
+            </div>
+        </div></div>
+</div></div>
+</div>
+            <div class='tab '>
+  <div class='accordion-header  scroll-to-top' data-name='products-and-services' data-omniture-name='Products and Services' data-scroll-to='products-and-services-scroll-to' id='products-and-services-scroll-to'><span class='glyph icon-arrow-down-thick'></span>
+    <h2>Products and Services</h2>
+  </div>
+  <div class='tab-body  ' data-name='products-and-services'><div class="products-and-services global-width has-brand-package">
+    <div class="media-object clearfix image-on-right "><div class='image right'>
+                <div class="top center brand-package">
+                    <img src="//s0.yellowpages.com.au/df7b4fbe-8d3f-4f9b-a6fa-bccb456e8342/bytes-n-colours-billboard-large.jpg" alt="" class="brand-package-image" />
+                </div>
+            </div><div class='body left'>
+            <div class='product-keywords'>
+  <h3 class='bpp-heading-3'>Print Item</h3>
+  <p class='paragraph'>Banners, Displays, Posters</p>
+  <h3 class='bpp-heading-3'>Service Option</h3>
+  <p class='paragraph'>Free Quotes</p>
+  <h3 class='bpp-heading-3'>Hours of Operation</h3>
+  <p class='paragraph'>Open Evenings, Open Monday - Friday</p>
+</div>
+            <div class='advertiser-keywords'>
+  <h3 class='bpp-heading-3'>Keywords</h3>
+  <p class='paragraph'>business cards, Print Panels, laminate, digital printing, report type setting, banners, graphic designing Canberra, Graphic Designer Canberra, print, fliers, brichure design canberra, signage, corporate branding canberra, publishing, Government Print Panel</p>
+</div>
+        </div></div>
+</div></div>
+</div>
+            
+            <div class='tab '>
+  <div class='accordion-header  scroll-to-top' data-name='faqs' data-omniture-name='FAQs' data-scroll-to='faqs-scroll-to' id='faqs-scroll-to'><span class='glyph icon-arrow-down-thick'></span>
+    <h2>FAQs</h2>
+  </div>
+  <div class='tab-body  ' data-name='faqs'><div class="faqs-wrapper global-width">
+    <ul class='faqs'>
+  <li>
+    <h3 class='question bpp-heading-3'>What kind of Large Format surfaces can I print on?</h3>
+    <p class='answer paragraph'>With three large format printers, we are able to print on a variety of specialized substrates such as textile material, sigmagraf, artist canvas and mesh. We can print sizes from A2 to A0 and customized sizes of up to 1.5 meters wide, at almost any length and at resolutions of up to 2400dpi.</p>
+  </li>
+</ul>
+</div></div>
+</div>
+        
+</div>
+    </div><div class='cell middle-cell' >
+            <div class="rounded-box no-padding background-white bpp-panel bpp-box-shadow"><div class="deep-links"><div data-match-media-class='vertical' data-match-media='(max-width: 600px)' class='flow-layout liquid-even-width columns columnize-mark unprocessed-match-media'><div class='cell first-cell last-cell' ><div  class='flow-layout vertical'><div class='cell first-cell last-cell' ><div  class='flow-layout outside-gap-large inside-gap inside-gap-large vertical'><div class='cell first-cell last-cell' >
+
+<div class="deep-link deeplink">
+    <div class='img-text-description'><div class='line-one'><span class='line-one-content normal-text'><span class='img-text'>
+            <a href="http://www.bytesncolours.com.au/Portfolio" class="bold" target="_blank" rel="nofollow">More information</a>
+        </span></span></div><div class='description '>
+            Portfolio
+        </div></div>
+</div></div></div></div></div></div></div></div></div>
+        </div><div class='cell bpp-related-cell paid-listing last-cell' >
+
+                <div class='bpp-related-container bpp-bottom'>
+    <div class="sprite-title-container">
+        <div class='bpp-related-title'>People Also Viewed</div>
+    </div>
+    <div  class='flow-layout people-also-viewed-layout'><div class='cell people-also-viewed-cell second-cell first-cell' >
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/printers-printing-services/braddon-act">Printers &amp; Printing Services</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/printers-digital/braddon-act">Printers--Digital</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/photocopying-services/braddon-act">Photocopying Services</a>
+                    </p>
+                
+            </div><div class='cell people-also-viewed-cell second-cell last-cell' >
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/graphic-designers/braddon-act">Graphic Designers</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/labels-self-adhesive/braddon-act">Labels--Self-Adhesive</a>
+                    </p>
+                
+                    <p class="people-also-viewed-category">
+                        <a href="/find/signwriters/braddon-act">Signwriters</a>
+                    </p>
+                
+            </div></div>
+
+</div>
+
+        </div></div>
+        
+
+
+        
+    </div>
+
+    </div>
+
+</div>
+<div class="bpp-layout-bottom-overflow clamp-widest">
+        <div  class='flow-layout overflow-bottom-content outside-gap-large inside-gap inside-gap-large vertical'><div class='cell first-cell' >
+            <div class="bpp-panel breadcrumb"><div class='breadcrumb-separator'></div><div class='breadcrumbs-container '><div itemscope
+     itemtype="http://data-vocabulary.org/Breadcrumb"
+     url="/"
+     title="Yellow Pages"
+     class="breadcrumbs ">
+    
+    
+        <a href="/" itemprop="url"><span itemprop="title">Yellow Pages</span></a>
+    
+</div>
+
+<div itemscope
+     itemtype="http://data-vocabulary.org/Breadcrumb"
+     url="/find/printers-printing-services/act"
+     title="Printers &amp; Printing Services in ACT"
+     class="breadcrumbs ">
+    
+        <span class="breadcrumb-text breadcrumb-arrow"></span>
+        <span class="glyph icon-arrow-subcategory"></span>
+    
+    
+        <a href="/find/printers-printing-services/act" itemprop="url"><span itemprop="title">Printers &amp; Printing Services in ACT</span></a>
+    
+</div>
+
+<div itemscope
+     itemtype="http://data-vocabulary.org/Breadcrumb"
+     url="/find/printers-printing-services/braddon-act"
+     title="Braddon"
+     class="breadcrumbs ">
+    
+        <span class="breadcrumb-text breadcrumb-arrow"></span>
+        <span class="glyph icon-arrow-subcategory"></span>
+    
+    
+        <a href="/find/printers-printing-services/braddon-act" itemprop="url"><span itemprop="title">Braddon</span></a>
+    
+</div>
+
+<div itemscope
+     itemtype="http://data-vocabulary.org/Breadcrumb"
+     url=""
+     title="Bytes &#39;N Colours"
+     class="breadcrumbs breadcrumb-text current-item">
+    
+        <span class="breadcrumb-text breadcrumb-arrow"></span>
+        <span class="glyph icon-arrow-subcategory"></span>
+    
+    
+        Bytes &#39;N Colours
+    
+</div>
+
+</div></div>
+        </div><div class='cell last-cell' >
+            
+
+<div data-match-media-class='vertical' data-match-media='(max-width: 449px)' class='flow-layout inside-gap inside-gap-large unprocessed-match-media'><div class='cell first-cell last-cell' >
+        <a href="javascript:" class="report-listing-error-activator"><span class='colored-glyph grey-52'><span class='glyph icon-report with-text colored-glyph grey-52'></span>Report a problem</span></a>
+    </div></div>
+    </div></div>
+    </div>
+<div class="bpp-layout-footer">
+        
+<div class="footer">
+    <div class="footer-body">
+        <div class="clamp-widest">
+            <div data-match-media-class='vertical' data-match-media='(max-width: 1024px)' class='flow-layout footer-site-links-container outside-gap-large inside-gap inside-gap-small unprocessed-match-media'><div class='cell footer-site-links first-cell' >
+        <div data-match-media-class='vertical' data-match-media='(max-width: 768px)' class='flow-layout liquid-even-width unprocessed-match-media'><div class='cell first-cell' >
+                <div  class='flow-layout liquid-even-width'><div class='cell link-group-container first-cell' >
+                        <div  class='flow-layout general-links vertical'><div class='cell first-cell' >
+        <span title='Sensis logo' class='glyph icon-sensis-logo'></span>
+    </div><div class='cell last-cell' >
+        
+            <ul class="site-link-group-links"><li><a href="http://www.whitepages.com.au"  target="_blank" rel='nofollow'>White Pages</a></li><li><a href="http://www.whereis.com.au"  target="_blank" rel='nofollow'>Whereis</a></li><li><a href="http://www.telstra.com.au"  target="_blank" rel='nofollow'>Telstra</a></li></ul>
+        
+    </div></div>
+                    </div><div class='cell link-group-container last-cell' >
+                        <h4>Sensis</h4><ul class="site-link-group-links"><li><a href="https://www.sensis.com.au/about?referrer=ypas"   rel='nofollow'>About us</a></li><li><a href="http://www.sensisdata.com.au"   rel='nofollow'>Sensis Data Solutions</a></li><li><a href="https://www.directoryselect.com.au/action/home"  target="_blank" rel='nofollow'>Order or cancel the book</a></li><li><a href="https://www.sensis.com.au/about/our-commitment-to-the-environment?referrer=ypcarbon"   rel='nofollow'>Carbon neutral credentials</a></li><li><a href="http://developers.sensis.com.au"   rel='nofollow'>API Developer centre</a></li><li><a href="https://www.sensis.com.au/careers-at-sensis?referrer=ypcareers"  target="_blank" rel='nofollow'>Careers</a></li></ul>
+                    </div></div>
+            </div><div class='cell last-cell' >
+                <div  class='flow-layout liquid-even-width'><div class='cell link-group-container first-cell' >
+                        <h4>Yellow Pages Website</h4><ul class="site-link-group-links"><li><a href="/about-us" class="help"  rel='nofollow'>About us &amp; helpful information</a></li><li><a href="/articles" class="help"  rel='nofollow'>Articles</a></li><li><a href="/pages/contact-us" class="contact-us"  rel='nofollow'>Contact us</a></li><li><a href="javascript:void(0)" class="feedback"  >Feedback</a></li><li><a href="javascript:void(0)" class="legal"  >Privacy statement</a></li><li><a href="/pages/help/find-business" class="help"  rel='nofollow'>Help</a></li></ul>
+                    </div><div class='cell link-group-container last-cell' >
+                        <h4>Yellow Pages Advertising</h4><ul class="site-link-group-links"><li><a href="http://www.sensis.com.au/yellow-pages-digital?referrer=ypfootadvus" class="advertise-with-us" target="_blank" >Advertise with Yellow Pages</a></li><li><a href="https://www.sensis.com.au/sensis-free-listing?referrer=ypfootsublist" class="submit-free-listing" target="_blank" >Add a free listing</a></li><li><a href="https://www.sensis.com.au/products?referrer=ypads"   rel='nofollow'>Market your business</a></li><li><a href="https://www.sensis.com.au/login?referrer=ypcc"   rel='nofollow'>Customer Centre</a></li><li><a href="https://www.sensis.com.au/help/faqs-yellow-pages-print?referrer=ypbookclose"   rel='nofollow'>Book advertising deadlines</a></li></ul>
+                    </div></div>
+            </div></div>
+    </div><div class='cell social-media last-cell' >
+        <div data-match-media-class='vertical' data-match-media='(max-width:769px), (min-width:1025px)' class='flow-layout inside-gap inside-gap-medium liquid-even-width unprocessed-match-media'><div class='cell first-cell last-cell' >
+        <div data-match-media-class='vertical' data-match-media='(max-width:769px), (min-width:1025px)' class='flow-layout inside-gap inside-gap-large liquid-even-width unprocessed-match-media'><div class='cell first-cell' >
+                <div class="social-media-icons">
+                    <a href="https://twitter.com/yellow_au" target="_blank" rel="nofollow" class="twitter-link" title="Yellow Pages&reg; on Twitter">
+                        <span class='glyph icon-twitter-footer border border-yellow size-medium colored-glyph black'></span>
+                    </a>
+                    <a href="https://plus.google.com/109903459653664511871/posts" target="_blank" rel="nofollow" class="google-plus-link" title="Yellow Pages&reg; on Google">
+                        <span class='glyph icon-googleplus-footer border border-yellow size-medium colored-glyph black'></span>
+                    </a>
+                    <a href="http://www.youtube.com/yellowpagesmarketing" target="_blank" rel="nofollow" class="youtube-link" title="Yellow Pages&reg; on YouTube">
+                        <span class='glyph icon-youtube-footer border border-yellow size-medium colored-glyph black'></span>
+                    </a>
+                    <a href="https://www.facebook.com/YellowAustralia" target="_blank" rel="nofollow" class="facebook-link" title="Yellow Pages&reg; on Facebook">
+                        <span class='glyph icon-facebook-footer border border-yellow size-medium colored-glyph black'></span>
+                    </a>
+                </div>
+            </div><div class='cell inner-gap'></div><div class='cell clearfix last-cell' >
+                <div class="home-page-links">
+    <div  class='flow-layout inside-gap inside-gap-small'><div class='cell first-cell' >
+            <a href="https://itunes.apple.com/au/app/yellow-pages-australia/id325629947" target="_blank"  class="apple-store-link" rel="nofollow">
+    <span class='icon sprite-icons-appstore-apple' ></span>
+</a>
+        </div><div class='cell last-cell' >
+            <a href="https://play.google.com/store/apps/details?id=au.com.sensis.mobile.android.yellow" target="_blank"  class="play-store-link" rel="nofollow">
+    <span class='icon sprite-icons-appstore-android' ></span>
+</a>
+        </div></div>
+</div>
+            </div></div>
+    </div></div>
+    </div></div>
+            <div  class='flow-layout footer-seo-container vertical'><div class='cell first-cell' >
+        <div  class='flow-layout liquid-even-width'><div class='cell seo-categories seo-section first-cell' >
+                <div class="title">Browse Categories</div><div data-match-media-class='vertical' data-match-media='(max-width: 640px)' class='flow-layout inside-gap inside-gap-small liquid-even-width unprocessed-match-media'><div class='cell first-cell' ><div  class='flow-layout inside-gap inside-gap-small vertical'><div class='cell first-cell' ><a href="/see/accommodation-travel-category-group">Accommodation & Travel</a></div><div class='cell middle-cell' ><a href="/see/agriculture-fisheries-forestry-category-group">Agriculture, Fisheries & Forestry</a></div><div class='cell middle-cell' ><a href="/see/arts-entertainment-category-group">Arts & Entertainment</a></div><div class='cell middle-cell' ><a href="/see/automotive-category-group">Automotive</a></div><div class='cell middle-cell' ><a href="/see/boats-marine-category-group">Boats & Marine</a></div><div class='cell middle-cell' ><a href="/see/business-services-marketing-category-group">Business Services & Marketing</a></div><div class='cell middle-cell' ><a href="/see/clothing-fashion-category-group">Clothing & Fashion</a></div><div class='cell middle-cell' ><a href="/see/computers-telecommunications-category-group">Computers & Telecommunications</a></div><div class='cell last-cell' ><a href="/see/education-training-category-group">Education & Training</a></div></div></div><div class='cell inner-gap'></div><div class='cell middle-cell' ><div  class='flow-layout inside-gap inside-gap-small vertical'><div class='cell first-cell' ><a href="/see/events-parties-weddings-category-group">Events, Parties & Weddings</a></div><div class='cell middle-cell' ><a href="/see/finance-insurance-category-group">Finance & Insurance</a></div><div class='cell middle-cell' ><a href="/see/furniture-home-electrical-category-group">Furniture & Home Electrical</a></div><div class='cell middle-cell' ><a href="/see/hair-beauty-category-group">Hair & Beauty</a></div><div class='cell middle-cell' ><a href="/see/health-wellbeing-category-group">Health & Wellbeing</a></div><div class='cell middle-cell' ><a href="/see/home-garden-category-group">Home & Garden</a></div><div class='cell middle-cell' ><a href="/see/manufacturing-industrial-category-group">Manufacturing & Industrial</a></div><div class='cell middle-cell' ><a href="/see/parenting-category-group">Parenting</a></div><div class='cell last-cell' ><a href="/see/pets-pet-care-category-group">Pets & Pet Care</a></div></div></div><div class='cell inner-gap'></div><div class='cell last-cell' ><div  class='flow-layout inside-gap inside-gap-small vertical'><div class='cell first-cell' ><a href="/see/professional-services-category-group">Professional Services</a></div><div class='cell middle-cell' ><a href="/see/property-construction-category-group">Property & Construction</a></div><div class='cell middle-cell' ><a href="/see/restaurants-cafes-and-bars-category-group">Restaurants, Cafes and Bars</a></div><div class='cell middle-cell' ><a href="/see/security-category-group">Security</a></div><div class='cell middle-cell' ><a href="/see/sustainability-environment-category-group">Sustainability & Environment</a></div><div class='cell middle-cell' ><a href="/see/trades-services-category-group">Trades Services</a></div><div class='cell middle-cell' ><a href="/see/transport-cargo-services-category-group">Transport & Cargo Services</a></div><div class='cell last-cell' ><a href="/help/headingInfo/index.html" >View more categories</a></div></div></div></div>
+            </div><div class='cell seo-popular-searches seo-section last-cell' >
+                <div class="title">Popular Searches in Australia</div><div class="media-object clearfix inside-gap-small seo-pop-search-row first-row"><div class='image left'>NSW</div><div class='body right'><a class='seo-pop-search-link' href='/find/party-equipment-hire/greater-sydney-nsw' title='Party Equipment Hire in Sydney'>Party Equipment Hire in Sydney</a> <a class='seo-pop-search-link' href='/find/home-air-conditioning/greater-sydney-nsw' title='Air Conditioning in Sydney'>Air Conditioning in Sydney</a> <a class='seo-pop-search-link' href='/find/catering/greater-sydney-nsw' title='Catering in Sydney'>Catering in Sydney</a></div></div><div class="media-object clearfix inside-gap-small seo-pop-search-row "><div class='image left'>VIC</div><div class='body right'><a class='seo-pop-search-link' href='/find/beauty-salons/greater-melbourne-vic' title='Beauty Salons in Melbourne'>Beauty Salons in Melbourne</a> <a class='seo-pop-search-link' href='/find/home-air-conditioning/greater-melbourne-vic' title='Air Conditioning in Melbourne'>Air Conditioning in Melbourne</a> <a class='seo-pop-search-link' href='/find/catering/greater-melbourne-vic' title='Catering in Melbourne'>Catering in Melbourne</a></div></div><div class="media-object clearfix inside-gap-small seo-pop-search-row "><div class='image left'>QLD</div><div class='body right'><a class='seo-pop-search-link' href='/find/home-air-conditioning/greater-brisbane-qld' title='Air Conditioning in Brisbane'>Air Conditioning in Brisbane</a> <a class='seo-pop-search-link' href='/find/beauty-salons/greater-brisbane-qld' title='Beauty Salons in Brisbane'>Beauty Salons in Brisbane</a> <a class='seo-pop-search-link' href='/find/party-equipment-hire/greater-brisbane-qld' title='Party Equipment Hire in Brisbane'>Party Equipment Hire in Brisbane</a></div></div><div class="media-object clearfix inside-gap-small seo-pop-search-row "><div class='image left'>WA</div><div class='body right'><a class='seo-pop-search-link' href='/find/home-air-conditioning/greater-perth-wa' title='Air Conditioning in Perth'>Air Conditioning in Perth</a> <a class='seo-pop-search-link' href='/find/party-equipment-hire/greater-perth-wa' title='Party Equipment Hire in Perth'>Party Equipment Hire in Perth</a> <a class='seo-pop-search-link' href='/find/beauty-salons/greater-perth-wa' title='Beauty Salons in Perth'>Beauty Salons in Perth</a></div></div><div class="media-object clearfix inside-gap-small seo-pop-search-row "><div class='image left'>SA</div><div class='body right'><a class='seo-pop-search-link' href='/find/party-equipment-hire/greater-adelaide-sa' title='Party Equipment Hire in Adelaide'>Party Equipment Hire in Adelaide</a> <a class='seo-pop-search-link' href='/find/home-air-conditioning/greater-adelaide-sa' title='Air Conditioning in Adelaide'>Air Conditioning in Adelaide</a> <a class='seo-pop-search-link' href='/find/beauty-salons/greater-adelaide-sa' title='Beauty Salons in Adelaide'>Beauty Salons in Adelaide</a></div></div><div class="media-object clearfix inside-gap-small seo-pop-search-row "><div class='image left'>ACT</div><div class='body right'><a class='seo-pop-search-link' href='/find/beauty-salons/greater-canberra-act' title='Beauty Salons in Canberra'>Beauty Salons in Canberra</a> <a class='seo-pop-search-link' href='/find/home-air-conditioning/greater-canberra-act' title='Air Conditioning in Canberra'>Air Conditioning in Canberra</a> <a class='seo-pop-search-link' href='/find/party-equipment-hire/greater-canberra-act' title='Party Equipment Hire in Canberra'>Party Equipment Hire in Canberra</a></div></div><div class="media-object clearfix inside-gap-small seo-pop-search-row "><div class='image left'>TAS</div><div class='body right'><a class='seo-pop-search-link' href='/find/party-equipment-hire/greater-hobart-tas' title='Party Equipment Hire in Hobart'>Party Equipment Hire in Hobart</a> <a class='seo-pop-search-link' href='/find/home-air-conditioning/greater-hobart-tas' title='Air Conditioning in Hobart'>Air Conditioning in Hobart</a> <a class='seo-pop-search-link' href='/find/catering/greater-hobart-tas' title='Catering in Hobart'>Catering in Hobart</a></div></div><div class="media-object clearfix inside-gap-small seo-pop-search-row "><div class='image left'>NT</div><div class='body right'><a class='seo-pop-search-link' href='/find/home-air-conditioning/darwin-region-nt' title='Air Conditioning in Darwin'>Air Conditioning in Darwin</a> <a class='seo-pop-search-link' href='/find/catering/darwin-region-nt' title='Catering in Darwin'>Catering in Darwin</a> <a class='seo-pop-search-link' href='/find/party-equipment-hire/darwin-region-nt' title='Party Equipment Hire in Darwin'>Party Equipment Hire in Darwin</a></div></div>
+            </div></div>
+
+    </div><div class='cell seo-border-top last-cell' >
+        <div  class='flow-layout liquid-even-width'><div class='cell seo-states seo-section first-cell' >
+                <div class="media-object clearfix inside-gap-medium "><div class='image left'>States</div><div class='body right'><a class='seo-state-link' href='/act/localities.html' title='Australian Capital Territory'>ACT</a> <a class='seo-state-link' href='/nsw/localities.html' title='New South Wales'>NSW</a> <a class='seo-state-link' href='/nt/localities.html' title='Northern Territory'>NT</a> <a class='seo-state-link' href='/qld/localities.html' title='Queensland'>QLD</a> <a class='seo-state-link' href='/sa/localities.html' title='South Australia'>SA</a> <a class='seo-state-link' href='/tas/localities.html' title='Tasmania'>TAS</a> <a class='seo-state-link' href='/vic/localities.html' title='Victoria'>VIC</a> <a class='seo-state-link' href='/wa/localities.html' title='Western Australia'>WA</a></div></div>
+            </div><div class='cell seo-section last-cell' >
+                <div class="media-object clearfix inside-gap-medium "><div class='image left'>Letter</div><div class='body right'><a class='seo-letter-link' href='/atoz/A.html'>A</a> <a class='seo-letter-link' href='/atoz/B.html'>B</a> <a class='seo-letter-link' href='/atoz/C.html'>C</a> <a class='seo-letter-link' href='/atoz/D.html'>D</a> <a class='seo-letter-link' href='/atoz/E.html'>E</a> <a class='seo-letter-link' href='/atoz/F.html'>F</a> <a class='seo-letter-link' href='/atoz/G.html'>G</a> <a class='seo-letter-link' href='/atoz/H.html'>H</a> <a class='seo-letter-link' href='/atoz/I.html'>I</a> <a class='seo-letter-link' href='/atoz/J.html'>J</a> <a class='seo-letter-link' href='/atoz/K.html'>K</a> <a class='seo-letter-link' href='/atoz/L.html'>L</a> <a class='seo-letter-link' href='/atoz/M.html'>M</a> <a class='seo-letter-link' href='/atoz/N.html'>N</a> <a class='seo-letter-link' href='/atoz/O.html'>O</a> <a class='seo-letter-link' href='/atoz/P.html'>P</a> <a class='seo-letter-link' href='/atoz/Q.html'>Q</a> <a class='seo-letter-link' href='/atoz/R.html'>R</a> <a class='seo-letter-link' href='/atoz/S.html'>S</a> <a class='seo-letter-link' href='/atoz/T.html'>T</a> <a class='seo-letter-link' href='/atoz/U.html'>U</a> <a class='seo-letter-link' href='/atoz/V.html'>V</a> <a class='seo-letter-link' href='/atoz/W.html'>W</a> <a class='seo-letter-link' href='/atoz/X.html'>X</a> <a class='seo-letter-link' href='/atoz/Y.html'>Y</a> <a class='seo-letter-link' href='/atoz/Z.html'>Z</a> <a class='seo-letter-link' href='/atoz/0.html'>#</a></div></div>
+            </div></div>
+    </div></div>
+
+
+
+
+        </div>
+    </div>
+</div>
+<div class="floating-footer-placeholder">
+    <div class="floating-footer-container fixed-bottom">
+    <div class="floating-footer icon-button-group">
+        <span class="vertical-glyph colored-glyph dark-blue search-filter-button clickable blue toggle-icon-button icon-button "><span class='glyph icon-filter border border-dark-blue with-text vertical colored-glyph dark-blue'></span><br /><span class='glyph-text'>Filter</span></span>
+        <span class="vertical-glyph colored-glyph dark-blue clickable view-list-button icon-button "><span class='glyph icon-view-list border border-dark-blue with-text vertical colored-glyph dark-blue'></span><br /><span class='glyph-text'>List</span></span>
+        <span class="vertical-glyph colored-glyph dark-blue clickable view-map-button icon-button disabled"><span class='glyph icon-poi-nearby border border-dark-blue disabled with-text vertical colored-glyph dark-blue'></span><br /><span class='glyph-text'>Map</span></span>
+        <span class="vertical-glyph colored-glyph dark-blue clickable view-compare-button icon-button "><span class='glyph icon-view-compare border border-dark-blue with-text vertical colored-glyph dark-blue'></span><br /><span class='glyph-text'>Compare</span></span>
+        <span class="vertical-glyph colored-glyph dark-blue clickable servicing-button icon-button blue toggle-icon-button disabled"><span class='glyph icon-servicing border border-dark-blue disabled with-text vertical colored-glyph dark-blue'></span><br /><span class='glyph-text'>Servicing</span></span>
+        <span class="vertical-glyph colored-glyph dark-blue clickable submit-free-listing-button icon-button "><span class='glyph icon-plus-thinner border border-dark-blue with-text vertical colored-glyph dark-blue'></span><br /><span class='glyph-text'>Free listing</span></span>
+    </div>
+</div>
+
+</div>
+
+    </div>
+
+
+
+    
+    <script>
+        YELLOW.yellowMatchMedia.init();
+        
+        new OmnitureEvent(s).init().add("eVar1", "SD").add("eVar2", "Dir").add("eVar3", "YP").add("prop1", "SD").add("prop2", "Dir").add("prop3", "YP").withHierarchy("Search").withChannel("Search").withEvent("event10").withPageName("Search:Business Profile Page").withLocalityAndState("braddon_act").withHeadingName("Printers & Printing Services").withListingName("Bytes 'N Colours").add("eVar4", "Search").add("eVar61", "I_Business Profile Page").add("prop57", "I_Business Profile Page").withResultType("B").withProductCode("YPD04-DC").withBusinessName("Bytes_N_Colours").withAdvertiserId("100000999256").withTotalReviews("0").withListingId("13153429").withAverageRating("0.0")
+    
+    </script>
+    
+
+    <script src="/assets/app-body-5c89784fcf9a2b2e0d6eef9e88684a90.js" type="text/javascript" ></script>
+    
+
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1473225","applicationTime":122,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"c689661945","transactionName":"ZFdTMEdRDUJXVBZRWF0ddhZUWQ9CdVgMTEVcXl0BRx8BREVeDF1EQGJDC1NZD1RmVgVdGFpcVQFN","agent":"js-agent.newrelic.com\/nr-768.min.js","errorBeacon":"bam.nr-data.net"}</script>
+    <script class="metrics">
+    YELLOW = YELLOW || {};
+    YELLOW.metrics = {"user":{"loggedIn":false},"page":{"name":"Business Profile","listing":{"advertiserId":"100000999256","listingId":"13153429","name":"Bytes 'N Colours","productCode":"YPD04","resultType":"","location":{"suburb":"Braddon","state":"ACT","postcode":"2612"},"category":{"id":"12017","name":"Printers & Printing Services"},"reviews":{"averageRating":"0.0","numberOfReviews":"0"}}}};
+    YELLOW.metrics.events = [];
+    YELLOW.metrics.client = {
+        width: $(window).width(),
+        height: $(window).height()
+    };
+    
+</script>
+
+<div class="lightbox-glasspanel"></div>
+<div class="lightbox-container">
+    <div class="lightbox-content-holder">
+        <div class="lightbox-header">
+            <span class="dialog-icon glyph"></span><div class="lightbox-header-text">[Header]</div>
+            <span class="lightbox-close-button glyph icon-cross-thin"></span>
+        </div>
+        <div class="lightbox-body ">
+            [Content]
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    YELLOW.emsUrl = "//api.ems.sensis.com.au/v2/web/js/ems?token=3006995952280367181&amp;libraries=yellowdigital,EMS.Service.Geocode,services";
+    YELLOW.emsLoadTimeout = 15000;
+</script>
+<script type="text/javascript">
+
+
+</script>
+
+
+<script>
+    new OmnitureEvent(s).withLoggedIn().withScreenAspect().loadFromLocalStorage();
+</script>
+<!-- SiteCatalyst code version: H.25.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript">
+/* You may give each page an identifying name, server, and channel on the next lines. */
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)</script>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25. -->
+
+
+
+        
+    <script src='//d3c3cq33003psk.cloudfront.net/opentag-112905-1521957.js' async defer></script>
+
+</body>
+</html>

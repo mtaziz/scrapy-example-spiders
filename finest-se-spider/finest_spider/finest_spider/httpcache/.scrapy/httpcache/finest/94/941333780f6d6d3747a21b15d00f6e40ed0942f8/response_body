@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>hlsofreak | En tränings- och receptblogg</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/hlsofreak/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/hlsofreak/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="hlsofreak &raquo; flöde" href="http://finest.se/hlsofreak/feed/" />
+<link rel="alternate" type="application/rss+xml" title="hlsofreak &raquo; kommentarsflöde" href="http://finest.se/hlsofreak/comments/feed/" />
+<meta property="og:title" content="hlsofreak"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/hlsofreak/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/hlsofreak/"/><meta property="og:image" content=""/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/hlsofreak\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/hlsofreak/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/hlsofreak/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/hlsofreak/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/hlsofreak/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/hlsofreak/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/hlsofreak/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/hlsofreak/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/hlsofreak/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/hlsofreak/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/hlsofreak/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/hlsofreak\/wp-admin\/admin-ajax.php","categories":"traning, livsstil, mat-recept"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/hlsofreak/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 12830);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                
+								<div class="website-logo">
+									<img src="http://cdn.finest.se/wp-content/uploads/sites/12830/2016/01/1453753519-13043.jpg" alt="hlsofreak">
+								</div>
+						                     <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                            <h1 class="site-title">
+                            <a href="http://finest.se/hlsofreak/" title="hlsofreak" rel="home">hlsofreak</a>
+                        </h1>
+                                        <h2 class="site-description">En tränings- och receptblogg</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul id="menu-meny-1" class="nav-bar"><li id="menu-item-21011" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-21011"><a href="http://finest.se/hlsofreak/">Hem</a></li>
+<li id="menu-item-21012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21012"><a href="http://finest.se/hlsofreak/om/">Om</a></li>
+<li id="menu-item-21013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21013"><a href="http://finest.se/hlsofreak/category/traning/">Kost &amp; Träning</a>
+<ul class="sub-menu">
+	<li id="menu-item-21014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21014"><a href="http://finest.se/hlsofreak/category/traning/min-kost/">My food &amp; diet</a></li>
+	<li id="menu-item-21015" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21015"><a href="http://finest.se/hlsofreak/category/traning/min-traningsdagbok/">My Workouts</a></li>
+	<li id="menu-item-21016" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21016"><a href="http://finest.se/hlsofreak/category/traning/info-kost-traning/">Facts &#8211; Training &amp; Nutrition</a></li>
+	<li id="menu-item-21017" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21017"><a href="http://finest.se/hlsofreak/category/traning/motivation/">Motivation</a></li>
+</ul>
+</li>
+<li id="menu-item-21018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21018"><a href="http://finest.se/hlsofreak/category/generally/">Generally/Allmänt</a></li>
+<li id="menu-item-21020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21020"><a href="http://finest.se/hlsofreak/category/recept/">Recipes</a>
+<ul class="sub-menu">
+	<li id="menu-item-21035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21035"><a href="http://finest.se/hlsofreak/category/recept/brod/">Bread</a></li>
+	<li id="menu-item-21036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21036"><a href="http://finest.se/hlsofreak/category/recept/frukost-recipes/">Breakfast</a></li>
+	<li id="menu-item-21037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21037"><a href="http://finest.se/hlsofreak/category/recept/chiapuddding/">Chiapudding</a></li>
+	<li id="menu-item-21021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21021"><a href="http://finest.se/hlsofreak/category/recept/snacksmellanmal/">Snacks/Mellanmål</a></li>
+	<li id="menu-item-21022" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21022"><a href="http://finest.se/hlsofreak/category/recept/frukost-recipes/">Breakfast</a></li>
+	<li id="menu-item-21038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21038"><a href="http://finest.se/hlsofreak/category/recept/christmas/">Christmas</a></li>
+	<li id="menu-item-21039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21039"><a href="http://finest.se/hlsofreak/category/recept/knackebrod-brod/">Crispbread &amp; bread</a></li>
+	<li id="menu-item-21040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21040"><a href="http://finest.se/hlsofreak/category/recept/drinks/">Drinks</a></li>
+	<li id="menu-item-21041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21041"><a href="http://finest.se/hlsofreak/category/recept/halsosamma-efterratter/">Healthy desserts</a></li>
+	<li id="menu-item-21043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21043"><a href="http://finest.se/hlsofreak/category/recept/nyttiga-glassrecept/">Ice Cream</a></li>
+	<li id="menu-item-21044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21044"><a href="http://finest.se/hlsofreak/category/recept/juice/">Juice</a></li>
+	<li id="menu-item-21045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21045"><a href="http://finest.se/hlsofreak/category/recept/lunchmiddag/">Lunch/Dinner</a></li>
+	<li id="menu-item-21048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21048"><a href="http://finest.se/hlsofreak/category/recept/nyttig-sasdipp/">Nyttig sås/dipp</a></li>
+	<li id="menu-item-21049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21049"><a href="http://finest.se/hlsofreak/category/recept/grot-recipes/">Oatmeal</a></li>
+	<li id="menu-item-21051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21051"><a href="http://finest.se/hlsofreak/category/recept/overnight-oats-davosgrot/">Over Night Oats / Davosgröt</a></li>
+	<li id="menu-item-21052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21052"><a href="http://finest.se/hlsofreak/category/recept/pajer-tartor/">Pajer/ Tårtor / Cheesecake</a></li>
+	<li id="menu-item-21053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21053"><a href="http://finest.se/hlsofreak/category/recept/pannkakor/">Pancakes</a></li>
+</ul>
+</li>
+<li id="menu-item-21028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21028"><a href="https://www.instagram.com/hlsofreak/">Instagram</a></li>
+</ul>                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-21055" class="post-index post-21055 post type-post status-publish format-standard hentry category-proteinbars-bollar-kakor category-recept category-recept-med-proteinpulver category-snacksmellanmal tag-halsosam tag-nyttigt tag-nyttigt-mellanmal tag-protein-balls tag-proteinbollar tag-recipe tag-recept tag-snacks">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/28/cookies-cream-proteinbollar/" title="Permalink to Cookies &amp; cream proteinbollar" rel="bookmark">Cookies &amp; cream proteinbollar</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 16:00">januari 28, 2016 16:00</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak3.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak3.jpg" class="aligncenter size-full wp-image-19499" alt="Cookies &amp; cream proteinbollar_hlsofreak3" width="1100" height="733" /></a></p>
+<p style="text-align: center"><strong>Recept på proteinbollar är det svårt att få för många av.</strong> Det är så himla smart att baka en stor sats och ha hemma att ta med för att äta direkt efter träningen. Protein och kolhydrater i ett &#8211; en snabb dos återhämtningssnacks!</p>
+<p style="text-align: center">Dessa bollar är särkilt bra då de innehåller så pass <em>få ingredienser</em>. Baktiden är kort, innehållslistan är kort &#8211; och resultatet är gott! Ni bara måste testa dessa godingar om ni har proteinpulver hemma. Så enkla att packa med sig och att ha redo hemma. 😀</p>
+<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak2.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak2.jpg" class="aligncenter size-full wp-image-19498" alt="Cookies &amp; cream proteinbollar_hlsofreak2" width="1100" height="734" /></a></p>
+<p class="p1"><strong><span class="s1">Enkla proteinbollar <span style="color: #808080">/ Protein balls </span></span></strong></p>
+<p class="p2"><span class="s1">4 dl havregryn <span style="color: #808080">/ 4 dl oats </span></span></p>
+<p class="p2">2 dl <span style="color: #333333"><a style="color: #333333" href="http://www.gymgrossisten.com/1/sv/artiklar/whey-80" target="_blank">cookies&amp;cream proteinpulver</a> </span>(eller annan smak) <span style="color: #808080">/ <a style="color: #808080" href="http://www.gymgrossisten.com/1/sv/artiklar/whey-80" target="_blank">2 dl cookies&amp;cream protein powder</a></span></p>
+<p class="p2"><span class="s1">1 dl kokosmjölk (endast den tjocka delen) <span style="color: #808080">/ 1 dl coconut milk (the thick part)</span></span></p>
+<p class="p2"><span class="s1">0,4 dl flytande honung <span style="color: #808080">/ 0,4 dl honey liquid/melted honey </span></span></p>
+<p class="p2"><strong>Instruktioner: <span style="color: #808080">/ Directions: </span></strong></p>
+<p class="p2">Mal havregrynen till ett fint mjöl och tillsätt sedan resten av ingredienserna. Forma degen/massan till bollar, rulla i riven kokos och förvara i en tät burk i kylen. <span style="color: #808080">/ Mix the oats into oat flour and add the other ingredients. Make protein balls, roll them in shredded coconut and store in fridge. </span></p>
+<p class="p2"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak4.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak4.jpg" class="aligncenter size-full wp-image-19500" alt="Cookies &amp; cream proteinbollar_hlsofreak4" width="1100" height="734" /></a><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak5.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Cookies-cream-proteinbollar_hlsofreak5.jpg" class="aligncenter size-full wp-image-19501" alt="Cookies &amp; cream proteinbollar_hlsofreak5" width="1100" height="734" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/recept/proteinbars-bollar-kakor/" rel="category tag">Protein bars, balls &amp; cookies</a>, <a href="http://finest.se/hlsofreak/category/recept/" rel="category tag">Recipes</a>, <a href="http://finest.se/hlsofreak/category/recept/recept-med-proteinpulver/" rel="category tag">Recipes with protein powder</a>, <a href="http://finest.se/hlsofreak/category/recept/snacksmellanmal/" rel="category tag">Snacks/Mellanmål</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/28/cookies-cream-proteinbollar/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21055 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-21058" class="post-index post-21058 post type-post status-publish format-standard hentry category-okategoriserade tag-77 tag-bloggerska tag-bloggevent tag-event tag-finest tag-finest-awards tag-finest-awards-2016 tag-nominering tag-rostning">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/28/rosta-garna-pa-mig-till-finest-awards-2016/" title="Permalink to Rösta gärna på mig till Finest Awards 2016!" rel="bookmark">Rösta gärna på mig till Finest Awards 2016!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 12:00">januari 28, 2016 12:00</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Ro%CC%88sta-pa%CC%8A-mig-till-Finest-Awards-2016_hlsofreak.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Ro%CC%88sta-pa%CC%8A-mig-till-Finest-Awards-2016_hlsofreak.jpg" class="aligncenter size-full wp-image-19506" alt="Rösta på mig till Finest Awards 2016_hlsofreak" width="1100" height="647" /></a></p>
+<p style="text-align: center">Ni har säkert lagt märke till att röstningen inför <strong>Finest Awards 2016</strong> är i full gång. Nu finns det möjlighet att en gång om dagen rösta på offentliga personer inom ett par olika kategorier. <em>Exempelvis årets inspiratör, instagrammare, personlig blogg eller träningsblogg. </em></p>
+<p style="text-align: center">Jag skulle bli så otroligt glad om du ville rösta på mig! 😀 Om du uppskattar det jag gör, skriver om och publicerar på min blogg och instagram så lägg gärna ett par minuter på att <span style="text-decoration: underline;color: #333333"><a style="color: #333333;text-decoration: underline" href="http://finest.se/elections/finest-awards-2016/" target="_blank">rösta här</a></span> eller bara klicka på bilden nedan! Ni är guld värda ska ni veta, tack för att ni kikar in här och ger mig så mycket positiv feedback. &lt;3</p>
+<p style="text-align: center"><span style="color: #84bdc2"><strong>Röstningen är öppen till och med den 15 februari</strong></span> &#8211; <em>tusen tack finisar! </em></p>
+<p><a href="http://finest.se/elections/finest-awards-2016/" target="_blank"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Finest-awards-jubileum.jpg" class="aligncenter size-full wp-image-19505" alt="Finest awards jubileum" width="980" height="402" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/okategoriserade/" rel="category tag">Okategoriserade</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/28/rosta-garna-pa-mig-till-finest-awards-2016/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21058 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-21057" class="post-index post-21057 post type-post status-publish format-standard hentry category-frukost-recipes category-chiapuddding category-traning category-min-kost category-okategoriserade category-recept tag-chia-pudding tag-chiapudding tag-frukost tag-frukosttips tag-recipe tag-recept">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/28/chiapudding-never-gets-old/" title="Permalink to Chiapudding never gets old" rel="bookmark">Chiapudding never gets old</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 07:40">januari 28, 2016 07:40</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak2.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak2.jpg" class="aligncenter size-full wp-image-19511" alt="Kokoschia med banan_hlsofreak2" width="1100" height="734" /></a><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak4.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak4.jpg" class="aligncenter size-full wp-image-19513" alt="Kokoschia med banan_hlsofreak4" width="1100" height="733" /></a></p>
+<p style="text-align: center"><em>Chiapudding i kokossmak med blåbär, banan och pumpakärnor! </em></p>
+<p style="text-align: center">Denna morgon gjorde jag en lite mindre chiapudding än vanligt. Jag brukar annars ha i havregryn också vilket nästan dubblar mängden pudding men idag gjorde jag på bara yoghurt, mjölk och chiafrön för första gången på länge. Det är dags för en del konditionstester i skolan idag så jag kommer att äta något mindre innan dess också. Det blir både &#8221;one-mile-walk&#8221; för att kolla pulsen samt beeptest mot slutet.</p>
+<p style="text-align: center">Det ska bli väldigt skönt att sluta tidigt idag, för sedan blir det plugg med fina vänner. Ett grupparbete om styrketräning för axlar och bröst. Väldigt intressant! Jag har lärt mig grejer kring det som var helt nya för mig. Jag ska även bjuda på semlor utan tillsatt socker som jag bakade igår (receptet på dem kommer upp på bloggen snart)! 😀</p>
+<p style="text-align: center">Kram på er!</p>
+<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak1.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak1.jpg" class="aligncenter size-full wp-image-19510" alt="Kokoschia med banan_hlsofreak1" width="1100" height="733" /></a></p>
+<p style="text-align: center">3 msk chiafrön <span style="color: #808080">/ 3 tbsp chia seeds </span></p>
+<p style="text-align: center">3/4 dl yoghurt <span style="color: #808080">/ 3/4 dl yoghurt </span></p>
+<p style="text-align: center">3/4 dl mjölk <span style="color: #808080">/ 3/4 dl milk </span></p>
+<p style="text-align: center">Steviadroppar i kokossmak <span style="color: #808080">/ Coconut flavored stevia drops </span></p>
+<p style="text-align: center"><em>Blanda ihop och låt svälla i kylen över natten. Ta ut på morgonen och toppa med något gott! <span style="color: #808080">/ Stir it all together and put in the fridge over night. Take out the next morning and put something delicious on top!  </span></em></p>
+<p><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak3.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Kokoschia-med-banan_hlsofreak3.jpg" class="aligncenter size-full wp-image-19512" alt="Kokoschia med banan_hlsofreak3" width="1100" height="734" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/recept/frukost-recipes/" rel="category tag">Breakfast</a>, <a href="http://finest.se/hlsofreak/category/recept/chiapuddding/" rel="category tag">Chiapudding</a>, <a href="http://finest.se/hlsofreak/category/traning/" rel="category tag">Kost &amp; Träning</a>, <a href="http://finest.se/hlsofreak/category/traning/min-kost/" rel="category tag">My food &amp; diet</a>, <a href="http://finest.se/hlsofreak/category/okategoriserade/" rel="category tag">Okategoriserade</a>, <a href="http://finest.se/hlsofreak/category/recept/" rel="category tag">Recipes</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/28/chiapudding-never-gets-old/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21057 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-21029" class="post-index post-21029 post type-post status-publish format-standard hentry category-nu3 category-recensioner tag-chocolate tag-kosttillskott tag-mork-choklad tag-nu3 tag-nyttiga-snacks tag-nyttigt-godis tag-sojabonor">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/27/rostade-sojabonor-i-mork-choklad/" title="Permalink to Rostade sojabönor i mörk choklad" rel="bookmark">Rostade sojabönor i mörk choklad</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 18:53">januari 27, 2016 18:53</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak1.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak1.jpg" class="aligncenter size-full wp-image-19488" alt="Sojabönor i mörk choklad_hlsofreak1" width="1100" height="733" /></a><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak3.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak3.jpg" class="aligncenter size-full wp-image-19490" alt="Sojabönor i mörk choklad_hlsofreak3" width="1100" height="733" /></a></p>
+<p style="text-align: center"><em>Vid det här laget har jag provat många produkter från Kung Markatta som jag tycker om.</em> Särskilt deras nötsmör har varit en stor favorit, inte minst cashewnötssmöret som är helt himmelskt! Den här gången provade jag något helt nytt som jag faktiskt inte hört talas om tidigare: rostade sojabönor doppade i mörk choklad. Det låter ju galet bra! Chokladen är god och sojabönorna väldigt krispiga och nästan lite salta i smaken. Stillar alltså sötsuget väldigt effektivt! Har ni provat dessa någon gång?</p>
+<p style="text-align: center">Jag känner definitivt att jag missat något! Toppen att det bara innehåller naturliga ingredienser också, samt att de är KRAV-certifierade. <span style="color: #84c4c4"><a style="color: #84c4c4" href="https://www.nu3.se/kung-markatta-snacksmix-sojabonor-50-g.html" target="_blank">Ni hittar Kung Markattas snacksmix här hos Nu3.</a> </span></p>
+<p style="text-align: center">Fortsätt att hålla ögonen öppna här på bloggen för recensionerna av produkterna från Nu3 kommer att dugga tätt framöver. 😀<a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak3.jpg"><br />
+</a><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak4.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak4.jpg" class="aligncenter size-full wp-image-19491" alt="Sojabönor i mörk choklad_hlsofreak4" width="1100" height="734" /></a><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak2.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sojabo%CC%88nor-i-mo%CC%88rk-choklad_hlsofreak2.jpg" class="aligncenter size-full wp-image-19489" alt="Sojabönor i mörk choklad_hlsofreak2" width="1100" height="733" /></a></p>
+<p style="text-align: center">
+<p style="text-align: center">
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/recensioner/nu3/" rel="category tag">Nu3</a>, <a href="http://finest.se/hlsofreak/category/recensioner/" rel="category tag">Reviews</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/27/rostade-sojabonor-i-mork-choklad/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21029 -->
+                    
+					
+<article id="post-21023" class="post-index post-21023 post type-post status-publish format-standard hentry category-generally category-traning category-motivation category-tips tag-bloggare tag-blogger-boot-camp tag-bloggtraff tag-boot-camp tag-event tag-instagram tag-instagrammare tag-kost-traning tag-traningsevent">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/27/blogger-boot-camp-2016/" title="Permalink to Blogger boot camp 2016" rel="bookmark">Blogger boot camp 2016</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 12:22">januari 27, 2016 12:22</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/BBC-instrukto%CC%88rer-svartvit.png"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/BBC-instrukto%CC%88rer-svartvit.png" class="aligncenter size-full wp-image-19481" alt="BBC, instruktörer svartvit" width="1010" height="380" /></a></p>
+<p style="text-align: center"><strong>Hej finisar! </strong>Jag har något väldigt spännande att berätta för er! Har ni hört talas om <span style="color: #8dcccc"><strong>Blogger Boot Camp</strong></span>? Sveriges största träningsevent för bloggare och instagrammare. Det är dags att samlas, inspireras och ha riktigt kul tillsammans. Det är ett event som passar alla oavsett form och träningserfarenhet. Du kan själv planera dagen som du vill och välja bland olika händelser under dagen. Hur kul som helst!</p>
+<p style="text-align: center">Det går av stapeln <strong>den 12 Mars 2016 i KTH-hallen i Stockholm</strong> och jag ser riktigt mycket fram emot det. I år har jag fått äran att bli en av ambassadörerna som kommer att finnas på plats. Och när ni anmäler er, glöm inte bort att ange mitt namn så att det syns vart ni hört talas om eventet.</p>
+<p style="text-align: center">Ni kan läsa mer på <span style="color: #8dcccc"><strong><span style="text-decoration: underline"><a style="color: #8dcccc;text-decoration: underline" href="http://bloggerbootcamp.se/about" target="_blank">bloggerbootcamp.se</a></span></strong></span> &#8211; missa inte detta! Anmälan är öppen nu. 😀</p>
+<p style="text-align: center"><a href="http://bloggerbootcamp.se/" target="_blank"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Jag-deltar-pa%CC%8A-bbc16.png" class="aligncenter size-full wp-image-19482" alt="Jag deltar på bbc16" width="900" height="900" /></a></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/generally/" rel="category tag">Generally/Allmänt</a>, <a href="http://finest.se/hlsofreak/category/traning/" rel="category tag">Kost &amp; Träning</a>, <a href="http://finest.se/hlsofreak/category/traning/motivation/" rel="category tag">Motivation</a>, <a href="http://finest.se/hlsofreak/category/tips/" rel="category tag">Tips</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/27/blogger-boot-camp-2016/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21023 -->
+                    
+					
+<article id="post-21008" class="post-index post-21008 post type-post status-publish format-standard hentry category-generally category-traning category-min-kost tag-halsosam tag-lunch tag-mat tag-matlada tag-nyttig">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/27/stressig-morgon/" title="Permalink to Stressig morgon" rel="bookmark">Stressig morgon</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 08:04">januari 27, 2016 08:04</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Matla%CC%8Ada_kycklinggro%CC%88nsakerpasta_hlsofreak.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Matla%CC%8Ada_kycklinggro%CC%88nsakerpasta_hlsofreak.jpg" class="aligncenter size-full wp-image-19477" alt="Matlåda_kycklinggrönsakerpasta_hlsofreak" width="1100" height="733" /></a></p>
+<p style="text-align: center"><strong>Vilken stress!</strong> Trots att klockan ringde som den skulle vid kvart i sex somnade jag om &#8211; vilket verkligen inte händer ofta! Jag brukar alltid hoppa upp ur sängen direkt när klockan ringer för att jag tycker om att ha väldigt gott om tid på morgonen. Men jag somnade om och vaknade som tur är nästan en timme innan jag skulle åka hemifrån. Jag hinner alltså, men stressigt är det.</p>
+<p style="text-align: center">Jag sitter just nu vid datorn för att hinna slänga iväg ett inlägg innan jag ska äta frukost och åka iväg. En kort dag med föreläsning mellan nio och tolv idag, matlådan är nerpackad och kanske blir det träning efteråt. Vi får se hur jag känner mig! 😀</p>
+<p style="text-align: center"><em>Pussar, hoppas att ni har en skönare morgon vänner!</em></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/generally/" rel="category tag">Generally/Allmänt</a>, <a href="http://finest.se/hlsofreak/category/traning/" rel="category tag">Kost &amp; Träning</a>, <a href="http://finest.se/hlsofreak/category/traning/min-kost/" rel="category tag">My food &amp; diet</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/27/stressig-morgon/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21008 -->
+                    
+					
+<article id="post-21003" class="post-index post-21003 post type-post status-publish format-standard hentry category-generally category-ovrigt category-recensioner category-tips tag-bloggare tag-bloggerska tag-bloggkamera tag-cyber-shot tag-cyber-shot-rx100-iii tag-kamera tag-kameratips tag-recension tag-review tag-sony">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/26/en-bloggares-basta-kop/" title="Permalink to En bloggares bästa köp" rel="bookmark">En bloggares bästa köp</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 12:57">januari 26, 2016 12:57</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sony-DSC-rx100-iii_hlsofreak.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sony-DSC-rx100-iii_hlsofreak.jpg" class="aligncenter size-full wp-image-19472" alt="Sony DSC rx100 iii_hlsofreak" width="1100" height="733" /></a></p>
+<p style="text-align: center">Ärligt talat så trodde jag <em>aldrig </em>någonsin att en kompaktkamera skulle få ersätta min systemkamera fullt ut. Tidigare fotograferade jag alltid med min Nikon D3100 men den har lagts på hyllan nu efter att jag fick den här i födelsedagspresent. En <span style="color: #7ec4c4"><strong>Cyber-shot dsc rx100 III</strong></span>! &lt;3</p>
+<p style="text-align: center">Jag tar nu alla mina bilder med den och jag ser så många fördelar! <em>Jag vill förtydliga att detta inlägg inte är sponsrat utan bara mina åsikter kring kameran jag fick av familjen i present. </em></p>
+<p style="text-align: center"><strong>&#8211;</strong> Den är smidig att ha med sig och lätt att använda.</p>
+<p style="text-align: center"><strong>&#8211;</strong> Det är lätt att ta bilder direkt, även i dåligt ljus blir det bra resultat. Särskilt med hjälp av sceninställningarna där man kan välja funktionen &#8221;hög känslighet&#8221; för att få bra bilder inomhus.</p>
+<p style="text-align: center"><strong>&#8211;</strong> Jag älskar hur den lägger fokus smidigt och enkelt för att göra bakgrunden mer &#8221;suddig/blurrig&#8221;.</p>
+<p style="text-align: center"><strong>&#8211;</strong> Den har många smidiga lösningar som en vridbar skärm, möjlighet att styra den från mobilen via en app, bilderna kan delas direkt mellan kameran och mobilen eller datorn trådlöst.. och mycket mer!</p>
+<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sony-DSC-rx100-iii_hlsofreak9.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Sony-DSC-rx100-iii_hlsofreak9.jpg" class="aligncenter size-full wp-image-19473" alt="Sony DSC rx100 iii_hlsofreak9" width="1100" height="733" /></a></p>
+<p style="text-align: center"><strong>Vill ni se lite testbilder?</strong> Hela bloggen är full av dem men ni kan exempelvis kolla in på dessa recept jag länkar nedan. Så glad att jag nu har en mindre kamera som tar lika bra matbilder som min systemkamera. 😀</p>
+<p style="text-align: center"><span style="color: #7ec4c4"><strong><span style="text-decoration: underline"><a style="color: #7ec4c4;text-decoration: underline" href="http://hlsofreak.myshowroom.se/2015/12/03/healthified-banoffee-pie/" target="_blank">Banoffee pie</a> </span></strong></span></p>
+<p style="text-align: center"><span style="color: #7ec4c4"><strong><span style="text-decoration: underline"><a style="color: #7ec4c4;text-decoration: underline" href="http://hlsofreak.myshowroom.se/2016/01/08/chocolaty-breakfast-bowl/" target="_blank">Chokladig frukostskål</a></span></strong></span></p>
+<p style="text-align: center"><span style="text-decoration: underline"><strong><span style="color: #7ec4c4"><a style="color: #7ec4c4;text-decoration: underline" href="http://hlsofreak.myshowroom.se/2016/01/18/peanut-coco-raspberry-cake/" target="_blank">Peanut-Coco-Raspberry pie</a></span></strong></span></p>
+<p style="text-align: center"><em>Är du en bloggare/bloggerska och tar mycket bilder kan jag verkligen rekommendera den!</em></p>
+<p style="text-align: center"><span style="text-decoration: underline;color: #333333"><a style="color: #333333;text-decoration: underline" href="https://www.netonnet.se/art/foto/kompaktkamera/avancerad/sony-dsc-rx100-iii/214937.9373/" target="_blank">LÄNK till där den är köpt här.</a></span></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/generally/" rel="category tag">Generally/Allmänt</a>, <a href="http://finest.se/hlsofreak/category/recensioner/ovrigt/" rel="category tag">Other reviews</a>, <a href="http://finest.se/hlsofreak/category/recensioner/" rel="category tag">Reviews</a>, <a href="http://finest.se/hlsofreak/category/tips/" rel="category tag">Tips</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/26/en-bloggares-basta-kop/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21003 -->
+                    
+					
+<article id="post-21001" class="post-index post-21001 post type-post status-publish format-standard hentry category-generally tag-helkroppspass tag-helkroppstraning">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/26/helkroppspass-med-syrran/" title="Permalink to Helkroppspass med syrran" rel="bookmark">Helkroppspass med syrran</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 10:15">januari 26, 2016 10:15</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><strong>Godmorgon vänner!</strong></p>
+<p style="text-align: center">Under morgonen har jag haft strömavbrott här hemma, men det gick snabbt över som tur är så att jag kan börja plugga &#8211; och blogga såklart!</p>
+<p style="text-align: center">Som jag skrev tidigare så var gårdagen full av träning, både i skolan och på gymmet. Jag åkte även till gymmet en gång till på kvällen med syrran. Inte för att träna men för att hjälpa henne med lite nya övningar. Under ca 1 timme körde vi ett helkroppspass. En övning per muskelgrupp för att köra igenom hela kroppen effektivt med en del övningar som var nya för henne. Så en del övande med teknik också. <img src="http://finest.se/hlsofreak/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Mimmipa%CC%8Agymmet25jan.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Mimmipa%CC%8Agymmet25jan.jpg" class="aligncenter size-full wp-image-19468" alt="Mimmipågymmet25jan" width="1100" height="601" /></a></p>
+<p><em>3&#215;10 Utfallsgång </em></p>
+<p><em>3&#215;10 kabelrodd</em></p>
+<p><em>3&#215;10 cable pulldown </em></p>
+<p><em>3&#215;10 hantelcurl </em></p>
+<p><em>3&#215;10 tricep pushdown </em></p>
+<p><em>3&#215;10 benpress </em></p>
+<p><em>3&#215;10 axelpress med hantlar </em></p>
+<p><em>3&#215;10 chest flyes i maskin </em></p>
+<p><em>3&#215;10 stående vadpress</em></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/generally/" rel="category tag">Generally/Allmänt</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/26/helkroppspass-med-syrran/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-21001 -->
+                    
+					
+<article id="post-20999" class="post-index post-20999 post type-post status-publish format-standard hentry category-generally category-traning category-min-kost tag-chocolate tag-halsa tag-halsosam tag-mellansmal tag-mork-choklad tag-nyttig-choklad tag-snacks tag-unna-sig">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/25/dubbla-traningspass-mork-choklad/" title="Permalink to Dubbla träningspass &amp; mörk choklad" rel="bookmark">Dubbla träningspass &amp; mörk choklad</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 21:49">januari 25, 2016 21:49</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/mo%CC%88rkchoklad70_hlsofreak1.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/mo%CC%88rkchoklad70_hlsofreak1.jpg" class="aligncenter size-full wp-image-19463" alt="mörkchoklad70_hlsofreak1" width="1100" height="733" /></a> <a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/mo%CC%88rkchoklad70_hlsofreak2.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/mo%CC%88rkchoklad70_hlsofreak2.jpg" class="aligncenter size-full wp-image-19464" alt="mörkchoklad70_hlsofreak2" width="1100" height="733" /></a></p>
+<p style="text-align: center"><strong>Herregud vilken dag!</strong> Det känns som om en hel vecka har passerat haha. Efter en skön morgon hemma åkte jag till skolan för en föreläsning innan diverse tester. Vi visste inte vad vi skulle göra &#8211; men vad jobbigt det var! Inte extremt jobbigt men pulsen gick upp rejält och man kämpade. Lite tester med hopprep, att springa, gå, klättra osv för att mäta puls vid olika moment på tid. Väldigt intressant. <img src="http://finest.se/hlsofreak/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: center">Efter lunch åkte jag till gymmet under eftermiddagen. Skönt med en kort skoldag så att man har eftermiddagen ganska fri. Ett benpass senare var jag helt slut och åkte hem för mat. Tortillawraps med stekt ägg, lite bloggande och annat innan jag åkte spontant till gymmet ännu en gång. Jag tränade inte utan snackade mest och tränade syrran med ett av mina upplägg för helkropp. Mer om det kommer upp på bloggen imorgon!</p>
+<p style="text-align: center"><em>Nu ska jag äta mörk choklad och kolla klart på &#8221;Batman begins&#8221;. Puss på er! &lt;3 </em></p>
+<p style="text-align: center"><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/mo%CC%88rkchoklad70_hlsofreak3.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/mo%CC%88rkchoklad70_hlsofreak3.jpg" class="aligncenter size-full wp-image-19465" alt="mörkchoklad70_hlsofreak3" width="1100" height="733" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/generally/" rel="category tag">Generally/Allmänt</a>, <a href="http://finest.se/hlsofreak/category/traning/" rel="category tag">Kost &amp; Träning</a>, <a href="http://finest.se/hlsofreak/category/traning/min-kost/" rel="category tag">My food &amp; diet</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/25/dubbla-traningspass-mork-choklad/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-20999 -->
+                    
+					
+<article id="post-20993" class="post-index post-20993 post type-post status-publish format-standard hentry category-okategoriserade tag-bakblogg tag-breakfast tag-frukost tag-halsosam tag-lemon-cake tag-lemon-cake-oatmeal tag-matblogg tag-nyttig tag-oatmeal tag-oats tag-receptblogg tag-recept">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/hlsofreak/2016/01/25/frosted-lemon-cake-oatmeal/" title="Permalink to Frosted lemon cake oatmeal" rel="bookmark">Frosted lemon cake oatmeal</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 12:13">januari 25, 2016 12:13</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><strong>Hej alla glada!</strong> På grund av lite oväntad stress under morgonen han jag inte få iväg något frukostinlägg. Men bättre sent än aldrig för detta tips får ni inte missa! 😀 Jag provade att ha citron och vanilj i min gröt idag och himmel vad gott det var! En fräsch söt smak som du själv kan styra beroende på hur mycket sötning du tar gentemot mängden citronsaft.<em> Här kommer receptet!</em></p>
+<p><a href="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Frosted-lemon-cake_hlsofeak.jpg"><img src="http://assets.myshowroom.se/blogs.dir/61303/files/2016/01/Frosted-lemon-cake_hlsofeak.jpg" class="aligncenter size-full wp-image-19458" alt="Frosted lemon cake_hlsofeak" width="1100" height="733" /></a></p>
+<p style="text-align: center"><em>Koka vanlig havregrynsgröt på havregryn, vatten och lite salt. Tillsätt citronsaft, stevia och vaniljpulver (alternativt steviadroppar med vaniljsmak). Tillsätt även lite kokosmjölk om så önskar! Jag toppade med vaniljproteinsås gjord på kvarg, mjölk och vaniljproteinpulver. </em></p>
+<p style="text-align: center"><span style="color: #808080"><em>/ Cook your oatmeal as usual with oats, water and a pinch of salt. Add juice from a sqeezed lemon, stevia and bourbon vanilla powder (or vanilla flavored stevia drops). Also add some coconut milk if desired! I topped my oatmeal with vanilla protein sauce made with vanilla protein powder, quark and milk. / </em></span></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/hlsofreak/category/okategoriserade/" rel="category tag">Okategoriserade</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/hlsofreak/2016/01/25/frosted-lemon-cake-oatmeal/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-20993 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/hlsofreak/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside id="googletranslatorwidget-3" class="widget widget_googletranslatorwidget"><h3 class="widget-title">Google translate</h3>            <div id="google_translate_element"></div><script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            </aside><aside id="categories-4" class="widget widget_categories"><h2 class="widget-title">Kategorier</h2><label class="screen-reader-text" for="cat">Kategorier</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Välj kategori</option>
+	<option class="level-0" value="2">3 week complete workout challenge!</option>
+	<option class="level-0" value="29">Alpro</option>
+	<option class="level-0" value="30">Barcelona oktober/november 2014</option>
+	<option class="level-0" value="3">Beauty</option>
+	<option class="level-0" value="31">Bila runt Europa Juli 2015</option>
+	<option class="level-0" value="32">Bread</option>
+	<option class="level-0" value="33">Breakfast</option>
+	<option class="level-0" value="34">Chiapudding</option>
+	<option class="level-0" value="35">Christmas</option>
+	<option class="level-0" value="4">Contact</option>
+	<option class="level-0" value="36">Crispbread &amp; bread</option>
+	<option class="level-0" value="37">Drinks</option>
+	<option class="level-0" value="38">Exercises &amp; trainingprograms</option>
+	<option class="level-0" value="39">Facts &#8211; Training &amp; Nutrition</option>
+	<option class="level-0" value="40">Fitnessboxen</option>
+	<option class="level-0" value="41">Fitnessguru</option>
+	<option class="level-0" value="5">Generally/Allmänt</option>
+	<option class="level-0" value="42">Göteborg Januari 2015</option>
+	<option class="level-0" value="43">Göteborg September 2014</option>
+	<option class="level-0" value="44">Gran Canaria, April 2015</option>
+	<option class="level-0" value="45">Gymgrossisten</option>
+	<option class="level-0" value="6">Hälsohets/Självförtroendesnack</option>
+	<option class="level-0" value="46">Healthy desserts</option>
+	<option class="level-0" value="48">Ice Cream</option>
+	<option class="level-0" value="49">Juice</option>
+	<option class="level-0" value="7">Kost &amp; Träning</option>
+	<option class="level-0" value="50">London 2014</option>
+	<option class="level-0" value="51">Lunch/Dinner</option>
+	<option class="level-0" value="8">Mina tankar</option>
+	<option class="level-0" value="52">Mobilefun</option>
+	<option class="level-0" value="9">Motivation</option>
+	<option class="level-0" value="53">Muffins</option>
+	<option class="level-0" value="54">Mugcakes</option>
+	<option class="level-0" value="10">My food &amp; diet</option>
+	<option class="level-0" value="11">My progress</option>
+	<option class="level-0" value="55">My Protein</option>
+	<option class="level-0" value="12">My Workouts</option>
+	<option class="level-0" value="1031">Nu3</option>
+	<option class="level-0" value="56">Nutri-Nick</option>
+	<option class="level-0" value="57">Nyttig sås/dipp</option>
+	<option class="level-0" value="58">Oatmeal</option>
+	<option class="level-0" value="1">Okategoriserade</option>
+	<option class="level-0" value="59">Other reviews</option>
+	<option class="level-0" value="13">Outfits</option>
+	<option class="level-0" value="60">Ovenbaked oatmeal</option>
+	<option class="level-0" value="61">Over Night Oats / Davosgröt</option>
+	<option class="level-0" value="62">Pajer/ Tårtor / Cheesecake</option>
+	<option class="level-0" value="63">Pancakes</option>
+	<option class="level-0" value="65">Protein bars, balls &amp; cookies</option>
+	<option class="level-0" value="66">Protein Cookie Dough &amp; Fudge</option>
+	<option class="level-0" value="67">Proteinfluff</option>
+	<option class="level-0" value="68">Quark/Cottage cheese</option>
+	<option class="level-0" value="14">Questions &amp; Answers</option>
+	<option class="level-0" value="69">Raw food tårtor/bars/kakor/bollar</option>
+	<option class="level-0" value="15">Recipes</option>
+	<option class="level-0" value="16">Recipes with protein powder</option>
+	<option class="level-0" value="17">Recipes without protein powder</option>
+	<option class="level-0" value="18">Reviews</option>
+	<option class="level-0" value="19">Smoothies/Milkshakes</option>
+	<option class="level-0" value="20">Snacks/Mellanmål</option>
+	<option class="level-0" value="21">Supplements</option>
+	<option class="level-0" value="22">Tävling</option>
+	<option class="level-0" value="70">Thailand 2013-14</option>
+	<option class="level-0" value="23">The White One</option>
+	<option class="level-0" value="24">Tips</option>
+	<option class="level-0" value="25">Toppings &amp; musli</option>
+	<option class="level-0" value="26">Travelling</option>
+	<option class="level-0" value="27">Våfflor med/utan pulver</option>
+	<option class="level-0" value="28">Videos &amp; gym photos</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://finest.se/hlsofreak/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside>			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            © 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/hlsofreak/feed/rss/" target="_blank"><img src="http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/hlsofreak/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/hlsofreak/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/hlsofreak.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/hlsofreak/) in 0.42847 seconds, on: Jan 28th, 2016 @ 6:11 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:11 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/hlsofreak) in 0.00234 seconds, on: Jan 28th, 2016 @ 6:31 pm UTC. -->

@@ -1,0 +1,11 @@
+Alternate-Protocol: 443:npn-spdy/2
+Content-Language: en
+Set-Cookie: anonymous-adventurer=0xyecf3rt8u1abv9s314lgnzohcmmwwz; Domain=.cybo.com; expires=Sun, 17-Jan-2016 15:21:52 GMT; HttpOnly; Max-Age=1209600; Path=/; Secure
+Expires: Sun, 03 Jan 2016 15:21:52 GMT
+Vary: Cookie, User-Agent, Accept-Language
+Server: nginx
+Last-Modified: Sun, 03 Jan 2016 15:21:52 GMT
+Location: https://yellowpages.cybo.com/sorry/?next=https%3A//yellowpages.cybo.com/AU-biz/gmp-pharmaceuticals_1V
+Cache-Control: max-age=0
+Date: Sun, 03 Jan 2016 15:22:14 GMT
+Content-Type: text/html; charset=utf-8

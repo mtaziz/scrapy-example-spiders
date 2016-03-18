@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Bianca Ingrosso | Toppbloggare på Finest.se</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/biancaingrosso/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/biancaingrosso/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="Bianca Ingrosso &raquo; flöde" href="http://finest.se/biancaingrosso/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bianca Ingrosso &raquo; kommentarsflöde" href="http://finest.se/biancaingrosso/comments/feed/" />
+<meta property="og:title" content="Bianca Ingrosso"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/biancaingrosso/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/biancaingrosso/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/05/1433022706-9394.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/biancaingrosso\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/biancaingrosso/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-typography-font-css'  href='//fonts.googleapis.com/css?family=Alegreya+Sans+SC:300|Alegreya+Sans+SC:100' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/biancaingrosso/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/biancaingrosso/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/biancaingrosso/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/biancaingrosso/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/biancaingrosso/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+
+<style type="text/css">
+#masthead .brand h2{ font-family: "Alegreya Sans SC"; font-weight: 300; font-size: 20px; color: #222222;  }
+.site-header h1, .brand h2{ font-family: "Alegreya Sans SC"; font-weight: 100; font-size: 90px; color: #222222;  }
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/biancaingrosso\/wp-admin\/admin-ajax.php","categories":"mode, skonhet"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/biancaingrosso/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 9193);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                
+								<div class="website-logo">
+									<a href="http://finest.se/biancaingrosso/" title="Bianca Ingrosso" rel="home">
+										<img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/09/1443095896-7134.jpg" alt="Bianca Ingrosso">
+									</a>
+								</div>
+						                     <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                        <h2 class="site-description">Toppbloggare på Finest.se</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul id="menu-huvudmeny" class="nav-bar"><li id="menu-item-821" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-821"><a href="http://finest.se/biancaingrosso/category/mode/">MODE</a></li>
+<li id="menu-item-822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-822"><a href="http://finest.se/biancaingrosso/category/traning/">TRÄNING</a></li>
+</ul>                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-5509" class="post-index post-5509 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/24/new-blogger-at-modette-se/" title="Permalink to NEW BLOGGER AT MODETTE.SE" rel="bookmark">NEW BLOGGER AT MODETTE.SE</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 24, 2015 20:26">november 24, 2015 20:26</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/10/1445273187-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/10/1445273187-9394.jpg" class=" size-full wp-image-5039 aligncenter" alt="DSC03059" width="1500" height="999" /></a><em>So excitet to tell you that I&#8217;m now a blogger at Modette.se </em></p>
+<p style="text-align: left">Som några av er redan vet då <strong>Modette</strong> har hintat lite senaste veckan så är det alltså nu dags för mig att byta bloggportal och börja blogga hos grymma Modette gänget. Jag är otroligt tacksam till Finest.se som tog in mig i bloggvärlden för över 3 år sedan och där jag haft min plattform. Det har varit jätte roligt och tackar alla på Finest för all hjälp genom åren. Men nu är det alltså dags för mig att gå vidare och köra ALL IN hos <strong><a href="http://modette.se" target="_blank">Modette.se</a>. </strong></p>
+<p style="text-align: left">Jag kommer att blogga på som vanligt där med dagliga uppdateringar <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Kunde inte vara gladare och mer taggad än nånsin att leverera grymma och spännande inlägg till er varje dag.</p>
+<h1 style="text-align: center">Ni hittar min nya blogg <strong><a href="http://nyheter24.se/modette/biancaingrosso/" target="_blank">HÄÄÄÄÄÄÄR </a></strong></h1>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/24/new-blogger-at-modette-se/#comments">2 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5509 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-5472" class="post-index post-5472 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/22/emilio-ingrosso-documentary-3/" title="Permalink to EMILIO INGROSSO DOCUMENTARY" rel="bookmark">EMILIO INGROSSO DOCUMENTARY</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 22, 2015 19:39">november 22, 2015 19:39</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center">Ända sedan jag var en liten flicka så har jag sett min pappa sitta där framför flygeln. År efter år efter år&#8230; Varesig det har varit hemma, på en restaurang eller i en hotell lounge. Där det finns ett piano,där finns han. Där sjunker han ner och blir ett med pianot, där känner han sig som mest hemma, där kommer han som närmast sina känslor och det är där, just där han blir den Emilio Ingrosso som jag älskar och ser upp till så mycket. Det är där han skapar hans magi! Och det är där jag har min absoluta favorit plats i hela världen, sittandes framför pianot med pappa som spelar hans underbart vackra och känslofulla låtar.</p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448209095-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448209095-9394.jpg" class="alignnone size-full wp-image-5501" alt="DSC01093" width="1500" height="999" /></a><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448206945-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448206945-9394.jpg" class="alignnone size-full wp-image-5500" alt="IMG_6531" width="1500" height="1125" /></a></p>
+<p style="text-align: center">Jag känner mig så otroligt lyckligt lottad som fått bli inspirerad på detta sätt, detta enkla och fina sätt. Inget krims krams, ingen sång, ingen text, ingen film till. Bara en man i ett rum som försvinner ner i hans låtar och som låter dig försvinna med honom där du skapar Din egen film och Din egen text. Det är bland det vackraste och mäktigaste jag vet.</p>
+<p style="text-align: center">Hans musik är ren magi och går rätt in i hjärtat. Och sen att jag då vet hur mycket känslor och minnen han lägger in i låtarna när han sitter där vid pianot och skriver gör det bara ännu mer mäktigare och vackrare.</p>
+<p style="text-align: center">Men mäktigaste av allt är hur folk relaterar och reagerar till hans låtar. Hur dem skapar sin egen film i huvudet utifrån deras egna historier när de lyssnar på hans musik. Hur ytan försvinner och själen kommer fram. Hur känslor som de kanske inte ens visste att de hade dyker upp, allt tack vare hans musik.</p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448208338-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448208338-9394.jpg" class="alignnone size-full wp-image-5502" alt="DSC01290" width="1500" height="999" /></a></p>
+<p style="text-align: center">Det är hans musik som hjälper mig på att lära känna mig själv. När jag sitter där och mår dåligt nere vid havet och tänker på allt som hänt/händer i mitt liv. Det är då hans musik som gör att jag kan få släppa ut alla tårar jag har och bara få gråta hejdlöst för mig själv.</p>
+<p style="text-align: center">Eller när jag är som lyckligast och går en promenad med hans musik i lurarna. Det är då hans musik som gör att jag minns hur lyckligt lottad jag är som har allt jag har, mina vänner, min familj, min passion och allt där till. Som gör att jag tänker efter lite, stannar upp mitt bland allt kaos och stress och bara kopplar av och njuter av nuet.</p>
+<p style="text-align: center">Hans musik helt enkelt får fram alla sidor av mig och det är jag evigt tacksam för.</p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1446509118-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1446509118-9394.jpg" class="alignnone size-full wp-image-5223" alt="DSC03326" width="1500" height="999" /></a></p>
+<p style="text-align: center">Denna video får ni förhoppningsvis se en glimt av det. En glimt av hans passion och kärlek till det han gör, en glimt av vår kärlek och stolthet till han och hans musik. En video till för att inspirera och visa folk vilken otroligt begåvad man min pappa är och alltid varit. Men främst för att visa er några av dessa låtar som jag så länge pratat om som ligger oss alla så nära hjärtat och som är så otroligt mäktiga, vackra, ärliga &amp; briljanta.</p>
+<p style="text-align: center">Så kul också att jag och Benjamin fick vara med och dela några ord om våran kärlek till hans musik &lt;3</p>
+<p style="text-align: center"><strong>Ta några sekunder nu SNÄLLA SNÄLLA och titta på denna video. Ni kommer förstå bättre då vad jag menar <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>&nbsp;</p>
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/AJPDmlwrjzU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/22/emilio-ingrosso-documentary-3/#comments">35 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5472 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-5494" class="post-index post-5494 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/22/happy-news-soon-revealed/" title="Permalink to HAPPY NEWS SOON REVEALED" rel="bookmark">HAPPY NEWS SOON REVEALED</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 22, 2015 16:03">november 22, 2015 16:03</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/09/1441105808-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/09/1441105808-9394.jpg" class=" size-full wp-image-4421 aligncenter" alt="DSC00153" width="2000" height="1333" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/08/1439891767-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/08/1439891767-9394.jpg" class=" size-full wp-image-4179 aligncenter" alt="DSC01596" width="2000" height="1331" /></a><em>Happy Girl! </em></p>
+<p style="text-align: left">Såhär glad är jag över att det imorgon är måndag och jag äntligen får liksom officiellt får berätta vad jag vetat om sedan   Augusti!! Och veckan som kommer kommer ni få se mig 2 videos som jag spelat in. En spännande vecka och jag så mycket inspiration.</p>
+<p style="text-align: left">Inte idag dock hehe, för jag ligger seriöst fortfarande i sängen. Eller jag sitter upp i den. Theo har tusentals kompisar här som sliter sönder vårt hus just nu haha så håller mig på mitt rum haha. Jag har försökt få upp en av videorna på bloggen hela morgonen men det har verkligen inte gått så förhoppningsvis går det snaaaaart!</p>
+<p style="text-align: left">Ska strax ta mig upp ur sängen och ta en långpromenad med Dino och sedan till gymmet <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Puss!</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/22/happy-news-soon-revealed/#comments">9 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5494 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-5460" class="post-index post-5460 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/21/london-outfit-2/" title="Permalink to LONDON OUTFIT" rel="bookmark">LONDON OUTFIT</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 21, 2015 15:00">november 21, 2015 15:00</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105835-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105835-9394.jpg" class=" size-full wp-image-5461 aligncenter" alt="DSC03567" width="999" height="1500" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105083-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105083-9394.jpg" class=" size-full wp-image-5462 aligncenter" alt="DSC03588" width="1500" height="999" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105091-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105091-9394.jpg" class=" size-full wp-image-5463 aligncenter" alt="DSC03568" width="999" height="1500" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105097-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105097-9394.jpg" class=" size-full wp-image-5464 aligncenter" alt="DSC03592" width="1500" height="999" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105808-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105808-9394.jpg" class=" size-full wp-image-5465 aligncenter" alt="DSC03569" width="999" height="1500" /></a></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105215-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448105215-9394.jpg" class=" size-full wp-image-5466 aligncenter" alt="DSC03589" width="1500" height="999" /></a><em>Skinntajts Calzedonia // Top H&amp;M // Jacket Tessie.se // Bag Zara // Sneakers Adidas // Rings H&amp;M </em></p>
+<p style="text-align: left">Såhär såg jag ut en dag i London. All black and a little bit off white, precis som jag gillar det! Denna älsklingsjacka fick jag av Phillipe i julklapp förra året och den kommer ifrån butiken Tessie i Göteborg. Ganska säker på att den inte finns kvar MEN det finns nästan identiskt lika inne i Sturegallerian i Stockholm på Monroe i alla färger <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Kostar lite av tusenlappen om jag minns rätt.</p>
+<p style="text-align: left">Svarta mössan som jag hade på mig på kvällen fick jag också massa frågor om, den är ifrån Cos och kostar 399kr <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: left">Puss!</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/21/london-outfit-2/#comments">12 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5460 -->
+                    
+					
+<article id="post-5457" class="post-index post-5457 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/21/in-two-days/" title="Permalink to IN TWO DAYS&#8230;.." rel="bookmark">IN TWO DAYS&#8230;..</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 21, 2015 13:06">november 21, 2015 13:06</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448103479-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448103479-9394.jpg" class=" size-full wp-image-5458 aligncenter" alt="IMG_2062" width="1000" height="632" /></a><em>With the awesome <strong><a href="http://nyheter24.se/modette/josefin/" target="_blank">Josefine</a> </strong>at my place the other day  </em></p>
+<p style="text-align: left">På måndag händer det grejer här på bloggen <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Kan ni lista ut vad?? Det har med denna bruden att göra iallafall&#8230; Fyfan va skön och härlig hon är, asså påriktigt min typ av människa som jag diggar starkt!!</p>
+<p style="text-align: left">Nu sitter jag med en skål med frukt i köket och äter en sen frukost. Första dagen denna vecka som jag inte har någon stress, inga möten eller något inbokat. Jag älskar ju när dagarna är fulla med saker att bocka av, men också sådana här dagar när man får ligga kvar i sängen lite extra framför tvn och kramas med Dino, äta en lång och mysig frukost framför våran underbara utsikt över sjön, ta en långpromenad och se vart dagen går. Tror inte jag ska göra mer än att kolla serier och dra till gymmet idag för ikväll står barnvakt igen för barnligan. Myshelg delux!</p>
+<p style="text-align: left">Puss!</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/21/in-two-days/#comments">3 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5457 -->
+                    
+					
+<article id="post-5451" class="post-index post-5451 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/20/table-of-goodies/" title="Permalink to TABLE OF GOODIES" rel="bookmark">TABLE OF GOODIES</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 20, 2015 23:00">november 20, 2015 23:00</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053321-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053321-9394.jpg" class=" size-full wp-image-5452 aligncenter" alt="_DSC0963" width="1500" height="1000" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053327-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053327-9394.jpg" class=" size-full wp-image-5453 aligncenter" alt="_DSC0966" width="1500" height="1000" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053334-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053334-9394.jpg" class=" size-full wp-image-5454 aligncenter" alt="_DSC0965" width="1500" height="1000" /></a></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053341-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448053341-9394.jpg" class=" size-full wp-image-5455 aligncenter" alt="_DSC0967" width="1500" height="1000" /></a><em>Movie night with the kids tonight </em></p>
+<p style="text-align: left">Såhär ser det ut just nu i vårt vardagsrum. Jag är barnvakt ikväll för lillbrorsan och små kusinerna. Ett gäng glada, högljudda och energifyllda kids som fått i sig liiiiiite för socker just nu kanske haha. Det slängs kuddar, bollar, kläder och leksaker överallt här hemma och jag orkar inte ens tänka på hur mycket jag har att städa senare när de somnat haha. Och jag som ska ha 5 barn&#8230; Bara att börja vänja sig haha!</p>
+<p style="text-align: left">Vill bara önska er en fin fredag kväll så hörs vi mer imorgon &lt;&lt;3 Puss!</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/20/table-of-goodies/#comments">3 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5451 -->
+                    
+					
+<article id="post-5448" class="post-index post-5448 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/20/crystal-clear-is-out/" title="Permalink to CRYSTAL CLEAR IS OUT!!!!!" rel="bookmark">CRYSTAL CLEAR IS OUT!!!!!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 20, 2015 22:41">november 20, 2015 22:41</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448051831-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448051831-9394.jpg" class="alignnone size-full wp-image-5449" alt="12270595_691101137693776_2065250218_n" width="960" height="960" /></a><em>Benjamins new single Crystal Clear is out now on Spotify and Itunes!!! </em></p>
+<p style="text-align: left">Ni har väl inte missat min begåvade lillebror va?! Idag var en stor dag för han släppte nämligen hans nya och andra singel <strong>CRYSTAL CLEAR</strong> !!! Som ALLA andra av hans låtar så absolut äääääälskar jag även denna!!!! Den är genialiskt! ÅH asså jag inte vänta längre, vill bara att ni ska höra ALLA låtar som han gör!!</p>
+<p style="text-align: left">Så in på Itunes och Spotify och lyssna på den! Det är en riktigt arena låt med en mäktig refräng. Behöver inte säga hur stolt jag är va?!?! Ni förstår nog haha &lt;3 Så ta upp mobilen NU och ladda ner!!! &lt;3</p>
+<p style="text-align: left">&lt;3</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/20/crystal-clear-is-out/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5448 -->
+                    
+					
+<article id="post-5439" class="post-index post-5439 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/20/favorites-from-nelly-com/" title="Permalink to FAVORITES FROM NELLY.COM" rel="bookmark">FAVORITES FROM NELLY.COM</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 20, 2015 17:35">november 20, 2015 17:35</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033215-9394.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033215-9394.jpeg" class=" size-full wp-image-5440 aligncenter" alt="737756-2350_5" width="467" height="622" /></a><strong><em><a href="http://blfa.me/c/bOKiTfIS?cpc" target="_blank">Here</a></em></strong></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033140-9394.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033140-9394.jpeg" class=" size-full wp-image-5441 aligncenter" alt="016256-7715_5" width="467" height="622" /></a></p>
+<p style="text-align: center"><strong><em><a href="http://blfa.me/c/b1g474r7?cpc" target="_blank">Here </a></em></strong></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033347-9394.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033347-9394.jpeg" class=" size-full wp-image-5442 aligncenter" alt="974245-8464_5" width="467" height="622" /></a></p>
+<p style="text-align: center"><strong><em><a href="http://blfa.me/c/7ate9JP6?cpc" target="_blank">here</a></em></strong></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033251-9394.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033251-9394.jpeg" class=" size-full wp-image-5443 aligncenter" alt="277842-0121_5" width="467" height="622" /></a></p>
+<p style="text-align: center"><strong><em><a href="http://blfa.me/c/8Uf1bpce?cpc" target="_blank">here</a></em></strong></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033311-9394.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448033311-9394.jpeg" class=" size-full wp-image-5444 aligncenter" alt="974249-0877_5" width="467" height="622" /></a></p>
+<p style="text-align: center"><strong><em><a href="http://blfa.me/c/jeee7777?cpc" target="_blank">here</a></em></strong></p>
+<p style="text-align: left">Vet att ni är många som velat att jag ska länka lite vinterjackor till er och eftersom att fakepäls jackor är största trenden just nu så tänkte jag att det passade utmärkt! Den blåa längst ner har jag på mig just nu faktiskt och jag totalt älskar den &lt;3 Alla jackor hittar ni på länkarna under <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: left">Shoppa på ladies &lt;3 Puss!!</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/20/favorites-from-nelly-com/#comments">4 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5439 -->
+                    
+					
+<article id="post-5434" class="post-index post-5434 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/20/soon/" title="Permalink to SOON" rel="bookmark">SOON</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 20, 2015 16:37">november 20, 2015 16:37</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448029497-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448029497-9394.jpg" class=" size-full wp-image-5435 aligncenter" alt="Club_Med_Logo16-910x682" width="910" height="682" /></a></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448029504-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448029504-9394.jpg" class=" size-full wp-image-5436 alignnone" alt="Club-Med-La-Plantation-Private-Villa-Private-Pool-Private-Entertaining-Area-910x415" width="910" height="415" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448029512-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1448029512-9394.jpg" class=" size-full wp-image-5437 aligncenter" alt="club-med-mauritius-910x362" width="910" height="362" /></a><em>Paradise &lt;3 </em></p>
+<p style="text-align: left">Alltså jag tror inte ens jag har förstått vilket vackert ställe vi ska till när vi åker till Mauritius!!! Här ska vi alltså bo, i detta hus ovan!! En himla dröm att få bo där!! Vi åker ner med <a href="http://www.clubmed.se/cm/home.do?PAYS=366&amp;LANG=EN" target="_blank"><strong>Clubmed</strong> </a>som erbjuder dessa fantastiska resor på deras hemsida.</p>
+<p style="text-align: left">Och som om inte huset i sig är en dröm, Mauritius är ett paradis, så ska vi ha en egen kock och butler där varje dag som lagar frukost, lunch och middag till oss!! Även massörer och annat &lt;3 Alltså kan detta bli bättre?!?! Jag tror detta kan bli våran bästa resa någonsin som vi kommer få uppleva&#8230;! Kan inte ens vänta längre!</p>
+<p style="text-align: left">Dagen har sett ut så med att den började med en promenad med Dino, sedan in till stan för ett jätte roligt och spännade lunch möte och snart är det dags för dagens 2 möte. Sitter på Fresco och snackar med er och checkar av lite på mailen. Så mycket spännande och roliga saker på gång och jag älskar att det är så mycket varje dag nu med bloggen och annat, SÅ KUL!!! Gör mig bara riktigt peppad på att göra bloggen ännu bättre <img src="http://finest.se/biancaingrosso/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: left">Nu bär det av till nästa möte. Hörs senare &lt;3</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/20/soon/#comments">3 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5434 -->
+                    
+					
+<article id="post-5428" class="post-index post-5428 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/biancaingrosso/2015/11/19/5428/" title="Permalink to &#8230;.." rel="bookmark">&#8230;..</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="november 19, 2015 23:28">november 19, 2015 23:28</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1447967253-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1447967253-9394.jpg" class=" size-full wp-image-5429 aligncenter" alt="DSC03516" width="1500" height="999" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1447967263-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1447967263-9394.jpg" class=" size-full wp-image-5430 aligncenter" alt="DSC03534" width="999" height="1500" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1447967272-9394.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/11/1447967272-9394.jpg" class=" size-full wp-image-5431 aligncenter" alt="DSC03541" width="1500" height="999" /></a></p>
+<p>Hallå där! Blev lite ändrade planer så ingen bio ikväll tyvärr :/ Får bli i helgen istället. Blev tyvärr heller inga outfit bilder då min dator typ krashade tidigare ikväll och alla bilder försvann (!!!). Alla mina program gick inte att öppna och datorn blev helt enkelt bara extremt seg. Så får låna Linneas datorn imorgon och se om det går därifrån, HOPPAS!!!</p>
+<p>Efter detta hände något väldigt hemskt! Vi sitter på Fresco när vi hör en kvinna börja vrålskrika i ren panik några meter bort. Direkt antog vi att det ett attentat ifrån tunnelbanan då vi har varit extremt rädda &amp; nojjiga ända sedan säpo höjde sin säkerhet igår. Men vi valde att gå fram och kollade vad som pågick. Väl framme såg vi att hennes (vad vi tror är man eller nära vän) hade kollapsat på marken och var totalt blå och grå i ansiktet. Efter att 2 tjejer sprungit fram och gjort hjärt och lugnräddning så stoppades hans puls. Blod &amp; skum kom rinnande ur hans mun. Efter 10 minuter kom ambulansen och det verkade som att han dog där och då. Så hemskt att se detta och vi är lite i chock fortfarande.</p>
+<p>Så nu blir det en lugn kväll hemma med pasta och film. Kram på er där ute. Var rädda om varandra &lt;3</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/biancaingrosso/2015/11/19/5428/#comments">10 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-5428 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/biancaingrosso/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/9193/2015/05/1433022706-9394.jpg" class="" /></div></aside><aside id="instagramwidget-3" class="widget widget_instagramwidget"><h3 class="widget-title">Följ mig på Instagram!</h3><div class="instagram-contain"><a href="https://www.instagram.com/p/BBFIHJ2O_w0/" title="Need your help with some healthy juice/smoothie tips !! Hit me with your best 👇🏻😘🍋💕" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12530729_722893181180371_1017865617_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBDXWzLu_7D/" title="My baby brother ❤️ You made my day today ❤️👫❤️ @theowahlgren" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12519468_942689305815443_1740629980_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBC7HPFu_0z/" title="Seriously wear all black everyday these days 👽💕 #tb" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12531020_1012204692175979_879705245_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA9oLM0O_0p/" title="Letar efter boende att hyra i Centrala Stockholm!! Vet ni någon som vore utmärkt för lilla mig så får ni GÄRNA maila mig till 📩 : ingrosso.b@gmail.com 🙏🏻💕😘" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12599077_960925707325469_985619314_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA5I5bNO_89/" title="Today's delicious lunch after a nice workout (no it was not nice ofcourse🙄) at Cafe Marmelad 😋" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12558310_150969735279999_1114965368_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA40eDgu_53/" title="Tb to my fathers wedding 💍🙏🏻💎 The view was most definitely one of the most beautiful I've ever seen 😱💦💙 #newblogpost" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12547575_1044703625580474_160906999_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA2wUwXu_2d/" title="What makes me happy the quickest?? A nice long powerwalk with the sun in my face and a gooooood playlist 🙌🏻👣❤️" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12545247_174927656205244_1201866108_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA2OxBnu_zw/" title="Tb to the time I won at Gröna Lund 😜💃🏻🎉 Even though I don't like chocolate (I know I'm crazy and probably the only one who don't) I was suuuuuper HAPPY 😉" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12446240_1119758168043109_1408925930_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA15Nx-u_0M/" title="I wanna go somewhere really special this summer but I have no idea where to go. Any tips of a paradise that looks a little bit like that 👆🏻🌴😱 #tumblr" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12519160_173676709664144_1174728205_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAzrrSeO_5t/" title="A tan and a drink and I'm a happy girl 😉🍸☀️ #mangodaquiri" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12547602_471364636403670_1876204524_n.jpg" class="instagram-media"></a></div></aside><aside id="archives-4" class="widget widget_archive"><h2 class="widget-title">Arkiv</h2>		<ul>
+	<li><a href='http://finest.se/biancaingrosso/2015/11/'>november 2015</a>&nbsp;(43)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/10/'>oktober 2015</a>&nbsp;(50)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/09/'>september 2015</a>&nbsp;(55)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/08/'>augusti 2015</a>&nbsp;(63)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/07/'>juli 2015</a>&nbsp;(73)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/06/'>juni 2015</a>&nbsp;(43)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/05/'>maj 2015</a>&nbsp;(33)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/04/'>april 2015</a>&nbsp;(46)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/03/'>mars 2015</a>&nbsp;(52)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/02/'>februari 2015</a>&nbsp;(70)</li>
+	<li><a href='http://finest.se/biancaingrosso/2015/01/'>januari 2015</a>&nbsp;(49)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/12/'>december 2014</a>&nbsp;(15)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/11/'>november 2014</a>&nbsp;(1)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/10/'>oktober 2014</a>&nbsp;(50)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/09/'>september 2014</a>&nbsp;(26)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/08/'>augusti 2014</a>&nbsp;(8)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/07/'>juli 2014</a>&nbsp;(32)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/06/'>juni 2014</a>&nbsp;(67)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/04/'>april 2014</a>&nbsp;(2)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/03/'>mars 2014</a>&nbsp;(17)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/02/'>februari 2014</a>&nbsp;(61)</li>
+	<li><a href='http://finest.se/biancaingrosso/2014/01/'>januari 2014</a>&nbsp;(11)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/12/'>december 2013</a>&nbsp;(23)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/11/'>november 2013</a>&nbsp;(8)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/10/'>oktober 2013</a>&nbsp;(20)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/09/'>september 2013</a>&nbsp;(37)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/08/'>augusti 2013</a>&nbsp;(32)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/07/'>juli 2013</a>&nbsp;(32)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/06/'>juni 2013</a>&nbsp;(52)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/05/'>maj 2013</a>&nbsp;(58)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/04/'>april 2013</a>&nbsp;(78)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/03/'>mars 2013</a>&nbsp;(64)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/02/'>februari 2013</a>&nbsp;(86)</li>
+	<li><a href='http://finest.se/biancaingrosso/2013/01/'>januari 2013</a>&nbsp;(45)</li>
+		</ul>
+</aside><aside id="calendar-3" class="widget widget_calendar"><h2 class="widget-title">Kalender</h2><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>januari 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="måndag">m</th>
+		<th scope="col" title="tisdag">ti</th>
+		<th scope="col" title="onsdag">o</th>
+		<th scope="col" title="torsdag">to</th>
+		<th scope="col" title="fredag">f</th>
+		<th scope="col" title="lördag">l</th>
+		<th scope="col" title="söndag">s</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://finest.se/biancaingrosso/2015/11/">&laquo; Nov</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td>
+	</tr>
+	<tr>
+		<td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
+	</tr>
+	<tr>
+		<td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td>
+	</tr>
+	<tr>
+		<td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td>
+	</tr>
+	<tr>
+		<td>25</td><td>26</td><td>27</td><td id="today">28</td><td>29</td><td>30</td><td>31</td>
+	</tr>
+	</tbody>
+	</table></div></aside>			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            <div class="social-profiles"><a href="https://instagram.com/biancaingrosso/" target="_blank"><img src="http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/biancaingrosso/feed/rss/" target="_blank"><img src="http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/biancaingrosso/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/biancaingrosso/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/biancaingrosso.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/biancaingrosso/) in 0.31044 seconds, on: Jan 28th, 2016 @ 7:03 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:03 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/biancaingrosso/) in 0.00226 seconds, on: Jan 28th, 2016 @ 7:21 pm UTC. -->

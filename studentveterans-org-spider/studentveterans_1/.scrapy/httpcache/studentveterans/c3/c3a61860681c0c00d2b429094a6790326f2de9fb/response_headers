@@ -1,0 +1,9 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Age: 3
+Server: Sucuri/Cloudproxy
+Location: /index.php/login?return=L2luZGV4LnBocC9jaGFwdGVyL2RpcmVjdG9yeS8xMzk3LWFtZXJpY2FuLXB1YmxpYy11bml2ZXJzaXR5LXN5c3RlbS9yZXBvcnQ=
+Date: Mon, 15 Feb 2016 17:07:37 GMT
+X-Frame-Options: GOFORIT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

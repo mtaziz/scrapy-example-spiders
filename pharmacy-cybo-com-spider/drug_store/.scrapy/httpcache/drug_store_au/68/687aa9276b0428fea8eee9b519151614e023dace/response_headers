@@ -1,0 +1,9 @@
+Alternate-Protocol: 443:npn-spdy/2
+Content-Language: en
+Content-Encoding: gzip
+Set-Cookie: anonymous-adventurer=ms3tq0hpmpxxwh8krgpyfhfjo0kuivzq; Domain=.cybo.com; expires=Sun, 17-Jan-2016 10:49:52 GMT; HttpOnly; Max-Age=1209600; Path=/
+Vary: Accept-Encoding
+Vary: User-Agent, Accept-Language, Cookie
+Server: nginx
+Date: Sun, 03 Jan 2016 10:50:25 GMT
+Content-Type: text/html; charset=utf-8

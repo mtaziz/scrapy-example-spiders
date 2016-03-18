@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Johanna Sjöö | Contact: johannasjoo@gmail.com</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/johannasjoo/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Johanna Sjöö &raquo; flöde" href="http://finest.se/johannasjoo/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Johanna Sjöö &raquo; kommentarsflöde" href="http://finest.se/johannasjoo/comments/feed/" />
+<meta property="og:title" content="Johanna Sjöö"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/johannasjoo/"/><meta property="og:description" content="18 år gammal, jobbar som moderedaktör på Metro Värmland, läser ekonomilinjen på gymnasiet och på fritiden ägnar jag min största del till plugg, mode och träning. Vill inspirera andra till att våga leva ut sina drömmar och vara den de vill, utan att hållas tillbaka.
+
+Kontakt för samarbeten: johannasjoo@gmail.com
+Instagram: johannasjoo"/><meta property="og:site_name" content="finest.se/johannasjoo/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453128762-6916.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/johannasjoo\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/johannasjoo/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-typography-font-css'  href='//fonts.googleapis.com/css?family=Yantramanav:100' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/johannasjoo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/johannasjoo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/johannasjoo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/johannasjoo/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/johannasjoo/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/johannasjoo/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/johannasjoo/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+
+<style type="text/css">
+h1, h2, h3, h4, h5, h6, .entry-title a, .site-content .site-navigation a, .wp-caption{ font-family: "Yantramanav"; font-weight: 100; font-size: 49px; color: #000000;  }
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/johannasjoo\/wp-admin\/admin-ajax.php","categories":"mode, traning, skonhet"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family: raleway light            }
+            footer.entry-meta {
+                font-family: merriweather            }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ededed; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/johannasjoo/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 6782);
+        ga('create', 'UA-56956738-1', 'auto', {'name': 'userTracker'});
+        ga('send', 'pageview');
+        ga('userTracker.send', 'pageview');
+    </script>
+
+    
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                    </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                    </div>
+                <div class="site header_contain">
+                            <div id="" class="header-banner banr_mob text-center">
+                                        <!-- /5920055/2_m_mobil_1 -->
+<div id='div-gpt-ad-1443707410045-20'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-20'); });
+</script>
+</div>                </div>
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/johannasjoo/" title="Johanna Sjöö" rel="home">Johanna Sjöö</a>
+                    </h1>
+
+                    <h2 class="site-description">Contact: johannasjoo@gmail.com</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="menu-huvudmeny-container"><ul id="menu-huvudmeny" class="nav-menu"><li id="menu-item-3052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3052"><a href="http://finest.se/johannasjoo/category/listor/">ALL ABOUT ME</a></li>
+<li id="menu-item-3051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3051"><a href="http://finest.se/johannasjoo/category/outfits/">OUTFITS</a></li>
+<li id="menu-item-3044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3044"><a href="http://finest.se/johannasjoo/category/skonhet/">BEAUTY</a></li>
+<li id="menu-item-3045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3045"><a href="http://finest.se/johannasjoo/category/mode/">FASHION</a></li>
+<li id="menu-item-3046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3046"><a href="http://finest.se/johannasjoo/category/traning/">FITNESS</a></li>
+<li id="menu-item-3047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3047"><a href="http://finest.se/johannasjoo/category/inspo/">INSPO</a></li>
+<li id="menu-item-3048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3048"><a href="http://finest.se/johannasjoo/category/vardag/">LIVING</a></li>
+<li id="menu-item-3049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3049"><a href="http://finest.se/johannasjoo/category/shopping/">SHOPPING</a></li>
+<li id="menu-item-3050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3050"><a href="http://finest.se/johannasjoo/category/tips/">TIPS</a></li>
+</ul></div>                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/johannasjoo/"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/cropped-1452444294-6916.jpg" class="header-image" width="1500" height="766" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-10573" class="post-10573 post type-post status-publish format-standard hentry category-collage category-mode category-inspo">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/" rel="bookmark">LOOK LIKE GIGI HADID</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1454006517-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1454006517-6916.jpg" class="alignnone size-full wp-image-10574 aligncenter" alt="grååå" width="1500" height="1125" /></a><em>Tröja/Soaked in Luxury, Mugg/H&amp;M, Skor/Nelly, Väska/Chiquelle, Skal/Richmond &amp; Fitch, Ögonskugga/Kicks</em></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt"><strong>Det var verkligen så snyggt att köra allt i grått istället för att vara klädd i svart topp till tå!</strong> Skulle inte tveka en sekund från att klä mig sådär, Gigi är ju känd för sina välkomponerade outfits. </span></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Nu så ska jag färga mitt hår och sedan jobb! Resultat får ni sen! </span></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">KRAM</span></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/" data-text="LOOK LIKE GIGI HADID" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/&description=LOOK LIKE GIGI HADID" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/collage/" rel="category tag">COLLAGE</a>,<a href="http://finest.se/johannasjoo/category/mode/" rel="category tag">FASHION</a>,<a href="http://finest.se/johannasjoo/category/inspo/" rel="category tag">INSPO</a> på <a href="http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/" title="20:48" rel="bookmark"><time class="entry-date" datetime="2016-01-28T20:48:28+00:00">januari 28, 2016 20:48</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                            <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-10569" class="post-10569 post type-post status-publish format-standard hentry category-mode category-vardag category-shopping">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/black-coat/" rel="bookmark">BLACK COAT</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453996158-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453996158-6916.jpg" class="alignnone size-full wp-image-10570" alt="kappe" width="1500" height="1125" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453996163-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453996163-6916.jpg" class="alignnone size-full wp-image-10571" alt="IMG_4607" width="1500" height="1000" /></a></p>
+<p style="text-align: center"><em>ny kappa ifrån <strong><a href="http://blfa.me/c/cabz2P9Z" target="_blank">Make Way</a></strong></em></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Hej på er! Har idag hunnit med en massa och det börjar bli lite pressat eftersom att jag ska hinna med att färga lite hår, jobba och packa väskan! Det rullar nämligen ett tåg till stockholm någon gång imorgon eller på lördag och då ska bella firas rejält på caféet! Som jag längtar alltså och även efter att träffa mina vänner där!!</span></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Nu så ska det pluggas vidare, KRAM</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/black-coat/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/black-coat/" data-text="BLACK COAT" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/black-coat/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/black-coat/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/black-coat/&description=BLACK COAT" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/black-coat/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/mode/" rel="category tag">FASHION</a>,<a href="http://finest.se/johannasjoo/category/vardag/" rel="category tag">LIVING</a>,<a href="http://finest.se/johannasjoo/category/shopping/" rel="category tag">SHOPPING</a> på <a href="http://finest.se/johannasjoo/2016/01/black-coat/" title="18:01" rel="bookmark"><time class="entry-date" datetime="2016-01-28T18:01:24+00:00">januari 28, 2016 18:01</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10566" class="post-10566 post type-post status-publish format-standard hentry category-shopping">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/nya-traningsklader/" rel="bookmark">NYA TRÄNINGSKLÄDER</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453978873-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453978873-6916.jpg" class="alignnone size-full wp-image-10567" alt="strongersee" width="1500" height="1134" /></a><em>har beställt nya träningskläder <a href="http://stronger.se" target="_blank">HÄRIFRÅN</a></em></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt"><strong>Hej på er! Hoppade in och jobbade igår</strong> och somnade vid halv tre, så som tur var hade jag sovmorgon idag! Så fick ändå 8 timmars välbehövlig skönhetssömn. Äntligen så har jag beställt lite nya träningskläder så att jag blir lite mer peppad av att att träna! </span></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Nya träningskläder gör en ju riktigt sugen på att träna! Så nu så sitter jag i skolan och ska gå på lektion. KRAM</span></p>
+<p style="text-align: center">kul förresten att det var så många som tyckte något på jobbinlägget, kommer inte att godkänna några negativa kommentarer 😉</p>
+<p style="text-align: center">
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/nya-traningsklader/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/nya-traningsklader/" data-text="NYA TRÄNINGSKLÄDER" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/nya-traningsklader/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/nya-traningsklader/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/nya-traningsklader/&description=NYA TRÄNINGSKLÄDER" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/nya-traningsklader/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/shopping/" rel="category tag">SHOPPING</a> på <a href="http://finest.se/johannasjoo/2016/01/nya-traningsklader/" title="13:06" rel="bookmark"><time class="entry-date" datetime="2016-01-28T13:06:06+00:00">januari 28, 2016 13:06</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10562" class="post-10562 post type-post status-publish format-standard hentry category-vardag">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/worky-worky/" rel="bookmark">WORKY WORKY</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/IMG_6583.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/IMG_6583.jpg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/IMG_6582.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/IMG_6582.jpg" alt=""></a>&nbsp; &nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/IMG_6584-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/IMG_6584-0.jpg" alt=""></a>&nbsp;<i>bilder från idag</i></p>
+<p>Hade tänkt myskväll, men det blev jobb idag! Tur att man tycker om att jobba.</p>
+<p>KRAM &nbsp;</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/worky-worky/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/worky-worky/" data-text="WORKY WORKY" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/worky-worky/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/worky-worky/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/worky-worky/&description=WORKY WORKY" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/worky-worky/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/vardag/" rel="category tag">LIVING</a> på <a href="http://finest.se/johannasjoo/2016/01/worky-worky/" title="22:28" rel="bookmark"><time class="entry-date" datetime="2016-01-27T22:28:59+00:00">januari 27, 2016 22:28</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10555" class="post-10555 post type-post status-publish format-standard hentry category-listor category-vagen-till-framgang">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/" rel="bookmark">VAD JAG JOBBAR MED</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><span style="color: #000000;font-size: 12pt"><strong>Jag vet inte hur många gånger jag har fått frågan vad jag egentligen jobbar med, så nu ska ni få svar på det!</strong> Jag jobbar för finest, som är min blogg. Sen Metro som ligger under VF som är heter Värmlands folkblad. Det är det jag håller på mest med! Men gör lite garderobsjobb, städar, rastar lite hundar ibland etc. Men nu så är det fokus på plugget och att min kropp ska må bra igen! Har tidigare hållt på med events, nattklubb, jobbat på café, varit värdinna vid evenemang och lite annat smått och gott. Har gjort så mycket att jag inte minns allt, haha!</span></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Många bäckar små som jag brukar säga. Tycker om att ha en fot lite överallt och inte bara hålla på med en sak samtidigt, då jag har så otroligt mycket energi och tycker om att hålla på med allt och lite till. Riktigt kul att få insyn hur det funderar på olika arbetsplatser, hur de tänker och hur de gör för att bli bättre. Allt som man lär sig ute i arbetslivet är riktigt värdefullt för framtiden så man på bästa sätt kan utvecklas som individ och göra ett bättre arbete.</span></p>
+<p style="text-align: center"><em><strong><span style="color: #000000;font-size: 12pt">Att få ett bra jobbat av en chef är verkligen något värt att slita för. </span></strong></em></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453915149-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453915149-6916.jpg" class="alignnone size-full wp-image-10556" alt="ldcm" width="960" height="720" /></a><em>minns denna kaffepaus i somras när jag jobbade med tre jobb nästan dygnet runt, att kunna ta det lugnt 5 min då var inte lätt&#8230;.</em></p>
+<p style="text-align: center">
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/" data-text="VAD JAG JOBBAR MED" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/&description=VAD JAG JOBBAR MED" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/#comments"><span class="leave-reply">1 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/listor/" rel="category tag">ALL ABOUT ME</a>,<a href="http://finest.se/johannasjoo/category/vagen-till-framgang/" rel="category tag">MAKE IT, DO IT</a> på <a href="http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/" title="19:23" rel="bookmark"><time class="entry-date" datetime="2016-01-27T19:23:27+00:00">januari 27, 2016 19:23</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10551" class="post-10551 post type-post status-publish format-standard hentry category-vardag">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/good-morning-9/" rel="bookmark">GOOD MORNING</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453888083-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453888083-6916.jpg" class="alignnone size-full wp-image-10553" alt="IMG_1917-001" width="1114" height="1500" /></a></p>
+<p style="text-align: center"><em>FOTO: SMILLA ROHM</em></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt"><strong>God morgon! Har suttit hemma och pluggat hela morgonen för att bli klar med lite saker</strong>. Skönt att kunna checka av sak efter sak som man har gjort klart! Sen så kom jag på att jag fyller år nästa vecka och det behövs planeras lite. Brukar älska att fylla år och vill fira stort med många vänner, men i år funderar jag på att hoppa över den delen av firandet. Vi får se hur det blir!</span></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Lite champagne, rosor och en god brunch uppskattas minst lika mycket känner jag haha!</span></p>
+<p style="text-align: center">KRAM</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/good-morning-9/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/good-morning-9/" data-text="GOOD MORNING" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/good-morning-9/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/good-morning-9/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/good-morning-9/&description=GOOD MORNING" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/good-morning-9/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/vardag/" rel="category tag">LIVING</a> på <a href="http://finest.se/johannasjoo/2016/01/good-morning-9/" title="11:51" rel="bookmark"><time class="entry-date" datetime="2016-01-27T11:51:43+00:00">januari 27, 2016 11:51</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10547" class="post-10547 post type-post status-publish format-standard hentry category-musik">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/" rel="bookmark">SJUKA ARTISTER TILL THE WEEKEND FESTIVAL</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453837810-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453837812-6916.jpg" class="alignnone size-full wp-image-10549" alt="twf" width="1024" height="682" /><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453837810-6916.jpg" class="alignnone size-full wp-image-10548" alt="ifefj" width="1024" height="470" /></a></p>
+<p style="text-align: center"><span style="font-size: 12pt;color: #000000">Denna line up är verkligen helt sjuk! Och mer kommer det den 1 februari! Ser verkligen fram emot den 5-6 augusti då detta kommer att äga rum på Östermalms IP. </span></p>
+<p style="text-align: center"><span style="font-size: 12pt;color: #000000">HEADLINERS:</span><br />
+<span style="font-size: 12pt;color: #000000"><a style="color: #000000" href="https://www.facebook.com/tiesto/" target="_blank">Tiësto</a> &#8211; <a style="color: #000000" href="https://www.facebook.com/martin.garrix/" target="_blank">Martin Garrix</a></span></p>
+<div>
+<p style="text-align: center"><span style="font-size: 12pt;color: #000000">SUPPORT ARTISTS </span><br />
+<span style="font-size: 12pt;color: #000000"><a style="color: #000000" href="https://www.facebook.com/aronchupaofficial/" target="_blank">AronChupa</a>, <a style="color: #000000" href="https://www.facebook.com/Deorro/" target="_blank">Deorro</a>, <a style="color: #000000" href="https://www.facebook.com/djbl3nd/" target="_blank">DJ BL3ND</a>, <a style="color: #000000" href="https://www.facebook.com/dvbbs/" target="_blank">DVBBS</a>, <a style="color: #000000" href="https://www.facebook.com/LostFrequenciesMusic/" target="_blank">Lost Frequencies</a>, <a style="color: #000000" href="https://www.facebook.com/showtek/" target="_blank">Showtek</a>, <a style="color: #000000" href="https://www.facebook.com/djtigerlily/" target="_blank">Tigerlily</a>, <a style="color: #000000" href="https://www.facebook.com/WatermatMusic/" target="_blank">Watermät</a>,</span></p>
+<p style="text-align: center"><span style="font-size: 12pt;color: #000000">LIVE ACTS: (presenteras i alfabetisk ordning)</span><br />
+<span style="font-size: 12pt;color: #000000"><a style="color: #000000" href="https://www.facebook.com/OfficialMadcon/" target="_blank">Madcon – the official page</a>, <a style="color: #000000" href="https://www.facebook.com/Redfoo/" target="_blank">Redfoo</a></span></p>
+<p style="text-align: center"><span style="font-size: 12pt;color: #000000">PHASE TWO PRESENTERAR VI DEN 1a FEBRUARI! STAY TUNED! <a style="color: #000000" href="https://www.facebook.com/hashtag/wknd16?source=feed_text&amp;story_id=1674691236123953" target="_blank">‪#‎wknd16‬</a> <a style="color: #000000" href="https://www.facebook.com/hashtag/wkndsweden?source=feed_text&amp;story_id=1674691236123953" target="_blank">‪#‎wkndsweden‬</a></span></p>
+<p style="text-align: center"><span style="font-size: 12pt;color: #000000">Registrera dig på <a style="color: #000000" href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.weekendsweden.com%2F&amp;h=GAQG_7gZQAQEteg1pufw1Kq7Vc626aM8DT1d8-48JbYQIdw&amp;enc=AZOXNVBIhJOykAh6BlsIivANIHy7RZ3q7HinApIMtcXsQWPv3xDuSv_eKsf4z_apcuqQ0X0xn65w0NUlzPmpCM1IYwnfPbeI4KtBsCdKhln-RVlwSYizdTe25gEtcy6ETtVXafE0hyAHsCjPo14fDyB7hmjGWZ5ZZJZdK0JVy69BRNZnBQDfsbqubvN-8hj5lk29rMT5T1OAaUcgcGhubcuM&amp;s=1" target="_blank" rel="nofollow">www.weekendsweden.com</a> för din chans till förköp innan officiella biljettsläppet i februari. </span></p>
+</div>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/" data-text="SJUKA ARTISTER TILL THE WEEKEND FESTIVAL" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/&description=SJUKA ARTISTER TILL THE WEEKEND FESTIVAL" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/musik/" rel="category tag">MUSIC</a> på <a href="http://finest.se/johannasjoo/2016/01/sjuka-artister-till-the-weekend-festival/" title="21:52" rel="bookmark"><time class="entry-date" datetime="2016-01-26T21:52:14+00:00">januari 26, 2016 21:52</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10542" class="post-10542 post type-post status-publish format-standard hentry category-outfits">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/netflix-and-chill/" rel="bookmark">NETFLIX AND CHILL</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453836334-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453836337-6916.jpg" class="alignnone size-full wp-image-10544" alt="IMG_9789" width="1000" height="1500" /><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453836334-6916.jpg" class="alignnone size-full wp-image-10543" alt="IMG_9772" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453836341-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453836341-6916.jpg" class="alignnone size-full wp-image-10545" alt="IMG_9793" width="1000" height="1500" /></a></p>
+<p style="text-align: center"><em>FOTO: PATRICIA BÄCK</em></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Hej på er, jag håller snart på att bli tokig på detta sängliggandes, vill bli frisk pronto!! Vill bli frisk, träna, sola och kunna orka med dagarna som vanligt. Blev ett lite kortare outfitinlägg då min hårfärg just nu inte är att leka med, den är hemsk eftersom att färgen till stor del har åkt ur. Så imorgon ska det fixas till, äntligen!</span></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt">Har idag kört netflix and chill hela dagen så nu är det dags att ta tag i lite plugg!</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/netflix-and-chill/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/netflix-and-chill/" data-text="NETFLIX AND CHILL" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/netflix-and-chill/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/netflix-and-chill/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/netflix-and-chill/&description=NETFLIX AND CHILL" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/netflix-and-chill/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/outfits/" rel="category tag">OUTFITS</a> på <a href="http://finest.se/johannasjoo/2016/01/netflix-and-chill/" title="21:35" rel="bookmark"><time class="entry-date" datetime="2016-01-26T21:35:18+00:00">januari 26, 2016 21:35</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10536" class="post-10536 post type-post status-publish format-standard hentry category-vardag">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/operation-2/" rel="bookmark">OPERATION&#8230;.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453819919-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453819919-6916.jpg" class="alignnone size-full wp-image-10540" alt="IMG_4528" width="1500" height="1000" /></a><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453819913-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453819913-6916.jpg" class="alignnone size-full wp-image-10538" alt="IMG_4532" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453819916-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453819916-6916.jpg" class="alignnone size-full wp-image-10539" alt="IMG_4529" width="1500" height="1000" /></a></p>
+<p style="text-align: center"><em>granatäpplen alltså, mums!</em></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt"><strong>Jag har idag haft en väldigt lugn dag,</strong> började med att skjutsa Ella till skolan och sen vidare till vårdcentralen. Har en knöl som jag behöver ta bort och var förbered på att det skulle bli operation idag, men det ser ut som att det blir igen senare under veckan. Så nu är det vila som gäller tills jag mår bra igen! Tur nog har jag sällskap av hunden och så netflix, såklart!</span></p>
+<p style="text-align: center">KRAM</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/operation-2/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/operation-2/" data-text="OPERATION&#8230;." data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/operation-2/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/operation-2/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/operation-2/&description=OPERATION&#8230;." data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/operation-2/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/vardag/" rel="category tag">LIVING</a> på <a href="http://finest.se/johannasjoo/2016/01/operation-2/" title="17:06" rel="bookmark"><time class="entry-date" datetime="2016-01-26T17:06:08+00:00">januari 26, 2016 17:06</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10527" class="post-10527 post type-post status-publish format-standard hentry category-listor category-collage category-mode category-vardag">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/" rel="bookmark">11 SAKER DU KANSKE INTE VISSTE OM MIG</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453786141-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453786141-6916.jpg" class="alignnone size-full wp-image-10530" alt="instacollgage" width="1200" height="1200" /></a></p>
+<p style="text-align: center"><span style="color: #000000"><strong>1. Har glasögon och ser nu så dåligt att jag inte kan läsa på mobilen överhuvudtaget utan glasögon eller linser. Så jag ser verkligen jättedåligt! </strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>2. Är verkligen en riktigt frusen person när det kommer till inomhus, men när man kommer utomhus är jag nästan en viking. Tunna jackor året om haha!</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>3. Lyssnar på rock lite i hemlighet, märkte det på rocktimmar på radion och på afterskin att jag kunde ju alla rockklassiker som spelades! </strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>4. Har otroligt stora komplex över mina fötter, har därför nästan alltid heltäckande skor eller strumpor på mig. Är ju iallafall varm om fötterna!</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>5. Gråter otroligt sällan och när jag väl gör det är det är det till någon snyftfilm eller precis innan jag ska somna om jag haft en tuff dag, då rullar det två eller tre tårar så är det bra sen haha.</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>6. Har ångest varje dag över att jag inte kan lägga all tid jag vill på kompisar och inte har så mycket tid över till att träffa dem. Just nu är det jobb varje dag och möten på luncher osv…</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>7. Min motivation är riktigt stark och kan göra precis vad jag vill när jag vill, men samtidigt kan jag vara lat och inte göra något alls och sova ut en halv dag.</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>8. Är alltid den som lyckas bli vän med killar, alldeles för ofta att det händer att en liten crush kommer fram och säger &#8221;tjenaaa bror&#8221; och ger en brofist! Kul</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>9. Har insett att jag älskar att skriva, har ju bloggarna, tidningen och vill bara skriva mer och mer! Aldrig varit inne på att bli journalist, men det är något som lockar allt mer och mer…</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>10. Anledningen till att jag sällan köper nya skor, eller iallafall använder dem är för att det är aldrig några som passar mina fötter. Vill ha ett par ett smala seniga bruna fötter, det snarare motsatsen till vad jag har…</strong></span></p>
+<p style="text-align: center"><span style="color: #000000"><strong>11.  Har så otroligt mycket idéer just nu och vill dra igång allt möjligt, men snart så ska det tas tag i ett lite större projekt snart vilket jag verkligen ser fram emot!</strong></span></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/" data-text="11 SAKER DU KANSKE INTE VISSTE OM MIG" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/&description=11 SAKER DU KANSKE INTE VISSTE OM MIG" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/listor/" rel="category tag">ALL ABOUT ME</a>,<a href="http://finest.se/johannasjoo/category/collage/" rel="category tag">COLLAGE</a>,<a href="http://finest.se/johannasjoo/category/mode/" rel="category tag">FASHION</a>,<a href="http://finest.se/johannasjoo/category/vardag/" rel="category tag">LIVING</a> på <a href="http://finest.se/johannasjoo/2016/01/11-saker-du-kanske-inte-visste-om-mig/" title="16:30" rel="bookmark"><time class="entry-date" datetime="2016-01-26T16:30:36+00:00">januari 26, 2016 16:30</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-10532" class="post-10532 post type-post status-publish format-standard hentry category-collage category-mode category-inspo">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannasjoo/2016/01/the-it-bag/" rel="bookmark">THE IT BAG</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453788699-6916.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453788699-6916.jpg" class="alignnone size-full wp-image-10533" alt="Loewepuzzlebag" width="1500" height="1484" /></a></p>
+<p style="text-align: center"><em>it-väskan har ett tag varit Loewe Puzzle bag</em></p>
+<p style="text-align: center"><span style="color: #000000;font-size: 12pt"><strong>Den har varit på allas läppar under det senaste halvåret</strong>, men nu så verkar det som att den hänger i allas armveck. Den har sopat undan alla andra modehus och denna enastående design är det som dinglar på alla som är något eller har 19 laxar över till denna snygga väska. Den syns på nästan alla streetstyle-bilder där vi annars brukar de Givenchy, Balenciaga eller Gucci. En sådan i brunt skulle jag verkligen inte tacka nej till! Vaknade vid sex imorse och suttit och dammsugit internet efter trender…</span></p>
+<p style="text-align: center">KRAM</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/johannasjoo/2016/01/the-it-bag/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/johannasjoo/2016/01/the-it-bag/" data-text="THE IT BAG" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/the-it-bag/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/johannasjoo/2016/01/the-it-bag/"></div></span><span class="post-sharers"><a href="//www.pinterest.com/pin/create/button/?url=http://finest.se/johannasjoo/2016/01/the-it-bag/&description=THE IT BAG" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannasjoo/2016/01/the-it-bag/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannasjoo/category/collage/" rel="category tag">COLLAGE</a>,<a href="http://finest.se/johannasjoo/category/mode/" rel="category tag">FASHION</a>,<a href="http://finest.se/johannasjoo/category/inspo/" rel="category tag">INSPO</a> på <a href="http://finest.se/johannasjoo/2016/01/the-it-bag/" title="08:20" rel="bookmark"><time class="entry-date" datetime="2016-01-26T08:20:51+00:00">januari 26, 2016 08:20</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannasjoo/author/johannasjoo/" title="View all posts by Johanna Sjöö" rel="author">Johanna Sjöö</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/johannasjoo/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/sites/6782/2016/01/1453128762-6916.jpg" class="" /></div><div class="profile-desc">18 år gammal, jobbar som moderedaktör på Metro Värmland, läser ekonomilinjen på gymnasiet och på fritiden ägnar jag min största del till plugg, mode och träning. Vill inspirera andra till att våga leva ut sina drömmar och vara den de vill, utan att hållas tillbaka.
+
+Kontakt för samarbeten: johannasjoo@gmail.com
+Instagram: johannasjoo</div></aside><aside id="instagramwidget-2" class="widget widget_instagramwidget"><h3 class="widget-title">johannasjoo</h3><div class="instagram-contain"><a href="https://www.instagram.com/p/BBE3jI7Mx1u/" title="Duckfacetorsdag idag ✨🍾" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c102.0.876.876/12501726_225225591154387_350367314_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBBBc9kMx5t/" title="Goals på denna frukost ✨" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.70.1080.1080/12547158_1510028795966703_1163461007_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA-ZFgdsx9j/" title="Smider planer ✨💭🍾 snart bday...." target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c51.0.640.640/12534185_1698692927042586_693416762_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA7zClbMx79/" title="Ler på insidan, lovar ✨" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12407151_1649736965275634_1679186647_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA6uMUwMx-b/" title="Söndagsmys 💭✨" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c42.0.639.639/12543112_975581322495878_1576976403_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA2qH7Osx0G/" title="Happy friday ✨💗" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c128.0.824.824/12547193_421946168001817_1879921312_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA0I7ocsx-2/" title="New watch ✨💭" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c128.0.823.823/12547317_147844998926884_1122574365_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAxk_6-Mx89/" title="Behöver sommar och USA 🇺🇸 glöm inte att kika in på bloggen! #linkinbio" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c85.0.909.909/12545329_1726565594241118_1817741461_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAw2_ywMx02/" title="Kaffe löser allt när man är sjuk ☕️" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c102.0.876.876/12547347_1528229647505261_353340866_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAu8LWzsx6H/" title="En grå tisdag men är nöjd ändå ✨" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.85.1080.1080/12534198_435480909977360_1060206099_n.jpg" class="instagram-media"></a></div></aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Kategorier</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://finest.se/johannasjoo/category/listor/" >ALL ABOUT ME</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://finest.se/johannasjoo/category/all-we-need-is-love/" >ALL WE NEED IS LOVE</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://finest.se/johannasjoo/category/skonhet/" >BEAUTY</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://finest.se/johannasjoo/category/bloppis/" >BLOPPIS</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://finest.se/johannasjoo/category/collage/" >COLLAGE</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://finest.se/johannasjoo/category/tavlingar/" >COMPETITIONS</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://finest.se/johannasjoo/category/mode/" >FASHION</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://finest.se/johannasjoo/category/fifty-shades-of-grey-travel/" >FIFTY SHADES OF GREY TRAVEL</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://finest.se/johannasjoo/category/traning/" >FITNESS</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://finest.se/johannasjoo/category/mat/" >FOOD</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://finest.se/johannasjoo/category/noje/" >FRIENDS AND FUN</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://finest.se/johannasjoo/category/in-and-out/" >IN AND OUT</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://finest.se/johannasjoo/category/inspo/" >INSPO</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://finest.se/johannasjoo/category/inredning/" >INTERIOR</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://finest.se/johannasjoo/category/vardag/" >LIVING</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://finest.se/johannasjoo/category/vagen-till-framgang/" >MAKE IT, DO IT</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://finest.se/johannasjoo/category/musik/" >MUSIC</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://finest.se/johannasjoo/category/outfits/" >OUTFITS</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://finest.se/johannasjoo/category/shopping/" >SHOPPING</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://finest.se/johannasjoo/category/tips/" >TIPS</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://finest.se/johannasjoo/category/travels/" >TRAVELS</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://finest.se/johannasjoo/category/aret-2014/" >ÅRET 2014</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="http://finest.se/johannasjoo/category/aret-2015/" >ÅRET 2015</a>
+</li>
+		</ul>
+</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Arkiv</h3>		<ul>
+	<li><a href='http://finest.se/johannasjoo/2016/01/'>januari 2016</a>&nbsp;(90)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/12/'>december 2015</a>&nbsp;(98)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/11/'>november 2015</a>&nbsp;(104)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/10/'>oktober 2015</a>&nbsp;(101)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/09/'>september 2015</a>&nbsp;(81)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/08/'>augusti 2015</a>&nbsp;(83)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/07/'>juli 2015</a>&nbsp;(92)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/06/'>juni 2015</a>&nbsp;(79)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/05/'>maj 2015</a>&nbsp;(108)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/04/'>april 2015</a>&nbsp;(114)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/03/'>mars 2015</a>&nbsp;(111)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/02/'>februari 2015</a>&nbsp;(106)</li>
+	<li><a href='http://finest.se/johannasjoo/2015/01/'>januari 2015</a>&nbsp;(114)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/12/'>december 2014</a>&nbsp;(121)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/11/'>november 2014</a>&nbsp;(125)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/10/'>oktober 2014</a>&nbsp;(125)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/09/'>september 2014</a>&nbsp;(115)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/08/'>augusti 2014</a>&nbsp;(113)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/07/'>juli 2014</a>&nbsp;(108)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/06/'>juni 2014</a>&nbsp;(116)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/05/'>maj 2014</a>&nbsp;(134)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/04/'>april 2014</a>&nbsp;(129)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/03/'>mars 2014</a>&nbsp;(128)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/02/'>februari 2014</a>&nbsp;(92)</li>
+	<li><a href='http://finest.se/johannasjoo/2014/01/'>januari 2014</a>&nbsp;(109)</li>
+	<li><a href='http://finest.se/johannasjoo/2013/12/'>december 2013</a>&nbsp;(99)</li>
+	<li><a href='http://finest.se/johannasjoo/2013/11/'>november 2013</a>&nbsp;(92)</li>
+	<li><a href='http://finest.se/johannasjoo/2013/10/'>oktober 2013</a>&nbsp;(67)</li>
+	<li><a href='http://finest.se/johannasjoo/2013/09/'>september 2013</a>&nbsp;(1)</li>
+		</ul>
+</aside><aside id="search-2" class="widget widget_search"><h3 class="widget-title">Sök i bloggen</h3><form role="search" method="get" id="searchform" action="http://finest.se/johannasjoo/">
+    <div><label class="screen-reader-text" for="s">Sök efter</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Sök" />
+    </div>
+</form></aside><aside id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>januari 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="måndag">m</th>
+		<th scope="col" title="tisdag">ti</th>
+		<th scope="col" title="onsdag">o</th>
+		<th scope="col" title="torsdag">to</th>
+		<th scope="col" title="fredag">f</th>
+		<th scope="col" title="lördag">l</th>
+		<th scope="col" title="söndag">s</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://finest.se/johannasjoo/2015/12/">&laquo; Dec</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td><a href="http://finest.se/johannasjoo/2016/01/01/" title="HELLO 2016
+NEW YEAR, NEW LIMITS">1</a></td><td><a href="http://finest.se/johannasjoo/2016/01/02/" title="COSY EVENING
+Mina nyårslöften
+NEW BASICS">2</a></td><td><a href="http://finest.se/johannasjoo/2016/01/03/" title="COFFEE O&#8217;CLOCK
+BEST OF GREECE
+FIRST GYM SESSION OF THE YEAR">3</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/johannasjoo/2016/01/04/" title="LATE NIGHT INSPO
+THE FLOWERS ARE BACK
+APRIL 2015">4</a></td><td><a href="http://finest.se/johannasjoo/2016/01/05/" title="DON&#8217;T HOLD ANYONE BACK
+HELLO STOCKHOLM
+COLD AS ICE">5</a></td><td><a href="http://finest.se/johannasjoo/2016/01/06/" title="TEATIME
+STORSLAGNA STORIES OCH ROSÉ">6</a></td><td><a href="http://finest.se/johannasjoo/2016/01/07/" title="FYNDA RÄTT PÅ REORNA
+READY FOR THE SUN
+Bon Echo Collective
+GET THE PERFECT MORNING ROUTINE">7</a></td><td><a href="http://finest.se/johannasjoo/2016/01/08/" title="GIRLSNIGHT 
+PUT A TOP ON IT
+A FRIDAY WITH NO PLANS">8</a></td><td><a href="http://finest.se/johannasjoo/2016/01/09/" title="A GOOD KIND OF MORNING
+STYLE IS EVERYTHING
+NO. 2">9</a></td><td><a href="http://finest.se/johannasjoo/2016/01/10/" title="DREAMING
+LV LOVE
+IT&#8217;S SNOWING BABY">10</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/johannasjoo/2016/01/11/" title="FOLLOW ME ON INSTAGRAM
+GOLDEN GLOBES FAVOURITES
+COLD AS ICE">11</a></td><td><a href="http://finest.se/johannasjoo/2016/01/12/" title="HOW TO BE A SUPERGIRL
+TUESDAY LOVE
+20% RABATT PÅ NA-KD.COM
+CHILL AFTERNOON">12</a></td><td><a href="http://finest.se/johannasjoo/2016/01/13/" title="10 SAKER DU KANSKE INTE VISSTE OM MIG
+MY NEW WATCH
+FIGHT FOR IT
+TODAYS WANT">13</a></td><td><a href="http://finest.se/johannasjoo/2016/01/14/" title="HUR MAN FÅR THE HOLLYWOODGLOW
+DAGENS METRO
+ON MY HEAD">14</a></td><td><a href="http://finest.se/johannasjoo/2016/01/15/" title="THE GOLDEN MONKEY
+RÖSTA PÅ MIG SOM ÅRETS TOPPBLOGG PÅ FINEST 
+SÄLEN">15</a></td><td><a href="http://finest.se/johannasjoo/2016/01/16/" title="BATHTIME
+FUN TIMES, COLD TIMES">16</a></td><td><a href="http://finest.se/johannasjoo/2016/01/17/" title="GOING BACK HOME
+MANAGE YOUR TIME BETTER
+SOME THINGS I ORDERED">17</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/johannasjoo/2016/01/18/" title="SUCCESS IS THE BEST REVENGE
+SEX SAKER SOM DU MÅSTE VÅGA GÖRA NU
+NOT MY KIND OF MONDAY
+HUR KOMMER DU ATT KLÄ DIG I VÅR?">18</a></td><td><a href="http://finest.se/johannasjoo/2016/01/19/" title="POMERGRANATE LOVE
+WHO IS ELSA?
+MY LATEST OUTFITS">19</a></td><td><a href="http://finest.se/johannasjoo/2016/01/20/" title="ALL I EVER WANTED
+MY WALK IN CLOSET
+RENGÖRINGSRUTINER: BYE BYE ACNE OCH OREN HUD">20</a></td><td><a href="http://finest.se/johannasjoo/2016/01/21/" title="PINKY SWEAR
+NEW MAKE UP
+WHITE AND FURRY">21</a></td><td><a href="http://finest.se/johannasjoo/2016/01/22/" title="VAGABOND
+FRIYAY 2.0
+SNEAKPEAK">22</a></td><td><a href="http://finest.se/johannasjoo/2016/01/23/" title="WORKTIME
+BÅTEN
+SOFT BASIC TONES
+LOVELY READERS, I NEED YOUR HELP">23</a></td><td><a href="http://finest.se/johannasjoo/2016/01/24/" title="SUNDAY DREAMS
+MAKING PLANS
+CRYSTALS">24</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/johannasjoo/2016/01/25/" title="TIPS PÅ PODCASTS
+MONDAY IS A MESS
+ITS SOON VALENTINE&#8217;S DAY&#8230;
+WANTIES X8
+JUST A LITTLE SNEAKPEAK">25</a></td><td><a href="http://finest.se/johannasjoo/2016/01/26/" title="THE IT BAG
+11 SAKER DU KANSKE INTE VISSTE OM MIG
+OPERATION&#8230;.
+NETFLIX AND CHILL
+SJUKA ARTISTER TILL THE WEEKEND FESTIVAL">26</a></td><td><a href="http://finest.se/johannasjoo/2016/01/27/" title="GOOD MORNING
+VAD JAG JOBBAR MED
+WORKY WORKY">27</a></td><td id="today"><a href="http://finest.se/johannasjoo/2016/01/28/" title="NYA TRÄNINGSKLÄDER
+BLACK COAT
+LOOK LIKE GIGI HADID">28</a></td><td>29</td><td>30</td><td>31</td>
+	</tr>
+	</tbody>
+	</table></div></aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h3 class="widget-title">Senaste inläggen</h3>		<ul>
+					<li>
+				<a href="http://finest.se/johannasjoo/2016/01/look-like-gigi-hadid/">LOOK LIKE GIGI HADID</a>
+						</li>
+					<li>
+				<a href="http://finest.se/johannasjoo/2016/01/black-coat/">BLACK COAT</a>
+						</li>
+					<li>
+				<a href="http://finest.se/johannasjoo/2016/01/nya-traningsklader/">NYA TRÄNINGSKLÄDER</a>
+						</li>
+					<li>
+				<a href="http://finest.se/johannasjoo/2016/01/worky-worky/">WORKY WORKY</a>
+						</li>
+					<li>
+				<a href="http://finest.se/johannasjoo/2016/01/vad-jag-jobbar-med/">VAD JAG JOBBAR MED</a>
+						</li>
+				</ul>
+		</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><span id="blogportalstats" title="149562"></span>
+<script>
+(function() {
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+s.src = 'http://www.bloggportalen.se/BlogPortal/js/stats/blogstat.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+})();
+</script>
+
+<script src="https://widget.bloglovin.com/widget/scripts/bl.js"></script><a class="bloglovin-widget" href="http://www.bloglovin.com/blog/13215557" target="_blank"><img src="http://www.bloglovin.com/widget/bilder/widget_watkins.gif?id=13215557"></a></div>
+		</aside><aside id="finestsharemyblogwidget-2" class="widget widget_finestsharemyblogwidget"><textarea readonly style="resize: none;" cols="28" rows="4" onfocus="this.select();" onmouseup="return false;"><a href="http://finest.se/johannasjoo"><button class="button">Johanna Sjöö</button></a></textarea><br/><br/><span style="cursor: pointer;" class="what-share-widget">What's this ?</span></aside><aside id="googletranslatorwidget-2" class="widget widget_googletranslatorwidget">            <div id="google_translate_element"></div><script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            </aside><aside id="blogcategorieswidget-2" class="widget widget_blogcategorieswidget"><div><a href="/category-bloggers/?category=1">Mode</a>, <a href="/category-bloggers/?category=6">Träning/Hälsa</a>, <a href="/category-bloggers/?category=10">Skönhet</a></div></aside></div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="https://www.facebook.com/johannaa.sjoo" target="_blank"><img src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/facebook.png" alt="Facebook" /></a><a href="https://twitter.com/johannasjoo" target="_blank"><img src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/twitter.png" alt="Twitter" /></a><a href="http://instagram.com/johannasjoo" target="_blank"><img src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/johannasjoo/feed/rss/" target="_blank"><img src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/johannasjoo/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+            </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+                <!-- scripts for Twitter -->
+                <script>!function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if (!d.getElementById(id)) {
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = p + '://platform.twitter.com/widgets.js';
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }
+                    }(document, 'script', 'twitter-wjs');</script>
+                            <!-- scripts for Google -->
+                <script src="https://apis.google.com/js/platform.js" async defer>
+                    {
+                        lang: 'sv'
+                    }
+                </script>
+                            <!-- scripts for Pinterest -->
+                <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+            <script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/johannasjoo/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/johannasjoo.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/johannasjoo/) in 0.59250 seconds, on: Jan 28th, 2016 @ 7:52 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:52 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/johannasjoo) in 0.00395 seconds, on: Jan 28th, 2016 @ 8:03 pm UTC. -->

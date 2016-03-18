@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>Proxy error: 502 Read from server failed: Timeout.</title>
+</head><body>
+<h1>502 Read from server failed: Timeout</h1>
+<p>The following error occurred while trying to access <strong>http://finest.se/tanjad/</strong>:<br><br>
+<strong>502 Read from server failed: Timeout</strong></p>
+<hr>Generated Mon, 01 Feb 2016 18:42:51 BDT by Polipo on <em>localhost:8123</em>.
+</body></html>

@@ -1,0 +1,11 @@
+Alternate-Protocol: 443:npn-spdy/2
+Content-Language: en
+Set-Cookie: anonymous-adventurer=f2ocn39j6kln0rfw9e0zv4n5uxzydyb9; Domain=.cybo.com; expires=Sun, 17-Jan-2016 15:22:03 GMT; HttpOnly; Max-Age=1209600; Path=/; Secure
+Expires: Sun, 03 Jan 2016 15:22:03 GMT
+Vary: Cookie, User-Agent, Accept-Language
+Server: nginx
+Last-Modified: Sun, 03 Jan 2016 15:22:03 GMT
+Location: https://yellowpages.cybo.com/sorry/?next=https%3A//pharmacy.cybo.com/AU-biz/cincotta-chemist-auburn
+Cache-Control: max-age=0
+Date: Sun, 03 Jan 2016 15:22:36 GMT
+Content-Type: text/html; charset=utf-8

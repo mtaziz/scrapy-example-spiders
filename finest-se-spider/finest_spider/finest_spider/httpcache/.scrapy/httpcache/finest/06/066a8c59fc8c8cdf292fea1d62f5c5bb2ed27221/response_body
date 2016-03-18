@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>KändisTV | Häng med oss in bakom kulisserna i kändisvärlden. Nya inlägg och exklusiva klipp laddas upp flera dagar i veckan. Mycket nöje!</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/kandistv/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/kandistv/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="KändisTV &raquo; flöde" href="http://finest.se/kandistv/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KändisTV &raquo; kommentarsflöde" href="http://finest.se/kandistv/comments/feed/" />
+<meta property="og:title" content="KändisTV"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/kandistv/"/><meta property="og:description" content="Inbjudningar och kontakt: 
+
+KÄNDIS TV,
+c/o Rockson,
+Högbergsgatan 36,
+116 20 Stockholm
+
+Mail: info@kandistv.se"/><meta property="og:site_name" content="finest.se/kandistv/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/10638/2015/11/1446640520-10846.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/kandistv\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/kandistv/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/kandistv/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/kandistv/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/kandistv/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/kandistv/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/kandistv/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/kandistv/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/kandistv/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/kandistv\/wp-admin\/admin-ajax.php","categories":"mode"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+    	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+        <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-header h1 a,
+            .site-header h2 {
+                color: #ffffff;
+            }
+                    </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; background-image: url('http://cdn.finest.se/wp-content/uploads/sites/10638/2015/10/1445873383-10846.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/kandistv/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 10638);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/kandistv/" title="KändisTV" rel="home">KändisTV</a>
+                    </h1>
+
+                    <h2 class="site-description">Häng med oss in bakom kulisserna i kändisvärlden. Nya inlägg och exklusiva klipp laddas upp flera dagar i veckan. Mycket nöje!</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/kandistv/">Hem</a></li><li class="page_item page-item-2"><a href="http://finest.se/kandistv/exempelsida/">Exempelsida</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/kandistv/"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/cropped-1451750122-10846.png" class="header-image" width="1500" height="368" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-2193" class="post-2193 post type-post status-publish format-standard hentry category-okategoriserade tag-anna-book tag-kandis-tv tag-kandistv tag-kim-lindman tag-melodifestivalen tag-samir-viktor tag-samir-badran">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/27/galen-inspelning-med-samir-badran-och-anna-book/" rel="bookmark">Galen inspelning med Samir Badran och Anna Book</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913594-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913594-10846.jpg" class="alignnone size-full wp-image-2194" alt="melloform0" width="1500" height="1000" /><br />
+</a>Idag testade KändisTV tillsammans med kändistränaren <strong>Kim Lindman</strong> Melodifestivalformen på <strong>Samir Badran</strong> och<strong> Anna Book</strong> som båda två tävlar i den första deltävlingen i Melodifestivalen som drar igång i Göteborg nästa lördag.</p>
+<p>Vi kan helt klart utlova ett galet filmklipp på KändisTV lagom till helgen. När två härliga galenpannor möts så kan vad som helst hända. Och det gjorde det. Haha. Kolla bara in bilderna från inspelningen. Det var stört omöjligt att få dem att stå stilla och titta in i kameran (samtidigt). Helt klart en av de mer kaotiska filminspelningar vi gjort. Men roligt blev det!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913812-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913812-10846.jpg" class="alignnone size-full wp-image-2195" alt="melloform1" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913816-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913816-10846.jpg" class="alignnone size-full wp-image-2196" alt="melloform2" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913819-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453913819-10846.jpg" class="alignnone size-full wp-image-2197" alt="melloform3" width="1500" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p><strong>FILMTIPS FRÅN KÄNDIS TV &#8211; SAMIR &amp; PARADISE HOTEL-VINNARNA MOS &amp; JOSEFINE: </strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/7iZHk7nA4rw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/27/galen-inspelning-med-samir-badran-och-anna-book/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/27/galen-inspelning-med-samir-badran-och-anna-book/" title="18:10" rel="bookmark"><time class="entry-date" datetime="2016-01-27T18:10:45+00:00">januari 27, 2016 18:10</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-2186" class="post-2186 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/27/kandistv-bloggen-tranar-och-svettas-som-kandisarna/" rel="bookmark">KändisTV-bloggen tränar och svettas som kändisarna</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Vi är mitt i galasäsongen. Tidigare i veckan var det <em>Idrottsgalan</em>, veckan innan både <em>Ellegalan</em>, <em>Guldbaggen</em> och <em>P3 Guld</em>. Även i Hollywood står galorna som spön i backen och <em>Golden Globe</em> har precis gått av stapeln och galornas gala <em>Oscarsgalan</em> närmar sig med stormsteg.</p>
+<p>Ska man glänsa på röda mattan så gäller det att vara i form. Och vill man vara fin så får man som bekant lida pin. Kändisarnas favoritträningsform för att komma i galablåsorna eller designer-smokingen är <em>Bootcamp</em>. Vi på KändisTV-bloggen vill inte vara sämre så vi har skrivit in oss på <em>Prince Fitness Indoor Bootcamp</em>. 3 kvällar i veckan infinner vi oss hos träningsgurun Prince på Tulegatan i centrala Stockholm och plågas, svettas och har roligt. Även om värsta galasäsongen är över lagom till vi är klara så slipper vi förhoppningsvis bada i vassen i sommar.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453884599-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453884599-10846.jpg" class="alignnone size-full wp-image-2189" alt="IMG_0676" width="1500" height="1000" /><br />
+</a><em>Delar av vår tappra skara som svettas tillsammans hos Prince. </em></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453884665-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453884665-10846.jpg" class="alignnone size-full wp-image-2190" alt="IMG_0711" width="1500" height="1000" /><br />
+</a><em>I dagsläget är det här överkurs för oss. Men vi nöter på. </em></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453884816-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453884816-10846.jpg" class="alignnone size-full wp-image-2191" alt="IMG_0627" width="1500" height="1000" /><br />
+</a><em>Förutom Bootcamp erbjuder Prince även PT-timmar och induviduella kostscheman. Vill du också träna som kändisarna men till ett överkomligt pris, kolla in www.princefintess.com</em></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/27/kandistv-bloggen-tranar-och-svettas-som-kandisarna/#comments"><span class="leave-reply">1 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/27/kandistv-bloggen-tranar-och-svettas-som-kandisarna/" title="09:56" rel="bookmark"><time class="entry-date" datetime="2016-01-27T09:56:55+00:00">januari 27, 2016 09:56</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-2170" class="post-2170 post type-post status-publish format-standard hentry category-okategoriserade tag-annica-englund tag-annica-englund-se tag-annicas-universum tag-big-brother tag-kandistv tag-marcelo-pena">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/23/exklusiva-bilder-annica-englund-marcelo-penas-lyxiga-vindsvaning/" rel="bookmark">EXKLUSIVA BILDER: Annica Englund &amp; Marcelo Peñas lyxiga vindsvåning</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453543767-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453543767-10846.jpg" class="alignnone size-full wp-image-2179" alt="680@80" width="680" height="512" /><br />
+</a>I december kunde KändisTV-bloggen avslöja att tv-profilerna och superbloggarna <strong>Annica Englund</strong> och <strong>Marcelo Peña</strong> sålt sin lägenhet vid Mariatorget på Södermalm för att nu byta upp sig till en lyxig nästan dubbelt så stor vindsvåning.</p>
+<p>(<strong><a href="http://finest.se/kandistv/2015/12/17/bildbomb-annica-englund-och-marcelo-pena-koper-lyxvaning/" target="_blank">Klicka HÄR så kan du se deras gamla mysiga söderlya</a></strong>)</p>
+<p>Enligt rykten gjorde de en rejäl vinst vid försäljningen. Och extrapengar är alltid välkommet. Vi har nu exklusiva bilder på våningen som det framgångsrika paret har köpt, där de kommer att flytta in i slutet av februari. Och det var nog ingen billig affär. Observera att bilderna är från bostadsannonsen vid försäljningen. Våningen genomgår just nu en totalrenovering. Enligt uppgift kommer minst ett sovrum att ryka till förmån för en walk-in-closet till Annica och en arbetshörna för de båda där de kan sitta och blogga. En balkong/terrass byggs också och vem vet, de båda turturduvorna förbereder säkert ett av de andra sovrummen som barnkammare. För nu har de ju ytan och visst börjar det väl bli dags? 😉</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541658-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541658-10846.jpg" class="alignnone size-full wp-image-2171" alt="annica1" width="768" height="1152" /></a><br />
+Välkommen hem till Annica &amp; Marcelo!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541660-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541660-10846.jpg" class="alignnone size-full wp-image-2172" alt="annica2" width="1152" height="768" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541663-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541663-10846.jpg" class="alignnone size-full wp-image-2174" alt="annica4" width="1152" height="768" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541667-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453541667-10846.jpg" class="alignnone size-full wp-image-2176" alt="annica6" width="768" height="1152" /></a></p>
+<p>&nbsp;</p>
+<p><strong>FILMTIPS FRÅN KÄNDIS TV &#8211; ANNICA ENGLUND SOM KÄNDISREPORTER PÅ ELLEGALAN:</strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/EwAape8UTwI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/23/exklusiva-bilder-annica-englund-marcelo-penas-lyxiga-vindsvaning/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/23/exklusiva-bilder-annica-englund-marcelo-penas-lyxiga-vindsvaning/" title="12:45" rel="bookmark"><time class="entry-date" datetime="2016-01-23T12:45:48+00:00">januari 23, 2016 12:45</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-2167" class="post-2167 post type-post status-publish format-standard hentry category-okategoriserade tag-alex-hermansson tag-alexandra-bring tag-anders-timell tag-anton-hysen tag-gladiatorerna tag-gry-forssell tag-guldtuben tag-jesper-hussfelt tag-kandistv tag-malin-mostrom tag-niklas-wikegard tag-rackartygarna tag-tv4 tag-ulf-radebjer">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/22/tv4-bjuder-pa-kandisspecial-i-gladiatorerna/" rel="bookmark">TV4 bjuder på kändisspecial i Gladiatorerna</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453468054-10846.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453468054-10846.jpeg" class="alignnone size-full wp-image-2168" alt="Gladiatorerna special.jpg.ashx" width="620" height="211" /><br />
+</a></p>
+<p>Fotbollsspelaren och dubbla Let’s Dance-vinnaren <strong>Anton Hysén</strong> möter <strong>Alexander ”RackarAlex” Hermansson</strong> när Gladiatorerna tjuvstartar säsongen med ett kändisspecial.</p>
+<p>I samma program ställer även bloggaren och träningsprofilen <strong>Alexandra Bring</strong> upp och hon möter före detta fotbollsspelaren <strong>Malin Moström</strong>.</p>
+<p>Kändisarna kommer göra upp i fem olika grenar och slutligen mötas i den klassiska hinderbanan. Programledare är som tidigare <strong>Gry Forssell</strong> och hon får hjälp av backstage-reporter <strong>Anders Timell</strong>. Huvuddomare är <strong>Ulf Rådbjer</strong> och expertkommentatorer är <strong>Niklas Wikegård</strong> och <strong>Jesper Hussfelt</strong>.</p>
+<p>Kändis-Gladiatorerna tjuvstartar säsongen redan lördagen den 30 januari kl. 20.00 i TV4. Ordinarie säsong drar inte igång förrän 19 mars i samma kanal.</p>
+<p><strong>FILMTIPS FRÅN KÄNDIS TV &#8211; RackarAlex på Guldtuben:</strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/yhonxQXbpio?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/22/tv4-bjuder-pa-kandisspecial-i-gladiatorerna/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/22/tv4-bjuder-pa-kandisspecial-i-gladiatorerna/" title="13:54" rel="bookmark"><time class="entry-date" datetime="2016-01-22T13:54:09+00:00">januari 22, 2016 13:54</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2164" class="post-2164 post type-post status-publish format-standard hentry category-okategoriserade tag-kandistv tag-leif-mannerstrom tag-markus-aujalay tag-mischa-billing tag-sveriges-masterkock tag-tv4">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/22/har-ar-alla-arets-12-tavlande-i-sveriges-masterkock/" rel="bookmark">Här är alla årets 12 tävlande i Sveriges Mästerkock</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453456253-10846.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453456253-10846.jpeg" class="alignnone size-full wp-image-2165" alt="SMK.jpg.ashx" width="620" height="465" /></a></p>
+<p>Den sjätte säsongen av Sveriges Mästerkock 2016 har precis dragit igång i TV4. Auditionsturnén avklarades förra veckan och igår avslutades kvalveckan där 40 matglada amatörer slutligen blev de 12 lyckliga som gick vidare och nu gör upp i Mästerkocksköket om 250.000 kronor och ett kokbokskontrakt med Bonnier i första pris.</p>
+<p><strong>ÅRETS 12 TÄVLANDE I SVERIGES MÄSTERKOCK ÄR: </strong></p>
+<p><strong>Linn Gräsberg</strong>, 18 år, student, Nittorp<br />
+<strong>Rizwan Qadery</strong>, 23 år, student, Stockholm<br />
+<strong>Elin Fridolfsson</strong>, 21 år, mångsysslare, Kalmar<br />
+<strong>Daniel Lakatosz</strong>, 27 år, hovmästare, Haninge<br />
+<strong>Sofie Gudmundsson</strong>, 24 år, projektledare, Malmö<br />
+<strong>Joakim Grubbström</strong>, 37 år, arbetsmiljöspecialist, Göteborg<br />
+<strong>Mikaela Hedenskog</strong>, 26 år, inköpsassistent, Göteborg<br />
+<strong>Paul Kuhlhorn</strong>, 44 år, grafisk formgivare, Stockholm<br />
+<strong>Catarina König</strong>, 31 år, butiksägare, Uppsala<br />
+<strong>Sami Yousri</strong>, 44 år, operasångare, Göteborg<br />
+<strong>Jenny Niska</strong>, 36 år, sommelier, Piteå<br />
+<strong>Hassan Roshandel</strong>, 55 år, skräddare, Jönköping</p>
+<p>Juryn består av <strong>Markus Aujalay, Mischa Billing</strong> och <strong>Leif Mannerström</strong></p>
+<p>Programmet sänds onsdagar kl. 20.00 i TV4.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/22/har-ar-alla-arets-12-tavlande-i-sveriges-masterkock/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/22/har-ar-alla-arets-12-tavlande-i-sveriges-masterkock/" title="10:32" rel="bookmark"><time class="entry-date" datetime="2016-01-22T10:32:41+00:00">januari 22, 2016 10:32</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2162" class="post-2162 post type-post status-publish format-standard hentry category-okategoriserade tag-adrian-montin tag-avenyn tag-bryggeriet tag-goteborg tag-jasmine-gustafsson tag-kandistv tag-paradise-hotel">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/21/jasse-adrian-montin-vander-upp-o-ner-pa-bryggeriet/" rel="bookmark">Jasse &amp; Adrian Montin vänder upp o ner på Bryggeriet</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>De är realityvärldens nya superpar enligt Aftonbladet Klick. Kändis TV&#8217;s fantastiska reporter <strong>Jasmine Gustafsson</strong> och årets kung i Paradise Hotel, <strong>Adrian Montin </strong>är det närmaste ett &#8221;rockstjärnepar&#8221; vi kan komma. Sveriges svar på klassiska rockparet <strong>Tommy Lee</strong> och <strong>Pamela Anderson</strong>. De kan inte riktigt vara tillsammans. Men de kan heller inte var ifrån varandra. Massor med känslor och tjafs, men ännu mer kärlek. Tillsammans med Jasse &amp; Adrian blir det aldrig långtråkigt. Det är en sak som är säker.</p>
+<p>KändisTV åkte ner till Göteborg för att hänga med Jasse och Adrian när de jobbade som mingelvärdar och gästbartendrar på nattklubben Bryggeriet på Avenyn. Inte en lugn stund.</p>
+<p>Kolla vår film hur det går till när realitystjärnorna vänder upp och ner på en nattklubb.</p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/_Ylpxx8GqBA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/21/jasse-adrian-montin-vander-upp-o-ner-pa-bryggeriet/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/21/jasse-adrian-montin-vander-upp-o-ner-pa-bryggeriet/" title="19:08" rel="bookmark"><time class="entry-date" datetime="2016-01-21T19:08:02+00:00">januari 21, 2016 19:08</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2157" class="post-2157 post type-post status-publish format-standard hentry category-okategoriserade tag-adam-palsson tag-alexander-bard tag-alexander-gustafsson tag-anders-ofvergard tag-anitha-schulman tag-anton-hysen tag-arga-snickaren tag-bjorn-ferry tag-bjorn-gustafsson tag-blondinbella tag-calle-schulman tag-dermot-clemenger tag-dragomir-mrsic tag-felix-herngren tag-glenn-hysen tag-gustaf-noren tag-isabella-lowengrip tag-janne-josefsson tag-jesper-parnevik tag-johan-jureskog tag-kandistv tag-little-jinder tag-martina-haag tag-mia-parnevik tag-oscar-zia tag-parneviks tag-peg-parnevik tag-penny-parnevik tag-penny-schulman tag-peter-magnusson tag-philippa-parnevik tag-phoenix-parnevik tag-rebecca-fiona tag-samir-badran tag-the-mauler tag-thomas-wassberg tag-tv3 tag-victoria-silvstedt">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/21/skona-namn-besoker-familjen-parneviks-har-ar-listan-pa-alla-gaster-i-sasong-2/" rel="bookmark">Sköna namn besöker familjen Parneviks &#8211; Här är listan på alla gäster i säsong 2!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453392595-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453392595-10846.jpg" class="alignnone size-full wp-image-2158" alt="_landscape_GE" width="840" height="472" /></a></p>
+<p>Det blir en hel del sköna namn som gästar familjen Parnevik i lyxvillan i Florida när TV3 snart drar igång säsong 2 av den populära serien.</p>
+<p><strong>Så här ser hela gästlistan ut: </strong></p>
+<p>Felix Herngren &amp; Alexander &#8221;The Mauler&#8221; Gustafsson<br />
+Samir Badran och hans pappa Ahmad, Rebecca och Fiona &amp; Anders Öfvergård<br />
+Oscar Zia, Janne Josefsson &amp; Isabella &#8221;Blondinbella&#8221; Löwengrip<br />
+Gustaf Noren, Martina Haag &amp; Peter Magnusson<br />
+Victoria Silvstedt, Johan Jureskog &amp; Dermot Clemenger<br />
+Adam Pålsson &amp; Björn Gustafsson<br />
+Glenn Hysen, Anton Hysen &amp; Alexander Bard<br />
+Björn Ferry, Calle Schulman, Anitha Schulman &amp; Penny Schyulman<br />
+Little Jinder, Thomas Wassberg &amp; Dragomir Mrsic</p>
+<p>Vilka gäster och vilket program tycker ni känns mest spännande?</p>
+<p><strong>FILMTIPS FRÅN KÄNDIS TV:</strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/Psc6u9ub-aw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/21/skona-namn-besoker-familjen-parneviks-har-ar-listan-pa-alla-gaster-i-sasong-2/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/21/skona-namn-besoker-familjen-parneviks-har-ar-listan-pa-alla-gaster-i-sasong-2/" title="17:17" rel="bookmark"><time class="entry-date" datetime="2016-01-21T17:17:54+00:00">januari 21, 2016 17:17</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2143" class="post-2143 post type-post status-publish format-standard hentry category-okategoriserade tag-abba tag-agnetha-faltskog tag-anni-frid-lyngstad tag-benny-andersson tag-bjorn-ulvaeus tag-frida-lyngstad tag-grona-lund tag-kandis-tv tag-kandistv tag-mamma-mia tag-mamma-mia-the-party tag-tyrol">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/21/abba-277-ar-gamla/" rel="bookmark">ABBA har hunnit bli 277 år gamla!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453361530-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453361530-10846.jpg" class="alignnone size-full wp-image-2145" alt="464078-3x2-940x627" width="940" height="627" /></a></p>
+<p>Supergruppen ABBA återförenades igår. I alla fall för en kväll. Men först lite bakgrund för hela youtube-generationenen. På bilden ovan ser ni hur ABBA, Sveriges mest framgångsrika popgrupp genom tiderna, såg ut vid sitt stora genombrott i Brighton 1974 när de vann Eurovision Song Contest med låten &#8221;<em>Waterloo</em>&#8221;. Men nu är det mer än 30 år sedan de upplöstes som grupp och ända sedan dess har det i media och bland fans spekulerats om och när ABBA ska återförenas. Handen på hjärtat, en musikalisk återförening hade nog mest varit sorglig. Förutom superhits och odödlig musik så bygger Abbas storhet mycket på just det att de verkar helt ointresserade av att återförenas, trots att de enligt rykten lockats med gager i miljardklassen. Och de har råd att tacka nej. Under sin aktiva storhetstid i slutet av 1970-talet och början av 80-talet sålde de 180 miljoner album, och de senaste 30 åren fram till idag har de sålt ytterligare 220 miljoner album. Sedan har förstås musikalen &#8221;Mamma Mia&#8221; dragit in åtskilliga miljoner till gruppen. Så alla fyra lever gott så här på ålderns höst. För &#8221;The Fab Four&#8221; börjar bli till åren. <strong>Björn Ulvaeus</strong> och <strong>Anni-Frid Lyngstad</strong> fyller båda 71 år nu i år. <strong>Benny Andersson</strong> blir 70 år och gruppens &#8221;lammkött&#8221; <strong>Agnetha Fältskog</strong> blir ålderspensionär när hon fyller 65 år den 5 april.</p>
+<p>Trots ålder och kanske tack vare rikedom så ser de fantastiska ut än idag. När showen &#8221;<em>Mamma Mia the Party</em>&#8221; hade premiär på Tryol på Gröna Lund Igår kväll fångades alla 4 medlemmarna i ABBA på bild tillsammans för första gången på 8 år. Den svenska kändiseliten var naturligtvis på plats på Tyrol och gick fullständigt bananas och jublet visste inga gränser när Abborna klev upp på scenen för att ta emot publikens kärlek efter föreställningen. Så här ser de ut idag, bilder från Tyrol igår:</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453364898-10846.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453364898-10846.png" class="alignnone size-full wp-image-2146" alt="Skärmklipp 2016-01-21 08.28.32" width="585" height="302" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453366018-10846.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453366018-10846.png" class="alignnone size-full wp-image-2148" alt="Skärmklipp 2016-01-21 08.25.25" width="582" height="393" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453365130-10846.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453365130-10846.png" class="alignnone size-full wp-image-2149" alt="Skärmklipp 2016-01-21 08.32.04" width="568" height="417" /></a></p>
+<p>&nbsp;</p>
+<p><strong>FILMTIPS FRÅN KÄNDIS TV &#8211; KUL VIDEO FRÅN &#8221;ABBA THE MUSEUM&#8221;</strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/6BIiROoYv1Q?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/21/abba-277-ar-gamla/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/21/abba-277-ar-gamla/" title="09:33" rel="bookmark"><time class="entry-date" datetime="2016-01-21T09:33:22+00:00">januari 21, 2016 09:33</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2131" class="post-2131 post type-post status-publish format-standard hentry category-okategoriserade">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/20/sa-rika-ar-de-svenska-hollywoodstjarnorna-vi-har-listan/" rel="bookmark">Så rika är de svenska Hollywoodstjärnorna &#8211; vi har listan!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Den amerikanska drömmen. Fler svenskar än någonsin gör succé i USA och Hollywood, och lyckas man over there så blir det många nollor på kontot. Men hur mycket deg handlar det om egentligen? Vi tog hjälp av amerikanska <em>Celebrity Net Worth</em> för att se hur mycket pengar några av de mest framgångsrika svenskarna i Hollywood har på banken.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316552-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316552-10846.jpg" class="alignnone size-full wp-image-2132" alt="alexander-skarsgard-tarzan" width="1200" height="909" /><br />
+</a><strong>ALEXANDER SKARSGÅRD &#8211; 108 MILJONER KRONOR (12 miljoner dollar)</strong><br />
+Sedan första internationella rollen och genombrottet mot <strong>Ben Stiller</strong> i &#8221;<em>Zoolander</em>&#8221; (2001) har rollerna avlöst varandra och karriären gått spikrakt uppåt för Alexander som har varvat filmroller med stora roller i tv-serier. Mest internationellt känd är han förstås för rollen som <strong>Eric Northam</strong> i &#8221;<em>True Blood</em>&#8221;. För den rollen cashade Alexander in drygt 2,4 miljoner kronor per avsnitt! Alexander är nu aktuell som Tarzan i storfilmen &#8221;<em>The Legend of Tarzan</em>&#8221; som har svensk premiär 13 juli 2016.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453315529-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453315529-10846.jpg" class="alignnone size-full wp-image-2133" alt="fbf67705e5aeca3ad5c46bd2d01af340-original" width="1200" height="900" /><br />
+</a><strong>NOOMI RAPACE &#8211; 180 MILJONER KRONOR (20 miljoner dollar)<br />
+</strong>Noomi har precis som Alexander Skarsgård flyttat sin bas från Sverige på heltid. Han bor i Los Angeles och hon har köpt ett stort hus i London där hon utgår ifrån för att driva sin framgångsrika karriär, mycket för att  hennes son ska ha nära till pappa <strong>Ola Rapace</strong> här hemma i Sverige. Succéerna har varit många och det har definitivt även gett klirr i kassan för Noomi.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316620-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316620-10846.jpg" class="alignnone size-full wp-image-2134" alt="SuicideSquadKinnaman" width="640" height="437" /><br />
+</a><strong>JOEL KINNAMAN &#8211; 54 MILJONER KRONOR (6 miljoner dollar)</strong><br />
+Nykomlingen. Joel har ju inte varit verksam i Hollywood lika länge som Alexander och Noomi men har ändå skrapat ihop en ansenlig summa guldpengar. Dessa 54 miljoner ska kanske tas med en liten nypa salt för arvodet, som säkerligen var rätt ordentligt, för &#8221;Robocop&#8221; är inte medräknat här så rimligen borde han ha tjänat ytterligare någonstans mellan 15 &#8211; 30 miljoner kronor.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316881-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316881-10846.jpg" class="alignnone size-full wp-image-2135" alt="malin-akerman-484" width="1500" height="938" /><br />
+</a><strong>MALIN ÅKERMAN &#8211; 90 MILJONER KRONOR (10 miljoner dollar)</strong><br />
+Ja, vi vet. Malin är inte &#8221;riktigt svensk&#8221;, men i alla fall. Vi vill ha med henne på listan både för att vi gillar henne, för att hon talar svenska och för att hon är uppvuxen här, delvis. Hur som helst. Även om hon inte har haft stora huvudroller i riktiga storfilmer så tickar det på, och nästan 100 miljoner svenska kronor är ingen dålig slant.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453315790-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453315790-10846.jpg" class="alignnone size-full wp-image-2136" alt="rod_stewart_and_britt_ekland_imagine" width="620" height="413" /><br />
+</a>(<em>Vi kunde inte låta bli att ta en bild på Britt tillsammans med Rod. De coolaste katterna ever!</em>)</p>
+<p><strong>BRITT EKLAND &#8211; 160 MILJONER KRONOR (18 miljoner dollar)</strong><br />
+Britt är väl den enda av de Svenska Hollywoodfruarna som har stålar, på riktigt. Egna stålar. Sedan kan man ju diskutera om hon har tjänat dem genom den långa, långa rad med b-filmer hon medverkat i ända sedan 60-talet eller om hon har gjort ekonomiskkarriär genom äktenskap med <strong>Peter Sellers</strong> och stormrika <strong>Lou Adler</strong> och sitt långvariga förhållande med <strong>Rod Stewart.</strong> Det sägs att Britt fick ett enormt underhåll, eller &#8221;avgångsvederlag&#8221; av Rod när de separerade trots att de aldrig var gifta. Hur som helst, Britt är en frisk fläkt och en Hollywood Lady med krut i som förtjänar respekt.</p>
+<p><strong><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317692-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317692-10846.jpg" class="alignnone size-full wp-image-2141" alt="maria" width="800" height="450" /></a>MARIA MONTAZAMI &#8211; 27 MILJONER KRONOR (3 miljoner dollar)<br />
+</strong>Britts kollega Maria har inte hunnit skrapa ihop så mycket egna pengar. TV3 betalar ju bara småsmulor med Hollywood-mått-mätt, men sidoinkomster från reklam och de egna produkterna, böckerna, vinerna och framträdanden på olika events och mässor har ändå gett rejält med fickpengar till Maria.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316879-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453316879-10846.jpg" class="alignnone size-full wp-image-2137" alt="dolph-lundgren" width="1280" height="960" /><br />
+</a><strong>DOLPH LUNDGREN &#8211; 135 MILJONER KRONOR (15 miljoner dollar)</strong><br />
+Det underbara med landet i väst är att där kan man tjäna ihop en hel kappsäck med guldpengar även om man i stort sett bara ägnar sig åt b-, c- och d-film som nästan uteslutande släpps direkt på dvd utan att ta omvägen via bio. Se på Dolph Lundgren, det är han ett levande bevis på. Men alla sätt är bra utom de dåliga brukar man ju säga. Fast just här har ju det dåliga varit riktigt bra. I alla fall för Dolph.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317240-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317240-10846.jpg" class="alignnone size-full wp-image-2138" alt="victoria-silvstedt-3-victoria-silvstedt-29539524-1792-1901" width="1414" height="1500" /><br />
+</a><strong>VICTORIA SILVSTEDT &#8211; 135 MILJONER KRONOR (15 miljoner dollar)<br />
+</strong>Victorias skådespelarinsatser på vita duken i ex. &#8221;<em>Boat Trip</em>&#8221; (gick den ens på bio?) är väl inget som kommer att gå till historien. Men faktum är att hon faktiskt har 27 stycken skådespelar credits på IDMB. Dock har nog merparten av hennes förmögenhet kommit från annat håll. Playmate of the Year, stora kampanjer för Guess, men framför allt som tv-värdinna och programledare i franska och italienska game shows. Lika mycket pengar som löshår har hon i alla fall.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317283-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317283-10846.jpg" class="alignnone size-full wp-image-2139" alt="Stellan Skarsgard pic 7" width="814" height="1000" /><br />
+</a><strong>STELLAN SKARSGÅRD &#8211; 360 MILJONER KRONOR (40 miljoner dollar)</strong><br />
+Gammal är äldst även i Hollywood. Nästan i alla fall. En lååååååång karriär och otaliga filmer, både succéer och bottennapp har byggt en rejäl förmögenhet för Skarsgård senior. Förutom film så är Stellan inte helt främmande för att tjäna lite extra på exempelvis reklam. För nya Volvo-reklamen som han medverkar i så cashar han in nästan 10 miljoner kronor. Det är Zlatan-nivå på den.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317196-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453317196-10846.jpg" class="alignnone size-full wp-image-2140" alt="avicii" width="630" height="420" /><br />
+</a><strong>TIM &#8221;AVICII&#8221; BERGLING &#8211; 678 MILJONER KRONOR (75 miljoner dollar)</strong><br />
+Kanske inte helt otippat. Det rikaste trollet av alla Hollywoodsvenskar är förstås superstjärnan Avicii. Han kan tjäna lika mycket på en enda kväll som många av filmstjärnorna tjänar på en hel film som de filmar under 8 veckor eller kanske upp till 3 månader.</p>
+<p><strong>FILMTIPS FRÅN KÄNDIS TV: </strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/0kNQy9Yit6E?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/20/sa-rika-ar-de-svenska-hollywoodstjarnorna-vi-har-listan/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/20/sa-rika-ar-de-svenska-hollywoodstjarnorna-vi-har-listan/" title="20:29" rel="bookmark"><time class="entry-date" datetime="2016-01-20T20:29:15+00:00">januari 20, 2016 20:29</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2126" class="post-2126 post type-post status-publish format-standard hentry category-okategoriserade tag-dansa-i-neon tag-det-gor-ont tag-kandis-tv tag-kandistv tag-karleken-ar-evig tag-lena-ph tag-lena-philipsson tag-mansken-i-augusti tag-om-igen">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/kandistv/2016/01/19/lena-philipsson-fyller-50-ar/" rel="bookmark">Stort grattis Lena Philipsson 50 år!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453241783-10846.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2016/01/1453241783-10846.jpg" class="alignnone size-full wp-image-2127" alt="lenaph" width="1500" height="844" /><br />
+</a>KändisTV säger stort grattis till<strong> Lena Philipsson</strong> som fyller 50 år idag. Hon har dansat i neon i över 30 år och stilarna har varit nästan lika många som åren hon varit verksam. Det är just det vi gillar med henne. Ständig förändring både utseendemässigt och musikaliskt. Och i kärlekslivet förstås. Ett rekorderligt fruntimmer som tar för sig av livet. Stort grattis Lena!</p>
+<p><strong>FILMTIPS FRÅN KÄNDIS TV &#8211; LENA PH PÅ DIOR PREMIÄR:</strong></p>
+<p><iframe width="625" height="352" src="https://www.youtube.com/embed/xk6d9Psx-C4?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/kandistv/2016/01/19/lena-philipsson-fyller-50-ar/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/kandistv/category/okategoriserade/" rel="category tag">Okategoriserade</a> på <a href="http://finest.se/kandistv/2016/01/19/lena-philipsson-fyller-50-ar/" title="19:23" rel="bookmark"><time class="entry-date" datetime="2016-01-19T19:23:57+00:00">januari 19, 2016 19:23</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/kandistv/author/kandistv/" title="View all posts by kandistv" rel="author">kandistv</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/kandistv/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2015/11/1446640520-10846.jpg" class="" /></div><div class="profile-desc">Inbjudningar och kontakt: 
+
+KÄNDIS TV,
+c/o Rockson,
+Högbergsgatan 36,
+116 20 Stockholm
+
+Mail: info@kandistv.se</div></aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://finest.se/kandistv/">
+    <div><label class="screen-reader-text" for="s">Sök efter</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Sök" />
+    </div>
+</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Senaste inläggen</h3>		<ul>
+					<li>
+				<a href="http://finest.se/kandistv/2016/01/27/galen-inspelning-med-samir-badran-och-anna-book/">Galen inspelning med Samir Badran och Anna Book</a>
+						</li>
+					<li>
+				<a href="http://finest.se/kandistv/2016/01/27/kandistv-bloggen-tranar-och-svettas-som-kandisarna/">KändisTV-bloggen tränar och svettas som kändisarna</a>
+						</li>
+					<li>
+				<a href="http://finest.se/kandistv/2016/01/23/exklusiva-bilder-annica-englund-marcelo-penas-lyxiga-vindsvaning/">EXKLUSIVA BILDER: Annica Englund &amp; Marcelo Peñas lyxiga vindsvåning</a>
+						</li>
+					<li>
+				<a href="http://finest.se/kandistv/2016/01/22/tv4-bjuder-pa-kandisspecial-i-gladiatorerna/">TV4 bjuder på kändisspecial i Gladiatorerna</a>
+						</li>
+					<li>
+				<a href="http://finest.se/kandistv/2016/01/22/har-ar-alla-arets-12-tavlande-i-sveriges-masterkock/">Här är alla årets 12 tävlande i Sveriges Mästerkock</a>
+						</li>
+				</ul>
+		</aside><aside id="finest-image-widget-2" class="widget widget_finest-image-widget"><div class="pop-artiklar"><div class="content warpWordsContent"><div class="content2 chbx"><a href=""><img src="http://cdn.finest.se/wp-content/uploads/sites/10638/2015/11/1446470835-10846.jpg" class="img-responsive"/></a><div class="content2"><a href=""><h3>https://www.youtube.com/channel/UCvFNOSgJoMb5xTj02Y5NZ8g</h3></a></div></div></div></div></aside><aside id="instagramwidget-3" class="widget widget_instagramwidget"><h3 class="widget-title">Instagram </h3><div class="instagram-contain"><a href="https://www.instagram.com/p/BBDuR6Zt5OA/" title="Vi somnar med ett leende på läpparna när vi tänker på dagens knasiga och roliga filminspelning med härliga @annatoledanobook och @samirbadrans #KändisTV #melodifestivalen2016 #melfest #melfest2016 #melodifestivalen" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12558646_1655203344745278_2139884855_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBDChupt5JH/" title="Idag har vi och kändistränaren @kimlindman testat Melodifestivalformen på @samirbadrans och @annatoledanobook som båda tävlar i Mellon nästa vecka. Hur det gick? Håll utkik på KändisTV. Ett klipp kommer upp i helgen. #KändisTV #melodifestivalen2016 #melfest2016 #melfest" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/929325_1017590878303130_592887715_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBB76fvN5H1/" title="Vi har första bilderna på Annica & Marcelos nya lyxiga vindsvåning. In på bloggen och kolla: www.finest.se/kandistv Vad tycker ni? Vi älskar den! #KändisTV" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12357626_151781998533251_1030310655_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBB1swQN5PU/" title="En ny säsong av Idol i TV4 är på gång. Vad tycker ni om nya juryn med Fredrik Kempe i spetsen? Saknar den stjärnglans? #kändistv #idolSE #tv4" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12383539_599692133518139_229011520_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BA1mFSLt5JQ/" title="Så här laddar Adrian, Jasmine & gänget. Kolla klippet på kanalen hur det gick på Bryggeriet. Länk i bion. #kändistv @adrianmontin @jasminegustafsson" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/12357637_1003528236384301_374464043_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAzjFINN5Ed/" title="Kolla in nya klippet på KändisTV med Adrian Montin & Jasmine Gustafsson på Bryggeriet i Göteborg förra helgen. Helt galet! Länk i bion. Kolla NU! 😜 #kändistv #paradisehotelse @adrianmontin @jasminegustafsson" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12445997_721795844586673_3364538_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAzZARHt5AM/" title="Frida och Agnetha från ABBA återförenade på scenen tillsammans med Björn & Benny  igår kväll på Tyrol på Gröna Lund vid galapremiären av showen "Mamma Mia The Party". Vilken kväll det blev! #kändistv" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12543245_460683290806612_1614316822_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BAxneFpt5ON/" title="Hur mycket pengar har Avicii? Och vem är rikast av Alexander Skarsgård och Joel Kinnaman? Vi har listan på Hollywoodsvenskarnas förmögenheter på bloggen: www.finest.se/kandistv" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12407467_502757416571226_95880828_n.jpg" class="instagram-media"></a></div></aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Senaste kommentarer</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Sara</span> om <a href="http://finest.se/kandistv/2016/01/27/kandistv-bloggen-tranar-och-svettas-som-kandisarna/#comment-61">KändisTV-bloggen tränar och svettas som kändisarna</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.missjennie.se' rel='external nofollow' class='url'>Jennie</a></span> om <a href="http://finest.se/kandistv/2016/01/20/sa-rika-ar-de-svenska-hollywoodstjarnorna-vi-har-listan/#comment-57">Så rika är de svenska Hollywoodstjärnorna &#8211; vi har listan!</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://WWW.theresehedeblom.blogg.se' rel='external nofollow' class='url'>Therese Hedeblom</a></span> om <a href="http://finest.se/kandistv/2016/01/20/sa-rika-ar-de-svenska-hollywoodstjarnorna-vi-har-listan/#comment-56">Så rika är de svenska Hollywoodstjärnorna &#8211; vi har listan!</a></li><li class="recentcomments"><span class="comment-author-link">Mellenn</span> om <a href="http://finest.se/kandistv/2015/12/02/unika-bilder-sveriges-storsta-bloggare-som-unga/#comment-55">UNIKA BILDER: Sveriges största bloggare som unga!</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://veckomagasinet.com' rel='external nofollow' class='url'>anne von porat</a></span> om <a href="http://finest.se/kandistv/2015/11/09/emil-i-lonneberga-har-199-vanner-pa-facebook/#comment-54">Emil i Lönneberga har 199 vänner på Facebook!</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Arkiv</h3>		<ul>
+	<li><a href='http://finest.se/kandistv/2016/01/'>januari 2016</a></li>
+	<li><a href='http://finest.se/kandistv/2015/12/'>december 2015</a></li>
+	<li><a href='http://finest.se/kandistv/2015/11/'>november 2015</a></li>
+	<li><a href='http://finest.se/kandistv/2015/10/'>oktober 2015</a></li>
+		</ul>
+</aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://www.bloggportalen.se/" target="_blank"><img src="https://www.bloggportalen.se/BlogPortal/view/Statistics?id=161069" border="0" /></a> </div>
+		</aside></div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="https://www.facebook.com/pages/Kändis-TV/838506286205853" target="_blank"><img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/facebook.png" alt="Facebook" /></a><a href="https://twitter.com/kandis_tv" target="_blank"><img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/twitter.png" alt="Twitter" /></a><a href="https://instagram.com/kandis_tv/" target="_blank"><img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a><a href="http://youtube.com/kändistv" target="_blank"><img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/youtube.png" alt="Youtube" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/kandistv/feed/rss/" target="_blank"><img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/kandistv/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/kandistv/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/kandistv/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/kandistv.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/kandistv/) in 0.32330 seconds, on: Jan 28th, 2016 @ 6:20 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:20 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/kandistv) in 0.00207 seconds, on: Jan 28th, 2016 @ 6:39 pm UTC. -->

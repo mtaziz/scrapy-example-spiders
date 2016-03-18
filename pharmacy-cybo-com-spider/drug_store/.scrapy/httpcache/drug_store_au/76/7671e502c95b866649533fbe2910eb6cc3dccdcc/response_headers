@@ -1,0 +1,11 @@
+Alternate-Protocol: 443:npn-spdy/2
+Content-Language: en
+Set-Cookie: anonymous-adventurer=y5wx11hbc8o87q423sa1wz5yttjlam6a; Domain=.cybo.com; expires=Sun, 17-Jan-2016 15:21:26 GMT; HttpOnly; Max-Age=1209600; Path=/; Secure
+Expires: Sun, 03 Jan 2016 15:21:26 GMT
+Vary: Cookie, User-Agent, Accept-Language
+Server: nginx
+Last-Modified: Sun, 03 Jan 2016 15:21:26 GMT
+Location: https://yellowpages.cybo.com/m/sorry/?next=https%3A//pharmacy.cybo.com/m/AU-biz/chemist-warehouse-parramatta
+Cache-Control: max-age=0
+Date: Sun, 03 Jan 2016 15:21:59 GMT
+Content-Type: text/html; charset=utf-8

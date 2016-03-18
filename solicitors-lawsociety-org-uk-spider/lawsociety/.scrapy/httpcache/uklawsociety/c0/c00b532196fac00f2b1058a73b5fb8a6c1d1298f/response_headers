@@ -1,0 +1,13 @@
+Content-Encoding: gzip
+Set-Cookie: X-Mapping-fjhppofk=5B1F85DE06FBFEFB5FDAB2FD3CC83118; path=/
+Set-Cookie: ASP.NET_SessionId=dlk0vrnlf3fpe0abkgrn315l; path=/; HttpOnly
+Age: 6
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.0
+Warning: 110 localhost:8123 Object is stale
+Pragma: no-cache
+Cache-Control: no-cache
+Date: Mon, 25 Jan 2016 13:03:33 GMT
+E-Tag: IE=Edge,chrome=1
+Content-Type: text/html; charset=utf-8

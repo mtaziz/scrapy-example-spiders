@@ -1,0 +1,16 @@
+X-Varnish: 1258388942
+X-Drupal-Cache: MISS
+Content-Language: en
+Content-Encoding: gzip
+X-Varnish-Cache: MISS
+Accept-Ranges: bytes
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie, Accept-Encoding
+X-Powered-By: PHP/5.3.17
+Server: nginx/1.3.6
+Last-Modified: Mon, 25 Jan 2016 16:56:56 GMT
+Etag: "1453741016-1"
+Cache-Control: public
+Date: Mon, 25 Jan 2016 16:56:56 GMT
+Content-Type: text/html; charset=utf-8
+Age: 1

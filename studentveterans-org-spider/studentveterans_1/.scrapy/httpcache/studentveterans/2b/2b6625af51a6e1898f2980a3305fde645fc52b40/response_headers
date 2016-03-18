@@ -1,0 +1,9 @@
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Age: 2
+Server: Sucuri/Cloudproxy
+Location: https://www.facebook.com/pages/Alvernia-University-Veterans-Club/117127365157709
+Date: Mon, 15 Feb 2016 17:06:16 GMT
+X-Frame-Options: GOFORIT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8

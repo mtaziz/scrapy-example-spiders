@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Balan | For you and me..</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/balan/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/balan/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/balan/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Balan &raquo; flöde" href="http://finest.se/balan/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Balan &raquo; kommentarsflöde" href="http://finest.se/balan/comments/feed/" />
+<meta property="og:title" content="Balan"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/balan/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/balan/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/4656/2014/11/1417364416-4690.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/balan\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/balan/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/balan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/balan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/balan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/balan/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/balan/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/balan/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/balan/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/balan/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/balan/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/balan/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/balan\/wp-admin\/admin-ajax.php","categories":", humor"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/balan/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 4656);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/balan/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/balan/" title="Balan" rel="home">Balan</a>
+                    </h1>
+
+                    <h2 class="site-description">For you and me..</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/balan/">Hem</a></li><li class="page_item page-item-1598"><a href="http://finest.se/balan/homepage/">Homepage</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/balan/"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2014/11/1416954974-4690.png" class="header-image" width="980" height="240" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-2682" class="post-2682 post type-post status-publish format-standard hentry category-en-tanke category-kattliv category-min-dag tag-godis tag-i-morgon tag-katt tag-kreativ tag-le tag-mitt-hjarta tag-molly tag-muta tag-mutor tag-njuta tag-skratta tag-ta-vara-pa-dagen tag-var-glad tag-var-kreativ">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2016/01/28/du-far-en-godis-om-du-ar-med/" rel="bookmark">Du får en godis om du är med.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1>Njut av dagen för att den kommer inte igen.<br />
+Den finns i morgon.. Men det är inte i dag!</h1>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453996824-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453996824-4690.jpg" class="aligncenter size-full wp-image-2683" alt="1" width="807" height="960" /></a></p>
+<p>&nbsp;</p>
+<h1>SurPuppan Molly som inte vill vara med på bild.</h1>
+<p>Det syns så klart o tydligt på djur när dom inte har lust för något. Hon fick en godisbit för att vara med på denna bild så det gjorde hennes ansikte lite nöjdare efteråt.. Hehe</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453996859-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453996859-4690.jpg" class="aligncenter size-full wp-image-2684" alt="2" width="768" height="960" /></a></p>
+<p>Nu när jag kollar på bilden igen.. Ohh&#8230; Vart tog hennes pupiller vägen?? Haha.. Ser ut som en Zombie katt.<br />
+<em>En snäll sådan. Det får inte lämnas i skuggan.</em> 😛</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2016/01/28/du-far-en-godis-om-du-ar-med/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/en-tanke/" rel="category tag">En tanke</a>,<a href="http://finest.se/balan/category/kattliv/" rel="category tag">Kattliv</a>,<a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2016/01/28/du-far-en-godis-om-du-ar-med/" title="18:07" rel="bookmark"><time class="entry-date" datetime="2016-01-28T18:07:12+00:00">januari 28, 2016 18:07</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-2674" class="post-2674 post type-post status-publish format-standard hentry category-en-tanke category-min-dag tag-drom tag-dromma tag-drommar tag-dormmer tag-glomma-sina-drommar tag-minnas tag-minnas-sina-drommar tag-sova tag-tva-varldar tag-vakna">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2016/01/23/minns-inte-vad-det-var/" rel="bookmark">Minns inte vad det var!!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1 style="text-align: center">Jag hade en underbar dröm.</h1>
+<h1 style="text-align: center">Den var så bra att jag inte ville kliva upp!</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453542441-4690.jpg" class="aligncenter size-full wp-image-2676" alt="z" width="540" height="960" /></p>
+<h2 style="text-align: center">Ibland vill man bara ligga kvar och drömma när klockan ringer&#8230;</h2>
+<h1 style="text-align: center">Riiiing*Riiing* Neeej stör mig inte!!!</h1>
+<p style="text-align: center">Dock så har jag inget minne om vad det var jag drömde om?? Vad var det nu igen?? Den här borta.. Helt BORTA!<br />
+Jag kom på att den var borta på grund av att jag skulle berätta om drömmen till min kille. Ville dela med mig av denna fantastiska upplevelse som jag hade&#8230;</p>
+<p style="text-align: center">Jag är ingen som brukar glömma bort mina drömmar. Jag har rätt bra koll när det kommer till drömmar. Kan berätta allt från början till slut. Ibland helt detaljerat.</p>
+<h1 style="text-align: center">Men inte i dag..</h1>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453542477-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453542477-4690.jpg" class="aligncenter size-full wp-image-2677" alt="x" width="540" height="960" /></a></p>
+<p style="text-align: center">Dom flesta av oss brukar glömma bort sina drömmar så fort dom vaknat upp. Det är som att hoppa från en värld till den andra utan att minnas den ena. Min kille är en av dessa. Han kommer sällan ihåg sina drömmar och gör han det så blir han väldigt inmponerad av att han minns den. <img src="http://finest.se/balan/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />  Det blir lite som WOW jag kom ihåg min dröm.. Hehe..</p>
+<h1 style="text-align: center">Hur är du med dina drömmar? Minns du dom?</h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2016/01/23/minns-inte-vad-det-var/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/en-tanke/" rel="category tag">En tanke</a>,<a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2016/01/23/minns-inte-vad-det-var/" title="12:04" rel="bookmark"><time class="entry-date" datetime="2016-01-23T12:04:20+00:00">januari 23, 2016 12:04</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-2666" class="post-2666 post type-post status-publish format-standard hentry category-mitt-eget-konstverk tag-bok tag-bocker tag-decor tag-diy tag-gor-det-sjalv tag-handgjord tag-heminredning tag-hobby tag-pyssel tag-selfievagg tag-selfiewall tag-skapa tag-tips tag-vingar tag-anglavingar">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2016/01/21/du-kommer-att-ha-den-coolaste-selfie-vaggen/" rel="bookmark">Du kommer att ha den coolaste selfie väggen.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1>Vi behöver inte gå, vi kan flyga.<img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453374568-4690.jpg" class="aligncenter size-full wp-image-2668" alt="q" width="960" height="960" /></h1>
+<h1>För att skapa dina egna vingar behöver du:</h1>
+<h3>1. Två kartong bitar som du klipper i den form du vill att vingarna ska vara.<br />
+2. Riv ut alla sidor ur en bok som du vet att du inte kommer att vilja läsa igen.<br />
+Klipp ut dom i fjäder formar. För att få en mer livfull look så kan du klippa små hack i dom så som fjädrarna vanliga fall har. Det gör slutresultatet ser mer livfullt ut.<br />
+3. Nu är det bara att limma på alla fjädrarna på mallen. Du väljer själv var du vill börja och hur du vill att fjädrarna ska gå runt. Jag valde att börja på vingens högsta kant och sen bygga mig inåt.<br />
+4. Nu är dina vingarna färdiga att hänga upp.<img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453373556-4690.jpg" class="aligncenter size-full wp-image-2669" alt="w" width="1024" height="1024" /></h3>
+<p>Du väljer själv vilken storlekt du vill ha på dina vingar. Inte måste du göra lika stora som mig.<br />
+Det är fint med mindre oxo. Dessa som jag gjorde är nog 1,20 långa. Tog mig tre dagar att göra.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453373531-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1453373531-4690.jpg" class="aligncenter size-full wp-image-2667" alt="e" width="960" height="738" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2016/01/21/du-kommer-att-ha-den-coolaste-selfie-vaggen/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/mitt-eget-konstverk/" rel="category tag">Mitt eget konstverk.</a> på <a href="http://finest.se/balan/2016/01/21/du-kommer-att-ha-den-coolaste-selfie-vaggen/" title="13:24" rel="bookmark"><time class="entry-date" datetime="2016-01-21T13:24:44+00:00">januari 21, 2016 13:24</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-2662" class="post-2662 post type-post status-publish format-standard hentry category-mitt-eget-konstverk category-smaklig-maltid tag-diy tag-farg tag-farga tag-fargar-socker tag-farger tag-forvandling tag-gor-det-sjalv tag-kaffe tag-pyssel tag-pyssla tag-regnbage tag-regnbagen tag-socker tag-stro-socker tag-strosocker tag-te">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2016/01/15/jag-tar-rosa-socker-till-kaffet/" rel="bookmark">Jag tar rosa socker till kaffet.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1>Imponera vännerna när dom kommer över på fika genom att låta dom välja färg på sitt socker.<img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1452860376-4690.jpg" class="  wp-image-2663 alignleft" alt="7" width="289" height="514" /></h1>
+<p>Känns som att ficka stunden blir så mycket härligare med dessa färger.</p>
+<p>Inte är det bara fint utan desutom super enkelt att göra.</p>
+<p>Allt du behöver är:</p>
+<p>En påse<br />
+En hammare<br />
+Socker<br />
+Ett underlag<br />
+Och karamell färg.</p>
+<p>Du börjar med att hälla sockret i spåsen. Efter detta så häller du i några droppar ( dropparna ökar beroende på mängden socker) karamell färg. Sedan stänger du påsen och börjar skaka den så mycket du bara kan. All ska färg ska fördelas lika på sockret. Märker du att det inte bliver tillräckligt med färg så är det bara att hälla inte lite mer karamell färg och sen skaka det på nytt. När sockret och blivit den färg du önskat så häller du ut det på det underlag du valt. Låt det torka. Efter att det torkat så häller du tillbaka det i påsen och stänger den.</p>
+<h1>Der är här hammaren kommer in i bilden.</h1>
+<p>Efter att sockret har torkat så kommer du att märka att den är väldigt hårt och i flera stora klumpar. Det du ska göra för att få tillbaka strösockret är att hammra på påsken. Du väljer själv i vilken grad sockret ska bli. I mindre bitar eller till pulver.</p>
+<h1>Det är bara att fortsätta hammra till du är nöjd.</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1452860385-4690.jpg" class="aligncenter size-full wp-image-2664" alt="8" width="960" height="706" />Om man vill så kan man gå steget längre och skapa sina egna socker burkar som jag gjort.<br />
+Jag skrev ut ettiketerna från nätet. Minns inte vilken sida. Det är bara att googla. Sedan la jag in min egen text.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2016/01/15/jag-tar-rosa-socker-till-kaffet/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/mitt-eget-konstverk/" rel="category tag">Mitt eget konstverk.</a>,<a href="http://finest.se/balan/category/smaklig-maltid/" rel="category tag">Smaklig måltid</a> på <a href="http://finest.se/balan/2016/01/15/jag-tar-rosa-socker-till-kaffet/" title="15:06" rel="bookmark"><time class="entry-date" datetime="2016-01-15T15:06:55+00:00">januari 15, 2016 15:06</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2658" class="post-2658 post type-post status-publish format-standard hentry category-dar-ser-man category-min-dag tag-bil tag-bilvarme tag-frusen tag-frysa tag-kall tag-kyla tag-morgon tag-mornar tag-rumpvarme tag-tjej tag-trott tag-trott-tjej tag-vinter tag-varme">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2016/01/09/min-rumpa-maste-varmas/" rel="bookmark">Min rumpa måste värmas!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Ett av dom jobbiga sakerna när det kommer till vintern är tidiga mornar. Tack o lov så åker jag bil men när jag är i bilen så fryser min rumpa sönder&#8230; Får vänta 6 &#8211; 7 min innan rumpvärmen börjar verka&#8230; Tänk en trött morgon som alla mina mornar så vill man ha värme omkring sig..</p>
+<h1>Värme under sig..</h1>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1452334617-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2016/01/1452334617-4690.jpg" class="aligncenter size-full wp-image-2660" alt="Vinter" width="960" height="960" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2016/01/09/min-rumpa-maste-varmas/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/dar-ser-man/" rel="category tag">Där ser man</a>,<a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2016/01/09/min-rumpa-maste-varmas/" title="12:36" rel="bookmark"><time class="entry-date" datetime="2016-01-09T12:36:33+00:00">januari 09, 2016 12:36</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2647" class="post-2647 post type-post status-publish format-standard hentry category-en-tanke tag-dod tag-familj-2 tag-forsvunnen tag-gava tag-gavor tag-jul tag-juletider tag-karlek tag-langtan tag-saknad tag-saknar tag-traffas-igen tag-angel tag-anglar">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/12/05/do-not-worry-about-me-ill-be-fine/" rel="bookmark">Do not worry about me, I&#8217;ll be fine.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/12/1449310803-4690.jpg" class=" size-full wp-image-2649 alignleft" alt="Angle" width="375" height="469" /><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/12/1449310775-4690.jpg"><br />
+</a></p>
+<p>Kring juletider så går man runt för att se vad man kan hitta på för kul till sina nära och kära.</p>
+<p>Jag älskar att handla eller göra saker till andra. Att se deras min när dom öppnar packetet och hittar något dom verkligen gillar är oslagbart. *Love the feeling*</p>
+<p>&nbsp;</p>
+<p>Men kring denna tid så vill man gärna vara med <strong>alla som man älskar.</strong></p>
+<p>Min mor gick bort när jag var 15 år gammal. Som för alla barn så är ens föräldrar en viktigt del i sitt liv.</p>
+<p>&nbsp;</p>
+<p>Tänk om man kunde göra så att änglarna kunde komma och besöka oss minst en gång om året.</p>
+<p>På julen så kommer mamma på besök istället för tomten. Jag behöver inga julklappar så länge jag har dig. <strong>Finns så mycket jag vill berätta. <em>Så mycket jag vill fråga.</em></strong></p>
+<h1>Inom sin tid så kommer vi att ses igen.</h1>
+<p>Dock så kommer den tiden inte vara på ett bra tag då jag måste stanna med dom som finns här och nu.<br />
+Jag hade gett vad som helst för att träffa dig igen. <em>Livet är bra orättvist ibland.</em></p>
+<p>Dom säger att man kommer över det med tiden.. Och det gör man.. Men tankarna försvinner aldrig. Vet inte hur många gånger i vecka jag tänker på dig.</p>
+<p>Jag tänkter på dig och jag tänkter på Tobbe. Min fina Tobbe. Åhh.. Vad livet är orättvist!</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/12/05/do-not-worry-about-me-ill-be-fine/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/en-tanke/" rel="category tag">En tanke</a> på <a href="http://finest.se/balan/2015/12/05/do-not-worry-about-me-ill-be-fine/" title="12:32" rel="bookmark"><time class="entry-date" datetime="2015-12-05T12:32:23+00:00">december 05, 2015 12:32</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2639" class="post-2639 post type-post status-publish format-standard hentry category-min-dag tag-fonster-shoppa tag-host tag-jacka tag-jackor tag-leta tag-letar tag-shoppa tag-varm-jacka tag-vinter-jackam-fjallraven tag-vintern-kommer tag-var">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/11/24/sa-har-vill-jag-ga-runt-i-vinter/" rel="bookmark">Så här vill jag gå runt i vinter.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h3><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/11/1448372161-4690.jpg" class="  wp-image-2640 alignleft" alt="1" width="365" height="274" />Långbyxor som värmer och sen en söt tröja efter eget tycke.</h3>
+<p><strong>Det skulle vara en bra vinter</strong>.</p>
+<p>Det är inte tillräckligt varmt för att ha klänning men det är inte så oerhört kallt att man måste gå runt i overall.</p>
+<h2><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/11/1448371484-4690.jpg" class="aligncenter size-full wp-image-2641" alt="2" width="960" height="720" />Jag har gått runt och letat som en galning efter en vinter jacka.</h2>
+<p>Alla som jag har tittat på har varit för tok för tunna. Det känns mer som att det vore höst och vår jackor än vinter.<strong> Skulle jag gå ut med dessa nu så fryser jag ihjäl!!!</strong></p>
+<h3>Jag fryser lätt i vanliga fall och om vinter halvåret så fryser jag ännu mer!. 😛</h3>
+<p>Ska kolla runt lite mer för att se om jag hittar någon. Vill ha en som håller samma värme som fjällräven men som kanske inte är lika stor. Håller hoppet uppe om att en dag hitta min jacka!</p>
+<h1>Har du hittat din vinter jacka ännu?</h1>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/11/24/sa-har-vill-jag-ga-runt-i-vinter/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2015/11/24/sa-har-vill-jag-ga-runt-i-vinter/" title="15:49" rel="bookmark"><time class="entry-date" datetime="2015-11-24T15:49:55+00:00">november 24, 2015 15:49</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2635" class="post-2635 post type-post status-publish format-standard hentry category-en-tanke category-inredning tag-decor tag-inredning-2 tag-moblera tag-pyssel tag-pyssla tag-ros tag-rosa-ros tag-rosor tag-roda-rosor tag-sovrum tag-tavla tag-vagg-tavla">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/11/23/jag-vill-gora-en-tavla-av-den-har/" rel="bookmark">Jag vill göra en tavla av den här</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1><span style="color: #800080">Fick dessa rosor av mitt hjärta. 😀 <img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/11/1448282999-4690.jpg" class="aligncenter size-full wp-image-2636" alt="Rosor" width="960" height="960" /></span></h1>
+<h1>Tycker att jag fick till en bra bild på dessa rosor.</h1>
+<p>Ska se ifall man kanske kunde skriva ut denna bild så att man kan ha den som en tavla. Vet att man kan gå till fotobutikerna för att be dom skriva ut bilden i den storleken som man vill ha.</p>
+<h3>Undrar vad det skulle kosta ifall man skriver ut denna bild i 1 * 1 meter?</h3>
+<p>Ska möblera om i sovrummet. Tror att den skulle passa bra där. Först möblering och sen kollar vi upp tavlan. 😛</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/11/23/jag-vill-gora-en-tavla-av-den-har/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/en-tanke/" rel="category tag">En tanke</a>,<a href="http://finest.se/balan/category/inredning/" rel="category tag">Inredning.</a> på <a href="http://finest.se/balan/2015/11/23/jag-vill-gora-en-tavla-av-den-har/" title="14:53" rel="bookmark"><time class="entry-date" datetime="2015-11-23T14:53:11+00:00">november 23, 2015 14:53</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2630" class="post-2630 post type-post status-publish format-standard hentry category-min-dag tag-blogg tag-cat-katt-exotic-gray-gra-vig tag-helg tag-katt tag-kattliv tag-kyla tag-lordag tag-sno tag-vinter">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/11/21/snoar-det-hos-dig/" rel="bookmark">Snöar det hos dig?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/11/1448099276-4690.jpg" class="aligncenter size-full wp-image-2631" alt="8" width="959" height="959" />Att vakna upp det det är gostrollet är aldrig fel. På tal om troll så brukade min kära mor kalla mig för Troll fia när jag var liten för att mitt hår var så stort och lockigt. Precis som ett troll.. 😛</p>
+<h1>Det sägs att det ska snöa i dag.. Vad tycker du om det??</h1>
+<h1>Jag är inte jätte sugen på snö och kyla.</h1>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/11/21/snoar-det-hos-dig/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2015/11/21/snoar-det-hos-dig/" title="12:53" rel="bookmark"><time class="entry-date" datetime="2015-11-21T12:53:19+00:00">november 21, 2015 12:53</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2627" class="post-2627 post type-post status-publish format-standard hentry category-konst-i-olika-former tag-diy tag-gor-det-sjalv tag-handgjor tag-handgjord tag-lycka-till tag-pyssel tag-pyssel-tips tag-pyssla tag-pyssla-med-tidningar tag-skapa tag-skapa-sjalv tag-skal">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/11/17/du-behover-inte-kopa-nagot/" rel="bookmark">Du behöver inte köpa något..</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1>Använd det som du har hemma!</h1>
+<p>Ett kul sätt att skapa sina egna skålar eller korgar på ett unikt och roligt sätt.<img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/11/1447774468-4690.jpg" class="aligncenter size-full wp-image-2626" alt="12278756_10153740790569158_2851318628174453558_n" width="720" height="720" />Dessa skålar är gjorda utav tidningspapper. Ett gammalt reklam blad eller varför inte en tidining som du precis läst ut. Desto mer färgglatt desto roligare blir det. Sen funkar en bok oxo lika bra.</p>
+<h2>Då blir känslan mer neutral. Beror helt på hur det ser ut hos dig.</h2>
+<p>Det du gör är att du river ut sida för sida. Rullar ihop varje blad och tejpar så att den inte rullar ut igen. Efter att du har rullat ihop varje blad så tejpar du fast varje enda i varandra så att det blir till ett långt rep liknande papper.</p>
+<p>När du har gjort ditt långa snöre  så är det bara att börja snurra ihop det. För att fästa det i sig själv så kan du ta hjälp av en limpistol eller superlim. Jag skulle rekommendera en limpistol då det torkar väldit snabbt. Limpistolen är min bästa vän när det kommer till sånt här pyssel.</p>
+<h1>Lycka till. <img src="http://finest.se/balan/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h1>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/11/17/du-behover-inte-kopa-nagot/#comments"><span class="leave-reply">1 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/konst-i-olika-former/" rel="category tag">Konst i olika former</a> på <a href="http://finest.se/balan/2015/11/17/du-behover-inte-kopa-nagot/" title="17:46" rel="bookmark"><time class="entry-date" datetime="2015-11-17T17:46:21+00:00">november 17, 2015 17:46</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2620" class="post-2620 post type-post status-publish format-standard hentry category-en-kansla tag-avslappnade tag-bada tag-harligt tag-host tag-inomhus tag-inomhusbad tag-pool tag-snart-vinter tag-spa tag-spadag tag-vatten tag-vattenbad tag-vinter">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/11/13/one-step-closer-to-becoming-a-mermaid/" rel="bookmark">One step closer to becoming a Mermaid.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/11/1447422888-4690.jpg" class="aligncenter size-full wp-image-2622" alt="25" width="960" height="960" /></p>
+<h1 style="text-align: center">Det är nu man ska passa på att unna sig vardagslyxen.</h1>
+<p style="text-align: center">Det börjar bli kallare ute och det mörknar strax efter kl 15:00 Sånt här kan lätt få en att känna sig hängig och för måga kan det orsaka en typ av vinter deppa.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/11/13/one-step-closer-to-becoming-a-mermaid/#comments"><span class="leave-reply">1 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/en-kansla/" rel="category tag">En känsla</a> på <a href="http://finest.se/balan/2015/11/13/one-step-closer-to-becoming-a-mermaid/" title="15:53" rel="bookmark"><time class="entry-date" datetime="2015-11-13T15:53:58+00:00">november 13, 2015 15:53</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2614" class="post-2614 post type-post status-publish format-standard hentry category-mitt-eget-konstverk tag-decor tag-decorera tag-fonster tag-fonsterbrada tag-gron tag-gront tag-harmoni tag-mala tag-malar tag-pyssla tag-pysslar tag-rabarb-diy tag-rabarber tag-underlagg">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/10/29/ser-du-vad-det-ar/" rel="bookmark">Ser du vad det är?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1 style="text-align: center">VID MITT FÖNSTER.</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1446117562-4690.jpg" class="aligncenter size-full wp-image-2615" alt="qq" width="720" height="720" /></p>
+<h3>Jag har gjort ett underlägg till mina ljus som jag har på min fönsterbräda.</h3>
+<p>Det ska föreställa en bit av ett rabarber löv.. Jag har gjort den av gips. Använde mig av ett riktigt rabarberlöv som form och strödde på gipsen över den och lät det sedan torka. Efter detta så målade jag för att sedan lacka. Gjorde denna och en till som jag ska visa nedan.</p>
+<p>Här är en video som jag la upp på min instagram medans jag satt och pysslade.</p>
+<p><a href="http://instagram.com/p/85HTv-O8TI/">http://instagram.com/p/85HTv-O8TI/</a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/10/29/ser-du-vad-det-ar/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/mitt-eget-konstverk/" rel="category tag">Mitt eget konstverk.</a> på <a href="http://finest.se/balan/2015/10/29/ser-du-vad-det-ar/" title="13:43" rel="bookmark"><time class="entry-date" datetime="2015-10-29T13:43:40+00:00">oktober 29, 2015 13:43</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2608" class="post-2608 post type-post status-publish format-standard hentry category-min-dag tag-blommor tag-gras tag-halsduk tag-host tag-klader tag-kyla tag-kampa tag-loften tag-mossa tag-nytt-ar tag-panik tag-radsla tag-svartvitt tag-tjej tag-vantar tag-varma-klader tag-angest tag-aret-ar-snart-slut">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/10/19/angest-panik-radsla/" rel="bookmark">Ångest, PANIK, Rädsla..</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h2 style="text-align: center">Varför måste allt går så jävla snabbt??<img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1445268207-4690.jpg" class="aligncenter size-full wp-image-2609" alt="1" width="915" height="960" />Det känns som att ju äldre man blir desto snabbare går tiden!</h2>
+<h3 style="text-align: center">Hösten är redan här!! Löven på träden är gula, röda och orangea.<br />
+Blommorna är borta. Det ända som är kvar är det gröna gräset.</h3>
+<h1 style="text-align: left">Uhh.. Vad detta år har gått snabbt.</h1>
+<h3 style="text-align: center"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1445268342-4690.jpg" class="  wp-image-2610 alignleft" alt="2" width="225" height="225" />Måste upp på vinden och plocka fram vinterkläderna.<br />
+Vantar, mössa och halsduk.</h3>
+<p>Fast hösten är en fin årstid. Älskar färgerna som löven förändras till. Hade dock varit skönt om hösten kunde vara lite varmare. På så sätt så skulle vi kunna njuta av den mer.</p>
+<p>Ehh.. Ångest&#8230; Gå och SLÄNG DIG I VÄGGEN!!</p>
+<p>Nu e det som det är. Året är inte slut ännu. Vi alla har en del o göra innan det nya året. Löfen som vi gett oss själva. Jaa vi har ett par månader kvar. Låt oss använda dom.</p>
+<h1>Vi använder dom riktigt jävla bra.</h1>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/10/19/angest-panik-radsla/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2015/10/19/angest-panik-radsla/" title="17:35" rel="bookmark"><time class="entry-date" datetime="2015-10-19T17:35:32+00:00">oktober 19, 2015 17:35</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2600" class="post-2600 post type-post status-publish format-standard hentry category-min-dag tag-ligga tag-morgon tag-pigg tag-snozza tag-sova tag-sover tag-sang tag-ta-det-lungt tag-utvilad tag-vaken tag-vila">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/10/19/maste-jag-kliva-upp/" rel="bookmark">Måste jag kliva upp?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h3 style="text-align: center">Känslan av att ligga kvar i sängen istället för att kliva upp är en magisk känsla.</h3>
+<h3><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1445250532-4690.jpg" class="aligncenter size-full wp-image-2601" alt="1" width="576" height="720" /></h3>
+<h1 style="text-align: center">Jag är en riktigt snoozare på morgon kvistarna.</h1>
+<h3 style="text-align: center">Tycker inte alls om att kliva upp när klockan ringer.<br />
+Jag vill vakna upp av mig själv. När kroppen känner sig redo och utvilad.</h3>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/10/19/maste-jag-kliva-upp/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2015/10/19/maste-jag-kliva-upp/" title="12:35" rel="bookmark"><time class="entry-date" datetime="2015-10-19T12:35:52+00:00">oktober 19, 2015 12:35</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2594" class="post-2594 post type-post status-publish format-standard hentry category-dar-ser-man tag-bild tag-dagdrommar tag-drom tag-drommar tag-foto tag-modell tag-svart tag-svart-vitt tag-svartvit tag-svartvit-bild tag-tjej tag-vit">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/10/07/vad-vore-vi-utan-vara-drommar/" rel="bookmark">Vad vore vi utan våra drömmar?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1 style="text-align: center">You may say I´m a dreamer, but I´m not the only one.</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1444211748-4690.jpg" class="aligncenter size-full wp-image-2595" alt="0" width="702" height="480" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/10/07/vad-vore-vi-utan-vara-drommar/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/dar-ser-man/" rel="category tag">Där ser man</a> på <a href="http://finest.se/balan/2015/10/07/vad-vore-vi-utan-vara-drommar/" title="11:58" rel="bookmark"><time class="entry-date" datetime="2015-10-07T11:58:09+00:00">oktober 07, 2015 11:58</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2583" class="post-2583 post type-post status-publish format-standard hentry category-smaklig-maltid tag-burgare tag-coca-cola tag-cola tag-hamburgar-meny tag-hamburgar-recept tag-hamburgare tag-helt-ok tag-japan tag-japans-burgare tag-mini-hamburgare tag-pomefritt tag-pommes tag-pommesfritts tag-pulver-hamburgare tag-pulver-mat tag-smakar-bra">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/10/06/varfor-maste-allt-vara-sa-stort/" rel="bookmark">Varför måste allt vara så stort?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1>  En mini burgar meny kommer åt mitt håll.</h1>
+<h1><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1444147503-4690.jpg" class="  wp-image-2586 alignleft" alt="9" width="353" height="386" /><br />
+Jag och min broo hade super kul när vi gjorde denna mini meny.</h1>
+<p>My BIG Broo tycker om att kolla runt på nätet och hitta dom mest konstigaste sakerna.. Denna gång så var han inne på någon Japansk sida.</p>
+<p>Han beställde ett mini burgar packet.<br />
+Leveransen kom rätt fort. Kostnaden blev runt 45:-</p>
+<p>I detta packet så fick vi massor av små påsar som innehöll olika pulver.</p>
+<h1>Till o med Coca colan var i pulver.. Så här såg paketet ut!</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1444148340-4690.jpg" class="  wp-image-2587 alignleft" alt="5" width="195" height="153" />I detta packet så var det 6 pulver förpackningar och en mall till dom olika ingredienserna samt en sked och en kniv.</p>
+<p>Kniven var till för att skära på bröd och burgare så att det blev till två. Men den kniven var inte den bästa så jag använde en vanlig kniv.</p>
+<p>&nbsp;</p>
+<p>Dessa pulvermixar skulle man balanda ut med vatten till en deg och efter det så la man in det i mikrovågsugnen  i 30 sekunder sen var det klart. Haha.. Världens snabbaste mat!!</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1444147496-4690.jpg" class="aligncenter size-full wp-image-2585" alt="8" width="960" height="960" /></p>
+<h2 style="text-align: center">Det roliga med detta var att Coca colan hade kolsyra i sig. När jag blandade i vatten så började den att bubbla.</h2>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1444148819-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/10/1444148819-4690.jpg" class="aligncenter size-full wp-image-2588" alt="2" width="540" height="540" /></a></p>
+<p style="text-align: center">Smakerna var ungefär så som det skulle smaka. Potatisen var typ som potatis mos som kommer i pulver. Köttet var faktist kött i pulver och det andra stämmde oxo.. Helt galet. Tänk om vi skulle göra så. Köpa en biff på pulver och sen hem o mixa i vatten för att sedan steka.. Haha..</p>
+<h1 style="text-align: center">Colan smakade som Harribos cola nappar + kolsyra.</h1>
+<p style="text-align: center">Smaken var helt ok men inte lika gott som en vanlig hamburgar meny. Nee.. Men detta är en kul grej att göra med sina barn eller syskon. Det skulle uppskattas till max. Lite som ett expriment som man sedan kan äta.</p>
+<p>&nbsp;</p>
+<h1> Här får du se hur den såg ut live!</h1>
+<p><a href="http://instagram.com/p/8fu3E_u8bN/">http://instagram.com/p/8fu3E_u8bN/</a></p>
+<p>&nbsp;</p>
+<h1></h1>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/10/06/varfor-maste-allt-vara-sa-stort/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/smaklig-maltid/" rel="category tag">Smaklig måltid</a> på <a href="http://finest.se/balan/2015/10/06/varfor-maste-allt-vara-sa-stort/" title="18:31" rel="bookmark"><time class="entry-date" datetime="2015-10-06T18:31:53+00:00">oktober 06, 2015 18:31</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2575" class="post-2575 post type-post status-publish format-standard hentry category-min-dag tag-bardomen tag-familj-2 tag-familjehus tag-flytta tag-hejda tag-hus tag-packa tag-packar tag-villa">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/09/24/huset-kommer-att-lamnas-helt-tomt/" rel="bookmark">Huset kommer att lämnas helt tomt.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>&nbsp;</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1443091263-4690.jpg" class="aligncenter size-full wp-image-2577" alt="22" width="1001" height="1078" /></p>
+<h1>Snart är det fredag och sen är det helg.</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1443091273-4690.jpg" class="  wp-image-2578 alignleft" alt="33" width="189" height="189" /><br />
+Den här helgen kommer nog att bli väldigt stressig för mig.<br />
+Pappa och familjen ska flytta från vårt barndomshus och det är en jälva massa saker att packa, Har redan varit där och småbörjat lite. Tagit med mig en del av mina saker som jag lämnat kvar och låtit vara där.</p>
+<p><strong>Har också hittat en del saker som jag helt glömt bort.</strong></p>
+<h1>Kul att gå tillbaka till dom tidigare åren och minnas tillbaka.</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1443091527-4690.jpg" class="aligncenter size-full wp-image-2576" alt="11" width="1080" height="1080" /></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/09/24/huset-kommer-att-lamnas-helt-tomt/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/min-dag/" rel="category tag">min dag</a> på <a href="http://finest.se/balan/2015/09/24/huset-kommer-att-lamnas-helt-tomt/" title="12:56" rel="bookmark"><time class="entry-date" datetime="2015-09-24T12:56:21+00:00">september 24, 2015 12:56</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2566" class="post-2566 post type-post status-publish format-standard hentry category-kattliv tag-bra tag-bra-service tag-byta-liv tag-godis tag-hotell tag-katt tag-katter tag-kattliv tag-lever-bra tag-lyxhotell tag-mat tag-service">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/09/23/tank-om-vi-kunde-byta-liv/" rel="bookmark">Tänk om vi kunde byta liv.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1>Ibland så skulle jag vilja bli någon av mina katter.</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1443006204-4690.jpg" class="aligncenter size-full wp-image-2567" alt="1" width="960" height="540" /></p>
+<p>När det är sånt här super tråkigt väder ute så brukar jag kolla på mina katter innan jag beger mig ut&#8230; När man ser dom ligga där och sova för fullt så känner jag bara för att byta liv.. 😐</p>
+<h1>Dock inte för alltid!!</h1>
+<p>Tidiga mornar, dagar som dessa<em> ( när vädret är som tristast )</em> , när man börjar tänka på alla bekymmer i livet ( som vi alla har, till o från ).</p>
+<h2>Dagar som man bara vill stanna hemma och ta det lungt helt enkelt.</h2>
+<p>Våra katter ha det jäkligt bra. Lever som om dom vore på ett lyxhotell. God mat med bra service.<br />
+Får klappar och kärlek när dom vill. Flera olika alternativ på sovplatser. Tak över huvudet.</p>
+<p>Deras ända bekymmer är att tävla om mat och godis<em> ( som dom endå får lika mycket av ).</em></p>
+<h1>Man kan inte ha det bättre.</h1>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/09/23/tank-om-vi-kunde-byta-liv/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/kattliv/" rel="category tag">Kattliv</a> på <a href="http://finest.se/balan/2015/09/23/tank-om-vi-kunde-byta-liv/" title="13:21" rel="bookmark"><time class="entry-date" datetime="2015-09-23T13:21:56+00:00">september 23, 2015 13:21</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2546" class="post-2546 post type-post status-publish format-standard hentry category-tv-film-musik tag-bachelor tag-bakom-kulisserna tag-bra tag-bra-serie tag-basta-serien tag-basta-serien-just-nu tag-dokusapa tag-katt tag-katter tag-ny-serie tag-rolig tag-se-denna-serie tag-serie tag-serier tag-the-bachelor tag-tv tag-tv-serie tag-un-real">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/09/22/sanningen-bakom-den-fina-fasaden/" rel="bookmark">Sanningen bakom den fina fasaden.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1 style="text-align: center"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932389-4690.jpg" class=" size-full wp-image-2553 alignnone" alt="17" width="1920" height="1080" />    Har du inte sett denna serie så tycker jag<br />
+absolut att du ska se den!</h1>
+<p style="text-align: center">Den är så sjukt jävla bra, <span style="color: #993300">utan att överdriva</span>. Länge sedan jag hittade en serie som jag verkligen fastnar för.<br />
+Både jag och killen har suttit fastklistrade.</p>
+<h2 style="text-align: center">Serien handlar om folket bakom <em><strong>succeserien</strong></em> <span style="color: #993300"><strong>The Bachelor.</strong></span></h2>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932077-4690.jpg" class=" size-full wp-image-2549 aligncenter" alt="13" width="639" height="426" /></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932086-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932086-4690.jpg" class="aligncenter size-full wp-image-2550" alt="14" width="2000" height="1334" /></a></p>
+<p style="text-align: center"><strong>Hon som har skrivit denna serie har själv varit producent för den riktiga <span style="color: #993300">Bachelor</span> showen.</strong></p>
+<p style="text-align: center">Dom två huvudrollerna är dessa kvinnor under.<br />
+Hon till vänster tycker jag spelar grymt bra. Kläderna dom gett henne passar också in så himla bra.<br />
+<strong>Det är typ så där som film folk klär sig, på inspelning. </strong></p>
+<p style="text-align: center"><em>Killen jobbar med film så man har varit med på en del inspelningar &amp; jag tycker faktist dom efterliknade det riktigt bra.</em></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932091-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932091-4690.jpg" class="aligncenter size-full wp-image-2551" alt="15" width="534" height="712" /></a> Den andra kvinnan är &#8221;bossen&#8221; över hela produktionen. Det är hon som ser till så att allt går som det ska.</p>
+<h1 style="text-align: center">Att det skapas drama och entriger mm..</h1>
+<p style="text-align: center">Detta ska då vara hon som själv skrivit manuset. En överdriven variant av henne själv.</p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932096-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932096-4690.jpg" class="aligncenter size-full wp-image-2552" alt="16" width="634" height="422" /></a></p>
+<p style="text-align: center">Serien heter <strong>Un real</strong> och  det menas det att allt som man ser inte är riktigt så som det går till på riktigt. 😎 😉<br />
+Klart att personalen är med på att få till lite hetta i serien men inte så mycket hetta som man ser här. 😛</p>
+<p style="text-align: center"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932070-4690.jpg" class="  wp-image-2548 alignleft" alt="12" width="152" height="128" />Sär här kan det ser ut för oss när vi försöker att kolla på tv.</p>
+<p style="text-align: center">Tigra ser att vi sitter och konstant stirrar in i tv:n under en längre period och bliver oxo sugen på att veta vad det är som är så himla intressant. Hehe</p>
+<h2 style="text-align: center">Inte bara tjejerna i programmet som har fått ett öga för denna kille. 😉 <img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442932063-4690.jpg" class="  wp-image-2547 alignleft" alt="11" width="143" height="166" /></h2>
+<p>Så här kan hon sitta tills vi tillslut säger till katten att snällt hoppa ner.<br />
+Om du också har en eller flera katter hemma så är detta säkert något som du också varit med om minst 30 gånger. 😛</p>
+<p>Hoppas att du kommer att gilla serien. Är nog 90% säker på att du kommer att göra det.<br />
+Den är rätt bred i stilen så den passar in på dom flesta.</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/09/22/sanningen-bakom-den-fina-fasaden/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/tv-film-musik/" rel="category tag">Tv Film Musik</a> på <a href="http://finest.se/balan/2015/09/22/sanningen-bakom-den-fina-fasaden/" title="17:03" rel="bookmark"><time class="entry-date" datetime="2015-09-22T17:03:14+00:00">september 22, 2015 17:03</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2532" class="post-2532 post type-post status-publish format-standard hentry category-en-tanke tag-bro tag-broar tag-familj-2 tag-gym tag-gymmet tag-ga tag-harligt tag-karlekspar tag-lopa tag-motion tag-motionera tag-natur tag-par tag-promenad tag-promenera tag-skogen tag-springa tag-vattnet tag-vag tag-vanner">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/balan/2015/09/21/varfor-tar-den-slut-sa-snabbt/" rel="bookmark">Varför tar den slut så snabbt?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <h1>När man hittar en sån här mysig bro så vill man gärna gå på den mer än 30 sekunder. Varför kan man inte göra dom längre?<br />
+Bygga upp en bro mitt i skogen?</h1>
+<h1><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442835917-4690.jpg" class="  wp-image-2535 alignleft" alt="7" width="369" height="656" /><br />
+Hade jag fått välja så borde dessa underbart mysiga broar fått fortsatt ett tag till.</h1>
+<p>Känns som att gå på en mini safari utan farliga djur.</p>
+<p>Istället för att riva upp gator överallt som egentligen inte behöver rivas upp för att göra om <em>(då dom fortfarande är fullt fungerande)</em> så borde dom investera i detta.</p>
+<p><strong>Mysiga och långa broar</strong> där familjer, vänner och kärlekspar kan ta sig en härlig promenad.</p>
+<p>Detta skulle inte bara vara en trevlig runda utan också väldigt nyttigt för både kropp och själ.<br />
+För dom som inte har energin till att ta sig till gymmet skulle istället kunna ta sig hit. Inte skulle man göra det för att tänkta träning, utan mer avslappning.</p>
+<p>Avslappning som också  ger dig träning och som kanske oxo får dig att gå ner dom där kilona som du så ofta tänkter att du vill göra men inte vet vart man ska börja. Detta är en super bra början. <strong>Jag vet själv</strong>. Är så dåligt på att gå till gymmet. Tänkter mycket på gymmet. Tänkter och tänkter men kommer aldrig fram.. Haha</p>
+<h1>Alla broar behöver inte ligga i skogen.</h1>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442835898-4690.jpg" class="  wp-image-2533 alignleft" alt="9" width="287" height="151" /><br />
+Dom kan byggas längst vattnet och på lite andra trevliga ställen.<br />
+Jag hade verkligen tyckt om detta.</p>
+<p>Vet att många i min omgivning också hade gjort det.</p>
+<p>&nbsp;</p>
+<p>Skulle man bygga den lite bredare så skulle det finnas plats för folk som promenerar, cyklar och åker inlines. Ett kul ställe för alla möjliga typer. 😛  😎</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442836223-4690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2015/09/1442836223-4690.jpg" class="aligncenter size-full wp-image-2534" alt="8" width="1152" height="1152" /></a></p>
+<h1>Vad tycker du om denna bro tanke?</h1>
+<h1>Är det något som du skulle vilja promenera på?</h1>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/balan/2015/09/21/varfor-tar-den-slut-sa-snabbt/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/balan/category/en-tanke/" rel="category tag">En tanke</a> på <a href="http://finest.se/balan/2015/09/21/varfor-tar-den-slut-sa-snabbt/" title="14:13" rel="bookmark"><time class="entry-date" datetime="2015-09-21T14:13:34+00:00">september 21, 2015 14:13</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/balan/author/balan/" title="View all posts by Balan" rel="author">Balan</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/balan/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/4656/2014/11/1417364416-4690.jpg" class="" /></div></aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Kategorier</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://finest.se/balan/category/dar-ser-man/" >Där ser man</a> (20)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://finest.se/balan/category/en-kansla/" >En känsla</a> (4)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://finest.se/balan/category/en-tanke/" >En tanke</a> (22)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://finest.se/balan/category/familj/" >familj</a> (6)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://finest.se/balan/category/inredning/" >Inredning.</a> (14)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://finest.se/balan/category/kattliv/" >Kattliv</a> (9)
+</li>
+	<li class="cat-item cat-item-632"><a href="http://finest.se/balan/category/konst-i-olika-former/" >Konst i olika former</a> (2)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://finest.se/balan/category/lite-av-allt-mojligt/" >Lite av allt möjligt</a> (9)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://finest.se/balan/category/min-dag/" >min dag</a> (61)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://finest.se/balan/category/mitt-eget-konstverk/" >Mitt eget konstverk.</a> (164)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://finest.se/balan/category/smaklig-maltid/" >Smaklig måltid</a> (16)
+</li>
+	<li class="cat-item cat-item-40"><a href="http://finest.se/balan/category/tv-film-musik/" >Tv Film Musik</a> (9)
+</li>
+		</ul>
+</aside><aside id="archives-3" class="widget widget_archive"><h3 class="widget-title">Arkiv</h3>		<label class="screen-reader-text" for="archives-dropdown-3">Arkiv</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://finest.se/balan/2016/01/'> januari 2016 </option>
+	<option value='http://finest.se/balan/2015/12/'> december 2015 </option>
+	<option value='http://finest.se/balan/2015/11/'> november 2015 </option>
+	<option value='http://finest.se/balan/2015/10/'> oktober 2015 </option>
+	<option value='http://finest.se/balan/2015/09/'> september 2015 </option>
+	<option value='http://finest.se/balan/2015/08/'> augusti 2015 </option>
+	<option value='http://finest.se/balan/2015/07/'> juli 2015 </option>
+	<option value='http://finest.se/balan/2015/02/'> februari 2015 </option>
+	<option value='http://finest.se/balan/2015/01/'> januari 2015 </option>
+	<option value='http://finest.se/balan/2014/12/'> december 2014 </option>
+	<option value='http://finest.se/balan/2014/11/'> november 2014 </option>
+	<option value='http://finest.se/balan/2014/10/'> oktober 2014 </option>
+	<option value='http://finest.se/balan/2014/09/'> september 2014 </option>
+	<option value='http://finest.se/balan/2014/08/'> augusti 2014 </option>
+	<option value='http://finest.se/balan/2014/07/'> juli 2014 </option>
+	<option value='http://finest.se/balan/2014/06/'> juni 2014 </option>
+	<option value='http://finest.se/balan/2014/05/'> maj 2014 </option>
+	<option value='http://finest.se/balan/2014/04/'> april 2014 </option>
+	<option value='http://finest.se/balan/2014/03/'> mars 2014 </option>
+	<option value='http://finest.se/balan/2014/02/'> februari 2014 </option>
+	<option value='http://finest.se/balan/2014/01/'> januari 2014 </option>
+	<option value='http://finest.se/balan/2013/12/'> december 2013 </option>
+	<option value='http://finest.se/balan/2013/11/'> november 2013 </option>
+	<option value='http://finest.se/balan/2013/10/'> oktober 2013 </option>
+	<option value='http://finest.se/balan/2013/09/'> september 2013 </option>
+	<option value='http://finest.se/balan/2013/08/'> augusti 2013 </option>
+	<option value='http://finest.se/balan/2013/07/'> juli 2013 </option>
+	<option value='http://finest.se/balan/2013/06/'> juni 2013 </option>
+	<option value='http://finest.se/balan/2013/05/'> maj 2013 </option>
+	<option value='http://finest.se/balan/2013/04/'> april 2013 </option>
+	<option value='http://finest.se/balan/2013/03/'> mars 2013 </option>
+	<option value='http://finest.se/balan/2013/02/'> februari 2013 </option>
+	<option value='http://finest.se/balan/2013/01/'> januari 2013 </option>
+	<option value='http://finest.se/balan/2012/12/'> december 2012 </option>
+	<option value='http://finest.se/balan/2012/11/'> november 2012 </option>
+	<option value='http://finest.se/balan/2012/10/'> oktober 2012 </option>
+	<option value='http://finest.se/balan/2012/09/'> september 2012 </option>
+	<option value='http://finest.se/balan/2012/08/'> augusti 2012 </option>
+	<option value='http://finest.se/balan/2012/07/'> juli 2012 </option>
+	<option value='http://finest.se/balan/2012/06/'> juni 2012 </option>
+	<option value='http://finest.se/balan/2012/05/'> maj 2012 </option>
+	<option value='http://finest.se/balan/2012/04/'> april 2012 </option>
+	<option value='http://finest.se/balan/2012/03/'> mars 2012 </option>
+	<option value='http://finest.se/balan/2012/02/'> februari 2012 </option>
+	<option value='http://finest.se/balan/2012/01/'> januari 2012 </option>
+	<option value='http://finest.se/balan/2011/12/'> december 2011 </option>
+	<option value='http://finest.se/balan/2011/11/'> november 2011 </option>
+	<option value='http://finest.se/balan/2011/10/'> oktober 2011 </option>
+	<option value='http://finest.se/balan/2011/09/'> september 2011 </option>
+	<option value='http://finest.se/balan/2011/08/'> augusti 2011 </option>
+
+		</select>
+</aside></div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="http://sandrasDIYsecrets" target="_blank"><img src="http://finest.se/balan/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/balan/feed/rss/" target="_blank"><img src="http://finest.se/balan/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/balan/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/balan/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/balan/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/balan.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/balan/) in 0.47582 seconds, on: Jan 28th, 2016 @ 6:33 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:33 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/balan/) in 0.00462 seconds, on: Jan 28th, 2016 @ 6:37 pm UTC. -->

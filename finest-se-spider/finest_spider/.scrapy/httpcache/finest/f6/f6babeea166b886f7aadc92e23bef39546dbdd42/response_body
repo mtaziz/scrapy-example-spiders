@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>JOHANNA GRAHN | Love me or hate me &#8211; I&#039;m still gonna shine</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/johannagrahn/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/johannagrahn/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/johannagrahn/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="JOHANNA GRAHN &raquo; flöde" href="http://finest.se/johannagrahn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JOHANNA GRAHN &raquo; kommentarsflöde" href="http://finest.se/johannagrahn/comments/feed/" />
+<meta property="og:title" content="JOHANNA GRAHN"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/johannagrahn/"/><meta property="og:description" content="I think life is about falling in love with the right person, shopping, eating your favorite decadent desserts and traveling a lot."/><meta property="og:site_name" content="finest.se/johannagrahn/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/6442/2014/12/1418626316-6576.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/johannagrahn\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/johannagrahn/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/johannagrahn/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/johannagrahn/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/johannagrahn/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/johannagrahn/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/johannagrahn/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/johannagrahn/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/johannagrahn/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/johannagrahn/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/johannagrahn/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/johannagrahn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/johannagrahn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/johannagrahn\/wp-admin\/admin-ajax.php","categories":"traning, skonhet"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-header h1 a,
+            .site-header h2 {
+                color: #000000;
+            }
+                    </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ddc59f; background-image: url('http://cdn.finest.se/wp-content/uploads/sites/6442/2014/11/1416855770-6576.jpg'); background-repeat: repeat-x; background-position: top center; background-attachment: scroll; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/johannagrahn/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 6442);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/johannagrahn/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/johannagrahn/" title="JOHANNA GRAHN" rel="home">JOHANNA GRAHN</a>
+                    </h1>
+
+                    <h2 class="site-description">Love me or hate me &#8211; I&#039;m still gonna shine</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="menu-johanna-g-container"><ul id="menu-johanna-g" class="nav-menu"><li id="menu-item-1483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1483"><a href="http://finest.se/johannagrahn/homepage/">Homepage</a></li>
+</ul></div>                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/johannagrahn/"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/cropped-1420905075-6576.png" class="header-image" width="980" height="240" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-2498" class="post-2498 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/13/tack-for-den-har-tiden-finest/" rel="bookmark">Tack för den här tiden Finest!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><em><strong>Första förändringen för 2015; Jag tackar för min tid på Finest!</strong></em></p>
+<p style="text-align: center">Jag har bloggat här sedan 2010 tror jag, varit nominerad i Finest Awards för bästa medlemsbloggen två gånger och haft riktigt kul!</p>
+<p style="text-align: center">Men lugna, bloggen fortsätter på en ny sajt som lilla Mandy värvade över mig till; <a href="http://nouw.com/" target="_blank">Nouw.com</a>!</p>
+<p style="text-align: center">Mina domän<a href="http://johannagrahn.se" target="_blank"> Johannagrahn.se</a> och <a href="http://johannagrahn.com" target="_blank">Johannagrahn.com</a> kommer att ta er rätt så att jag hoppas att ni hänger med mig och bloggen in i en ny era!</p>
+<p style="text-align: center"><a href="http://nouw.com/johannagrahn" target="_blank">Klicka här för att besöka min nya blogg! ♡</a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2876.png"><img class="size-full alignnone" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2876.png" alt="IMG_2876.PNG" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/13/tack-for-den-har-tiden-finest/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/13/tack-for-den-har-tiden-finest/" title="09:45" rel="bookmark"><time class="entry-date" datetime="2015-01-13T09:45:41+00:00">januari 13, 2015 09:45</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-2495" class="post-2495 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/13/att-aka-skridskor-till-jobbet/" rel="bookmark">Att åka skridskor till jobbet</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Gud vad kul att hela Stockolm är en enda stor isbana! Fick krypa till jobbet mer eller mindre för att inte halka och dö haha! Blir tokig på det här vädret! </p>
+<p>Hur mår ni idag? </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2862.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2862.jpg" alt="IMG_2862.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2872.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2872.jpg" alt="IMG_2872.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2860.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2860.jpg" alt="IMG_2860.JPG" class="alignnone size-full" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/13/att-aka-skridskor-till-jobbet/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/13/att-aka-skridskor-till-jobbet/" title="08:22" rel="bookmark"><time class="entry-date" datetime="2015-01-13T08:22:13+00:00">januari 13, 2015 08:22</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-2487" class="post-2487 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/12/mandag-11/" rel="bookmark">Måndag</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Kom nyss hem från det bästa löparpasset på nästan ett år, jag är så lycklig nu haha! Helt slut i benen men det behövdes, blir så rastlös av det här kaosvädret&#8230;</p>
+<p>Till en annan sak; Amanda informerade mig om att hennes kommentar hamnade som spam när hon skulle kommentera min blogg för en stund sen. Började kolla runt lite i inställningarna och ser då att det ligger maaassa kommentarer som wordpress anser vara spam men som troligtvis inte är det. Jag kan inte se dom på något sätt men så ni vet. Jag har försökt stänga av det eller få fram dom men det går ej. SKITKUL!</p>
+<p>Inte heller kommer min blogg (efter bytet) upp på google när man googlar mitt namn, vilket det gjorde förut, jag kan inte lägga upp videofy videos och inte GIF-bilder. Så jävla bra. Skitförbannad tjej här ja&#8230; Och eftersom det är en self hosted site och inte &#8221;vanliga&#8221; wordpress kan jag inte göra ett skit åt det.</p>
+<p>Nu ska jag sova, jobbar 7-20 imorgon! Fest! </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2854-0.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2854-0.jpg" alt="IMG_2854-0.JPG" class="alignnone size-full" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/12/mandag-11/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/12/mandag-11/" title="22:38" rel="bookmark"><time class="entry-date" datetime="2015-01-12T22:38:26+00:00">januari 12, 2015 22:38</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-2478" class="post-2478 post type-post status-publish format-standard hentry category-healthy-is-the-new-black">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/12/no-meat-for-me/" rel="bookmark">No meat for me</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421071565-6576.png"><img class="alignnone size-full wp-image-2480" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421071565-6576.png" alt="vegetarian" width="363" height="364" /></a></p>
+<p style="text-align: center">Som ni vet så började jag fasa över till att bli vegeterian med inslag av veganism för några veckor sedan. Jag äter extremt lite fisk numera, och absolut inte lax pga alla gifter. Min kollega berättade även att ägg är hönsmens&#8230;. Således fick jag brutala kväljningar sist jag åt ägg pga detta och har svårt att se mig själv någonsin äta ett ägg igen. Haha tack 😛 Dricker inte heller vanlig mjölk utan bara mandelmjölk och alla mejeriprodukter är utbytta till havreprodukter hemma.</p>
+<p style="text-align: center">Första veckorna var SKITSVÅRA. Jag har aldrig tyckt om rött kött eller typ fläskfilé men salami, kyckling osv. tycker jag var gott och jag råkade äta det flera gånger och kom på mig själv varje gång. Men i samband med att jag fasat över till en ny diet har jag även läst på mycket om ämnet och ju mer jag läser om att äta djur, desto mer äcklad blir jag. Från att ha gått från att avstå från kyckling och dylikt till att känna en vissa avsmak till det. Ibland har jag hittat ekologisk, organisk kyckling från svenska gårdar med dess livshistoria signerad av bonden själv på förpackningen liksom, då har jag ätit den. Men det sväller lite i munnen, det känns ofräscht. Ingen kommer någon att kunna garantera att den här kycklingen/grisen/kon har varit lycklig och haft ett lyckligt ko-liv och därför kan jag inte chansa och äta den, och i samband med att jag förlikat mig med den tanken desto äckligare blir kött för mig. Jag är i övrigt starkt emot djurparker och all annan fångenskap av djur, såvida den inte behöver leva så för att den inte kommer att klara av att leva vilt. Jag besöker inte Skansen och inga andra ställen som låser in djur som fångar. Att ha djur i fångenskap för att sedan DÖDA dom känns ännu mer oetiskt, det är ju faktiskt helt jävla sjukt.</p>
+<p style="text-align: center">Jag har ätit kött några få gånger sedan jag började med att äta vegetariskt och kanske gör jag det några gånger till under mitt liv, men i det stora hela så känns min nya väg i livet helt rätt. Det tråkiga är bara att människor har så jävla svårt att acceptera det. För mig är det ingen förlust utan en vinst oavsett om det absolut inte har någon som helst påverkan på köttindustrin, en persons val att sluta äta kött leder egentligen ingenstans. Och jag skiter i om andra äter eller inte äter kött, det gör man som man vill. Men precis som att andra människor ser det som normalt att äta kött, precis lika normalt är det för mig att inte äta det.</p>
+<h2 style="text-align: center"><strong>Vad tycker ni?</strong></h2>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421071559-6576.jpg"><img class="alignnone size-full wp-image-2479" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421071559-6576.jpg" alt="Vegan-vs-vegetarian-Albert-Einstein-Vegetarian-Diet-Quote.jpg" width="283" height="302" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/12/no-meat-for-me/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/healthy-is-the-new-black/" rel="category tag">Healthy is the new black</a> på <a href="http://finest.se/johannagrahn/2015/01/12/no-meat-for-me/" title="15:03" rel="bookmark"><time class="entry-date" datetime="2015-01-12T15:03:23+00:00">januari 12, 2015 15:03</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2468" class="post-2468 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/12/the-city-of-dreams/" rel="bookmark">The city of dreams</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center">Igår när vi såg Dolce Vita så bara kände jag i hela kroppen att jag måste tillbaka till Italien omgående. En dag ska vi flytta dit, till Rom, det har varit min dröm så länge för att det är verkligen the city of my dreams. Jag hoppas att vi hinner med en tripp till Florens eller Milano i år där jag aldrig har varit. Har däremot varit i Rom 3 gånger. Världens bästa stad &lt;3</p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045454-6576.jpg"><img class="alignnone size-full wp-image-2469" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045454-6576.jpg" alt="rgrr" width="500" height="375" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045667-6576.jpg"><img class="alignnone size-full wp-image-2470" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045667-6576.jpg" alt="rgrgrg" width="500" height="727" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045672-6576.jpg"><img class="alignnone size-full wp-image-2471" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045672-6576.jpg" alt="rgrggggg" width="427" height="640" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045678-6576.jpg"><img class="alignnone size-full wp-image-2472" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045678-6576.jpg" alt="rgrge" width="500" height="500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045685-6576.jpg"><img class="alignnone size-full wp-image-2473" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045685-6576.jpg" alt="rgrg" width="500" height="375" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045512-6576.jpg"><img class="alignnone size-full wp-image-2474" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045512-6576.jpg" alt="largerhrth" width="500" height="600" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045517-6576.jpg"><img class="alignnone size-full wp-image-2475" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1421045517-6576.jpg" alt="large" width="500" height="500" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/12/the-city-of-dreams/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/12/the-city-of-dreams/" title="07:54" rel="bookmark"><time class="entry-date" datetime="2015-01-12T07:54:42+00:00">januari 12, 2015 07:54</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2459" class="post-2459 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/11/anita-ekberg/" rel="bookmark">RIP Anita Ekberg</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995581-6576.jpg"><img class="alignnone size-full wp-image-2463" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995581-6576.jpg" alt="ijk" width="500" height="681" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995586-6576.jpg"><img class="alignnone size-full wp-image-2464" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995586-6576.jpg" alt="ygju" width="500" height="648" /></a></p>
+<p style="text-align: center"><strong>Goddag mitt herrskap.</strong></p>
+<p style="text-align: center"><strong>Hörde att legenden Anita Ekberg dog idag, vad sorgligt. Hon var ju så fantastiskt vacker och jag älskade hennes lite hårda attityd! Ska kolla på Dolce Vita när jag jobbat klart to honor her. Någon som vet var man kan köpa/se filmen 4 for Texas? Jag hittar den ingenstans och vill så gärna se den!</strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995512-6576.jpg"><img class="size-full wp-image-2460 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995512-6576.jpg" alt="greg" width="500" height="613" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995491-6576.jpg"><img class="size-full wp-image-2461 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995491-6576.jpg" alt="tg" width="500" height="660" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995329-6576.jpg"><img class="size-full wp-image-2462 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420995329-6576.jpg" alt="tr" width="500" height="764" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/11/anita-ekberg/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/11/anita-ekberg/" title="18:00" rel="bookmark"><time class="entry-date" datetime="2015-01-11T18:00:13+00:00">januari 11, 2015 18:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2454" class="post-2454 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/10/lordag-30/" rel="bookmark">Lördag</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Hej bloggisar!</p>
+<p>Har jobbat från 6.00 till 15.00 idag och sen var det bara att börja fixa sig för middag ute med familjen. Sedan skulle vi på bio men några minuter innan bion så dör strömmen i hela biografen med omnejd. Vi väntade 45 minuter men tillslut tog min rastlöshet över och jag var tvungen att gå, jag avskyr min totala oförmåga att vänta och att mitt intresse för saker och ting dör om det inte händer på 5 sekunder plus/minus.</p>
+<p>Nu är jag hemma igen och är så jävla uttråkad. Jag vet att detta kommer att bli bättre snart men mitt tålamod är lika med noll&#8230;.</p>
+<p>Jaja, bestämde en date med Mich imorgon när jag jobbat klart, ska bli sååååååååå skööööööööönt, har inte träffat henne på flera veckor och jag behöver fnittra. Råda bot på min rastlöshet. Men, som sagt. Bara imorgon, nästa vecka och eventuellt vecka efter kvar sen är det över. Sen kommer ljuset i tunneln. Thank fucking god.</p>
+<p>Btw, min header är uppe nu. <strong>Tack Daniel!</strong> Den skulle inte sett ut så egentligen men förutsättningarna på denna sida var inte på vår sida (som vanligt?) så han var tvungen att komma men en nödlösning! Haha, låter jag bitter? Ja, det är jag. Men kom ihåg, det är högst temporärt! <img src="http://finest.se/johannagrahn/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Därför tillåter jag mig själv att vara det, för att ha något att landa på när det känns tungt.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420917653-6576.jpg"><img class="alignnone size-full wp-image-2455" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420917653-6576.jpg" alt="large" width="500" height="500" /></a></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/10/lordag-30/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/10/lordag-30/" title="20:23" rel="bookmark"><time class="entry-date" datetime="2015-01-10T20:23:25+00:00">januari 10, 2015 20:23</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2442" class="post-2442 post type-post status-publish format-standard hentry category-shop-til-you-drop">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/10/victorias-secret-sale-hos-eleven-se/" rel="bookmark">Victoria&#8217;s secret sale hos Eleven.se!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center">Eleven har just nu flera VS body lotions till halva priset SAMT tag 3 betala för 2, <a href="http://eleven.se/searchq/victoria%27s%20secret/" target="_blank">klicka HÄR! </a>Alltså får du tre body lotions för 120 kronor, hur bra?</p>
+<p style="text-align: center">Skynda och fynda, finns massa godingar att välja på! Är det något jag är beroende av är det VS body lotions (inte deras mister däremot, urk!) jag smörjer in mig varje gång jag duschar (har typ fobi mot torr hy) och man blir så otroligt len av VS body lotions. Boyfriend sniffar alltid lite extra varje gång och försöker gissa vad det är jag luktar haha 😉</p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420877410-6576.jpg"><img class="alignnone size-full wp-image-2443" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420877410-6576.jpg" alt="Capture" width="639" height="531" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/10/victorias-secret-sale-hos-eleven-se/#comments"><span class="leave-reply">1 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/shop-til-you-drop/" rel="category tag">Shop til you drop</a> på <a href="http://finest.se/johannagrahn/2015/01/10/victorias-secret-sale-hos-eleven-se/" title="09:08" rel="bookmark"><time class="entry-date" datetime="2015-01-10T09:08:15+00:00">januari 10, 2015 09:08</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2438" class="post-2438 post type-post status-publish format-standard hentry category-healthy-is-the-new-black">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/10/eko-affaren/" rel="bookmark">Eko affären</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><strong>Igår smet jag in en snabbis på Eko affären och köpte med lite gofrukost! Groddbröd (så gott att rosta) avocado som pålägg, kaffe och mandelmjölk! Kaffet var jättegott faktiskt, använde vår mokabryggare och sen i med en skvätt mandelmjölk i det färdiga kaffet.</strong></p>
+<p style="text-align: center"><strong>Perfekt frukost framför datorn, nu ska jag jobba vidare! Puss!</strong></p>
+<p style="text-align: center"><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2824.jpg"><img class="alignnone size-full" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2824.jpg" alt="IMG_2824.JPG" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2828.jpg"><img class="size-full aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2828.jpg" alt="IMG_2828.JPG" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2829.jpg"><img class="size-full aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2829.jpg" alt="IMG_2829.JPG" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2825.jpg"><img class="alignnone size-full" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2825.jpg" alt="IMG_2825.JPG" /></a></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/10/eko-affaren/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/healthy-is-the-new-black/" rel="category tag">Healthy is the new black</a> på <a href="http://finest.se/johannagrahn/2015/01/10/eko-affaren/" title="08:36" rel="bookmark"><time class="entry-date" datetime="2015-01-10T08:36:01+00:00">januari 10, 2015 08:36</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2429" class="post-2429 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/09/ett-halvt-glas-rott/" rel="bookmark">Ett halvt glas rött</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Oooh, kom precis hem, har hällt upp ett halvt glas rött och ska krypa ner och se Året med kungafamiljen! Har längtat hela veckan! </p>
+<p>Ha en fab fredag babes! </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2816.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2816.jpg" alt="IMG_2816.JPG" class="alignnone size-full" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/09/ett-halvt-glas-rott/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/09/ett-halvt-glas-rott/" title="22:57" rel="bookmark"><time class="entry-date" datetime="2015-01-09T22:57:48+00:00">januari 09, 2015 22:57</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2408" class="post-2408 post type-post status-publish format-standard hentry category-welcome-to-my-home">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/09/inspo-5/" rel="bookmark">Inspo</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826940-6576.jpg"><img class="size-full wp-image-2409 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826940-6576.jpg" alt="large (1)" width="500" height="638" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826946-6576.jpg"><img class="size-full wp-image-2410 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826946-6576.jpg" alt="large (2)" width="500" height="375" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826967-6576.jpg"><img class="size-full wp-image-2411 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826967-6576.jpg" alt="large (3)" width="500" height="500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826974-6576.jpg"><img class="size-full wp-image-2412 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826974-6576.jpg" alt="large (4)" width="500" height="500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826945-6576.jpg"><img class="size-full wp-image-2413 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826945-6576.jpg" alt="large (5)" width="428" height="640" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826948-6576.jpg"><img class="size-full wp-image-2414 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826948-6576.jpg" alt="large (6)" width="500" height="679" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827005-6576.jpg"><img class="size-full wp-image-2416 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827005-6576.jpg" alt="large" width="500" height="333" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827016-6576.jpg"><img class="size-full wp-image-2417 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827016-6576.jpg" alt="large (12)" width="319" height="400" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827214-6576.jpg"><img class="size-full wp-image-2418 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827214-6576.jpg" alt="large (11)" width="500" height="333" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827223-6576.jpg"><img class="size-full wp-image-2419 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827223-6576.jpg" alt="large (10)" width="500" height="375" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827274-6576.jpg"><img class="size-full wp-image-2420 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827274-6576.jpg" alt="large (9)" width="400" height="600" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827289-6576.jpg"><img class="size-full wp-image-2421 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827289-6576.jpg" alt="large (8)" width="500" height="872" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827297-6576.jpg"><img class="size-full wp-image-2422 aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420827297-6576.jpg" alt="large (7)" width="500" height="734" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/09/inspo-5/#comments"><span class="leave-reply">1 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/welcome-to-my-home/" rel="category tag">Welcome to my home!</a> på <a href="http://finest.se/johannagrahn/2015/01/09/inspo-5/" title="19:12" rel="bookmark"><time class="entry-date" datetime="2015-01-09T19:12:37+00:00">januari 09, 2015 19:12</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2398" class="post-2398 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/09/friyay/" rel="bookmark">Friyay</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2800.jpg"><img class="aligncenter" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2800.jpg" alt="IMG_2800.JPG" width="521" height="694" /></a></p>
+<p>&nbsp;</p>
+<p>Friyay! Fick precis erfara kundservice i värdsklass från HM över en sak som jag varit besatt av hela veckan som äntligen blev löst, ville bara gråta när dom ringde mig haha.</p>
+<p>Och ja, nu sitter jag här på Röda korset, lyssnar på klassisk musik (ja, ni kanske inte visste det men jag har älskat klassisk musik i flera år, lyssnar ibland när jag jobbar, åker buss osv) och saknar min säng. Standard, haha.</p>
+<p>Jag och boyfriend pratade lite som stuckatur och saker vi ska fixa härnäst hemma (OH LORD VAD MAGNIFIKT DET KOMMER ATT BLI, WAIT AND DIE) och då gled vi in i våra hemliga dagdrömmar där jag är en fransk prinsessa och han en italiensk prins och så möts vi en vackert upplyst balsal på någon sorts fest (typ gyllene salen på Operan ni vet, sådan inredning) där vi dansar till klassisk musik av en riktig orkester och pratar i gammeldagsa gåtor och gifter oss dagen efter HAHA. Vi är lite roliga ibland men våran högsta (samt väldigt orealistiska dröm) är att få leva under slutet av 1700-talet/början på 1800-talet och vara stenrika och lalla runt där i kläderna och hela köret och alla fester, MY LORD! Haha, yepp, that&#8217;s us, kul att man kan dela varandras sjuka drömmar liksom.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826335-6576.gif"><img class="alignnone size-full wp-image-2403" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826335-6576.gif" alt="large (1)" width="500" height="300" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826197-6576.gif"><img class="alignnone size-full wp-image-2404" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826197-6576.gif" alt="large (2)" width="500" height="236" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826205-6576.gif"><img class="alignnone size-full wp-image-2405" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826205-6576.gif" alt="large (3)" width="500" height="269" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826214-6576.gif"><img class="alignnone size-full wp-image-2406" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420826214-6576.gif" alt="large" width="500" height="281" /></a></p>
+<p><iframe width="625" height="469" src="https://www.youtube.com/embed/8ejVor497wQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/09/friyay/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/09/friyay/" title="18:15" rel="bookmark"><time class="entry-date" datetime="2015-01-09T18:15:41+00:00">januari 09, 2015 18:15</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2384" class="post-2384 post type-post status-publish format-standard hentry category-dress-to-impress">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/09/longing-for-bare-tanned-legs/" rel="bookmark">Longing for bare, tanned legs</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p style="text-align: center"><strong><em>Oh you pretty dresses! Hur ljuvliga är inte dessa två klänningar från <a href="http://www.bonprix.se/">Bon Prix</a>? Älskar dom! Tänk er att bära dom i sommar med bruna ben och sol i sinne. Must have!</em></strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792359-6576.jpg"><img class="alignnone size-full wp-image-2385" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792359-6576.jpg" alt="bnj" width="259" height="448" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792362-6576.jpg"><img class="alignnone size-full wp-image-2386" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792362-6576.jpg" alt="ihjm" width="246" height="439" /></a></p>
+<p>Denna hittar ni <a href="http://www.bonprix.se/produkt/spetsklaenning-gammelrosa-943848/" target="_blank">HÄR!</a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792556-6576.jpg"><img class="alignnone size-full wp-image-2387" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792556-6576.jpg" alt="hb" width="255" height="445" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792561-6576.jpg"><img class="alignnone size-full wp-image-2388" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/1420792561-6576.jpg" alt="uh" width="214" height="437" /></a></p>
+<p>Denna hittar ni <a href="http://www.bonprix.se/produkt/klaenning-beige-938701/" target="_blank">HÄR!</a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/09/longing-for-bare-tanned-legs/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/dress-to-impress/" rel="category tag">Dress to impress!</a> på <a href="http://finest.se/johannagrahn/2015/01/09/longing-for-bare-tanned-legs/" title="09:38" rel="bookmark"><time class="entry-date" datetime="2015-01-09T09:38:07+00:00">januari 09, 2015 09:38</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2381" class="post-2381 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/08/tva-favoriter/" rel="bookmark">Två favoriter</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Godkväll!</p>
+<p>I afton har jag spenderat tid med två av mina absoluta favoriter; Mamma och Duttan! </p>
+<p>Vi köpte thai mat (alltså mamma och jag haha), kollade på klänningar att ha på oss till min styvbrors bröllop på nätet, kollade Djurskyddarna och nu ska jag krypa ner. Om jag inte var så jäkla allergisk mot djur och natur så skulle jag lätt bli en djurräddare men jag skulle troligtvis få åka in till akuten varje dag av allergisk chock då haha. Trist&#8230;. Fick typ andnöd bara av att se dom skyffla all halm haha. Försöker ignorera detta faktum och planerar ett framtida hundköp, vägrar acceptera ett hundlöst liv. </p>
+<p>Godnatt, imorgon är det freeeedag!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2756.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2756.jpg" alt="IMG_2756.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2784.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2784.jpg" alt="IMG_2784.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2760.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2760.jpg" alt="IMG_2760.JPG" class="alignnone size-full" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/08/tva-favoriter/#comments"><span class="leave-reply">4 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/08/tva-favoriter/" title="22:57" rel="bookmark"><time class="entry-date" datetime="2015-01-08T22:57:28+00:00">januari 08, 2015 22:57</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2368" class="post-2368 post type-post status-publish format-standard hentry category-music-melts-me-soul">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/08/do-you-wanna-runaway-with-me/" rel="bookmark">Do you wanna runaway with me?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><iframe width="625" height="352" src="https://www.youtube.com/embed/qgfv5x4vnjY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: center"><strong>(Haha, tänker alltid på <a href="http://nouw.com/amandasvard" target="_blank">Amanda </a>när jag hör den här eftersom hon la upp den i sin blogg först och så ser jag henne på gunghästen i lekparken utanför mig efter krogen i somras när hon blev förbannad på gunghästen av preskriberade anledningar, haha)</strong></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/08/do-you-wanna-runaway-with-me/#comments"><span class="leave-reply">2 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/music-melts-me-soul/" rel="category tag">Music melts me soul</a> på <a href="http://finest.se/johannagrahn/2015/01/08/do-you-wanna-runaway-with-me/" title="08:13" rel="bookmark"><time class="entry-date" datetime="2015-01-08T08:13:28+00:00">januari 08, 2015 08:13</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2364" class="post-2364 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/08/torsdag-21/" rel="bookmark">Torsdag&#8230;.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Thursday, bloody thursday!</p>
+<p>Jag är så sjukt omotiverad just nu, kanske märks på bloggen, vad vet jag. De senaste månaderna så har bara en stor del av mitt liv dragit ner kvaliten på resten av mitt liv och jag kan med handen på hjärtat säga att det suger så jävla hårt. Jag står knappt ut och det känns som att jag långsamt ruttnar bort. Jag insåg detta gansla nyligen och jag lägger all min energi på att ändra på detta nu men det tar tid, oh golly!<br />
+Ibland vill jag bara spy inombords, det är inte KUL! Så nu vet ni varför jag inte bloggar ibland eller bloggar om jättetråkiga saker men pga. det här så har jag till och med tänkt tanken att stänga ner bloggen. (!!) Men det vill jag egentligen inte men så mycket påverkar detta mig&#8230;.</p>
+<p>Jaja, ska jobba lite nu och sätta på house/dance på högsta volym. Har saknat house/dance så mycket sedan jag blev &#8221;pensionär&#8221;. Jag tror att jag blivit lite för lill-gammal på sistonde. Jag är inte en människa som trivs med att gå runt i mjukisbyxor hemma och lyssna på lugna favoriter, ibland ja. Men inte jämnt som det blivit. Jag tror att jag dragit ner mig själv i ett alldeles för lugnt träsk för mitt egna bästa, för att jag ska passa in i någon &#8221;perfekt bild&#8221; (återigen denna perfektionism&#8230;) Jag säger inte att jag ska bli a decadent clubber igen men jag måste nog återgå till många av de bra delarna av mitt tidigare liv och sluta ta ut pensionen i förskott.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2741.jpg"><img class="alignnone size-full" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2741.jpg" alt="IMG_2741.JPG" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/08/torsdag-21/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/08/torsdag-21/" title="08:09" rel="bookmark"><time class="entry-date" datetime="2015-01-08T08:09:48+00:00">januari 08, 2015 08:09</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2355" class="post-2355 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/07/after-sun-%e2%98%bc/" rel="bookmark">After sun ☼</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2732-0.jpg"><img class="alignnone size-full" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2732-0.jpg" alt="IMG_2732-0.JPG" /></a><br />
+Smörjde in mig med den här idag som luktar sol och värme och låtsas att jag inte håller på att förfrysa 24/7. Men semester får vänta, har äntligen fattat i vilken riktning livet ska gå åt så det blir hard work work i alla aspekter fram till sommaren då jag ska ta långsemester och sen ska jag fira årets vinster med att välkomna 2016 i solen. Sounds like a plan. Tills dess får jag nöja mig med fake bake, after sun och bellinis under en extra stark kökslampa (haha)</p>
+<p>Har jobbat hemifrån hela kvällen, dock älskar jag det! Låna killens för stora tröja, dricka nespresso ur våra, stora kaffekoppar och sittdansa. Då är jag som effektivast måste jag säga.</p>
+<p>Godnatt! ♡</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2729.jpg"><img class="alignnone size-full" src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2729.jpg" alt="IMG_2729.JPG" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/07/after-sun-%e2%98%bc/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/07/after-sun-%e2%98%bc/" title="22:17" rel="bookmark"><time class="entry-date" datetime="2015-01-07T22:17:00+00:00">januari 07, 2015 22:17</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2352" class="post-2352 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/07/en-mandag-fast-egentligen-onsdag/" rel="bookmark">En måndag fast egentligen onsdag?</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Gud vad det blir konstigt när man är ledig mitt i veckan?! Igår var det lördag på förmiddagen och söndagen började typ efter 17 (alltså mentalt i mitt huvud) och idag är det måndag. Men tji fick jag för det är onsdag, haha. Confused lady.</p>
+<p>Både imorgon och på fredag jobbar jag på Röda korset så idag är min sista lediga kväll innan helgen, how about that. Träna och sova, the story of my life.</p>
+<p>Nej, ska passa på och fixa lite saker under min lunch nu, talk to you later. </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2700.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2700.jpg" alt="IMG_2700.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2706.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2706.jpg" alt="IMG_2706.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2701.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2701.jpg" alt="IMG_2701.JPG" class="alignnone size-full" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/07/en-mandag-fast-egentligen-onsdag/#comments"><span class="leave-reply">4 Svar</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/07/en-mandag-fast-egentligen-onsdag/" title="12:19" rel="bookmark"><time class="entry-date" datetime="2015-01-07T12:19:01+00:00">januari 07, 2015 12:19</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2347" class="post-2347 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/06/tan-and-walk/" rel="bookmark">Tan and walk</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2695.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2695.jpg" alt="IMG_2695.JPG" class="alignnone size-full" /></a><br />
+Tog en vända i solariumet under min PW idag, gud vad skönt det var! Och fick värsta tan lines trots att det bara var 18 minuter. Hade glömt hur fab pigment jag har! 😉</p>
+<p>Gick totalt 1,1 mil och nu ska jag tvinga BF att packa ner julen med mig, bye bye see you never again &#8217;cause next year (och varje år) kommer jag vara på solsemester! </p>
+<p>Visste ni förresten att äkta Bellinis ska göras med bubbel, persikopuré OCH persikolikör? I didn&#8217;t så nu väntar jag med spänning tills likören jag beställt kommer så ska vi kan skåla i Bellinis! (Den rosa färgen är FEL, än korrekt Bellini är orange/gul! Just sayin&#8230;.)</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2696.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2696.jpg" alt="IMG_2696.JPG" class="alignnone size-full" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/06/tan-and-walk/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/06/tan-and-walk/" title="18:41" rel="bookmark"><time class="entry-date" datetime="2015-01-06T18:41:54+00:00">januari 06, 2015 18:41</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-2343" class="post-2343 post type-post status-publish format-standard hentry category-a-beautiful-life">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/johannagrahn/2015/01/05/nya-handskar-och-bastu/" rel="bookmark">Nya handskar och bastu</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p>Godkväll! </p>
+<p>Hur snygga är inte mina nya träningshandskar? Die for them, yes!</p>
+<p>Bastun på gymmet har äntligen öppnat så ikväll brände jag av ett tungt konditionspass följt av 30 min i bastun, såååå skönt! Ska ha det som måndagsrutin nu, bastu gör susen för huden och får ut alla gifter om man druckit vin under helgen 😉 Perf!</p>
+<p>Nu blir det min favoritfilm Mr. and Mrs. Smith i sängen, jag fick välja film eftersom killen gjorde en fab löksallad till middag. Problemet är ju bara det att min mage dör av lök så jag tuppar av smärtor nu samt så ser jag ut som att jag är preggo i artonde månaden. Sexy! </p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2685.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2685.jpg" alt="IMG_2685.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2690.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2690.jpg" alt="IMG_2690.JPG" class="alignnone size-full" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2683.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2015/01/IMG_2683.jpg" alt="IMG_2683.JPG" class="alignnone size-full" /></a></p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/johannagrahn/2015/01/05/nya-handskar-och-bastu/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i <a href="http://finest.se/johannagrahn/category/a-beautiful-life/" rel="category tag">A beautiful life</a> på <a href="http://finest.se/johannagrahn/2015/01/05/nya-handskar-och-bastu/" title="23:03" rel="bookmark"><time class="entry-date" datetime="2015-01-05T23:03:46+00:00">januari 05, 2015 23:03</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/johannagrahn/author/johannagrahn/" title="View all posts by Johanna Grahn" rel="author">Johanna Grahn</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/johannagrahn/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/6442/2014/12/1418626316-6576.jpg" class="" /></div><div class="profile-desc">I think life is about falling in love with the right person, shopping, eating your favorite decadent desserts and traveling a lot.</div></aside><aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Kategorier</h3><label class="screen-reader-text" for="cat">Kategorier</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Välj kategori</option>
+	<option class="level-0" value="2">A beautiful life&nbsp;&nbsp;(114)</option>
+	<option class="level-0" value="4">Champion&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="13">Dress to impress!&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="6">Healthy is the new black&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="12">Music melts me soul&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="9">Shop til you drop&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="3">Skönhet och ytligheter&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="7">TBT&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="8">Welcome to my home!&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="1">Wine and dining&nbsp;&nbsp;(689)</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://finest.se/johannagrahn/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside>
+<!-- Quick Cache is NOT caching this page, because a `Status:` header (or an `HTTP/` header) was set via PHP at runtime. The header contains a non-`2xx` status code. This indicates the current page was not loaded successfully. This header might have been set by your hosting company, by WordPress itself; or by one of your themes/plugins. -->

@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>bellathorsell | &#8211; Find what you love, and work for it &#8211;</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/bellathorsell/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/bellathorsell/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="bellathorsell &raquo; flöde" href="http://finest.se/bellathorsell/feed/" />
+<link rel="alternate" type="application/rss+xml" title="bellathorsell &raquo; kommentarsflöde" href="http://finest.se/bellathorsell/comments/feed/" />
+<meta property="og:title" content="bellathorsell"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/bellathorsell/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/bellathorsell/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/04/1429808831-7214.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/bellathorsell\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/bellathorsell/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/bellathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/bellathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/bellathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/bellathorsell/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/bellathorsell/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/bellathorsell/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/bellathorsell/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/bellathorsell/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/bellathorsell/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/bellathorsell\/wp-admin\/admin-ajax.php","categories":"samhalle, livsstil, hbtq"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-header h1 a,
+            .site-header h2 {
+                color: #7406e2;
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/bellathorsell/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 7080);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                            <h1 class="site-title">
+                            <a href="http://finest.se/bellathorsell/" title="bellathorsell" rel="home">bellathorsell</a>
+                        </h1>
+                                        <h2 class="site-description">&#8211; Find what you love, and work for it &#8211;</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul class="nav-bar">
+                                                    </ul>
+                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-86" class="post-index post-86 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2016/01/24/lazy-ass-sunday/" title="Permalink to Lazy ass sunday" rel="bookmark">Lazy ass sunday</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 24, 2016 23:14">januari 24, 2016 23:14</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Har idag hunnit igenom hela boken ´Akta er killar här kommer gud och hon är jävligt förbannad` av Linda Skugge. Lite kort om den boken så är den skriven i små kapitel om reflektioner på det man möter i vardagliga livet.<br />
+Jag har också med musiken i bakgrunden hunnit med att städa, tvätta och sortera en del grejer i rummet. Imorgon blir det att sortera kläder och ta igen eventuella läxor vi fick förra veckan då jag var sjuk.</p>
+<p>Nästa bok jag öppnar nu är ´Vi måste prata om Kevin` av Lionel Shriver och de första meningarna på baksidan är: &#8221;Strax före sin sextonde födelsedag skjuter Kevin ihjäl sju skolkamrater och två av skolans anställda. Hans mamma, Eva, är den enda som inte är förvånad över det som hänt. Ända sedan Kevin var nyfödd har hon anat att något inte står rätt till med sonen, men ingen har lyssnat på hennes varningar.&#8221;</p>
+<p>Vi får se hur länge jag blir uppe inatt</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453670031-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453670031-7214-300x200.jpg" class="alignnone  wp-image-87" alt="Photo on 24-01-16 at 22.16 #2" width="536" height="357" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2016/01/24/lazy-ass-sunday/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-86 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-81" class="post-index post-81 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2016/01/24/cliffs-edge/" title="Permalink to CLIFFS EDGE" rel="bookmark">CLIFFS EDGE</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 24, 2016 15:52">januari 24, 2016 15:52</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Denna söndag har jag bakgrundsmusik hela dagen och gör på min mix list med över 300 låtar och det ända jag ska göra är att läsa och skriva ♥</p>
+<p>Detta är andra gången jag har försökt inbädda ett youtube klipp men det gick inte så ska kolla upp det så fort som möjligt. Så länge tycker jag ni kan gå in på spotify eller youtube och kolla in artisten <a href="https://www.youtube.com/watch?v=7ZfCUM1uyvw" target="_blank">Hayley Kiyoko</a></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2016/01/24/cliffs-edge/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-81 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-78" class="post-index post-78 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2016/01/23/det-finns-ingen-liga/" title="Permalink to Det finns ingen liga!" rel="bookmark">Det finns ingen liga!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 23, 2016 19:00">januari 23, 2016 19:00</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Jag och min tjejkompis satt och snackade om killar för ett tag sedan när vi var ute och för att reda ut detta bad vi tillslut en kille om hjälp. &#8221;Problemet&#8221; var mer eller mindre att vi visste inte om kille var intresserad så var det då någon ide att skriva?</p>
+<p>Den här kille sa rakt på sak att det finns ingen liga! Det finns inget förbestämt om du är tillräckligt snygg för någon bara för att du inte tycker att du är tillräckligt snygg eller så. Det handlar enbart om attraktion mot en annan människa eller just i detta fallet om sex. Han nämnde rätt mycket saker men det jag vill lyfta upp är att det är så viktigt att vi måste sluta snacka om att andra ser för bra ut för att kunna vara med någon som en själv och allt de negativa vi tänker om varandra.<br />
+Jag vet inte hur många gånger jag inte har gått fram till någon och börjat ett samtal för att jag tror att personen kommer dissa mig då jag tycker att personen ser mycket bättre ut än mig själv. Hur mycket förstör detta inte och det förstör nästan enbart bara för sig själv.<br />
+Det är absolut jobbigt att gå fram till någon ihop om att kanske få ligga för att du tycker personen är snygg och sedan känna att personen lika gärna kan be dig att dra för att hen inte tycker du ser bra ut men det är ju det, detta handlar bara om utseende och hur ska du själv kunna veta vad en annan person tycker är snyggt?<br />
+Ända sedan jag fick höra detta har jag inte tänkt något på om personen jag tycker är snygg inte tycker att jag är snygg för i &#8221;värsta&#8221; fall kanske vi dansar lite och sen inget mer. Visst det tar på en självkänsla men sen går det över och jag mår så mycket bättre nu när jag tänker efter då jag inte har tänkt på vad andra säkert tycker om mitt utseende.</p>
+<p>Ja det är svårt att komma över att inte tänka på en sån grej och speciellt för en person som jag som över analyserar inprincip allt men det är en sån enkel grej egentligen. Det är svårt att förklara på vilket sätt det är enkelt men det är bara att ha i tanken att det ENBART handlar om attraktion och inget med att någon skulle vara för snygg för någon annan och skit vad man kommer må bättre om det är något som innan har gjort att man har trackat ner på sig själv.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453568410-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453568410-7214-300x215.jpg" class="  wp-image-79 aligncenter" alt="86337_1262074764" width="347" height="249" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2016/01/23/det-finns-ingen-liga/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-78 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-74" class="post-index post-74 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2016/01/23/25-eldsjalar/" title="Permalink to 25 eldsjälar" rel="bookmark">25 eldsjälar</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 23, 2016 15:18">januari 23, 2016 15:18</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Trotts att jag fortfarande har lite ont i halsen tog jag mig ner till Sveavägen idag för att vara med på en föreläsning från Sveriges Ungdomsråd och själv berätta lite om varför jag var med och startade ett Regionalt Ungdomsråd. Jag kollade lite snabbt på facebook om eventet och det var ca 7 stycken som hade osat så jag visste inte riktigt vad jag förväntade mig av denna träff.<br />
+Jag kommer dit och drar upp till salen för att snacka lite med Ragia innan som ska hålla i föreläsningen och helt plötsligt fylls salen upp med 25 ungdomar som alla har kommit från Borås! Det var ungdomar från Borås ungdomsråd, elevråd från skolor och ungdomar som vill engagera sig! Detta är så himla fett! Vi drar i gång och berättar lite om vad Sveriges Ungdomsråd är och sedan vad man kan göra som ungdomsråd och därefter fick ungdomarna blanda in sig i olika grupper och prata om hur de kan ta hjälp utav varandra för att öka ungdomars engagemang och inflytande och de kom på många grejer som jag verkligen hoppas att de kommer fortsätta att utveckla!</p>
+<p>De Borås ungdomsråd har gjort är att bjuda med dess ungdomar på en lite ROAD TRIP genom att först besöka Skövdes ungdomsråd sen dra till Stockholm för denna föreläsning, sedan ska de träffa Nynäshamns ungdomsförmäktige och imorgon ska de till riksdagen och få en rundvisning av en riksdagsledamot. Det är något helt speciellt att sitta i ett rum med människor som har lika mycket engagemang som en själv och bara att sitta och snacka om hur stora grejer som helt och ideér som vi ska åstadkomma!!</p>
+<p>&nbsp;</p>
+<p>Jag kommer i februari dra iväg till Hedby kommun tillsammans med Vinje för att föreläsa för deras kommun och politiker om <em>demokratiberedning som ger vår kommunförmäktige inspiration till varför det är så viktigt att få med alla i kommunen när det kommer till kommunens utveckling.<br />
+</em>Att jag ska till en kommun och föreläsa om detta är helt sjukt! Jag har innan gjort två stycken föreläsningar var på den ena var i Stadshuset för ett gäng ungdomar från olika skolor där det var mer basic information om Sveriges Ungdomsråd och varför det är så viktigt att vi ungdomar också har rätt till våra åsikter och att de ska tas på samma allvar som någon som är över 18 år och den andra var när jag åkte till Brommas ungdomsråd och hjälpte dom att bli inspirerade och på vilket sett Sveriges Ungdomsråd kan hjälpa dom.</p>
+<p>Jag är så otroligt peppad inför detta!!</p>
+<p>I slutet av februari drar jag ner till Bjuv också på en utav våra inspirationshelger och denna helg är temat HBTQ och hur det är att leva som transkvinna och mycket mer. Snart kommer filmen släppas från #IRL15 som jag var med och anordnade som ägde rum här i Stockholm i oktober men lägger upp filmen från #IRL13 så länge så får ni se hur det kan gå till när vi unga eldsjälar möts upp ♥<br />
+Om inte videon funkar så klicka bara på denna <a href="https://vimeo.com/81005637" target="_blank">länk</a> <img src="http://finest.se/bellathorsell/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="https://vimeo.com/81005637">Sveriges ungdomsråds träffar</a> from <a href="https://vimeo.com/user14445827">Sveriges ungdomsråd</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2016/01/23/25-eldsjalar/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-74 -->
+                    
+					
+<article id="post-62" class="post-index post-62 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2016/01/22/brighton-london/" title="Permalink to BRIGHTON &amp; LONDON" rel="bookmark">BRIGHTON &amp; LONDON</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 22, 2016 20:46">januari 22, 2016 20:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>I oktober hade man chansen att åka med till Brighton i tre veckor för utlandspraktik och självklart ville jag åka med på detta. Efter att ha skickat in personligt brev, betyg och alla ens uppgifter vara det bara att vänta och hoppas på att de skulle välja dig som en utav den 15 som får åka. Micaela sökte också och sen den 4 oktober satt vi där på Arlanda och hade ingen aning om vad som väntade oss.</p>
+<p>Vi kommer fram till London och blir upphämtade av de som jobbar på Loxdale Education Center och de kör oss direkt hem till våra värdefamiljer. Jag och Micaela hoppas av minibussen och knackar på dörren. Denna gång till min lycka så var det inte en 80 åring som öppnade utan en kvinna runt 30 års åldern.<br />
+(Lång historia kort med 80 åringen så var det jätte bra och jag lärde mig mycket men det slutade inte så bra, detta var när jag åkte på språkresa till Brighton 2013 men den historien kan jag skriva om en annan gång.)<br />
+Hon välkomnar oss in och visar oss runt i huset, hon har två barn som sedan blev som våra små syskon vid namn Harry och Katie, en hamster och en fin lite trädgård.<br />
+Hon säger att hon bara ska hämta barnen och sen äter vi vid 17.30 så kan vi packa upp så länge. Det är väldigt vanligt att äta tidigt i England eller iallafall om man jämför när man brukar äta middag här. Plus att leva på en macka, frukt, kaka och lite juice till lunch är inte heller så lätt att vänja sig vid.</p>
+<p>Det finns rätt mycket att berätta om denna resa och om hur annorlunda det är mellan förskolor i England och i Sverige så drar det lite snabbt. I England börjar barnen oftast skolan redan när de är 4 år och då kallar man det inte för förskola utan för preschool, det är lite svår att förklara skillnaden mellan orden men det är stor skillnad på hur de jobbar. I England är det så mycket mer fokus på barnens utveckling när det kommer till deras intelligens och vad det kan åstadkomma genom hur smarta de är än att de ska få kunna utveckla sig och bara få vara barn i en trygg miljö. Såg någon dokumentär på pedagogiken där de frågade runt massa vuxna här i Sverige om vad de kommer ihåg mest om sin barndom och de flesta svarade när de var ute och lekte. Att vara ute och leka är en väldigt stor påverkan på oss och vi lär oss allt från att ta hand om vår miljö till hur vi ska klä oss för att inte bli sjuka med mera&#8230; Men i England så hade de totalt 45 minuter lek utomhus på en dag som började 8.45 och slutade 15.15. Lunchen var ca 30-45 min. Det är sjukt!?! Iallafall enligt mig, de sitter och jobbar för att lära sig skrivstil, läsa, blanda färger, lära sig om Armstrong, lära sig stav och så har de ingen tid att ta frisk luft och bara få slappna av emellan åt. Ja absolut det är inget fel att de lär sig alla dessa grejer då barn kan ta in allt snabbt men när de inte får leka emellan åt är bara fel.<br />
+En dag när de kom in efter den första 15 minuters rasten så var det ett barn som kom in med sin uniform smutsig och lärarinnan frågade varför, barnet säger att han trillade men lärarinnan tror honom inte. Tillslut fick han ställa sig i &#8221;skamvrån&#8221; och blev hotad med att bli skickad till rektor om han inte erkände att han hade rullat runt på marken i en lek för det hade en annan lärare sett. ALLTSÅ VA!?! Hade jag varit det barnet hade inte jag heller vågat erkänna att jag rullat runt i leken om man får skit för att tröjan blev smutsig. De får varningar hemskickade om inte uniformen är struken, ren eller rätt påsatt och den menar på att detta leder till mer disciplin hos barnen. Säkert gör det de men till vilken kostnad?! De kommer inte kunna vara barn alls om det fortsätter så.</p>
+<p>Sen finns det absolut saker vi kan lära oss om av dom, till exempel på hur man kan jobba mer med disciplin men då mer på ett pedagogiskt sätt och sen jobba mer med att visa upp barnens arbete vilket jag tycker att vi inte gör tillräckligt mycket i Sverige. Verkligen jobbar mer med att bekräfta människor.</p>
+<p>&nbsp;</p>
+<p>Första fredagen åka vi alla till London och om man hade föräldrars tillstång kunde man få stanna kvar så det var det jag, Micaela och Susanne gjorde. Som tur var stannade Liban också så han kunde hjälpa oss att hitta med tunnelbanan då han hade varit i London ett par gånger innan. Vi letade upp wifi och satte oss och googlade efter vandrarhem och drog till närmaste, tyvärr var de fullbokade men runt hörnet fanns ett annat där vi checkade in. Två vänner till mig och Micaela var uppe i London hos en tjej som vi träffade i Berlin under Queer Easter så vi drog in och mötte upp dom, drog på gay pub och sen gay club. Sjukt rolig kväll!</p>
+<p>Dagen efter var det invigning på BFI så vi mötte upp dom igen och drack lite för mycket men allt var bara bra. Vi drog sen och mötte upp några som vi hade träffat dagen innan och drog med dom på hemma fest någonstans i London där vi aldrig har varit innan och vi hade ingen aning om hur vi skulle ta oss hem. Vi hade då också under dagen förflyttat oss från vandrarhemmet till ett billigt hotell ute i Wembely. Som tur var så körde ena snubben oss hem sen på morgonen och det var sådär lagom kul att bara få 2 timmars sömn för att sedan dra på shoppingrunda i London innan vi drog tillbaka till Brighton.</p>
+<p>&nbsp;</p>
+<p>Under veckan så gjorde vi inte så mycket förutom att vara på praktiken och vara sjuka, jag åkte på urinvägsinfektion och Micaela fick någon förkylning men sen med lite antibiotika så var vi friska till helgen såklart vilket innebar att vi drog in till Brighton och stannade på ett vandrarhem där. Anledningen till varför vi inte sov hemma var för att det fanns tider man var tvungen att vara hemma vid och det kände inte riktigt vi för. Så vi stannade förbi tesco köpte på oss rosé och gick och satte oss på stranden och förade. Vi gick sedan till ett kebabställe varpå vi blev bjudna på mat och satt med dom och hade det trevligt innan vi drog tillbaka till vandrarhemmet. Dagen efter gjorde vi inprincip samma sak. Vi var först ute lite i Brighton och stannade bland annat och gjorde varsin henna tatuering och sedan drog vi och förade på vandrarhemmet och efter det mötte vi upp med dom från kebaben och drog till någon tequila bar och mötte massa roliga människor och sen begav vi oss hem.<br />
+När vi kommer hem så möter vi några som också är uppe och vi blev bjudna på pizza och bara satt och snackade massa med några underbara brudar. ♥</p>
+<p>Härlig resa och jag ser framemot när vi drar dit igen med klassen i April !</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487944-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487944-7214-300x225.jpg" class="alignnone size-medium wp-image-70" alt="12606959_10205784889436881_1107130396_n" width="300" height="225" /></a>Norrmän vi stötte på under en av kvällarna</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487946-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487946-7214-300x300.jpg" class="alignnone size-medium wp-image-72" alt="12625984_10205784887836841_1886297235_n" width="300" height="300" /></a>Första kvällen i London</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487945-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487945-7214-300x300.jpg" class="alignnone size-medium wp-image-71" alt="12607124_10205784889316878_1826524536_n" width="300" height="300" /></a>Bruden som bjöd oss på pizza</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487942-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487942-7214-300x300.jpg" class="alignnone size-medium wp-image-68" alt="12584217_10205784889636886_1560191038_n" width="300" height="300" /></a>Skål för Brighton</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487941-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487941-7214-225x300.jpg" class="alignnone size-medium wp-image-67" alt="12584137_10205784888396855_1213636806_n" width="225" height="300" /></a> Vår lillasyster för tre veckor</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487940-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487940-7214-300x213.jpg" class="alignnone size-medium wp-image-66" alt="12576108_10205784889556884_844082292_n" width="300" height="213" /></a>Kebaben vi hänge på</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487939-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487939-7214-300x300.jpg" class="alignnone size-medium wp-image-65" alt="12575791_10205784888196850_1715308967_n" width="300" height="300" /></a>Invigningen av BFI</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487938-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487938-7214-225x300.jpg" class="alignnone size-medium wp-image-64" alt="12575712_10205784888076847_711696885_n" width="225" height="300" /></a>Efterfesten då vi inte visste vart vi var någonstans i London</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487936-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453487936-7214-225x300.jpg" class="alignnone size-medium wp-image-63" alt="12571000_10205784887716838_741735188_n" width="225" height="300" /></a>  Ena vandrarhemmet i London</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2016/01/22/brighton-london/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-62 -->
+                    
+					
+<article id="post-59" class="post-index post-59 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2016/01/22/snart-ett-ar-senare/" title="Permalink to Snart ett år senare" rel="bookmark">Snart ett år senare</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 22, 2016 19:49">januari 22, 2016 19:49</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Snart ett år senare sitter jag här igen och påstår att jag ska börja blogga igen.<br />
+Kommer dock inte hända mer än något inlägg då och då.</p>
+<p>&nbsp;</p>
+<p>Va inne och kollade lite på mammas blogg och detta är tipset jag har fått av henne denna vecka haha</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453484714-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2016/01/1453484714-7214-300x280.jpg" class="alignnone size-medium wp-image-60" alt="1452245878-344" width="300" height="280" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2016/01/22/snart-ett-ar-senare/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-59 -->
+                    
+					
+<article id="post-52" class="post-index post-52 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2015/05/08/hemma-fran-paris-uppdaterar-imorgon/" title="Permalink to Hemma från Paris, uppdaterar imorgon!" rel="bookmark">Hemma från Paris, uppdaterar imorgon!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="maj 08, 2015 23:29">maj 08, 2015 23:29</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Nu är jag hemma från Disneyland, Paris och är otroligt trött och sliten så nu ska jag sova för att gå upp och jobba imorgon.<br />
+Jag uppdaterar om Paris imorgon efter jobbet ♦</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1431120535-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1431120535-7214.jpg" class="alignnone wp-image-53 size-full" alt="11203155_10204327835851452_1656084788996216447_n" width="720" height="960" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2015/05/08/hemma-fran-paris-uppdaterar-imorgon/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-52 -->
+                    
+					
+<article id="post-43" class="post-index post-43 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2015/05/01/middag-middag-middag-och-valborg/" title="Permalink to middag + middag + middag och Valborg" rel="bookmark">middag + middag + middag och Valborg</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="maj 01, 2015 23:46">maj 01, 2015 23:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Dessa dagar har mest bestått utav middagar och hänga med goa människor.</p>
+<p>Första middagen var efter att jag och Nattis kom hem ifrån Arboga då vi mötte upp Cynthia och satte oss i solen i Kungsträdgården och åt väldigt god men onyttig mat då jag käkade fish &amp; chips och Cynthia åt BBQ hamburgare men som sagt gott var det.</p>
+<p>Sen i måndags så drog jag, Viktor och Nattis till en kinabuffé och åt lunch då vi alla var lediga från skolan. Efter det åkte vi och mötte upp Kevin för att dra till deras kolonilott med stuga i Tantolunden och bara tog det lugnt tills jag och Nattis fick ett ryck och började rensa och städa.</p>
+<p>I torsdags bjöd jag hem Viktor och Nattis på fin middag och jag bjöd på kyckling curry med ris och lite smått och gott. Vi drog därefter hem till Viktor och åt dessert som var choklad mouse med extra choklad.</p>
+<p>I går så fick jag ett samtal av två goa göteborgare som jag var på språkresa med till Brighton 2013 och de sa att de var i Stockholm så jag stack direkt hemifrån och mötte upp dom för att sedan dra och träffa en annan tjej från Stockholm som var med på resan.<br />
+Vi drog hem till henne och hade mys middag innan vi drog in till stan för att fira Valborg.<br />
+Så vad gjorde vi igår på Valborg? Allt och ingenting känns det som för vi gjorde inte speciellt mycket men när kvällen var slut så hade vi jätte mycket att prata om. Vi besökte flera olika platser och träffade massa nya olika människor som man hoppas att man kommer hålla kontakten med och inte bara att de kommer finnas där på facebook och så blir det inget mer med det.<br />
+Vår första tanke var att åka till tanto för att se vad som händer där men på vägen dit så mötte göteborgarna 20 stycken killar och började hälsa på alla och så drog vi med dom till skinnis i Zinkensdamm istället och träffade lite mer folk. Länge blev vi inte kvar där då det började regna och mitt i allt detta tappade jag och Tilde bort göteborgarn medan alla från skinnis skulle dra till Långholmen. Vi letade och ringde göteborgarna utan något svar för att 10 minuter senare få ett sms om att de redan hade åkte till Långholmen utan alla oss. Sura blev vi men släppte det och så gick vi med strömmen mot Långholmen där det var sjukt mycket människor och till och med en brasa.<br />
+Kvällen slutade sedan på donken i Slussen så antar att det var en till middag att räkna med haha!</p>
+<p>I dag har vi inte gjort så mycket förutom att packa och bara flummat så tyvärr var jag inte med på någon demonstration men jag följde mina vänner som var med Syndikalisterna och följde deras glädje/frustrerade tåggång.<br />
+Men nu så har jag sagt hej då till göteborgarna för att sova då jag ska jobba imorgon för att sedan åka till Gävle med mamma till landstället för lite kvalitetstid ♥</p>
+<p>♥ Brighton crew reunited ♥</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430516657-7214-211x300.jpg" class="alignnone size-medium wp-image-49" alt="11195406_10204298550519337_1219706300_n" width="211" height="300" /></p>
+<p>Några utav killarna vi hängde med igår</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430517298-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430517298-7214-300x225.jpg" class="alignnone size-medium wp-image-47" alt="IMG_5425" width="300" height="225" /><br />
+</a></p>
+<p>Mys middagen med Nattis och Viktor ♥</p>
+<p>&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430517296-7214.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430517296-7214-168x300.png" class="alignnone size-medium wp-image-46" alt="IMG_5420" width="168" height="300" /><br />
+</a></p>
+<p>Kungsträdgården</p>
+<p>&nbsp;</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430517294-7214-300x300.jpg" class="alignnone size-medium wp-image-45" alt="IMG_5410" width="300" height="300" /></p>
+<p>Älskade Cynthia med sin &#8221;hund&#8221; ♥</p>
+<p>&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430517289-7214.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/05/1430517289-7214-168x300.png" class="alignnone size-medium wp-image-44" alt="IMG_5408" width="168" height="300" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2015/05/01/middag-middag-middag-och-valborg/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-43 -->
+                    
+					
+<article id="post-35" class="post-index post-35 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2015/04/28/ackligt-kaffe-med-mysig-stamning-och-prestationsangest/" title="Permalink to Äckligt kaffe med mysig stämning och prestationsångest" rel="bookmark">Äckligt kaffe med mysig stämning och prestationsångest</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="april 28, 2015 21:41">april 28, 2015 21:41</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Sitter vid köksbordet med ljusen tända och har min mys spellista i bakgrunden men kaffet smakar för jävligt&#8230;</p>
+<p>Ska försöka skriva ett personligt brev till mitt CV om varför just jag borde bli en utav två projektledare till Sveriges Ungdomsråds största träffa IRL som är i höst och det är mycket svårare än jag trodde.<br />
+Jag ska alltså skriva ett personligt brev till varför de just skulle välja MIG av alla andra kreativa och intelligenta människor. Jag vet att jag lätt skulle kunna göra detta och jag har motivationen till att klara av det och vad som gör det lättare för mig att göra detta är att jag redan har en vision om hur jag vill att det ska vara. Temat är jämställdhet och antirasism vilket jag känner många som kämpar för inklusive mig själv och så kommer träffen att vara internationellt vilket är som menat för mig!<br />
+Det enda är att jag måste är att få ner allt jag har i huvudet i ett brev och sticka ut ifrån mängden. Detta är inte min starka sida, iallafall inte att få ner allt på ett papper där jag ska prata bra om mig själv och promota mig själv som person.<br />
+Ser självklart detta som ett tillfälle för mig att öva på det och jag kommer att klara av detta men prestationsångesten är rätt hög just nu.</p>
+<p>Detta är det underbara härliga gänget jag gick min ledarutbildning med från Sveriges Ungdomsråd förra hösten och lärde mig så otroligt mycket och saknar dessa intelligenta människor men som tur är träffar man dem åtminstone en gång om året!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/04/1430251203-7214.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/04/1430251203-7214-300x200.jpg" class="alignnone size-medium wp-image-39" alt="10377450_10155079944085062_528600705740897154_n" width="300" height="200" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2015/04/28/ackligt-kaffe-med-mysig-stamning-och-prestationsangest/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-35 -->
+                    
+					
+<article id="post-33" class="post-index post-33 post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/bellathorsell/2015/04/28/avkriminalisering-av-cannabis-med-trangsynta-manniskor/" title="Permalink to &#8216;Avkriminalisering av cannabis&#8217; med trångsynta människor" rel="bookmark">&#8216;Avkriminalisering av cannabis&#8217; med trångsynta människor</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="april 28, 2015 21:17">april 28, 2015 21:17</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<h4>I helgen var jag på två seminarium i Arboga med Nattis och det blev inte riktigt som jag trodde när det kom till de seminarium vi gick på&#8230;.</h4>
+<p>Det började bra på fredagen och min mormor kom och hälsade på med hunden Mackan så det var en bra start och kvällens middag var tacos! Jag och Nattis la oss rätt tidigt men vid 01 tiden så är jag vaken och inbillar mig att jag hör ett skrik av något slag. Självklart tar jag mig ut för att försöka lokalisera vart skriket kommer ifrån vilket var lite svår då det är ett rätt stor område och jag visste inte riktigt ifall det kom ifrån höger eller vänster. Efter ett tag av att gå fram och tillbaka utan att höra något mer och alla stugor var släckta gav jag upp. Jag började gå hemåt och mötte en kille som heter Darren. Jag började med att fråga om han hade hört något och sen så började vi komma in på allt mellan himmel och jord och det visade sig att han var lika engagerad som jag och är i min ålder så vi började ventilera oss om allt det jobbiga man stöter på som ung engagerad och vi hade rätt lika värderingar och såg samma problem.<br />
+Detta var en av de fyra bra sakerna med helgen så nu ska jag försöka hitta honom på facebook. (vilket kommer bli svårt då vi inte har några gemensamma vänner men men)</p>
+<p>Så på lördagen var det dags för första seminariet på morgonen som var &#8216;Avkriminalisering av cannabis&#8217; som både jag och Nattis gick på och i beskrivningen stod det att vi skulle prata och diskutera om detta. Tror ni det blev så? Självklart inte&#8230;<br />
+Vi kanske är en grupp på 20 personer som sitter i ett rum där jag nog tror att ingen riktigt kände sig trygg nog för att kunna prata, ifrågasätta eller ställa frågor. Så det vi fick var en föreläsning av en &#8221;gammal gubbe&#8221; som pratade lite snabbt om vart det är lagligt med cannabis och sen tog han upp fyra argument till varför det borde vara lagligt och sen (enligt honom) så krossade han dessa argument. Han pratade väldigt mycket om oss unga och att alla vi skulle vara inkompetenta och vilja legalisera cannabis. Att vi inte vet vad som är bäst osv&#8230; Detta kan ni som känner mig förstå att jag reagerar på och ifrågasätter men fick såklart ett väldigt diffus svar och sen fortsatte han. I denna grupp satt det också en del trångsynta människor som jag kallar &#8216;ja-nickare&#8217; som inte allt reflekterade eller kunde föra en diskussion utan bara höll med om allt han sa. Självklart kan vissa redan ha stor koll på detta och redan ha reflekterat osv&#8230; men det var inte riktigt någon som var med och besvarade mina frågor mer utförligt en våran så kallade &#8221;föreläsare.&#8221;  (Tänkte skriva ett inlägg om argumenten han hade efter detta och lite mer om just de seminariet)</p>
+<p>Efter detta käkade vi lunch och chillade lite för att dra till nästa seminarium då Nattis skulle gå på Neuropsykiatriska sjukdomar och jag skulle gå på Sociala företag. Jag går dit det stod att seminariet skulle vara och kan ni tänka er att det är ju samma &#8221;gamla gubbe&#8221; som ska hålla i det men sen när han började prata så visade det sig att jag var på fel plats&#8230;. Eftersom jag ville behålla någon slags stolthet så satt jag kvar. Det jag hade hamnat på var faktiskt inte så dåligt ändå, jag hamnade på ett seminarium om &#8216;Nykterhetsrörelsen, Nazismen och Demokratin&#8217; och den här gången gick det mycket bättre och jag lärde mig faktiskt en hel del och vi hade några korta bra diskussioner.</p>
+<p>Men efter detta kom min höjdpunkt på dagen&#8230;&#8230; Vi som ville skulle få åka och rida! Jag har inte ridit på väldigt länge då jag inte varit nere i Örebro på ett tag och Gilda som jag har ridit nu i 2-3 år börjar bli väldigt gammal och stel.<br />
+Det tråkiga med detta var dock att vi skulle rida ridskolehästar&#8230; För er som rider ridskolehästar och jar ridit privata hästar vet vad jag snackar om. Det är en sån otroligt stor skillnad! När man rider ridskolehästar så rider man inte utan man åker häst för hästen följer bara efter varandra heltiden och vet exakt vad ridskole läraren menar när de säger &#8221;Förbered er för galopp&#8221; så utan att göra något så galopperar hästen iväg efter varandra.<br />
+Så vad gör man inte, jo man tar saker i sina egna händer och vaknar upp med världens träningsverk för att man har fått hålla igen hästen och använda både benen, vikten och händerna för att hästen skulle lyssna på mig och inte instruktören.</p>
+<p>Efter detta käkade vi och fick se en helt okej eldshow. Jag och Nattis tog sedan en promenad men en annan kille som heter Johannes och utforskade området lite och sen gick vi och la oss. Dagen efter åkte vi hem och insåg att det som var bra med denna helg var:</p>
+<p>1. Jag träffade Darren<br />
+2. Jag fick rida<br />
+3. Det var bra mat<br />
+4. Vi fick komma iväg från allt i Stockholm för ett tag</p>
+<p>Nu vet vi att vi kanske inte ska åka på detta seminarium igen utan vi satsar på något annat.</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i Okategoriserade			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/bellathorsell/2015/04/28/avkriminalisering-av-cannabis-med-trangsynta-manniskor/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-33 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/bellathorsell/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/7080/2015/04/1429808831-7214.jpg" class="" /></div></aside>			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            <div class="social-profiles"><a href="http://bellabelliiss" target="_blank"><img src="http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/images/instagram.png" alt="Instagram" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/bellathorsell/feed/rss/" target="_blank"><img src="http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/bellathorsell/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/bellathorsell/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/bellathorsell.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/bellathorsell/) in 0.86679 seconds, on: Jan 28th, 2016 @ 8:07 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 9:07 pm UTC (based on your configured expiration time). -->

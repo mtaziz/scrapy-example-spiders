@@ -1,0 +1,11 @@
+Alternate-Protocol: 443:npn-spdy/2
+Content-Language: en
+Set-Cookie: anonymous-adventurer=ra6qaobww3j9iy285v4u9e5aysl27hta; Domain=.cybo.com; expires=Sun, 17-Jan-2016 15:22:51 GMT; HttpOnly; Max-Age=1209600; Path=/; Secure
+Expires: Sun, 03 Jan 2016 15:22:51 GMT
+Vary: Cookie, User-Agent, Accept-Language
+Server: nginx
+Last-Modified: Sun, 03 Jan 2016 15:22:51 GMT
+Location: https://yellowpages.cybo.com/sorry/?next=https%3A//pharmacy.cybo.com/AU-biz/mcbeath%27s-chemist
+Cache-Control: max-age=0
+Date: Sun, 03 Jan 2016 15:23:24 GMT
+Content-Type: text/html; charset=utf-8

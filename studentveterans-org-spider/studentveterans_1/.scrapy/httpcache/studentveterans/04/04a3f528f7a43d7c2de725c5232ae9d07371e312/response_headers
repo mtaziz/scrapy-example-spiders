@@ -1,0 +1,13 @@
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Public-Key-Pins-Report-Only: max-age=500; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="q4PO2G2cbkZhZ82+JgmRUyGMoAeozA+BSXVXQWB8XWQ="; report-uri="http://reports.fb.com/hpkp/"
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Date: Mon, 15 Feb 2016 17:07:34 GMT
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: text/html
+X-Fb-Debug: pZqygT6oZErFf+Jq3yIpZ2HkAdLRPufHbjT4t5oBLisgROYoefoJZUnfLqRYDkEj/mCLC/ctnbvLtg0ANTN06Q==
+X-Frame-Options: DENY

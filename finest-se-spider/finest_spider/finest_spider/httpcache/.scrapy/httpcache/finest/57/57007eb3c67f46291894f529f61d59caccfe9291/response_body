@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Lillgård | Finest.se Medlem Blogg</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/lillgard/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/lillgard/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/lillgard/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Lillgård &raquo; flöde" href="http://finest.se/lillgard/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lillgård &raquo; kommentarsflöde" href="http://finest.se/lillgard/comments/feed/" />
+<meta property="og:title" content="Lillgård"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/lillgard/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/lillgard/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/7904/2015/12/1450477058-8105.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/lillgard\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/lillgard/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/lillgard/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/lillgard/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/lillgard/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/lillgard/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/lillgard/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/lillgard/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/lillgard/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/lillgard\/wp-admin\/admin-ajax.php","categories":"traning, humor, livsstil"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; background-image: url('http://cdn.finest.se/wp-content/uploads/sites/7904/2014/12/1419207389-8105.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/lillgard/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 7904);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/lillgard/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/lillgard/" title="Lillgård" rel="home">Lillgård</a>
+                    </h1>
+
+                    <h2 class="site-description">Finest.se Medlem Blogg</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/lillgard/">Hem</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                                    <a href="http://finest.se/lillgard/"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2014/12/1419207419-8105.jpg" class="header-image" width="851" height="315" alt=""/></a>
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-28638" class="post-28638 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/just-ja/" rel="bookmark">Just ja!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_77465168459912.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_77465168459912.jpeg" title="IMG_77465168459912.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Jag köpte ju del 1 av skilda världar.&nbsp; Måste ju köpa resten med ;);)</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/just-ja/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/just-ja/" data-text="Just ja!" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/just-ja/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/just-ja/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/just-ja/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/just-ja/" title="8:43 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T20:43:21+00:00">januari 28, 2016 20:43</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-28635" class="post-28635 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/words-96/" rel="bookmark">Words</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-slide_6.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-slide_6.jpg" title="slide_6.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p>Tänk om Sundsvalls sjukvård kunde tänka så&#8230;&nbsp; </p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/words-96/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/words-96/" data-text="Words" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/words-96/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/words-96/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/words-96/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/words-96/" title="4:55 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T16:55:28+00:00">januari 28, 2016 16:55</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-28632" class="post-28632 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/oden-2/" rel="bookmark">Oden &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-dsc00081.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-dsc00081.jpg" title="DSC00081.JPG" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-11-17-21.31.58.jpg.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-11-17-21.31.58.jpg.jpeg" title="2012-11-17 21.31.58.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-12-30-13.31.20.jpg.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-12-30-13.31.20.jpg.jpeg" title="2012-12-30 13.31.20.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-12-30-13.31.08.jpg.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-12-30-13.31.08.jpg.jpeg" title="2012-12-30 13.31.08.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130823_225740.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130823_225740.jpg" title="20130823_225740.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130823_230000.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130823_230000.jpg" title="20130823_230000.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130823_225950.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130823_225950.jpg" title="20130823_225950.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131020_202910.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131020_202910.jpg" title="20131020_202910.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131020_202905.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131020_202905.jpg" title="20131020_202905.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_20140318_211957.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_20140318_211957.jpg" title="IMG_20140318_211957.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_49679886541199.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_49679886541199.jpeg" title="IMG_49679886541199.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-received_m_mid_1406653156390_99ac8e4664600c1502_0.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-received_m_mid_1406653156390_99ac8e4664600c1502_0.jpeg" title="received_m_mid_1406653156390_99ac8e4664600c1502_0.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-received_m_mid_1419935473845_a6bcbf9881c7323396_0.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-received_m_mid_1419935473845_a6bcbf9881c7323396_0.jpeg" title="received_m_mid_1419935473845_a6bcbf9881c7323396_0.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Oden &#x1f49c;<br />
+Peters katt som han bodde med då han bodde hemma som bor kvar hos hans mamma &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/oden-2/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/oden-2/" data-text="Oden &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/oden-2/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/oden-2/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/oden-2/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/oden-2/" title="3:25 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T15:25:15+00:00">januari 28, 2016 15:25</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-28617" class="post-28617 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/godnatt-128/" rel="bookmark">Godnatt&#x1f495;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_48936795145480.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_48936795145480.jpeg" title="IMG_48936795145480.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Godnatt!&nbsp; Har ont i ryggen och mår riktigt illa men lever på hoppet om att jag mår bra imorgon &#x1f44c;.&nbsp; Sov gott &#x1f495;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/godnatt-128/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/godnatt-128/" data-text="Godnatt&#x1f495;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/godnatt-128/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/godnatt-128/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/godnatt-128/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/godnatt-128/" title="12:52 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T00:52:27+00:00">januari 28, 2016 00:52</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28614" class="post-28614 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/athena-6/" rel="bookmark">Athena &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_014817.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_014817.jpg" title="20150621_014817.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_020513.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_020513.jpg" title="20150621_020513.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_020506.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_020506.jpg" title="20150621_020506.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_132800.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_132800.jpg" title="20150621_132800.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_205835.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_205835.jpg" title="20150621_205835.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_210033.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150621_210033.jpg" title="20150621_210033.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150701_152323.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150701_152323.jpg" title="20150701_152323.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150816_175652.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150816_175652.jpg" title="20150816_175652.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150831_181730.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150831_181730.jpg" title="20150831_181730.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150904_211550.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150904_211550.jpg" title="20150904_211550.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151010_203242.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151010_203242.jpg" title="20151010_203242.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151025_151707.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151025_151707.jpg" title="20151025_151707.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151105_170615.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151105_170615.jpg" title="20151105_170615.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151113_151120.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151113_151120.jpg" title="20151113_151120.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151120_160739.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151120_160739.jpg" title="20151120_160739.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151130_221428.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151130_221428.jpg" title="20151130_221428.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151210_195125.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20151210_195125.jpg" title="20151210_195125.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p>Athena &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/athena-6/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/athena-6/" data-text="Athena &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/athena-6/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/athena-6/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/athena-6/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/athena-6/" title="12:48 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T00:48:51+00:00">januari 28, 2016 00:48</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28595" class="post-28595 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/twiggy-12/" rel="bookmark">Twiggy &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130814_181806.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130814_181806.jpg" title="20130814_181806.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130814_181810.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130814_181810.jpg" title="20130814_181810.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130831_200648.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130831_200648.jpg" title="20130831_200648.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140707_160710.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140707_160710.jpg" title="20140707_160710.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140708_145754.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140708_145754.jpg" title="20140708_145754.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140708_150445.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140708_150445.jpg" title="20140708_150445.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_175249.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_175249.jpg" title="20140719_175249.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140720_204114.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140720_204114.jpg" title="20140720_204114.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140730_104451.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140730_104451.jpg" title="20140730_104451.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140817_190926.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140817_190926.jpg" title="20140817_190926.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140916_201233.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140916_201233.jpg" title="20140916_201233.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140916_201000.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140916_201000.jpg" title="20140916_201000.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141018_153318.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141018_153318.jpg" title="20141018_153318.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141018_153500.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141018_153500.jpg" title="20141018_153500.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11905976312616.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11905976312616.jpeg" title="IMG_11905976312616.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11913222009636.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11913222009636.jpeg" title="IMG_11913222009636.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12462962922631.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12462962922631.jpeg" title="IMG_12462962922631.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12553063783228.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12553063783228.jpeg" title="IMG_12553063783228.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Twiggy &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/twiggy-12/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/twiggy-12/" data-text="Twiggy &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/twiggy-12/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/twiggy-12/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/twiggy-12/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/twiggy-12/" title="12:38 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T00:38:00+00:00">januari 28, 2016 00:38</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28575" class="post-28575 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/vildebubben/" rel="bookmark">Vilde/Bubben &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-dsc00197.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-dsc00197.jpg" title="DSC00197.JPG" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130908_144527.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130908_144527.jpg" title="20130908_144527.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131010_212211.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131010_212211.jpg" title="20131010_212211.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131031_224952.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131031_224952.jpg" title="20131031_224952.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131105_095224.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131105_095224.jpg" title="20131105_095224.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140710_023537.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140710_023537.jpg" title="20140710_023537.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_152717.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_152717.jpg" title="20140717_152717.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_154033.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_154033.jpg" title="20140717_154033.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_154036.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_154036.jpg" title="20140717_154036.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_154823.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140717_154823.jpg" title="20140717_154823.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140802_021658.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140802_021658.jpg" title="20140802_021658.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_031458.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_031458.jpg" title="20140810_031458.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_155237.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_155237.jpg" title="20140810_155237.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_155304.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_155304.jpg" title="20140810_155304.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140905_222217.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140905_222217.jpg" title="20140905_222217.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140916_202554.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140916_202554.jpg" title="20140916_202554.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141028_000610.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141028_000610.jpg" title="20141028_000610.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150323_135421.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150323_135421.jpg" title="20150323_135421.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150323_135416.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150323_135416.jpg" title="20150323_135416.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_101556173167807.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_101556173167807.jpeg" title="IMG_101556173167807.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11918312860466.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11918312860466.jpeg" title="IMG_11918312860466.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12287333985864.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12287333985864.jpeg" title="IMG_12287333985864.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12728483796655.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12728483796655.jpeg" title="IMG_12728483796655.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_1713084490467.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_1713084490467.jpeg" title="IMG_1713084490467.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_20150314_005007.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_20150314_005007.jpg" title="IMG_20150314_005007.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_2307712295838.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_2307712295838.jpeg" title="IMG_2307712295838.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_256034231314440.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_256034231314440.jpeg" title="IMG_256034231314440.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Vilde/Bubben &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/vildebubben/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/vildebubben/" data-text="Vilde/Bubben &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/vildebubben/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/vildebubben/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/vildebubben/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/vildebubben/" title="12:24 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T00:24:42+00:00">januari 28, 2016 00:24</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28546" class="post-28546 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/28/kijara-7/" rel="bookmark">Kijara &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130708_141412.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130708_141412.jpg" title="20130708_141412.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130724_161749.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130724_161749.jpg" title="20130724_161749.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130724_161742.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130724_161742.jpg" title="20130724_161742.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130822_225450.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130822_225450.jpg" title="20130822_225450.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131010_212232.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131010_212232.jpg" title="20131010_212232.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131103_232728.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131103_232728.jpg" title="20131103_232728.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131107_182733.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131107_182733.jpg" title="20131107_182733.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131111_185556.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131111_185556.jpg" title="20131111_185556.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_180107.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_180107.jpg" title="20140719_180107.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140804_162646.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140804_162646.jpg" title="20140804_162646.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140804_162637.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140804_162637.jpg" title="20140804_162637.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140818_011510.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140818_011510.jpg" title="20140818_011510.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140904_142117.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140904_142117.jpg" title="20140904_142117.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150104_125937.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150104_125937.jpg" title="20150104_125937.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12485046296654.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12485046296654.jpeg" title="IMG_12485046296654.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12662266053735.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12662266053735.jpeg" title="IMG_12662266053735.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_159314697026308.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_159314697026308.jpeg" title="IMG_159314697026308.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_74229538193821.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_74229538193821.jpeg" title="IMG_74229538193821.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Kijara &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/28/kijara-7/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/28/kijara-7/" data-text="Kijara &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/kijara-7/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/28/kijara-7/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/28/kijara-7/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/28/kijara-7/" title="12:10 f m" rel="bookmark"><time class="entry-date" datetime="2016-01-28T00:10:04+00:00">januari 28, 2016 00:10</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28526" class="post-28526 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/27/kijah-8/" rel="bookmark">Kijah &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-11-27-23.09.54.jpg.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2012-11-27-23.09.54.jpg.jpeg" title="2012-11-27 23.09.54.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130708_141343.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130708_141343.jpg" title="20130708_141343.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130712_214410.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130712_214410.jpg" title="20130712_214410.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130909_130356.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20130909_130356.jpg" title="20130909_130356.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131103_232747.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131103_232747.jpg" title="20131103_232747.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131111_233754.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131111_233754.jpg" title="20131111_233754.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_175208.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_175208.jpg" title="20140719_175208.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_145513.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_145513.jpg" title="20140810_145513.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_145540.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140810_145540.jpg" title="20140810_145540.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141123_215722.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141123_215722.jpg" title="20141123_215722.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_161144954300996.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_161144954300996.jpeg" title="IMG_161144954300996.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_20130506_001621.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_20130506_001621.jpg" title="IMG_20130506_001621.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_676609917653227.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_676609917653227.jpeg" title="IMG_676609917653227.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-mms_img-14972320981.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-mms_img-14972320981.jpg" title="mms_img-14972320981.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-mms_img18981216951.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-mms_img18981216951.jpg" title="mms_img18981216951.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p>Kijah &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/27/kijah-8/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/27/kijah-8/" data-text="Kijah &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/kijah-8/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/kijah-8/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/27/kijah-8/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/27/kijah-8/" title="11:54 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T23:54:47+00:00">januari 27, 2016 23:54</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28509" class="post-28509 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/27/tristan-10/" rel="bookmark">Tristan &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2013-01-28-22.23.30.jpg.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-2013-01-28-22.23.30.jpg.jpeg" title="2013-01-28 22.23.30.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131010_212104.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131010_212104.jpg" title="20131010_212104.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131031_224832.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20131031_224832.jpg" title="20131031_224832.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140715_130801.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140715_130801.jpg" title="20140715_130801.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140713_204954.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140713_204954.jpg" title="20140713_204954.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_175224.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140719_175224.jpg" title="20140719_175224.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140811_005227.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140811_005227.jpg" title="20140811_005227.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140902_205835.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20140902_205835.jpg" title="20140902_205835.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141019_193223.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20141019_193223.jpg" title="20141019_193223.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150124_201912.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150124_201912.jpg" title="20150124_201912.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150330_205144.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20150330_205144.jpg" title="20150330_205144.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11935753259637.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_11935753259637.jpeg" title="IMG_11935753259637.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12437238374291.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12437238374291.jpeg" title="IMG_12437238374291.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12468139527857.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12468139527857.jpeg" title="IMG_12468139527857.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12691673615992.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_12691673615992.jpeg" title="IMG_12691673615992.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_148381668415743.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_148381668415743.jpeg" title="IMG_148381668415743.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_148442787129123.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_148442787129123.jpeg" title="IMG_148442787129123.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_52332415650601.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_52332415650601.jpeg" title="IMG_52332415650601.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_74241797043918.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_74241797043918.jpeg" title="IMG_74241797043918.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_769155895188097.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_769155895188097.jpeg" title="IMG_769155895188097.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_77459184817335.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_77459184817335.jpeg" title="IMG_77459184817335.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Tristan &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/27/tristan-10/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/27/tristan-10/" data-text="Tristan &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/tristan-10/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/tristan-10/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/27/tristan-10/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/27/tristan-10/" title="11:39 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T23:39:20+00:00">januari 27, 2016 23:39</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28447" class="post-28447 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/27/less-9/" rel="bookmark">Less.</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><strong>Men shit vad less jag är på att vara sjuk nu.  Dessa jävla symptom. Går runt med med illamående, huvudvärk, magont, ryggont,småvärk i benen och händerna, inflammation i ögonen, inflammation i tarmen,snorig, värk i vänster öra,ont i halsen, knöl på halsen osv.&nbsp; Ja, skroten nästa!&nbsp; Det är inte så att allt är olidligt men tillsammans så blir det jobbigt.&nbsp; Många bäckar små&#8230;&nbsp; </strong></p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/27/less-9/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/27/less-9/" data-text="Less." data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/less-9/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/less-9/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/27/less-9/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/27/less-9/" title="9:03 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T21:03:51+00:00">januari 27, 2016 21:03</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28445" class="post-28445 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/27/saknar-dig-zache/" rel="bookmark">Saknar dig Zache &#x1f49c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_74273001114964.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_74273001114964.jpeg" title="IMG_74273001114964.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p>Saknar dig Zache &#x1f49c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/27/saknar-dig-zache/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/27/saknar-dig-zache/" data-text="Saknar dig Zache &#x1f49c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/saknar-dig-zache/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/saknar-dig-zache/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/27/saknar-dig-zache/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/27/saknar-dig-zache/" title="7:28 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T19:28:00+00:00">januari 27, 2016 19:28</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28442" class="post-28442 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/27/grattis-mos/" rel="bookmark">Grattis Mos &#x1f44c;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-screenshot_2016-01-27-16-59-53.png"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-screenshot_2016-01-27-16-59-53.png" title="Screenshot_2016-01-27-16-59-53.png" class="alignnone size-full" alt="image" /></a></p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/27/grattis-mos/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/27/grattis-mos/" data-text="Grattis Mos &#x1f44c;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/grattis-mos/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/grattis-mos/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/27/grattis-mos/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/27/grattis-mos/" title="6:00 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T18:00:21+00:00">januari 27, 2016 18:00</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28439" class="post-28439 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/27/28439/" rel="bookmark">&#8230;</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_991087330405.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-img_991087330405.jpeg" title="IMG_991087330405.jpeg" class="alignnone size-full" alt="image" /></a></p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/27/28439/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/27/28439/" data-text="&#8230;" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/28439/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/28439/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/27/28439/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/27/28439/" title="4:33 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T16:33:18+00:00">januari 27, 2016 16:33</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-28436" class="post-28436 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lillgard/2016/01/27/lunch-91/" rel="bookmark">Lunch!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <p><a href="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20160127_150511.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2016/01/wpid-20160127_150511.jpg" title="20160127_150511.jpg" class="alignnone size-full" alt="image" /></a></p>
+<p>Lunch: omelett, bbqsås och bönor!&nbsp; &#x1f44c;</p>
+<p><span class="post_sig">&#8221;BAKOM VARJE PERSONLIGHET FINNS ETT FÖRFLUTET&#8221; ❤</span></p>
+<div class="sharing-container col-xs-12"><div class="post-sharers"><iframe src="http://www.facebook.com/plugins/like.php?href=http://finest.se/lillgard/2016/01/27/lunch-91/&width=100&layout=button_count&action=like&show_faces=false&share=true&height&locale=sv_SE" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width: 130px;" allowTransparency="true"></iframe></div><span class="post-sharers"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://finest.se/lillgard/2016/01/27/lunch-91/" data-text="Lunch!" data-lang="sv" data-related="finest_se" data-count="none"></a></span><span class="post-sharers"><div class="g-plusone" data-size="tall" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/lunch-91/"></div></span><span class="post-sharers"><div class="g-plus" data-action="share" data-annotation="none" data-href="http://finest.se/lillgard/2016/01/27/lunch-91/"></div></span></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lillgard/2016/01/27/lunch-91/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lillgard/2016/01/27/lunch-91/" title="4:06 e m" rel="bookmark"><time class="entry-date" datetime="2016-01-27T16:06:11+00:00">januari 27, 2016 16:06</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lillgard/author/lillgard/" title="View all posts by Lillgård" rel="author">Lillgård</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/lillgard/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2015/12/1450477058-8105.jpg" class="" /></div></aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Lillgård</h3>			<div class="textwidget"><p>Denna blogg handlar om mitt liv. Mitt liv som en kattgalen livsglad njutare,född med massa skellett handikapp i benen och ryggen och med kroniska sjukdommar. Ni kommer få läsa om mina intressen och om min kamp om ett sk normalt levnadssätt med mina förutsättningar. Hoppas vi ses i bloggen flera gånger  ♥</p>
+<p>Kom ihåg: Bakom varje personlighet finns ett förflutet  ♥</p>
+<p>Följ med mig när jag skapar historien om Caroline Lillgård! </p>
+<p>*Livet är hårt,men jag är tammefan hårdare*</p>
+<p> *Om jag hade haft råd,då hade jag tammefan varit skit snygg* </p>
+<p>*Den man ÄR och den man VILL vara är oftast samma person,men den folk SER är den man orkar vara*</p>
+<p>*Bakom varje personlighet finns ett förflutet* </p>
+<p>*Det enda ansvar man bär är att skapa historien om sig själv och att oavsett innehåll ska man vid sista andetaget le och vara stolt över det liv man har skapat*</p>
+<p>*Tolkningen sitter i betraktarens öga*</p>
+</div>
+		</aside><aside id="calendar-3" class="widget widget_calendar"><h3 class="widget-title">LILLGÅRD ♥</h3><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>januari 2016</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="måndag">m</th>
+		<th scope="col" title="tisdag">ti</th>
+		<th scope="col" title="onsdag">o</th>
+		<th scope="col" title="torsdag">to</th>
+		<th scope="col" title="fredag">f</th>
+		<th scope="col" title="lördag">l</th>
+		<th scope="col" title="söndag">s</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://finest.se/lillgard/2015/12/">&laquo; Dec</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td><a href="http://finest.se/lillgard/2016/01/01/" title="Helvete vad vidrigt!
+I bilen.
+Skolfoton.
+INSTAGRAM-LILLGARD
+Tack för igår!
+Tönnebro!
+Middag.
+Lancome">1</a></td><td><a href="http://finest.se/lillgard/2016/01/02/" title="Jag ser det snöar&#8230;
+Wienernougat!
+Globen.
+Och så blev arenan full&#8230;
+Disney on ice!
+Disney on ice 2016.
+Fika!">2</a></td><td><a href="http://finest.se/lillgard/2016/01/03/" title="God morgon!
+Räkmacka!
+Fika
+Disney on ice 2016!
+Words
+Tjäna pengar på bloggen!">3</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/lillgard/2016/01/04/" title="Å nej!!!
+Vårdcentralen är ett skämt.
+Love.">4</a></td><td><a href="http://finest.se/lillgard/2016/01/05/" title="INSTAGRAM-LILLGARD
+Dont like this&#8230;
+INSTAGRAM-LILLGARD
+Inte konstigt man frös&#8230;
+Bachelor.">5</a></td><td><a href="http://finest.se/lillgard/2016/01/06/" title="Röd dag.
+17 minus grader!
+Dolmio
+Bolognese.
+Jag avlider!">6</a></td><td><a href="http://finest.se/lillgard/2016/01/07/" title="Godnatt!
+Ok.
+Smart tjej..
+Bloggen.">7</a></td><td><a href="http://finest.se/lillgard/2016/01/08/" title="Katastrof!
+Julpyntet
+Vi har det mysigt!
+Choklad!!!
+Twiggy &#x1f49c;">8</a></td><td><a href="http://finest.se/lillgard/2016/01/09/" title="Helt sjukt!
+Lipplumber
+Hemmagjord pizza!
+Pizzan klar!
+Trötta gänget!">9</a></td><td><a href="http://finest.se/lillgard/2016/01/10/" title="Kijara!
+&#8230;
+Lemmy Kilmister
+Lycklig tjej!
+Kijah!
+Korvgryta med fetaost
+Vart ska jag ligga?
+Farmen!
+Prinsessan på ärten &#x1f44d;">10</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/lillgard/2016/01/11/" title="Fiskbullar
+Vila i frid.">11</a></td><td><a href="http://finest.se/lillgard/2016/01/12/" title="Gamla bilder!
+Middag.
+Middag.
+Kärlek &#x1f49c;
+Words">12</a></td><td><a href="http://finest.se/lillgard/2016/01/13/" title="INSTAGRAM-LILLGARD
+Knöl på halsen">13</a></td><td><a href="http://finest.se/lillgard/2016/01/14/" title="Words
+Ser ni knölen?
+Hamburgare!">14</a></td><td><a href="http://finest.se/lillgard/2016/01/15/" title="Jag ruttnar.
+Pojkarna tar hand om tjejen!
+Matsmart">15</a></td><td><a href="http://finest.se/lillgard/2016/01/16/" title="&#8221;ASG&#8221;
+Grattis Anders!
+Ha ha ha
+Lunch!
+Foodtajm.
+Kvällsfika!
+Snygga Tristan!">16</a></td><td><a href="http://finest.se/lillgard/2016/01/17/" title="Soygurt.">17</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/lillgard/2016/01/18/" title="Nattmat
+Godnatt!
+Har du vad som krävs?
+Förlåt.
+Words
+Farmen Afrika!">18</a></td><td><a href="http://finest.se/lillgard/2016/01/19/" title="Heja Nisse &#x1f44c;
+Coca Cola&#8230;
+Primärvården">19</a></td><td><a href="http://finest.se/lillgard/2016/01/20/" title="Virus.
+X LIPS PLUMPER
+Ipren!
+Någon har bäddat ner sig&#8230;
+Korvstroganoff!
+INSTAGRAM-LILLGARD
+Words">20</a></td><td><a href="http://finest.se/lillgard/2016/01/21/" title="Är du en vän?
+American idol.
+Farmen Afrika!
+When I was blond.
+Skittles">21</a></td><td><a href="http://finest.se/lillgard/2016/01/22/" title="Sportsgym
+Lunch time!
+Middag.">22</a></td><td><a href="http://finest.se/lillgard/2016/01/23/" title="Semla!
+Words
+Dagens första måltid.
+Eller hur!!!  &#x1f44c;">23</a></td><td><a href="http://finest.se/lillgard/2016/01/24/" title="Espresso house
+Bio.
+Hemma!
+God morgon!
+Lillgård is smart.  Be like Lillgård.
+Kvarg.">24</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://finest.se/lillgard/2016/01/25/" title="Avokadosallad.
+Älskade katter &#x1f49c;
+Nu ska jag gnälla lite&#8230;
+Words
+INSTAGRAM-LILLGARD">25</a></td><td><a href="http://finest.se/lillgard/2016/01/26/" title="God morgon
+Dagens sminkteknik &#x1f648;
+Grattis Gutta!
+Words
+Love!">26</a></td><td><a href="http://finest.se/lillgard/2016/01/27/" title="Gamla selfies!
+Lunch!
+&#8230;
+Grattis Mos &#x1f44c;
+Saknar dig Zache &#x1f49c;
+Less.
+Tristan &#x1f49c;
+Kijah &#x1f49c;">27</a></td><td id="today"><a href="http://finest.se/lillgard/2016/01/28/" title="Kijara &#x1f49c;
+Vilde/Bubben &#x1f49c;
+Twiggy &#x1f49c;
+Athena &#x1f49c;
+Godnatt&#x1f495;
+Oden &#x1f49c;
+Words
+Just ja!">28</a></td><td>29</td><td>30</td><td>31</td>
+	</tr>
+	</tbody>
+	</table></div></aside>            <aside class="widget" id="blog_user_banner">
+                <img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2015/12/1450477755-8105.jpg" alt="Banner" class="img-responsive"/>            </aside>
+                    <aside class="widget" id="blog_user_banner">
+                <img src="http://cdn.finest.se/wp-content/uploads/sites/7904/2015/12/1450477796-8105.jpg" alt="Banner" class="img-responsive"/>            </aside>
+        </div><!-- #secondary --><div data-spklw-widget="widget-53be936420aa0"></div>
+</div><!-- #main .wrapper -->
+<footer id="colophon" role="footerinfo">
+    <div class="site-info">
+        <div style="padding-bottom: 100px;">
+            <div class="social-profiles"><a href="http://Lillgard" target="_blank"><img src="http://finest.se/lillgard/wp-content/themes/twentytwelve-child/images/instagram.png" alt="Instagram" /></a><a href="http://Caroline Lillgård" target="_blank"><img src="http://finest.se/lillgard/wp-content/themes/twentytwelve-child/images/videofyme.png" alt="Videofyme" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/lillgard/feed/rss/" target="_blank"><img src="http://finest.se/lillgard/wp-content/themes/twentytwelve-child/images/rss.png" title="Feed"></a>        </div>
+    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera denna innehåll</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-postadress" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din Kontakt Nej" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avboka</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/lillgard/wp-content/themes/twentytwelve-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/lillgard/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- #page -->
+<div class="clearfix"></div>
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+</div>
+                <!-- scripts for Twitter -->
+                <script>!function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if (!d.getElementById(id)) {
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = p + '://platform.twitter.com/widgets.js';
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }
+                    }(document, 'script', 'twitter-wjs');</script>
+                            <!-- scripts for Google -->
+                <script src="https://apis.google.com/js/platform.js" async defer>
+                    {
+                        lang: 'sv'
+                    }
+                </script>
+            <script type='text/javascript' src='http://finest.se/lillgard/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript' src='http://finest.se/lillgard/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b54e633a27"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/lillgard/wp-content/themes/twentytwelve-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/lillgard/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/lillgard.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/lillgard/) in 0.85258 seconds, on: Jan 28th, 2016 @ 7:13 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:13 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/lillgard/) in 0.00388 seconds, on: Jan 28th, 2016 @ 7:21 pm UTC. -->

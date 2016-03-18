@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Emma Thorsell | emma.thorsell@finest.se</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/emmathorsell/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/emmathorsell/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="Emma Thorsell &raquo; flöde" href="http://finest.se/emmathorsell/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Emma Thorsell &raquo; kommentarsflöde" href="http://finest.se/emmathorsell/comments/feed/" />
+<meta property="og:title" content="Emma Thorsell"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/emmathorsell/"/><meta property="og:description" content="Swedish Award Winning Blog 2014"/><meta property="og:site_name" content="finest.se/emmathorsell/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/339/2015/04/1428273182-344.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/emmathorsell\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/emmathorsell/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/emmathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/emmathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/emmathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/emmathorsell/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/emmathorsell/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/emmathorsell/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/emmathorsell/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/emmathorsell/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/emmathorsell/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/emmathorsell\/wp-admin\/admin-ajax.php","categories":"personligt, traning, skonhet"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-header h1 a,
+            .site-header h2 {
+                color: #f7a0e1;
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/emmathorsell/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 339);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                
+								<div class="website-logo">
+									<img src="http://cdn.finest.se/wp-content/uploads/sites/339/2015/04/1428260148-344.jpg" alt="Emma Thorsell">
+								</div>
+						                     <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                            <h1 class="site-title">
+                            <a href="http://finest.se/emmathorsell/" title="Emma Thorsell" rel="home">Emma Thorsell</a>
+                        </h1>
+                                        <h2 class="site-description">emma.thorsell@finest.se</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul class="nav-bar">
+                            <li class="page_item page-item-8417"><a href="http://finest.se/emmathorsell/wellness-way/">Wellness Way</a></li>
+<li class="page_item page-item-6950"><a href="http://finest.se/emmathorsell/victus-clinic/">Victus Medical Group</a></li>
+<li class="page_item page-item-6947"><a href="http://finest.se/emmathorsell/em-event/">EM Event</a></li>
+<li class="page_item page-item-8412"><a href="http://finest.se/emmathorsell/om-mig/">Om Mig &amp; Kontakt</a></li>
+                        </ul>
+                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-11295" class="post-index post-11295 post type-post status-publish format-standard hentry category-skonhet">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/28/fjunfritt-ansikte/" title="Permalink to Fjunfritt ansikte" rel="bookmark">Fjunfritt ansikte</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 07:06">januari 28, 2016 07:06</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Jag hatar fjun i ansiktet</strong></span></p>
+<p>Jag har ju en förkärlek till att tråda mitt ansikte men när jag var på besök hos en av våra kunder nämligen Hår och skönhetscompaniet vid Infra City så förklarade hon att när man trådar så är det svårt att få med rötterna på hårstråna i slutet av varje drag.</p>
+<p>Hon både trådar och vaxar sina kunder men föredrar vaxning för att det får med lika mycket av alla hårstrån och för att det ska hålla bättre. Hon ville att jag skulle prova vaxning istället och vips så låg jag på behandlingsbordet.</p>
+<p>Det blev både snyggt, bra och fjunfritt plus att det har hållit riktigt bra. Så bor du i norrort tycker jag absolut att du ska boka bryn hos Sabah. Hon är dessutom extremt kunnig inom laser så är du nyfiken på något inom det området så kontakta henne också. Jag vet att hon senast i helgen var nere i Italien på utbildning i laser.</p>
+<p>Ni når henne på08-590 800 45 eller så mailar du till <a href="mailto:hoscompaniet@hotmail.com">hoscompaniet@hotmail.com</a></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453563435-344-1024x1024.jpg" class="aligncenter  wp-image-11296" alt="IMG_0196" width="450" height="450" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/skonhet/" rel="category tag">Skönhet</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/28/fjunfritt-ansikte/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11295 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-11287" class="post-index post-11287 post type-post status-publish format-standard hentry category-shopping">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/27/by-malene-birger-2/" title="Permalink to By Malene Birger" rel="bookmark">By Malene Birger</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 06:46">januari 27, 2016 06:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Jag köpte faktiskt inga väskor i USA</strong> </span></p>
+<p>Så jag fick helt enkelt klicka hem några på nätet istället. Jag har hittat en sajt som heter <a href="http://www.raglady.se/" target="_blank"><strong>Raglady</strong></a> och där kan man hitta en massa trevliga saker. Så var snabb att klicka hem några väskor och en poncho som jag inte kunde motstå, jag har blivit ponchogalen.</p>
+<p>Det blev 3 stycken väskor ifrån By Malene Birger två stora och en mindre den mindre ska få byta ut min slitna favvoväska jag har just nu.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>Jag älskar när jag får paketen hem och det är fint förpackat</strong></span></p>
+<p>   <img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453560759-344-1024x1024.jpg" class="aligncenter  wp-image-11291" alt="IMG_0161" width="500" height="500" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>2 väskor till kontoret där jag hoppas allt får plats</strong></span><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453560755-344.jpg" class="aligncenter  wp-image-11289" alt="IMG_0163" width="500" height="513" /><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453560757-344.jpg" class="aligncenter  wp-image-11290" alt="IMG_0162" width="501" height="537" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Nya handväskan</strong></span></p>
+<p style="text-align: center"><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453561049-344.jpg" class="aligncenter size-full wp-image-11293" alt="IMG_0166" width="406" height="344" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Fin va?</strong></span></p>
+<p style="text-align: center"><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453560838-344-1024x1024.jpg" class="aligncenter  wp-image-11288" alt="IMG_0182" width="500" height="500" /></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/shopping/" rel="category tag">Shopping</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/27/by-malene-birger-2/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11287 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-11269" class="post-index post-11269 post type-post status-publish format-standard hentry category-resa category-shopping">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/26/vad-var-det-i-burken/" title="Permalink to Vad var det i burken?" rel="bookmark">Vad var det i burken?</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 06:06">januari 26, 2016 06:06</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Uggburken</strong></span></p>
+<p>Jag la tidigare upp en bild på en Uggburk och detta var innehållet. Kommer passa perfekt här hemma i kylan, kände det på mig när jag shoppade i solen.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453556368-344-1024x1024.jpg" class="aligncenter  wp-image-11270" alt="IMG_9877" width="500" height="500" /> <img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453556371-344.jpg" class="aligncenter  wp-image-11271" alt="IMG_0167" width="504" height="420" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/resa/" rel="category tag">Resa</a>, <a href="http://finest.se/emmathorsell/category/shopping/" rel="category tag">Shopping</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/26/vad-var-det-i-burken/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11269 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-11273" class="post-index post-11273 post type-post status-publish format-standard hentry category-mat-restauranger category-traning-halsa">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/25/jatteavokado/" title="Permalink to JÄTTEAVOKADO" rel="bookmark">JÄTTEAVOKADO</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 06:46">januari 25, 2016 06:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Jag älskar avokado</strong></span></p>
+<p>Ni kan ju gissa om jag blev glad när jag hittade dessa jätteavokados när jag var och handlade. Jag kan använda avokado till det mesta. Det jag ska finslipa lite som inte blev så bra sist var min chokladdessert på avokado. Ska testa göra Tanjas chokladmousse som jag hittade på ett klipp från hennes<span style="color: #800080"><strong> <a style="color: #800080" href="https://www.youtube.com/channel/UCpykzzQqtWJoEFDlFuMw3xg/feed?filter=2" target="_blank">YouTube kanal</a></strong></span>.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453556693-344-1024x768.jpg" class="aligncenter  wp-image-11275" alt="IMG_9806" width="500" height="375" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453556688-344-1024x768.jpg" class="aligncenter  wp-image-11274" alt="IMG_9805" width="500" height="375" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Mindfully Tanja</strong></span></p>
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/BTTLJMslGso?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/mat-restauranger/" rel="category tag">Mat &amp; Restauranger</a>, <a href="http://finest.se/emmathorsell/category/traning-halsa/" rel="category tag">Träning &amp; Hälsa</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/25/jatteavokado/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11273 -->
+                    
+					
+<article id="post-11299" class="post-index post-11299 post type-post status-publish format-standard hentry category-familj">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/24/blogg-att-folja/" title="Permalink to Blogg att följa" rel="bookmark">Blogg att följa</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 24, 2016 20:46">januari 24, 2016 20:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Min dotter</strong></span></p>
+<p>Nu har hon, min dotter börjat blogga igen. Här läser du om hennes engagemang i ungdoms och politiska frågor. Hon jobbar ideellt för att det ska bli bättre förutsättningar för ungdomar, det är också något hon åker runt och föreläser om.</p>
+<p>Dessutom skriver hon om sina resor som oftast är resor med ett tema av det hon är engagerad i. Sen är hon ju tonåring och det speglar också hennes blogg såklart! Du hittar hennes blogg <a href="http://finest.se/bellathorsell/" target="_blank">HÄR</a></p>
+<p style="text-align: center"><span style="color: #800080"><strong><a href="http://finest.se/bellathorsell/" target="_blank">www.finest.se/bellathorsell</a></strong></span></p>
+<p style="text-align: center"><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453577130-344.jpg" class="aligncenter size-full wp-image-11300" alt="62024_10201520995402195_1354290064_n" width="535" height="844" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/familj/" rel="category tag">familj</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/24/blogg-att-folja/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11299 -->
+                    
+					
+<article id="post-11262" class="post-index post-11262 post type-post status-publish format-standard hentry category-resa">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/24/35-graders-skillnad/" title="Permalink to 35 graders skillnad" rel="bookmark">35 graders skillnad</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 24, 2016 15:56">januari 24, 2016 15:56</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Från Sol till Snö</strong></span></p>
+<p>Just nu befinner vi oss på landet. Vi åkte direkt från Arlanda till landet vilket innebär minst en sådär 35 graders skillnad i temperatur och jag har än en gång insett att jag är en extremt mycket sommartjej och även om det är fint med snö så passar jag på att rösta på sommar året om. Snart kanske det är en sanning vem vet&#8230;&#8230;&#8230;</p>
+<p style="text-align: center"><span style="color: #800080"><strong>Inga båtar på vattnet längre dock en massa skotrar</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453555858-344-1024x765.jpg" class="aligncenter  wp-image-11263" alt="IMG_0180" width="499" height="373" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453555775-344-768x1024.jpg" class="aligncenter  wp-image-11264" alt="IMG_0181" width="499" height="665" /> <img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453555779-344-768x1024.jpg" class="aligncenter  wp-image-11265" alt="IMG_0179" width="500" height="666" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/resa/" rel="category tag">Resa</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/24/35-graders-skillnad/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11262 -->
+                    
+					
+<article id="post-11249" class="post-index post-11249 post type-post status-publish format-standard hentry category-resa">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/24/jag-var-for-feg/" title="Permalink to Jag var för feg" rel="bookmark">Jag var för feg</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 24, 2016 09:46">januari 24, 2016 09:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Vågade inte.</strong></span></p>
+<p>Jag hittade även <a href="http://www.reebokcrossfitmiamibeach.net/" target="_blank"><span style="color: #800080"><strong>Reebok CrossFit Miami Beach</strong></span></a> som du hittar på <span class="_Xbe">930 Alton Rd</span> om du skulle vara sugen.<br />
+Jag vågade dock inte in där och träna själv. Kände mig sjukt otränad när jag kikade in på dom som tränade därinne. Hade jag haft sällis med någon hade jag nog givit mig på ett pass. Fick lite skäll av min gamla kollega Erik på <a href="http://balancetraining.se/" target="_blank">Balance</a> men lovade att komma och köra ett CrossFit pass med honom istället.</p>
+<p>Han är Mister CrossFit på Balance och grym på det. Nästa gång jag kommer tillbaka till Miami ska jag dock vara tillräckligt tränad för att hoppa in på ett pass. Nu får jag nöja mig med att ta tag i min egen träning på måndag igen, kom av mig lite på semestern.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453553053-344-1024x906.jpg" class="aligncenter  wp-image-11251" alt="IMG_0069" width="450" height="398" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453553051-344-1024x768.jpg" class="aligncenter  wp-image-11250" alt="IMG_0064" width="449" height="337" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/resa/" rel="category tag">Resa</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/24/jag-var-for-feg/#comments">2 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11249 -->
+                    
+					
+<article id="post-11281" class="post-index post-11281 post type-post status-publish format-standard hentry category-traning-halsa">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/23/negativa-joner/" title="Permalink to Negativa joner" rel="bookmark">Negativa joner</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 23, 2016 20:36">januari 23, 2016 20:36</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Negativa joner är bra för kroppen</strong></span></p>
+<p><span style="color: #944d4d">Jag tycker att det är intressant och nödvändigt att lära sig vad som är bra för kroppen och inte. Jag har svårt att leva efter det helt men försöker i den mån jag kan. En önskan hade varit att besöka en plats under en längre period där allt är uträknat. Kost, träning, miljö och återhämtning. Det ska finnas utbildade personer inom kiropraktik, osteopat, naturmedicin och minsta lilla detalj skulle vara uttänkt så kroppen skulle må så bra som möjligt.</span></p>
+<p><span style="color: #944d4d">Jaja dröm på, jag tror inte ens att det finns ett sådant ställe. Ska googla på det.</span></p>
+<p style="text-align: left">Så länge gör jag det jag kan och hinner med. För att jag ska neutralisera kroppen från alla positiva joner som finns runtomkring oss har jag börjat att använda armbanden jag skrev om tidigare ifrån<a href="http://www.goodbalance.se/" target="_blank"><span style="color: #800080"><strong> Good Balance</strong></span></a>. Jag gillar extra mycket att dom har gjort armbanden så att du kan använda dom vid olika tillfällen oavsett om du ska träna eller vara uppklädd.</p>
+<p style="text-align: left">Vill du läsa mer om hur negativa joner kan ha en positiv effekt på din kropp så hittar du information <a href="http://www.goodbalance.se/energiarmband-negativa-joner" target="_blank"><span style="color: #800080"><strong>HÄR</strong></span></a> och skulle du bli sugen på att beställa så använder du bara mitt namn emmathorsell i fältet &#8221;Eventuell rabattkod&#8221; så får du 10% på ditt köp.</p>
+<p style="text-align: center"><span style="color: #ff0000;font-size: 14pt"><strong>RABATTKOD: emmathorsell</strong></span></p>
+<p>Jag har dessa 2 armband fyllda med negativa joner båda passar på gymet och den med lås på har jag även till vardags på kontoret. Men tänkte faktiskt klicka hem några till.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453559852-344-1024x1024.jpg" class="aligncenter  wp-image-11284" alt="IMG_0189" width="500" height="500" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453560110-344-1024x1024.jpg" class="aligncenter  wp-image-11285" alt="IMG_0192" width="521" height="521" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/traning-halsa/" rel="category tag">Träning &amp; Hälsa</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/23/negativa-joner/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11281 -->
+                    
+					
+<article id="post-11253" class="post-index post-11253 post type-post status-publish format-standard hentry category-resa">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/23/en-utekvall-pa-miami-beach/" title="Permalink to En utekväll på Miami Beach" rel="bookmark">En utekväll på Miami Beach</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 23, 2016 19:56">januari 23, 2016 19:56</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>En utekväll hann jag med.</strong></span></p>
+<p>Det blev inga sena partykvällar men jag lyckades få till en utekväll även om jag var hemma kl 01&#8230;..</p>
+<p>Efter vår middag hamnade vi på Clevelander som ligger på Ocean Drive där tajmade vi Bitcoin som hade en konfereras så det var ganska mycket folk redan tidigt på kvällen. Clevelander får dessutom ett litet extra plus eftersom jag fick visa leg för att komma in.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453554089-344-1024x710.jpg" class="aligncenter  wp-image-11254" alt="IMG_0129" width="299" height="207" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>På Clevelander var poolen inte öppen, tror det var lite för kallt för poolparty där hade däremot Bitcoin sim logga istället.</strong></span></p>
+<p> <img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453554393-344-1024x638.jpg" class="aligncenter  wp-image-11256" alt="IMG_0147" width="301" height="188" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453554389-344-958x1024.jpg" class="aligncenter  wp-image-11255" alt="IMG_0156" width="301" height="321" /></p>
+<p>Vi höll oss till vanliga sizer på drinkarna men är du sugen på en jättedrink så serveras dom överallt på Ocean Drive.</p>
+<p>Jag kan även tycka att det är bra party på restaurangerna intill Clevelander och Mango som är nattklubbarna på Ocean Drive. Det är inga som helst problem att snacka med folk, få är väl så lätta att prata med som Amerikanare och jag försökte t.o.m att konversera på spanska med några från Columbia vilket är ett språk jag absolut inte kan.</p>
+<p>Klädsel väljer du helt själv det var en blandning av allt från trash, uppklätt till dom som försökt som blev helt fel det kan vara avklätt eller påklätt, inte så noga tydligen. Vill du ha lite mer upscale skulle jag nog besöka nattklubben <a href="http://www.setmiami.com/" target="_blank"><span style="color: #800080"><strong>SET</strong></span></a>. Jag var på väg dit men eftersom att det ligger på <span class="_Xbe">320 Lincoln Rd</span> så blev jag helt enkelt för slö för att promenera dit. Sen finns det naturligtvis en massa andra klubbar och åker du in till Miami så hittar du garanterat nåt som passar just dig.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>Här har vi USA och Brasilien representerade med dom klassiska röda partymuggarna</strong> </span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453554565-344-768x1024.jpg" class="aligncenter  wp-image-11257" alt="IMG_0149" width="498" height="663" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Jättedrinkarna fanns i alla olika modeller här är en med 2 Corona i</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453554568-344-868x1024.jpg" class="aligncenter  wp-image-11258" alt="IMG_0128" width="500" height="590" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453554571-344-1024x410.jpg" class="aligncenter  wp-image-11259" alt="IMG_0148" width="500" height="200" /></p>
+<p>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/resa/" rel="category tag">Resa</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/23/en-utekvall-pa-miami-beach/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11253 -->
+                    
+					
+<article id="post-11234" class="post-index post-11234 post type-post status-publish format-standard hentry category-resa">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/23/bmw-cab/" title="Permalink to BMW cab" rel="bookmark">BMW cab</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 23, 2016 16:06">januari 23, 2016 16:06</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Vi bilar alltid mycket i USA.</strong></span></p>
+<p>När vi besöker USA så används vår hyrbil alltid flitigt för att se så mycket som möjligt. Denna gång var vi både norrut, söderut och väster dvs alla väderstreck som går utan att använda båt.</p>
+<p>Vi har sett lyxområden och gettoområden. Djur och natur. Storstäder och stränder. Bebyggelse och ödemark. Turistområden och shoppingcenter. Ja visst så gillar jag att promenera runt och det har vi gjort på Miami Beach men vill man se mer så är bil fantastiskt.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>Vi hade en BMW 428 cab, perfekt i solen</strong></span></p>
+<p>    <img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551876-344-1024x581.jpg" class="aligncenter  wp-image-11239" alt="IMG_0124" width="501" height="284" /><br />
+<img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551871-344-1024x529.jpg" class="aligncenter  wp-image-11237" alt="IMG_0118" width="501" height="259" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Miami Downtown</strong> </span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551950-344-768x1024.jpg" class="aligncenter  wp-image-11235" alt="IMG_0090" width="499" height="665" />     <img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551887-344-768x1024.jpg" class="aligncenter  wp-image-11244" alt="IMG_0091" width="500" height="666" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Utefter kusten</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551868-344-1024x660.jpg" class="aligncenter  wp-image-11236" alt="IMG_0092" width="499" height="322" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551874-344-768x1024.jpg" class="aligncenter  wp-image-11238" alt="IMG_0117" width="500" height="666" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Ute på Key Biscayne</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551879-344-1010x1024.jpg" class="aligncenter  wp-image-11240" alt="IMG_0097" width="500" height="507" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Miamibild även om den var så mycket coolare på kvällen, lyckades dock inte få nån bild på det så lånade en på googel</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551882-344-1024x687.jpg" class="aligncenter  wp-image-11242" alt="IMG_0103" width="500" height="335" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Miami by Night</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453552448-344-1024x683.jpg" class="aligncenter  wp-image-11246" alt="v5Ah8jt" width="501" height="334" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Om det renoveras kan man ju täcka det lite snyggt</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551884-344-538x1024.jpg" class="aligncenter  wp-image-11243" alt="IMG_9933" width="500" height="952" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Stora fåglar finns det gott om</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551889-344-1024x663.jpg" class="aligncenter  wp-image-11245" alt="IMG_0116" width="501" height="324" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453551880-344-949x1024.jpg" class="aligncenter  wp-image-11241" alt="IMG_0078" width="496" height="536" /></p>
+<p style="text-align: center"><span style="color: #800080">Vi var från Jupiter ner till Biscayne National Park och väster ut till Everglades och bodde som skrivita på Miami Beach som inte finns utmärkt på kartan men är ön öster om där Miami är utmärkt</span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453552781-344.jpg" class="aligncenter size-full wp-image-11247" alt="m" width="377" height="652" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/resa/" rel="category tag">Resa</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/23/bmw-cab/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11234 -->
+                    
+					
+<article id="post-11213" class="post-index post-11213 post type-post status-publish format-standard hentry category-mat-restauranger category-resa">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/23/lite-lugnare-2/" title="Permalink to Ska du till Miami Beach?" rel="bookmark">Ska du till Miami Beach?</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 23, 2016 13:20">januari 23, 2016 13:20</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><span style="color: #800080"><strong>Middagsdags på Miami Beach?<br />
+</strong></span></p>
+<p>Vill man ha en restauranggata på Miami Beach men komma bort lite från &#8221;partyrestaurangerna&#8221; på Ocean Drive kan man ta sig till <span style="color: #800080"><strong>Espanola Way</strong></span>. Där hittar du en gata full med restauranger det är en mysig gatan med massa uteserveringar.Så oavsett om du ska äta eller bara strosa omkring och kolla på folk så är det värt ett besök.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>Espanola Way</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453543884-344-1024x768.jpg" class="aligncenter  wp-image-11214" alt="IMG_0034" width="500" height="375" /></p>
+<p>Vi var där två gånger och åt ena gången var vi på ett steakhouse som hette Grillfish det var ok men ska man äta på ett steakhouse så rekommenderar jag<a href="http://www.thebetsyhotel.com/blt-steak" target="_blank"><span style="color: #800080"><strong> BLT Steak</strong></span></a> som ligger på <span class="_Xbe">1440 Ocean Dr</span> <span style="font-size: 10pt">(men en bit ifrån dom vanliga turistrestaurangerna ganska högt upp på gatan)</span>  i hotellet <a href="http://www.thebetsyhotel.com/" target="_blank"><span style="color: #800080"><strong>The Betsy</strong></span></a>. Det här är stället med vita dukar, putsat silver, servitörer i vita rockar med både fantastisk mat och service. Du äter i en lugn och skönt miljö ute eller inne du bestämmer, vi satt ute.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>BLT steakhouse &#8211; The Betsy</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453546098-344.jpg" class="aligncenter  wp-image-11217" alt="36561_2766_full" width="500" height="333" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Brödet serverades med receptet fastsatt och en kökssaltkar och ett vispat smör</strong> </span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453546573-344.jpg" class="aligncenter  wp-image-11221" alt="popovers2" width="500" height="521" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Till förrätt åt jag en fantastisk tonfisk</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453546378-344.jpg" class="aligncenter  wp-image-11219" alt="3762d7c622c58cb44611a0d13d5c9e65" width="500" height="406" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Är man på steakhouse så blir för mig det självklara valet kött och jag var inte besviken en sekund</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453546656-344.jpg" class="aligncenter  wp-image-11222" alt="miami-s-11-best-steakhouses-ranked" width="500" height="339" /></p>
+<p>På Espanola Way åt vi också på <a href="http://ohmexicorestaurant.com/" target="_blank"><span style="color: #800080"><strong>Oh! Mexico</strong></span></a> som fick godkänt på mat och service även om jag tycker att <a href="http://www.nakedtacomiami.com/#home" target="_blank"><span style="color: #800080"><strong>Naked Taco</strong></span></a> på <span class="_Xbe">1111 Collins Ave</span> är bättre. Men där får man räkna speciellt på helgerna att det är lite mer partystämning. Högre musik, massa margaritas och en stämning som får dig att vilja gå vidare ut på andra äventyr.</p>
+<p>Eftersom Naked Taco låg i bottenvåningen på vårt hotell åt vi där flera gånger och på lunchen var det naturligtvis lite lugnare än på kvällarna.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>En lunch valde jag tacos i salladsblad</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453545968-344-1024x768.jpg" class="aligncenter  wp-image-11215" alt="IMG_0151" width="500" height="375" /></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453547116-344.jpg" class="aligncenter size-full wp-image-11224" alt="-2" width="500" height="210" /></p>
+<p style="text-align: left">Vill man äta genuint bra Italienskt ska man ta sig bort från alla turistgator till en restaurang som heter <a href="http://www.macchialina.com/miami-beach/" target="_blank"><span style="color: #800080"><strong>Macchialina</strong></span></a> du hittar den på ligger på <span class="_Xbe">820 Alton Rd</span> där ska du äta deras avsmakningsmeny. Dom gör allt själva från pasta till fonder och dessutom har dom den godaste tiramisun jag ätit. Detta ställe är personligt, mysigt, genuint, vällagat och service på toppnivå.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>Maccalinas tiramisu</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453546021-344.jpg" class="aligncenter  wp-image-11216" alt="564910_534186629929891_385945072_n" width="502" height="753" /></p>
+<p>Sen kan jag ju inte låta bli att rekommendera <span style="color: #800080"><strong><a href="https://www.tacobell.com/" target="_blank">Taco Bell </a></strong></span>som budget variant, jag vet det är lite pinsamt. Men Taco Bell har hos mig en lite speciell plats hur det nu kan låta. Men första gången jag var i USA typ för 20 år sen så var vi studenter och hade inga pengar jag bodde dessutom i Örebro och något utbud på tacos fanns inte varken schysstare restaurang eller snabbmat.</p>
+<p>Men när jag kom till Los Angeles så fann jag Taco Bell, älskade det och perfekt prisklass för en student. Så fortfarande idag så försöker jag få till ett besök där när jag är i USA och denna gång blev det samma dag vi skulle åka hem. Menyn blev 2 stycken tacos och en Pepsi Diet.<br />
+<span style="color: #800080"><strong>Det viktiga med besöket är deras såser det gäller att blanda rätt.</strong> </span>Godast tycker jag Hot är och har 2 stycken på en taco, men för att få styrkan så har jag en Fire och dessutom en Verde för att jag tycker om den. Haha det tar ett tag att få min taco klar för att äta med alla såser som ska på.</p>
+<p style="text-align: center"><span style="color: #800080"><strong>Dom ser lite godare ut på deras egna bilder</strong></span> <img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453547692-344.png" class="aligncenter  wp-image-11226" alt="slider_tacos_2_2013" width="498" height="200" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Detta är min</strong> </span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453547690-344-1024x768.jpg" class="aligncenter  wp-image-11225" alt="IMG_0153" width="399" height="300" /></p>
+<p style="text-align: center"><span style="color: #800080"><strong>Såserna</strong> </span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453547693-344.gif" class="aligncenter  wp-image-11227" alt="tacobell_new_sauces_102010" width="405" height="253" /></p>
+<p>Sen tycker jag att man ska besöka en klassisk Diner om man är i USA inte för att det är speciellt bra utan mest för att ha gjort det. Denna låg ett kvarter ifrån vårt hotell och vi åt där vid ett tillfälle. Här kan du välja på allt från klassiska Amerikanska frukostar med pannkakor, ägg och toast eller gör du som jag gjorde och väljer en sallad och frukt. Dom har öppet dygnet runt så du kan vara hungrig när du vill.</p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453548696-344-1024x768.jpg" class="aligncenter  wp-image-11232" alt="IMG_0063" width="500" height="375" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/mat-restauranger/" rel="category tag">Mat &amp; Restauranger</a>, <a href="http://finest.se/emmathorsell/category/resa/" rel="category tag">Resa</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/23/lite-lugnare-2/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11213 -->
+                    
+					
+<article id="post-11192" class="post-index post-11192 post type-post status-publish format-standard hentry category-allmant category-jobb category-vanner">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/emmathorsell/2016/01/22/sant/" title="Permalink to Sant!" rel="bookmark">Sant!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 22, 2016 07:46">januari 22, 2016 07:46</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p style="text-align: center"><span style="color: #800080;font-size: 14pt"><strong>Oj, vad detta stämmer på mig</strong></span></p>
+<p><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2016/01/1453167346-344.jpg" class="aligncenter  wp-image-11194" alt="IMG_3817" width="600" height="596" /></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/emmathorsell/category/allmant/" rel="category tag">Allmänt</a>, <a href="http://finest.se/emmathorsell/category/jobb/" rel="category tag">Jobb</a>, <a href="http://finest.se/emmathorsell/category/vanner/" rel="category tag">Vänner</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/emmathorsell/2016/01/22/sant/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-11192 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/emmathorsell/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/sites/339/2015/04/1428273182-344.jpg" class="" /></div><div class="profile-desc">Swedish Award Winning Blog 2014</div></aside>			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            <div class="social-profiles"><a href="https://www.facebook.com/emma.thorsell.73" target="_blank"><img src="http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/images/facebook.png" alt="Facebook" /></a><a href="http://emmathorsell1" target="_blank"><img src="http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/images/instagram.png" alt="Instagram" /></a><a href="https://app.videofy.me/emmathorsell" target="_blank"><img src="http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/images/videofyme.png" alt="Videofyme" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/emmathorsell/feed/rss/" target="_blank"><img src="http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/emmathorsell/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/emmathorsell/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/emmathorsell.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/emmathorsell/) in 0.74133 seconds, on: Jan 28th, 2016 @ 8:06 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 9:06 pm UTC (based on your configured expiration time). -->

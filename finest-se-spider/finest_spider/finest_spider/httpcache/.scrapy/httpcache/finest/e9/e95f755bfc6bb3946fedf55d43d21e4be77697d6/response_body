@@ -1,0 +1,1060 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title></title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/diabetesmannen/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://finest.se/diabetesmannen/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title=" &raquo; flöde" href="http://finest.se/diabetesmannen/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; kommentarsflöde" href="http://finest.se/diabetesmannen/comments/feed/" />
+<meta property="og:title" content=""/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/diabetesmannen/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/diabetesmannen/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/8969/2014/11/1416549331-9170.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/diabetesmannen\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/diabetesmannen/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/diabetesmannen/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/diabetesmannen/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/diabetesmannen/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/diabetesmannen/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/diabetesmannen/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/diabetesmannen\/wp-admin\/admin-ajax.php","categories":"mode"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/diabetesmannen/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 8969);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                
+								<div class="website-logo">
+									<a href="http://finest.se/diabetesmannen/" title="" rel="home">
+										<img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2015/08/1439989596-7134.jpg" alt="">
+									</a>
+								</div>
+						                     <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                        <h2 class="site-description"></h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul class="nav-bar">
+                                                    </ul>
+                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-14662" class="post-index post-14662 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/28/vilka-outfits-gillar-du-mest/" title="Permalink to Vilka outfits gillar du mest?" rel="bookmark">Vilka outfits gillar du mest?</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 14:30">januari 28, 2016 14:30</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<h3 style="text-align: center"><strong>1. </strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948227-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948227-9170.jpg" class="alignnone size-full wp-image-14663" alt="1453480083-9170" width="1500" height="1000" /></a></p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>2. </strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948261-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948261-9170.jpg" class="alignnone size-full wp-image-14664" alt="1453238348-9170" width="1500" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>3.</strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948285-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948285-9170.jpg" class="alignnone size-full wp-image-14665" alt="1445458072-9170" width="1500" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>4. </strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948308-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948308-9170.jpg" class="alignnone size-full wp-image-14666" alt="1444921948-9170" width="1500" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>5. </strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453949224-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453949224-9170.jpg" class="alignnone size-full wp-image-14677" alt="12022514_10153829125233296_102680683260231716_o (1)" width="1500" height="1058" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>6. </strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948364-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948364-9170.jpg" class="alignnone size-full wp-image-14668" alt="1443639080-9170" width="1111" height="1500" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>7. </strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948419-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948419-9170.jpg" class="alignnone size-full wp-image-14669" alt="12419023_10154057654158296_3398172571403966968_o" width="1080" height="1350" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>8.</strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948471-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948471-9170.jpg" class="alignnone size-full wp-image-14670" alt="12418971_10154043136458296_599530217155689369_o" width="1080" height="1080" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>9.</strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948585-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948585-9170.jpg" class="alignnone size-full wp-image-14671" alt="11713680_10153679103933296_3998845589407308178_o" width="1500" height="1113" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 style="text-align: center"><strong>10.</strong></h3>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948646-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453948646-9170.jpg" class="alignnone size-full wp-image-14672" alt="12633713_10154089566393296_6091461896061387515_o" width="1500" height="1057" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4 style="text-align: center"><strong>Lämna gärna en kommentar  😛 </strong></h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/28/vilka-outfits-gillar-du-mest/#comments">4 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14662 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-14647" class="post-index post-14647 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/28/fila-3/" title="Permalink to FILA &lt;3" rel="bookmark">FILA &lt;3</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 11:02">januari 28, 2016 11:02</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Precis lika mycket som jag älskar Calvin Kliens &#8216;nygamla&#8217; kollektion älskar jag FILA. <strong>Här kommer några godbitar från kollektionen:</strong></p>
+<p><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501&amp;utm_source=adtraction&amp;utm_medium=affiliate&amp;utm_campaign=adtraction"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453946432-9170.jpg" class="alignnone size-full wp-image-14648" alt="646014" width="930" height="930" /></a>Fila Disruptor II i designsamarbete med JUNKYARD XX-XY. <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501">Finns här!</a></strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453946517-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453946517-9170.jpg" class="alignnone size-full wp-image-14649" alt="584578" width="930" height="930" /></a>Tröja från JUNKYARD XX-XY i samarbete med FILA, designad med inspiration från 90-talets sportmode och klassiska retroplagg från FILA. <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501">Finns här!</a></strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453947625-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453947625-9170.jpg" class="alignnone size-full wp-image-14659" alt="584569" width="930" height="930" /></a></p>
+<p>Leggings från JUNKYARD XX-XY i samarbete med FILA, designade med inspiration från 90-talets sportmode och klassiska retroplagg från FILA. <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/leggings-t-boz">Finns här</a></strong>!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453946923-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453946923-9170.jpg" class="alignnone size-full wp-image-14652" alt="584524" width="930" height="930" /></a>Byxa från JUNKYARD XX-XY i samarbete med FILA, designad med inspiration från 90-talets sportmode och klassiska retroplagg från FILA. <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501">Finns här</a></strong>!</p>
+<p><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501&amp;utm_source=adtraction&amp;utm_medium=affiliate&amp;utm_campaign=adtraction"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453946605-9170.jpg" class="alignnone size-full wp-image-14651" alt="1449169171-9170" width="1500" height="1000" /></a>All in FILA ( hehe ). Tröjan hittar ni <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501">här</a>,</strong> byxorna hittar ni <a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501">här</a><strong> </strong>och tofflorna hittar ni<strong> <a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/sandaler-morra-bay-jy">här</a>.</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4 style="text-align: center"><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/by-sku?sku=1007629401,1006540101,1006540102,1006540801,1006540802,1006540901,1006540903,1007061501,1007061502,1007061601,1007061602,1007161501"><span style="color: #ff0000"><strong>Klicka här</strong></span> </a>för att komma till kollektionen.</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/28/fila-3/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14647 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-14643" class="post-index post-14643 post type-post status-publish format-standard hentry category-diabetes category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/28/att-springa-ett-maraton-utan-mal/" title="Permalink to Att springa ett maraton utan mål." rel="bookmark">Att springa ett maraton utan mål.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 07:04">januari 28, 2016 07:04</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Godmorgon!</p>
+<p>Tänk dig att springa ett maraton &#8211; men utan något mål. Du fortsätter att springa men kommer liksom ingenstans. Du blir bara tröttare och tröttare och förstår inte syftet med att bara springa utan att kunna komma i mål. <em><strong>Lite så känns det att ha diabetes</strong>.</em> Vetskapen om att jag inte kan bli av med min diabetes gör mig så satans olycklig, ni förstår inte. Jag är en vinnarskalle som alltid, oavsett vad det är, vill vinna och komma i mål. <strong>Kan ni förstå min frustation?</strong> Jag kan liksom inte vinna och det stör mig så ända in i helvete. Ursäkta språket, men jag känner mig så maktlös och underlägsen. På kort sikt vinner jag men på lång sikt är det jag ( läs: min kropp ) som förlorar. Jag läste senast igår att typ 1 diabetes förkortar livet med cirka 10 år. <em>Jag kämpar förgäves känns det som. </em></p>
+<p>Negativt inlägg, jag vet, men ibland måste jag få rasta mina tankar. <em><strong>Jag är säker på att fler diabetiker känner som mig. </strong></em>Tyvärr.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453945973-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453945973-9170.jpg" class="alignnone size-full wp-image-14645" alt="2439040" width="707" height="1000" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/diabetes/" rel="category tag">Diabetes</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/28/att-springa-ett-maraton-utan-mal/#comments">2 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14643 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-14638" class="post-index post-14638 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/27/calvin-klein-hos-junkyard/" title="Permalink to Calvin Klein hos Junkyard" rel="bookmark">Calvin Klein hos Junkyard</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 16:51">januari 27, 2016 16:51</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Calvin Klein hos<strong> Junkyard &#8211; </strong>äntligen. Calvin Klein&#8217;s &#8216;nygamla&#8217; kollektion är minst sagt en stor succé. De relativt enkla och stilrena plaggen smyckar Instagram, Facebook och bloggar väldigt flitigt!</p>
+<p>Jag personligen älskar kollektionen och äger en del plagg från den.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453863306-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453863306-9170.jpg" class="alignnone size-full wp-image-14639" alt="1441831952-9170" width="1500" height="1000" /></a></p>
+<p>Jag och Daniel i höstas. Ni hittar den svarta tröjan <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/troja-crewneck-hwk-1">här</a></strong> och den gråa tröjan <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/troja-crewneck-hwk">här</a></strong>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4 style="text-align: center"><span style="color: #ff0000"><a style="color: #ff0000" href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/products?brand=3108&amp;gender=14&amp;department=1178"><strong>Klicka här</strong> </a></span>för att komma till kollektionen.</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/27/calvin-klein-hos-junkyard/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14638 -->
+                    
+					
+<article id="post-14630" class="post-index post-14630 post type-post status-publish format-standard hentry category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/27/kontrollbehov-varsta-som-finns/" title="Permalink to Kontrollbehov i ett förhållande &#8211; värsta som finns" rel="bookmark">Kontrollbehov i ett förhållande &#8211; värsta som finns</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 14:17">januari 27, 2016 14:17</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><strong>Kontrollbehov </strong>måste vara bland det värsta, tråkigaste och jobbigaste som finns i en relation. <em>Att inte kunna lämna hemmet utan att ens partner får utbrott.</em> Att partnern i fråga gång på gång försöker hitta någonting att bli upprörd och orolig över. Du kan knappt umgås med dina kompisar utan att din partner ständigt ringer och sms:ar och undrar vad du gör. Du är mer eller mindre tvungen att dissa dina vänner för att förhindra bråk. En utekväll med grabbarna eller tjejerna finns inte på kartan, då blir det ett jävla liv och slutligen &#8216;hotar&#8217; partnern med att göra slut, vilket slutar med att du otroligt nog står där och smörar ( läs: slickar arsle ) trots att du inte har gjort någonting fel. NEJ, för du har umgåtts med dina bästa kompisar.. Allt detta på grund av ett sjukligt och skadligt kontrollbehov som personen i fråga oftast vägrar att erkänna, vilket leder till att beteendet fortsätter, fortsätter och fortsätter.</p>
+<p>Svartsjuka och kontrollbehov går hand i hand och ett maktbeteende kan lätt gå över i ett kontrollbehov som går överstyr och hindra dig från att leva ett eget liv.<strong>ETT EGET LIV!</strong></p>
+<p><strong>Hur roligt är ett sådant förhållande?</strong> Gör något åt det och inse att er relation är totalt instängt och värdelös! Att &#8216;glömma&#8217; bort dina vänner och familj som har funnits vid din sida i hela ditt liv på grund av en partner som lider av ett sjukligt kontrollbehov och svartsjuka är bara sjukt. <strong>HUR!</strong> Ja, hur kan man låta det ske? Det är för mig helt jävla obegripligt!</p>
+<p>Att se vänner och bekanta som blir helt annorlunda personer ( byter personlighet ) när de går in i en relation, är skrämmande. <strong>Jag hatar det!</strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453860213-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453860213-9170.jpg" class="alignnone size-full wp-image-14631" alt="12307464_10153977782058296_521864686441920781_o" width="1080" height="1080" /></a></p>
+<p>Har ni inte träffat/pratat i telefon med din/dina bästa vänner på en vecka eller två, så kanske ni bör tänka till lite? <em>Vänner ses</em>. V<em>änner gör roliga saker tillsammans</em>. <em>Vänner ställer upp.</em> <em>Vänner reser</em>. <em>Vänner finns alltid där.</em></p>
+<p>Snälla, tänk på det och låt dig inte bli infekterad av ert förhållande!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/27/kontrollbehov-varsta-som-finns/#comments">3 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14630 -->
+                    
+					
+<article id="post-14620" class="post-index post-14620 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/27/photoshoot-vid-uppsala-centralstation/" title="Permalink to Photoshoot vid Uppsala centralstation" rel="bookmark">Photoshoot vid Uppsala centralstation</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 11:49">januari 27, 2016 11:49</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453849283-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453849283-9170.jpg" class="alignnone size-full wp-image-14621" alt="12615391_10154094734138296_4737128978176937586_o" width="1500" height="1000" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453849683-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453849683-9170.jpg" class="alignnone size-full wp-image-14622" alt="b2" width="1435" height="1500" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453849971-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453849971-9170.jpg" class="alignnone size-full wp-image-14623" alt="12640245_10154094773583296_9106245981470442544_o" width="1000" height="1500" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453850155-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453850155-9170.jpg" class="alignnone size-full wp-image-14624" alt="12640313_10154094779163296_6908691474136135565_o" width="1500" height="1000" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453850425-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453850425-9170.jpg" class="alignnone size-full wp-image-14625" alt="12473530_10154094784588296_2316934239865817435_o" width="1500" height="1000" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453850757-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453850757-9170.jpg" class="alignnone size-full wp-image-14626" alt="12622484_10154094791483296_4183401898912718239_o" width="1000" height="1500" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453851024-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453851024-9170.jpg" class="alignnone size-full wp-image-14627" alt="12622342_10154094796418296_5176909190536774163_o" width="1500" height="1000" /></a>Foto: Jag.</p>
+<h3><strong>Daniels outfit:</strong></h3>
+<p>Kavaj &#8211;<strong> <a href="https://track.adtraction.com/t/t?a=52561789&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://stayhard.se/04246980/cause-consequence/hamilton-slim-blazer-black">här</a> ( </strong>Daniel bär vanligtvis storlek 48, men den här kavajen är något mindre i storleken och därför bär han en 46:a.<strong> ) </strong>Ta därför en storlek mindre om ni funderar på att beställa en likadan.</p>
+<p>Skjorta &#8211; <strong><a href="https://track.adtraction.com/t/t?a=52561789&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://stayhard.se/10653381/cause-consequence/henrik-shirt-white">här</a></strong></p>
+<p>Jeans &#8211;<strong> <a href="https://track.adtraction.com/t/t?a=52561789&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://stayhard.se/04235543/calvin-klein-jeans/skinny-inwhc-infinte-white">här</a></strong></p>
+<p>Skor &#8211; <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/search?N=1z141n1&amp;Ntk=All&amp;Ntt=Dr+Martens">här</a></strong></p>
+<p>Scarf/sjal &#8211; <strong><a href="https://track.adtraction.com/t/t?a=1076605598&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.brothers.se/shop/accessoarer">här</a></strong></p>
+<p>Solglasögon &#8211; <strong><a href="http://millenger.com/">här</a></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/27/photoshoot-vid-uppsala-centralstation/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14620 -->
+                    
+					
+<article id="post-14613" class="post-index post-14613 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/27/gardagens-outfit-all-black/" title="Permalink to Gårdagens outfit: All black." rel="bookmark">Gårdagens outfit: All black.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 06:41">januari 27, 2016 06:41</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453833703-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453833703-9170.jpg" class="alignnone size-full wp-image-14614" alt="IMG_9781" width="1463" height="1500" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453833781-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453833781-9170.jpg" class="alignnone size-full wp-image-14615" alt="IMG_9783" width="1500" height="1000" /></a></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453848642-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453848642-9170.jpg" class="alignnone size-full wp-image-14618" alt="12628578_10154094720523296_34062032878511122_o" width="1080" height="1080" /></a></p>
+<h3><strong>Sno stilen:</strong></h3>
+<p>Rock &#8211;<span style="color: #ff0000"> <strong><a style="color: #ff0000" href="https://track.adtraction.com/t/t?a=1083743009&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.johnells.se/men/varumarken/hugo-boss/boss-black/neel">här</a></strong></span></p>
+<p>Tröja &#8211; <span style="color: #ff0000"><strong><a style="color: #ff0000" href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-e-basics/sweatshirt-med-rund-halsringning/491215?N=1z141n1Z1z141qtZ1z141ll&amp;Ns=RankValue7|1&amp;Nao=12&amp;selArt=134829&amp;pr=0C1B2S3T">här</a></strong></span></p>
+<p>Jeans &#8211; <span style="color: #ff0000"><strong><a style="color: #ff0000" href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.junkyard.se/products/jeans?department=1178&amp;gender=14">här</a></strong></span></p>
+<p>Skor &#8211; <span style="color: #ff0000"><strong><a style="color: #ff0000" href="http://www.acnestudios.com/shop/men/shoes/adrian-black.html">här</a></strong></span></p>
+<p>Mössa &#8211; <span style="color: #ff0000"><strong><a style="color: #ff0000" href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/north-sails/mossa/499039?N=1z141n1Z1z141pwZ1z141loZ1z141ll&amp;Ns=RankValue7|1&amp;Nao=14&amp;selArt=276832&amp;pr=0C1B2S3T">här</a></strong></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/27/gardagens-outfit-all-black/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14613 -->
+                    
+					
+<article id="post-14609" class="post-index post-14609 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/26/glom-inte-att-nominera-mig/" title="Permalink to Glöm inte att nominera mig." rel="bookmark">Glöm inte att nominera mig.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 17:43">januari 26, 2016 17:43</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>God eftermiddag!</p>
+<p>Ni får inte glömma att nominera mig ( <strong>diabetesmannen</strong> ) till <strong>årets toppblogg på finest</strong>, <strong>årets modeblogg</strong> och <strong>årets inspiratör </strong>i <em>Finest awards 2016</em>. Nominerar gör ni här:<a href="http://finest.se/elections/finest-awards-2016/"> <strong>finest.se</strong></a>.</p>
+<p>Nu ser vi till att jag blir nominerad och vinner någon kategori i <strong>Finest Awards också</strong>. Ni har givit mig priser förut. Ja, det är faktiskt er förtjänst att jag kammade hem priserna<em><strong> &#8216;årets modeblogg&#8217;</strong></em> och <em><strong>&#8216;årets bäst klädda man&#8217;</strong></em> i Uppsalavimmel awards. Tack, tack, tack för det!</p>
+<p><b><i>In och rösta nu, hehe.</i></b></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453783050-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453783050-9170.jpg" class="alignnone size-full wp-image-14610" alt="1920547_10152965929468296_5241331222489828387_n" width="933" height="933" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/26/glom-inte-att-nominera-mig/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14609 -->
+                    
+					
+<article id="post-14598" class="post-index post-14598 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/26/tre-magiskt-snygga-sneakers/" title="Permalink to Tre magiskt snygga sneakers." rel="bookmark">Tre magiskt snygga sneakers.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 15:49">januari 26, 2016 15:49</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453781864-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453781864-9170.jpg" class="alignnone size-full wp-image-14601" alt="613858" width="930" height="930" /></a></p>
+<p>Skor från Reebok. Grym modell! Finns <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/skor-furylite-3">här</a></strong>.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453781711-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453781711-9170.jpg" class="alignnone size-full wp-image-14600" alt="642884" width="930" height="930" /></a></p>
+<p>s Stan Smith med ovandel tillverkad i svinmocka och anilinläder. Stilrena och passar utmärkt att bära till kostym t.ex. Finns <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/skor-stan-smith-7">här</a></strong>.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453782053-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453782053-9170.jpg" class="alignnone size-full wp-image-14602" alt="643775" width="930" height="930" /></a></p>
+<p>Nike Air Max 90 Ultra Essential med ovandel i fukttrasporterande mesh.<em><strong> En</strong></em> v<em><strong>it oversize t-shirt, ett par svarta slitna/håliga jeans och en skinnjacka plus dessa sneakers.</strong></em> Snyggare blir det inte!<strong> </strong>Ni hittar skorna <strong><a href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/skor-air-max-90-ultra-essent-3">här</a></strong>.</p>
+<p>&nbsp;</p>
+<h4 style="text-align: center"><strong>Fler sneakers hittar ni <span style="color: #ff0000"><a style="color: #ff0000" href="https://track.adtraction.com/t/t?a=1096624389&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=https://www.junkyard.se/collections/sneakers">här</a></span>.</strong></h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/26/tre-magiskt-snygga-sneakers/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14598 -->
+                    
+					
+<article id="post-14578" class="post-index post-14578 post type-post status-publish format-standard hentry category-modeklader category-tankar-asikter">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://finest.se/diabetesmannen/2016/01/26/9-favoriter-fran-ellos-reahorna/" title="Permalink to 10 favoriter från Ellos reahörna." rel="bookmark">10 favoriter från Ellos reahörna.</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 12:55">januari 26, 2016 12:55</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p><strong>HERR:</strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453770465-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453770465-9170.jpg" class="alignnone size-full wp-image-14579" alt="ells_0138176_15265" width="996" height="1500" /></a></p>
+<p>Snygg kavaj i ullblandning. <em>Den ultimata vårkavajen</em>. Förut 999 kr, nu <strong>599 kr</strong>. <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-men/kavaj-i-ullmix/494969?N=1z141n1Z1z13t4b&amp;selArt=462290&amp;pr=0S1B2C3T">Finns här</a></strong>!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453771377-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453771377-9170.jpg" class="alignnone size-full wp-image-14580" alt="61-9054" width="996" height="1500" /></a></p>
+<p>Chelseaboots av mocka. Förut 699 kr, nu <strong>419 kr</strong>. <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-shoes/chelseaboots-av-mocka/469075?N=1z141n1Z1z13t4b&amp;Nao=37&amp;Ns=RankValue4|1&amp;selArt=619054&amp;pr=0S1B2C3T">Finns här!</a></strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453772055-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453772055-9170.jpg" class="alignnone size-full wp-image-14581" alt="49-1951_main" width="996" height="1500" /></a></p>
+<p>The White Shirt från Close by Denim i fin, ekologisk bomullskvalitet. Unik och toksnygg! Förut 1199 kr, nu <strong>839 kr.</strong>  <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/close-by-denim/the-white-shirt/493182?selArt=491951">Finns här!</a></strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453773545-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453773545-9170.jpg" class="alignnone size-full wp-image-14582" alt="61-9517" width="996" height="1500" /></a></p>
+<p>Sneakers Yung från Whyred är en elegant, välarbetad och bekväm sneakers av skinn. Här får du mycket fin kvalitet och en sneakers som är helt rätt i tiden. Förut 1899 kr, nu <strong>1329 kr.</strong> <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/whyred/sneakers-yung-i-fint-skinn/480237?N=1z141n1Z1z13t4b&amp;Nao=40&amp;Ns=RankValue4|1&amp;selArt=619517&amp;pr=0S1B2C3T">Finns här</a></strong>!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453773809-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453773809-9170.jpg" class="alignnone size-full wp-image-14583" alt="ells_0095944_M" width="996" height="1500" /></a></p>
+<p>Enkelknäppt modell med två knappar. Den här färgen är så rätt och snygg och vårig. Förut 699 kr, nu 279 kr. Ett skämt? Nej, 279 kr. Otroligt! <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-men/kavaj/416118?N=1z141n1Z1z13t4b&amp;Nao=1&amp;Ns=RankValue4|1&amp;selArt=462142&amp;pr=0S1B2C3T">Finns här!</a></strong></p>
+<p>&nbsp;</p>
+<p><strong>DAM: </strong></p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453774167-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453774167-9170.jpg" class="alignnone size-full wp-image-14584" alt="39-0545" width="996" height="1500" /></a></p>
+<p>Klassisk bikerjacka i skinn med crinklad struktur med mjuk känsla. Förut 1799 kr, nu <strong>1259 kr</strong>. <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-collection/bikerjacka-i-skinn/490257?N=1z13t4bZ1z141n2Z1z13sab&amp;Ns=RankValue3|1&amp;Nao=2&amp;selArt=390544&amp;pr=0C1B2S3T">Finns här</a></strong>!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453774591-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453774591-9170.jpg" class="alignnone size-full wp-image-14585" alt="36-8676_M0006859_Fu" width="996" height="1500" /></a></p>
+<p>Stilren klänning i mjuk, vävd kvalitet. Fint sprund i nacken som stängs med knapp. Förut 299 kr, nu <strong>149 kr</strong>. <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-e-basics/klanning-i-rak-modell/488185?N=1z141qx&amp;selArt=368676&amp;pr=0C1B2S3T">Finns här</a></strong>!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453774984-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453774984-9170.jpg" class="alignnone size-full wp-image-14586" alt="36-0934_M0007699_Fu" width="996" height="1500" /></a></p>
+<p>Lång och härlig klänning med streetkänsla. Hade jag varit brud hade jag kickat hatt tillsammans med denna klänning. Förut 399 kr, nu<strong> 119 kr</strong>. <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-collection/klanning-med-knytskarp/479958?N=1z141qx&amp;Nao=48&amp;Ns=RankValue3|1&amp;selArt=360934&amp;pr=0C1B2S3T">Finns här</a></strong>!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453775344-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453775344-9170.jpg" class="alignnone size-full wp-image-14587" alt="32-1018_M0007820_Fu" width="996" height="1500" /></a></p>
+<p>Ytterligare ett helsvart plagg. <em><strong>All black &lt;3</strong></em>. Här har vi en trendig jumpsuit i vävd kvalitet. V-format sprund i halsringning samt dold knäppning fram. Förut 399 kr, nu <strong>239 kr</strong>. <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-collection/jumpsuit-i-viskos/495912?N=1z141n2Z1z141qxZ1z141ll&amp;Ns=RankValue3|1&amp;Nao=20&amp;selArt=321018&amp;pr=0C1B2S3T">Finns här</a></strong>!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453776372-9170.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2016/01/1453776372-9170.jpg" class="alignnone size-full wp-image-14590" alt="64-4392" width="996" height="1500" /></a></p>
+<p>Spetsig pumps med smal klack. Förut 299 kr, nu 149 kr. <strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/ellos-shoes/spetsig-pumps-med-smal-klack/464826?N=1z13t4bZ1z141n2Z1z141x8&amp;Nao=3&amp;Ns=RankValue4|1&amp;selArt=644392&amp;pr=0S1B2C3T">Finns här</a></strong>!</p>
+<p>&nbsp;</p>
+<h4 style="text-align: center"><strong><a href="https://track.adtraction.com/t/t?a=1068394434&amp;as=1095975220&amp;t=2&amp;tk=1&amp;url=http://www.ellos.se/rea">Klicka här</a></strong> för att komma till rean!</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>/Diabetesmannen</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://finest.se/diabetesmannen/category/modeklader/" rel="category tag">Mode/Kläder</a>, <a href="http://finest.se/diabetesmannen/category/tankar-asikter/" rel="category tag">Tankar &amp; åsikter</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://finest.se/diabetesmannen/2016/01/26/9-favoriter-fran-ellos-reahorna/#respond">Lämna en kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-14578 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://finest.se/diabetesmannen/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2014/11/1416549331-9170.jpg" class="" /></div></aside><aside id="text-3" class="widget widget_text"><h2 class="widget-title">Presentation</h2>			<div class="textwidget"><p>Joakim Mattsson, 24 år från Uppsala. Bloggat i över 5 år. Idag driver jag nordens största och mest uppmärksammade blogg om diabetes. På sidan av bloggen föreläser jag och frilansar som fotograf och modell. Vimmel och event-fotografering är min specialité. </p>
+<p>Vill du kontakta mig så gör du det enklast via mail: Diabetesmannen@hotmail.com</p>
+<p>Vinnare av årets Uppsalablogg i Uppsalavimmel awards 2014</p>
+</div>
+		</aside><aside id="finest-image-widget-2" class="widget widget_finest-image-widget"><div class="pop-artiklar"><div class="content warpWordsContent"><div class="content2 chbx"><a href=""><img src="http://cdn.finest.se/wp-content/uploads/sites/8969/2014/11/1416541439-9170.jpg" class="img-responsive"/></a><div class="content2"><a href=""><h3></h3></a></div></div></div></div></aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Kategorier</h2>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://finest.se/diabetesmannen/category/diabetes/" >Diabetes</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://finest.se/diabetesmannen/category/eventvimmel/" >Event/vimmel</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://finest.se/diabetesmannen/category/lasarfragor/" >Läsarfrågor</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://finest.se/diabetesmannen/category/modeklader/" >Mode/Kläder</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://finest.se/diabetesmannen/category/tankar-asikter/" >Tankar &amp; åsikter</a>
+</li>
+		</ul>
+</aside><aside id="categories-3" class="widget widget_categories"><h2 class="widget-title">Kategorier</h2>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://finest.se/diabetesmannen/category/diabetes/" >Diabetes</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://finest.se/diabetesmannen/category/eventvimmel/" >Event/vimmel</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://finest.se/diabetesmannen/category/lasarfragor/" >Läsarfrågor</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://finest.se/diabetesmannen/category/modeklader/" >Mode/Kläder</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://finest.se/diabetesmannen/category/tankar-asikter/" >Tankar &amp; åsikter</a>
+</li>
+		</ul>
+</aside><aside id="archives-2" class="widget widget_archive"><h2 class="widget-title">Arkiv</h2>		<label class="screen-reader-text" for="archives-dropdown-2">Arkiv</label>
+		<select id="archives-dropdown-2" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://finest.se/diabetesmannen/2016/01/'> januari 2016 </option>
+	<option value='http://finest.se/diabetesmannen/2015/12/'> december 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/11/'> november 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/10/'> oktober 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/09/'> september 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/08/'> augusti 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/07/'> juli 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/06/'> juni 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/05/'> maj 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/04/'> april 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/03/'> mars 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/02/'> februari 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2015/01/'> januari 2015 </option>
+	<option value='http://finest.se/diabetesmannen/2014/12/'> december 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/11/'> november 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/10/'> oktober 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/09/'> september 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/08/'> augusti 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/07/'> juli 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/06/'> juni 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/05/'> maj 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/04/'> april 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/03/'> mars 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/02/'> februari 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2014/01/'> januari 2014 </option>
+	<option value='http://finest.se/diabetesmannen/2013/12/'> december 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/11/'> november 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/10/'> oktober 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/09/'> september 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/08/'> augusti 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/07/'> juli 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/06/'> juni 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/05/'> maj 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/04/'> april 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/03/'> mars 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/02/'> februari 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2013/01/'> januari 2013 </option>
+	<option value='http://finest.se/diabetesmannen/2012/12/'> december 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/11/'> november 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/10/'> oktober 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/09/'> september 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/08/'> augusti 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/07/'> juli 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/06/'> juni 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/05/'> maj 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/04/'> april 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/03/'> mars 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/02/'> februari 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2012/01/'> januari 2012 </option>
+	<option value='http://finest.se/diabetesmannen/2011/12/'> december 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/11/'> november 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/10/'> oktober 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/09/'> september 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/08/'> augusti 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/07/'> juli 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/06/'> juni 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/05/'> maj 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/04/'> april 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/03/'> mars 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/02/'> februari 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2011/01/'> januari 2011 </option>
+	<option value='http://finest.se/diabetesmannen/2010/10/'> oktober 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/09/'> september 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/08/'> augusti 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/07/'> juli 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/06/'> juni 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/05/'> maj 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/04/'> april 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/03/'> mars 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/02/'> februari 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2010/01/'> januari 2010 </option>
+	<option value='http://finest.se/diabetesmannen/2009/12/'> december 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/11/'> november 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/10/'> oktober 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/09/'> september 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/08/'> augusti 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/07/'> juli 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/06/'> juni 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/05/'> maj 2009 </option>
+	<option value='http://finest.se/diabetesmannen/2009/04/'> april 2009 </option>
+
+		</select>
+</aside><aside id="search-2" class="widget widget_search">	<form method="get" id="searchform" action="http://finest.se/diabetesmannen/" role="search">
+		<label for="s" class="assistive-text">Sök</label>
+		<input type="text" class="field" name="s" value="" id="s" placeholder="Sök" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Sök" />
+	</form></aside><aside id="instagramwidget-2" class="widget widget_instagramwidget"><h3 class="widget-title">Diabetesmannens instagram</h3><div class="instagram-contain"><a href="https://www.instagram.com/p/BBFs2NWnhK0/" title="☕️ with my bodyguard." target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12501787_1669632413296398_132741599_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBFXXzyHhP_/" title="Alltid lika trevligt bemötande på @clariongillet. Och utsikten är det heller inget fel på. Nu ökar vi! 📸" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.123.1080.1080/12547150_167600623612785_1891980078_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBFTO2xHhIv/" title="Jag kan inte leva utan @mimmissalong! #spraytan" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12543143_941289289282925_1843707543_n.jpg" class="instagram-media"></a><a href="https://www.instagram.com/p/BBESAGsHhIo/" title="Double breasted: 👍🏼-👎🏼? #mensfashionpost #mensfashion #menwithclass #menstyle #menswear #mensstyle #menshoes #menslook #menshaircut #menwithstyle #suitup" target="_blank"><img src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12446194_207839956230184_1069808762_n.jpg" class="instagram-media"></a></div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://www.bloggportalen.se/" target="_blank"><img src="http://www.bloggportalen.se/BlogPortal/view/Statistics?id=98201" border="0" /></a>
+</div>
+		</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><a href="https://track.adtraction.com/t/t?a=1069222950&amp;as=1095975220&amp;t=2&amp;tk=1" target="_blank">ellos.se</a></div>
+		</aside><aside id="googletranslatorwidget-2" class="widget widget_googletranslatorwidget">            <div id="google_translate_element"></div><script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            </aside>			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            © 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://finest.se/diabetesmannen/feed/rss/" target="_blank"><img src="http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/diabetesmannen/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://finest.se/diabetesmannen/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/finest-se/diabetesmannen.v/screen.html -->
+<!-- Quick Cache file built for (screen http://finest.se/diabetesmannen/) in 0.99794 seconds, on: Jan 28th, 2016 @ 7:04 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 8:04 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://finest.se/diabetesmannen/) in 0.00285 seconds, on: Jan 28th, 2016 @ 7:24 pm UTC. -->

@@ -1,0 +1,121 @@
+# -*- coding: utf-8 -*-
+import logging
+import scrapy
+from scrapy import Request
+from scrapy.linkextractors import LinkExtractor
+from scrapy.spiders import CrawlSpider, Rule
+from ..items import LycamobileSpiderItem
+from scrapy.selector import Selector
+import urlparse
+# from selenium import webdriver
+# from selenium.webdriver import phantomjs
+import time 
+import sys
+
+class LycamobileSpider(scrapy.Spider):
+    name = "lycamobile"
+    allowed_domains = ["lycamobile.co.uk"]
+    start_urls = ('http://www.lycamobile.co.uk/en/bundles?id=UKP',)
+    
+    def parse(self, response):
+        # self.driver.get(response.url)
+        # from scrapy.loader import ItemLoader
+        sel = Selector(response)
+        item = LycamobileSpiderItem()
+        items = []
+        # i=0
+        #1# Bundles name, for instance, "UK Plan 10" or  National Plus
+        ukp_dbl_lists = sel.xpath('//ul[@id="bdl-box"]/li[contains(@data-type, "UKP") or contains(@data-type,"DBL")]')
+        for lists in ukp_dbl_lists:
+            item = LycamobileSpiderItem()
+            try:
+                # i=0
+                # bundles_info = lists.xpath('//ul[@id="bdl-box"]/li[contains(@data-type, "UKP") or contains(@data-type,"DBL")]/div[contains(@class, "bdl-name") or contains(@class, "bdl-name singleBdlName")]/text()').extract()
+                                      # ('//ul[@id="bdl-box"]/li[contains(@data-type, "UKP") or contains(@data-type,"DBL")]/div[contains(@class, "bdl-name") or contains(@class, "bdl-name singleBdlName")]/text()').extract()
+                bundles_info = map(unicode.strip, lists.xpath('.//div[contains(@class, "bdl-name") or contains(@class, "bdl-name singleBdlName")]/text()[normalize-space()]').extract())
+                # item['Bundles'] = ''
+                if bundles_info:
+                    bundles_info = '\n'.join(b.strip() for b in bundles_info)
+                    item['Bundles'] = bundles_info
+                # if 'UKP' in bundles_info:
+                #     item['Bundles'] = u'UK Plan'
+                # elif 'DBL' in bundles_info:
+                #     item['Bundles'] = u'Data Bundles'
+                # # [s.encode('utf-8') for s in hxs.select('//a[@itemprop="name"]/text()').extract()]
+                # item['Bundles'] = bundles_info
+                #2# Bundle types such as UK plans or Data Bundles 
+                # type_info = lists.xpath('//ul[@id="bdl-box"]/li[contains(@data-type, "UKP") or contains(@data-type,"DBL")]//@data-type').extract()
+                types_info = map(unicode.strip, lists.xpath('.//@data-type[normalize-space()]').extract())
+                if types_info:
+                    types_info = '\n'.join(t.strip() for t in types_info)
+                    types_info = types_info.replace('UKP','UK Plan')
+                    types_info = types_info.replace('DBL', 'Data Bundles')
+                    item['Type'] = types_info
+                # item['Type'] = type_info
+                # #3# price in GBP
+                # price_gbp_info = lists.xpath('//ul[@id="bdl-box"]//li[contains(@data-type, "UKP") or contains(@data-type, "DBL")]//div[contains(@class, "fs40 fs-bold") or contains(@class, "fs40 fs-bold cross_offer")]//b[not(@class="fs12")]//text()').extract()
+                price_gbp_info = map(unicode.strip, lists.xpath('.//div[contains(@class, "fs40 fs-bold") or contains(@class, "fs40 fs-bold cross_offer")]//b[not(@class="fs12")]//text()[normalize-space()]').extract())
+                if price_gbp_info:
+                    price_gbp_info = '\n'.join(p.strip() for p in price_gbp_info)
+                    item['Price_GBP'] = price_gbp_info
+                # item['Price_GBP'] = price_gbp_info
+                # #4#validity in day
+                # validity_days_info = lists.xpath('//ul[@id="bdl-box"]/li[contains(@data-type,"UKP") or contains(@data-type, "DBL")]//div[@class="validity"]/text()').re(r"(\d+)|Validity")
+                validity_days_info = map(unicode.strip, lists.xpath('.//div[@class="validity"]/text()').re(r"(\d+)|Validity"))
+                if validity_days_info:
+                    validity_days_info = '\n'.join(v.strip() for v in validity_days_info)
+                    item['Validity_Days'] = validity_days_info
+                if not validity_days_info:
+                    validity_days_info = validity_days_info.replace('', '0')
+                    item['Validity_Days'] = validity_days_info
+
+                #5#Data
+                data_info = map(unicode.strip, lists.xpath('.//div[contains(@class,"bdl-units") or contains(@class, "bdl-units SingleBdlDetail")]/ul[contains(@class, "data single") or contains(@class,"data multi fullWidth mrg20-T")]/li[@class="n-data"]/span[@class="align-T"]/text()').extract())
+                if data_info:
+                    data_info = '\n'.join(d.strip() for d in data_info)
+                    item['Data'] = data_info
+                #6#National Minutes    
+                natl_mins_info = map(unicode.strip, lists.xpath('.//div[@class="bdl-units"]/ul[@class="mins single"]/li[@class="i-mins"]/span[@class="align-T"]/text()').extract())
+                if natl_mins_info:
+                    natl_mins_info = '\n'.join(n.strip() for n in natl_mins_info)
+                    # natl_mins_info = natl_mins_info.replace('', '0')
+                    item['Natl_Mins'] = natl_mins_info
+
+
+                #7#National Texts 
+                natl_text_info = map(unicode.strip, lists.xpath('.//div[@class="bdl-units"]/ul[@class="texts single"]/li[@class="i-texts"]/span[@class="align-T"]/text()').extract())
+                if natl_text_info:
+                    natl_text_info = '\n'.join(ntext.strip() for ntext in natl_text_info)
+                    item['Natl_Text'] = natl_text_info
+                #8# International minutes
+                    #   length 12
+                intl_mins_info = map(unicode.strip, lists.xpath('.//div[contains(@class, "bdl-units") or contains(@class, "DBL")]/ul[@class="mins single"]/li[@id="Li12"]/span[@class="align-T"]/text()').extract())
+                if intl_mins_info:
+                    intl_mins_info = '\n'.join(imins.strip() for imins in intl_mins_info)
+                    item['Intl_Mins'] = intl_mins_info
+
+                #9# Combined International and National  minutes or text
+                item['Combined_Natl_Intl'] = '0'
+                #10# Lyca to Lyca calls 
+                lyca_to_lyca_call_info = map(unicode.strip, lists.xpath('.//div[@class="bdl-units"]/ul[@class="mins single"]/li[@class="l-mins"]/span[contains(@class, "align-T")]/text()').extract())
+                if lyca_to_lyca_call_info:
+                    lyca_to_lyca_call_info = '\n'.join(l2lc.strip() for l2lc in lyca_to_lyca_call_info)
+                    item['Lyca_To_Lyca_Calls'] = lyca_to_lyca_call_info
+
+                #11# lyca to lyca texts 
+                lyca_to_lyca_text_info = map(unicode.strip, lists.xpath('.//div[@class="bdl-units"]/ul[@class="texts single"]/li[@class="l-texts"]/span[@class="align-T"]/text()').extract())
+                if lyca_to_lyca_text_info:
+                    lyca_to_lyca_text_info = '\n'.join(l2lt.strip() for l2lt in lyca_to_lyca_text_info)
+                    item['Lyca_To_Lyca_Texts'] = lyca_to_lyca_text_info
+                #12# notes on "Best Value", "Online Price" or "On Sale" or others
+                notes_info = map(unicode.strip, lists.xpath('.//div[contains(@class,"bundle-")]//@class').extract())
+                if notes_info:
+                    notes_info = '\n'.join(n.strip() for n in notes_info)
+                    notes_info = notes_info.replace('bundle-BV1', 'Best Value')
+                    notes_info = notes_info.replace('bundle-recommend1', '')
+                    notes_info = notes_info.replace('bundle-OS1', 'On Sale')
+                    notes_info = notes_info.replace('bundle-OP', 'Online Price')
+                    item['Notes'] = notes_info
+                yield item
+            except IndexError:
+                continue           

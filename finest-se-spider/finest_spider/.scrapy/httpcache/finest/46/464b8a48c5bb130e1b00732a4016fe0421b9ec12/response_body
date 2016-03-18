@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="sv">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="sv">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="sv">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>lmjurs | It´s all about me</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://finest.se/lmjurs/xmlrpc.php"/>
+    <link rel="shortcut icon" href="http://finest.se/lmjurs/wp-content/themes/twentytwelve-child/images/favicon.ico"/>
+        <!--[if lt IE 9]>
+    <script src="http://finest.se/lmjurs/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="lmjurs &raquo; flöde" href="http://finest.se/lmjurs/feed/" />
+<link rel="alternate" type="application/rss+xml" title="lmjurs &raquo; kommentarsflöde" href="http://finest.se/lmjurs/comments/feed/" />
+<meta property="og:title" content="lmjurs"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/lmjurs/"/><meta property="og:description" content=""/><meta property="og:site_name" content="finest.se/lmjurs/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/55405.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/finest.se\/lmjurs\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://finest.se/lmjurs/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://finest.se/lmjurs/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://finest.se/lmjurs/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://finest.se/lmjurs/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve_finest-style-css'  href='http://finest.se/lmjurs/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve_finest-ie-css'  href='http://finest.se/lmjurs/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bootstrap-css'  href='http://finest.se/lmjurs/wp-content/themes/twentytwelve-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://finest.se/lmjurs/wp-content/themes/twentytwelve-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://finest.se/lmjurs/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var twentytwelve_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt .","remote":"V\u00e4nligen fixa detta omr\u00e5de .","email":"Ange en giltig e-postadress .","url":"Ange en giltig webbadress .","date":"Ange ett giltigt datum .","dateISO":"Ange ett giltigt datum ( ISO ) .","number":"Ange ett giltigt nummer .","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen .","maxlength":"Fyll inte mer \u00e4n 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Fyll inte mer \u00e4n 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan { 0 } och { 1 } tecken.","range":"Ange ett v\u00e4rde mellan { 0 } och { 1 } .","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med { 0 } .","min":"V\u00e4nligen ange ett v\u00e4rde st\u00f6rre \u00e4n eller lika med { 0 } ."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://finest.se/lmjurs/wp-content/themes/twentytwelve-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://finest.se/lmjurs/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://finest.se/lmjurs/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/finest.se\/lmjurs\/wp-admin\/admin-ajax.php","categories":""};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-header .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffd6d6; }
+</style>
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/lmjurs/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 6399);
+                ga('send', 'pageview');
+            </script>
+
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+
+</head>
+<body class="home blog custom-background custom-font-enabled single-author">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div class="clearfix"></div>
+<div class="main_container_20">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="twenty_main">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                <div class="site header_contain">
+                        <header id="masthead" class="site-header" role="banner">
+                <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://finest.se/lmjurs/wp-content/themes/twentytwelve-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+
+                    <h1 class="site-title">
+                        <a href="http://finest.se/lmjurs/" title="lmjurs" rel="home">lmjurs</a>
+                    </h1>
+
+                    <h2 class="site-description">It´s all about me</h2>
+                </hgroup>
+
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <h3 class="menu-toggle">Meny</h3>
+                    <a class="assistive-text" href="#content" title="Hoppa till innehåll">Hoppa till innehåll</a>
+                    <div class="nav-menu"><ul><li class="current_page_item"><a href="http://finest.se/lmjurs/">Hem</a></li></ul></div>
+                </nav>
+                <!-- #site-navigation -->
+
+                            </header>
+            <!-- #masthead -->
+        </div>
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="page" class="hfeed site">
+            <div id="main" class="wrapper">
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+            
+                                                    
+<article id="post-1636" class="post-1636 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/10/06/18-sm-guld/" rel="bookmark">18 SM-Guld</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            </p>
+<p>Igår tog MFF sitt artonde SM-Guld, lyckan är total!! #MFF</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/10/06/18-sm-guld/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/10/06/18-sm-guld/" title="6:05 e m" rel="bookmark"><time class="entry-date" datetime="2014-10-06T18:05:11+00:00">oktober 06, 2014 18:05</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                                        
+<article id="post-1635" class="post-1635 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/24/helgens-shopping/" rel="bookmark">Helgens shopping</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2398147.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2398148.jpg" alt="" /></div>
+<div class="mobile_text">
+<p>Hej! </p>
+<p>I väntan på bussen tänkte jag dela med mig lite av shoppingen från i helgen&#8230; Yes Shopaholicen är tillbaka, men jag ser det som en krya på dig och tycka synd om sig själv present. </p>
+<p>Det blev ett par the Urban project från scorett och en jacka från zara. Jackan fick jag beställa från deras hemsida, så idag efter jobb ska jag hämta ut den. <img src="http://finest.se/lmjurs/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/24/helgens-shopping/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/24/helgens-shopping/" title="6:46 f m" rel="bookmark"><time class="entry-date" datetime="2014-09-24T06:46:26+00:00">september 24, 2014 06:46</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>                    
+<article id="post-1634" class="post-1634 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/23/coffee-is-the-answer/" rel="bookmark">Coffee is the answer!</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2397201.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2397202.jpg" alt="" /></div>
+<div class="mobile_text">
+<p>Godmorgon!</p>
+<p>Är det något jag behöver på morgonen innan jobb så är det kaffe, annars &#8221;fungerar&#8221; inte jag. <br />
+Eftersom jag är lite lat på morgnarna brukar jag slinka in på espresso house i väntan på bussen, men det blir ganska mycket pengar i längden&#8230;</p>
+<p>Så den här veckan tänkte jag börja bli ekonomisk och koka/brygga mitt kaffe hemma. Jag har ju faktiskt en bra termos/mugg som är lätt att ta med. <img src="http://finest.se/lmjurs/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/23/coffee-is-the-answer/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/23/coffee-is-the-answer/" title="6:19 f m" rel="bookmark"><time class="entry-date" datetime="2014-09-23T06:19:22+00:00">september 23, 2014 06:19</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>                    
+<article id="post-1633" class="post-1633 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/22/surprise/" rel="bookmark">Surprise</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395758.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395759.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395760.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395761.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395762.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395763.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395764.jpg" alt="" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2395765.jpg" alt="" /></div>
+<div class="mobile_text">
+<p>Vilken lyckad gårdag!</p>
+<p>På förmiddagen igår mötte jag först upp Emelie T som var i Stockholm en snabbvisit. Var kul att träffa henne igen, senast var över en snabb fika i påskas. </p>
+<p>För två veckor sen fyllde Tezzie år så min och Emelies present skulle bli en överraskning. Igår var det äntligen dags för genomförandet av &#8221;presenten&#8221; eller snarare en upplevelse. Jag mötte upp Tezzie i Slussen, där gav jag henne ett par öronproppar och satte på henne en ögonbindel. Sen lurade jag med henne till Nacka strand och Njuta Spa där Emelie väntade. Haha måste sett sjukt roligt ut när jag gick runt och ledde Tezzie på bussen. </p>
+<p>Väl framme på Njuta hade vi förberett med frukt, juice, snittar, champagne m.m och Emelie hade fixat mysfaktor deluxe. Det blev en riktigt tjejkväll med massa tjejsnack, jacuzzi, bastu, scrub och ansiktsmask. Vi lyckades verkligen med vår överraskning, det blev helt perfekt en regnig höstkväll! </p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/22/surprise/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/22/surprise/" title="9:48 e m" rel="bookmark"><time class="entry-date" datetime="2014-09-22T21:48:29+00:00">september 22, 2014 21:48</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-1632" class="post-1632 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/22/sondagslyx/" rel="bookmark">Söndagslyx</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            </p>
+<p>Vi lyxar till det en regnig söndag. <img src="http://finest.se/lmjurs/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />            #spa#tjejkväll#söndagslyx</p>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/22/sondagslyx/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/22/sondagslyx/" title="7:29 f m" rel="bookmark"><time class="entry-date" datetime="2014-09-22T07:29:36+00:00">september 22, 2014 07:29</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-1631" class="post-1631 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/17/apt/" rel="bookmark">APT</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2386478.jpg" alt="" /></div>
+<div class="mobile_text">
+<p>Morning!</p>
+<p>Åh inatt har jag sovit så otroligt bra, så det var riktigt jobbigt att slita sig från sängen när klockan ringde.</p>
+<p>Nu är jag snart framme på jobb, idag blir en lång dag såvida har APT ikväll. Så det innebär en 12 timmars dag. Tagga!</p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/17/apt/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/17/apt/" title="7:01 f m" rel="bookmark"><time class="entry-date" datetime="2014-09-17T07:01:12+00:00">september 17, 2014 07:01</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-1630" class="post-1630 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/16/champions-league/" rel="bookmark">Champions league</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2386218.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_text">
+<p>Fotbollskväll! </p>
+<p> Vilken härlig kväll just nu ligger jag helt utslagen i soffan och kollar på fotboll. Det är ju faktiskt inte vilken match som helst&#8230; Nej det är Champions league, Juventus mot mitt älskade himmelsblå MFF. Som jag längtat efter denna kväll, FORZA MALMÖ. <br /> Vi vet vi kan.</p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/16/champions-league/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/16/champions-league/" title="9:11 e m" rel="bookmark"><time class="entry-date" datetime="2014-09-16T21:11:48+00:00">september 16, 2014 21:11</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-1629" class="post-1629 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/16/ingen-stress/" rel="bookmark">Ingen stress</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385515.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385516.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385517.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_text">
+<p>Godmorgon denna dimmiga morgon!</p>
+<p> Vilken underbar morgon det har varit hittills bortsett från att jag är trött&#8230;men inatt sov jag iaf riktigt gott. Morgonen hemma har varit helt stressfri, jag hann till och med sitta och ta det lugnt i soffan innan jag stack. </p>
+<p> I väntan på bussen hann jag inom espresso house och köpte mig en vanilla latte, mums! En bra morgon helt enkelt och nu väntar öppning på jobbet. <img src="http://finest.se/lmjurs/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/16/ingen-stress/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/16/ingen-stress/" title="6:09 f m" rel="bookmark"><time class="entry-date" datetime="2014-09-16T06:09:57+00:00">september 16, 2014 06:09</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-1628" class="post-1628 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/15/tack-hif/" rel="bookmark">Tack HIF</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385173.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_text">
+<p>Kvällen blev precis ännu bättre! Trodde aldrig jag skulle säga detta: TACK HIF, det är nog första och sista gången dessa ord kommer från min mun. Ikväll vann HIF över AIK vilket innebär att Malmö behåller sitt försprång på fem poäng&#8230; Guldstriden fortsätter!  </p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/15/tack-hif/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/15/tack-hif/" title="9:16 e m" rel="bookmark"><time class="entry-date" datetime="2014-09-15T21:16:23+00:00">september 15, 2014 21:16</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                        
+<article id="post-1627" class="post-1627 post type-post status-publish format-standard hentry">
+        <header class="entry-header">
+        
+                    <h1 class="entry-title">
+                <a href="http://finest.se/lmjurs/2014/09/15/ensamtid/" rel="bookmark">Ensamtid</a>
+            </h1>
+            </header>
+    <!-- .entry-header -->
+
+            <div class="entry-content">
+            <div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385127.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385128.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385130.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385133.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_image"><img src="http://imgs.sthlmsfinest.com/blogEntryImages//2385135.jpg" border="0" alt="" style="margin-left: auto;margin-right: auto" /></div>
+<div class="mobile_text">
+<p>Vilken härlig måndag!</p>
+<p> Det var underbart att få träffa kollegorna och de små gullungarna igen! Jag kan konstatera att det hinner hända mycket på en vecka, kändes verkligen som barngruppen börjat landa och dessutom missade jag en inskolning. Nu är jag dock helt slut, kommer nog ta ett tag innan jag känner mig helt hundra. </p>
+<p> Hur som helst nu ligger jag hemma i soffan och njuter av lite ensamtid. Tända ljus, ansiktsmask, te och hart of dixie. En bra måndag med andra ord, nu ska jag tvätta bort masken och lacka naglarna. <img src="http://finest.se/lmjurs/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </p>
+</div>
+<div class="sharing-container col-xs-12"></div>        </div><!-- .entry-content -->
+    
+    <footer class="entry-meta">
+                    <div class="comments-link">
+                <a href="http://finest.se/lmjurs/2014/09/15/ensamtid/#respond"><span class="leave-reply">Kommentera/Comment</span></a>            </div><!-- .comments-link -->
+                Detta inlägg är publicerat i Okategoriserade på <a href="http://finest.se/lmjurs/2014/09/15/ensamtid/" title="8:33 e m" rel="bookmark"><time class="entry-date" datetime="2014-09-15T20:33:36+00:00">september 15, 2014 20:33</time></a> <span class="by-author">genom <span class="author vcard"><a class="url fn n" href="http://finest.se/lmjurs/author/lmjurs/" title="View all posts by lmjurs" rel="author">lmjurs</a></span></span>.                    </footer>
+    <!-- .entry-meta -->
+</article><!-- #post -->
+                                                <nav id="nav-below" class="navigation" role="navigation">
+                <h3 class="assistive-text">Post navigation</h3>
+                <div class="nav-previous"><a href="http://finest.se/lmjurs/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+                <div class="nav-next"></div>
+            </nav><!-- #nav-below .navigation -->
+        
+            
+        </div>
+        <!-- #content -->
+    </div><!-- #primary -->
+
+<div id="secondary" class="widget-area" role="complementary">
+    <aside class="widget " id="user_details"><div class="profile-photo"><img src="http://cdn.finest.se/wp-content/uploads/55405.jpg" class="" /></div></aside><aside id="archives-4" class="widget widget_archive"><h3 class="widget-title">Arkiv</h3>		<label class="screen-reader-text" for="archives-dropdown-4">Arkiv</label>
+		<select id="archives-dropdown-4" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://finest.se/lmjurs/2014/10/'> oktober 2014 &nbsp;(1)</option>
+	<option value='http://finest.se/lmjurs/2014/09/'> september 2014 &nbsp;(16)</option>
+	<option value='http://finest.se/lmjurs/2014/07/'> juli 2014 &nbsp;(7)</option>
+	<option value='http://finest.se/lmjurs/2014/06/'> juni 2014 &nbsp;(8)</option>
+	<option value='http://finest.se/lmjurs/2014/05/'> maj 2014 &nbsp;(5)</option>
+	<option value='http://finest.se/lmjurs/2014/04/'> april 2014 &nbsp;(13)</option>
+	<option value='http://finest.se/lmjurs/2014/03/'> mars 2014 &nbsp;(27)</option>
+	<option value='http://finest.se/lmjurs/2014/02/'> februari 2014 &nbsp;(45)</option>
+	<option value='http://finest.se/lmjurs/2014/01/'> januari 2014 &nbsp;(30)</option>
+	<option value='http://finest.se/lmjurs/2013/12/'> december 2013 &nbsp;(67)</option>
+	<option value='http://finest.se/lmjurs/2013/11/'> november 2013 &nbsp;(85)</option>
+	<option value='http://finest.se/lmjurs/2013/10/'> oktober 2013 &nbsp;(49)</option>
+	<option value='http://finest.se/lmjurs/2013/09/'> september 2013 &nbsp;(48)</option>
+	<option value='http://finest.se/lmjurs/2013/08/'> augusti 2013 &nbsp;(69)</option>
+	<option value='http://finest.se/lmjurs/2013/07/'> juli 2013 &nbsp;(66)</option>
+	<option value='http://finest.se/lmjurs/2013/06/'> juni 2013 &nbsp;(63)</option>
+	<option value='http://finest.se/lmjurs/2013/05/'> maj 2013 &nbsp;(76)</option>
+	<option value='http://finest.se/lmjurs/2013/04/'> april 2013 &nbsp;(96)</option>
+	<option value='http://finest.se/lmjurs/2013/03/'> mars 2013 &nbsp;(96)</option>
+	<option value='http://finest.se/lmjurs/2013/02/'> februari 2013 &nbsp;(63)</option>
+	<option value='http://finest.se/lmjurs/2013/01/'> januari 2013 &nbsp;(42)</option>
+	<option value='http://finest.se/lmjurs/2012/12/'> december 2012 &nbsp;(65)</option>
+	<option value='http://finest.se/lmjurs/2012/11/'> november 2012 &nbsp;(66)</option>
+	<option value='http://finest.se/lmjurs/2012/10/'> oktober 2012 &nbsp;(83)</option>
+	<option value='http://finest.se/lmjurs/2012/09/'> september 2012 &nbsp;(54)</option>
+	<option value='http://finest.se/lmjurs/2012/08/'> augusti 2012 &nbsp;(45)</option>
+	<option value='http://finest.se/lmjurs/2012/07/'> juli 2012 &nbsp;(34)</option>
+	<option value='http://finest.se/lmjurs/2012/06/'> juni 2012 &nbsp;(77)</option>
+	<option value='http://finest.se/lmjurs/2012/04/'> april 2012 &nbsp;(1)</option>
+	<option value='http://finest.se/lmjurs/2012/03/'> mars 2012 &nbsp;(3)</option>
+	<option value='http://finest.se/lmjurs/2012/02/'> februari 2012 &nbsp;(3)</option>
+	<option value='http://finest.se/lmjurs/2012/01/'> januari 2012 &nbsp;(10)</option>
+	<option value='http://finest.se/lmjurs/2011/12/'> december 2011 &nbsp;(14)</option>
+	<option value='http://finest.se/lmjurs/2011/11/'> november 2011 &nbsp;(9)</option>
+	<option value='http://finest.se/lmjurs/2011/10/'> oktober 2011 &nbsp;(22)</option>
+	<option value='http://finest.se/lmjurs/2011/09/'> september 2011 &nbsp;(18)</option>
+	<option value='http://finest.se/lmjurs/2011/08/'> augusti 2011 &nbsp;(24)</option>
+	<option value='http://finest.se/lmjurs/2011/07/'> juli 2011 &nbsp;(21)</option>
+	<option value='http://finest.se/lmjurs/2011/06/'> juni 2011 &nbsp;(40)</option>
+	<option value='http://finest.se/lmjurs/2011/05/'> maj 2011 &nbsp;(58)</option>
+	<option value='http://finest.se/lmjurs/2011/04/'> april 2011 &nbsp;(15)</option>
+
+		</select>
+</aside><aside id="instagramwidget-2" class="widget widget_instagramwidget"><h3 class="widget-title">Instagram</h3><div class="instagram-contain"><a href="https://www.instagram.com/p/BBNx24XSc68/" title="Voluspa 😍 älskar dessa fantastiska doftljus #voluspa#saijopersimmon#myskväll" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12627857_1176426439053621_1915433864_n.jpg"></a><a href="https://www.instagram.com/p/BBAyj-JSc8T/" title="Om en timme är det "derby" Sverige-Danmark (handboll), detta innebär att jag har en timme på mig att bli klar med denna boken... önska mig lycka till! 😄 #ledarskap#imorgonbörjarledarskapsutbildningen" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12523740_805714469556314_1604357189_n.jpg"></a><a href="https://www.instagram.com/p/BA41W-tScyV/" title="Finn två fel 😂 heja rödhakarna ❤️ #cola#hockey#mifredhawks" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12534483_1687011018249334_783448414_n.jpg"></a><a href="https://www.instagram.com/p/BA2jY1Oycwy/" title="Haha något jag borde tänka på 😂 eller vad säger du @emelie_t #villha#posters#bluebox" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.117.938.938/12523635_1670646799882964_1559133018_n.jpg"></a><a href="https://www.instagram.com/p/BAsNh9fScw0/" title="Då och nu 😜 man kanske borde bli blond igen 😄 #litenharblivitstor#nofliter" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12362130_1659529477643966_625387155_n.jpg"></a><a href="https://www.instagram.com/p/BAnQhaQSc_b/" title="Party party 🎉🎉 #selfie#borgskök#detärdärdethänder" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12534287_485571174948818_1461929419_n.jpg"></a><a href="https://www.instagram.com/p/BAm-c1RSc25/" title="Redo för kvällen med @emelie_t 💕 #friendship#utekväll#örebro" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/11931234_620992881381917_1708676252_n.jpg"></a><a href="https://www.instagram.com/p/BAh0o0lSc0X/" title="Men åh min sötnos 😍❤️ Tack för bilderna mamma 😆 #goldenretriever#miko#love" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12424603_1628972134031939_1883903469_n.jpg"></a><a href="https://www.instagram.com/p/BAcxnPXyc8I/" title="Idag är ingen vanlig dag, för det är min högra hands födelsedag! 🎉🎉 grattis finaste @emelie_t 💕💕 #födelsedag#friendship" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/12519476_847398822044611_1875715761_n.jpg"></a><a href="https://www.instagram.com/p/BASrPE2Scxv/" title="Fredagsmys 😍 #hemmakväll#arrow#gynningdesign#vin" target="_blank"><img class="instagram-media" src="https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/12407355_934860433261482_638396748_n.jpg"></a></div></aside>
+<!-- Quick Cache is NOT caching this page, because a `Status:` header (or an `HTTP/` header) was set via PHP at runtime. The header contains a non-`2xx` status code. This indicates the current page was not loaded successfully. This header might have been set by your hosting company, by WordPress itself; or by one of your themes/plugins. -->

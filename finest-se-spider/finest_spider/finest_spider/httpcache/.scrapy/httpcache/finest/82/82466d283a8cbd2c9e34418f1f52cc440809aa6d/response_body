@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Marcelo Peña | Träning &amp; Mode</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="http://marcelos.se/xmlrpc.php"/>
+    <!--[if lt IE 9]>
+    <script src="http://marcelos.se/wp-content/themes/tdsimple/js/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="Marcelo Peña &raquo; flöde" href="http://marcelos.se/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Marcelo Peña &raquo; kommentarsflöde" href="http://marcelos.se/comments/feed/" />
+<meta property="og:title" content="Marcelo Peña"/><meta property="og:type" content="article"/><meta property="og:url" content="finest.se/marcelo90/"/><meta property="og:description" content="Marcelo Peña driver en stor manlig blogg med fokus på träning men även mode."/><meta property="og:site_name" content="finest.se/marcelo90/"/><meta property="og:image" content="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1452110646-9883.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/marcelos.se\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sherer-css'  href='http://marcelos.se/wp-content/plugins/finest-post-sharing/sharer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-typography-font-css'  href='//fonts.googleapis.com/css?family=Playfair+Display+SC:900|Raleway:normal|Adamina:normal' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='http://marcelos.se/wp-content/plugins/member-blogs-utilities/footer_bar_resources/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://marcelos.se/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://marcelos.se/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://marcelos.se/wp-content/themes/tdsimple-child/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='//fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css'  href='http://marcelos.se/wp-content/themes/tdsimple/css/refineslide.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-ie-css'  href='http://marcelos.se/wp-content/themes/tdsimple/css/general_foundicons_ie7.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='http://marcelos.se/wp-content/themes/tdsimple/css/general_foundicons.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css'  href='http://marcelos.se/wp-content/themes/tdsimple/css/foundation.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://marcelos.se/wp-content/themes/tdsimple-child/style.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.10.4/jquery-ui.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tdsimple_script_vars = {"required":"Detta f\u00e4lt \u00e4r obligatoriskt.","remote":"V\u00e4nligen fixa detta omr\u00e5de.","email":"Ange en giltig e-postadress.","url":"Ange en giltig webbadress.","date":"Ange ett giltigt datum.","dateISO":"Ange ett giltigt datum (ISO).","number":"Ange ett giltigt nummer.","digits":"Ange endast siffror.","creditcard":"Ange ett giltigt kreditkortsnummer.","equalTo":"Ange samma v\u00e4rde igen.","maxlength":"Ange h\u00f6gst 20 tecken.","minlength":"Ange minst 7 tecken.","umlength":"Ange h\u00f6gst 16 tecken.","ulength":"Ange minst 2 tecken.","rangelength":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","range":"Ange ett v\u00e4rde mellan {0} och {1} tecken.","max":"Ange ett v\u00e4rde som \u00e4r mindre \u00e4n eller lika med {0}.","min":"Ange ett v\u00e4rde som \u00e4r st\u00f6rre \u00e4n eller lika med {0}."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple-child/js/app.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://marcelos.se/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://marcelos.se/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+
+<style type="text/css">
+h2, .entry-header .entry-title a{ font-family: "Playfair Display SC"; font-weight: 900; font-size: 32px; color: #222222;  }
+body, div, dl, dt, dd, ul, ol, li, h1{ font-family: "Raleway"; font-weight: normal; font-size: 13px; color: #222222;  }
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td{ font-family: "Adamina"; font-weight: normal; font-size: 14px; color: #222222;  }
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"ajaxURL":"http:\/\/marcelos.se\/wp-admin\/admin-ajax.php","categories":"mode, traning, livsstil"};
+/* ]]> */
+</script>
+        <style type="text/css">
+            .entry-title a {
+                font-family:             }
+            .entry-title {
+                font-family:             }
+            .entry-content p {
+                font-family:             }
+            footer.entry-meta {
+                font-family:             }
+        </style>
+            <style type="text/css" id="twentytwelve_finest-header-css">
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px 1px 1px 1px); /* IE7 */
+                clip: rect(1px, 1px, 1px, 1px);
+            }
+                    </style>
+    			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://finest.se/marcelo90/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+                <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-1007627-21', 'auto');
+        ga('set', 'dimension1', 9681);
+                ga('send', 'pageview');
+            </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/5920055/1_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-0').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-1').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-2').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-3').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-4').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_1', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-5').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_d_rektangel_2', [[300, 250], [480, 280], [68, 300]], 'div-gpt-ad-1443707410045-6').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-7').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-8').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-9').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/1_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-10').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_left', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-11').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_outsider_right', [[120, 600], [305, 900], [160, 600]], 'div-gpt-ad-1443707410045-12').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_1', [[990, 600], [980, 120], [980, 240]], 'div-gpt-ad-1443707410045-13').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_2', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-14').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_panorama_3', [[980, 120], [980, 360], [980, 240]], 'div-gpt-ad-1443707410045-15').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_1', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-16').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_2', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-17').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_3', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-18').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_d_rektangel_4', [[300, 250], [680, 300], [480, 280]], 'div-gpt-ad-1443707410045-19').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_1', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-20').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_2', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-21').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_3', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-22').addService(googletag.pubads());
+            googletag.defineSlot('/5920055/2_m_mobil_4', [[320, 320], [320, 50]], 'div-gpt-ad-1443707410045-23').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+    </script>
+                <!-- Google translator widget -->
+            <script type="text/javascript">
+                function googleTranslateElementInit () {
+                    new google.translate.TranslateElement({pageLanguage: 'sv'}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    <!-- Google translator widget -->
+    <meta name="google-translate-customization" content="b222bd0792c98ad2-f5802cd17e183873-g9da3aa4b336e8b21-9"></meta>
+</head>
+<body class="home blog">
+<div id="main_nav_top" class="menu-top-bar-menu-container"><ul>
+                    <li><a href="http://finest.se"><img src="http://finest.se/pernillapramberg/wp-content/themes/finest-global/images/finest-logo.png" class="top_menu_logo"></a></li>
+                    <li class= "list_item list_item_float_right" id="list_item_user"><a href="http://finest.se/wp-login.php" >Logga in</a></li>
+                    <li style="float:right;"><ol class="ol_top_menu"><li id="list_item1" class="top_menu_club menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577409 list_item list-menu"><a href="http://finest.se/member-clubs"><span>Clubs<span></a>
+<ul class="0">
+	<li id="menu-item-577483 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577483 sub_item"><a href="http://finest.se/member-clubs/cafe-opera/"><span>Café Opera<span></a></li>
+	<li id="menu-item-577484 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577484 sub_item"><a href="http://finest.se/member-clubs/solidaritet/"><span>Solidaritet<span></a></li>
+	<li id="menu-item-577485 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577485 sub_item"><a href="http://finest.se/member-clubs/rose/"><span>Rose<span></a></li>
+	<li id="menu-item-577486 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577486 sub_item"><a href="http://finest.se/member-clubs/pure/"><span>PURE Nightclub<span></a></li>
+	<li id="menu-item-577487 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577487 sub_item"><a href="http://finest.se/member-clubs/oxid/"><span>Oxid<span></a></li>
+	<li id="menu-item-577488 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577488 sub_item"><a href="http://finest.se/member-clubs/the-soap-bar-2/"><span>The Soap Bar<span></a></li>
+	<li id="menu-item-577489 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577489 sub_item"><a href="http://finest.se/member-clubs/hotellet-2/"><span>Hotellet<span></a></li>
+	<li id="menu-item-577490 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577490 sub_item"><a href="http://finest.se/member-clubs/mr-french/"><span>Mr French<span></a></li>
+	<li id="menu-item-577491 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577491 sub_item"><a href="http://finest.se/member-clubs/marquise/"><span>Marquise Club<span></a></li>
+	<li id="menu-item-577492 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577492 sub_item"><a href="http://finest.se/member-clubs/colosseum/"><span>Colosseum<span></a></li>
+	<li id="menu-item-577493 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577493 sub_item"><a href="http://finest.se/member-clubs/fou/"><span>FOU<span></a></li>
+
+</ul>
+</li>
+<li id="list_item2" class="top_menu_bloggar menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577424 list_item list-menu"><a href="http://finest.se/bloggar-start"><span>Bloggar<span></a>
+<ul class="0">
+	<li id="menu-item-577426 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577426 sub_item"><a href="http://finest.se/blog-toplist"><span>Topplista<span></a></li>
+	<li id="menu-item-577427 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577427 sub_item"><a href="http://finest.se/blogs-topbloggers"><span>Toppbloggare<span></a></li>
+	<li id="menu-item-577428 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577428 sub_item"><a href="http://finest.se/member-blog"><span>Medl. Bloggare<span></a></li>
+	<li id="menu-item-577429 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577429 sub_item"><a href="http://finest.se/blogs-latest-post"><span>Senaste Inläggen<span></a></li>
+
+</ul>
+</li>
+<li id="list_item3" class="top_menu_magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub-menu menu-item- 577430 list_item list-menu"><a href="http://finest.se/magazine"><span>Magasin<span></a>
+<ul class="0">
+	<li id="menu-item-577431 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577431 sub_item"><a href="http://finest.se/blog/magazine-category/mode/"><span>Mode<span></a></li>
+	<li id="menu-item-577432 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577432 sub_item"><a href="http://finest.se/blog/magazine-category/musikklubb/"><span>Musik/Klubb<span></a></li>
+	<li id="menu-item-577433 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577433 sub_item"><a href="http://finest.se/blog/magazine-category/halsa-skonhet-2/"><span>Hälsa &#038; Skönhet<span></a></li>
+	<li id="menu-item-577434 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom menu-item- 577434 sub_item"><a href="http://finest.se/blog/magazine-category/kandisliv/"><span>Kändisliv<span></a></li>
+	<li id="menu-item-577435 sub_item" class="menu-item menu-item-type-custom menu-item-object-custom last_item menu-item- 577435 sub_item"><a href="http://finest.se/blog/magazine-category/blogg-2/"><span>Blogg<span></a></li>
+
+</ul>
+</li>
+</ol></li>
+                    <li class="logo_text"><p class="title_text"><a href="http://finest.se/start-blog/">Starta en blogg på Finest</a></p></li>
+                    </ul></div><div id="page" class="hfeed site">
+    <div class="sidebanners">
+        <div class="side_banner left">
+                                <div id="take_over_left" class="take_over_sides">
+                        <div class="position_fixed_take_over_side">
+                                                    </div>
+                    </div>
+                        </div>
+        <div class="sidebanners left">
+            <div class="ad_container_inside_right fixad">
+                                    <div class="position_fixed">
+                        <div class="position_fixed_outsiderad">
+                            <!-- /5920055/2_d_outsider_left -->
+<div id='div-gpt-ad-1443707410045-11'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-11'); });
+</script>
+</div>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="main_container">
+        <div class="mid_banner">
+                                <div class="take_over" id="take_over">
+                        <div class="position_fixed_take_over">
+                            <!-- /5920055/2_d_panorama_1 -->
+<div id='div-gpt-ad-1443707410045-13'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-13'); });
+</script>
+</div>                        </div>
+                    </div>
+                        </div>
+                    <div id="banr_to_below" class="header-banner banr text-center">
+                <div class="position_fixed_panorama_1">
+                                    </div>
+            </div>
+                                <header id="masthead" class="site-header row" role="banner">
+            <div class="twelve columns brand">
+                
+								<div class="website-logo">
+									<img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2015/06/cropped-1435520312-9883.jpg" alt="Marcelo Peña">
+								</div>
+						                     <hgroup>
+                    <a href="http://finest.se/">
+                        <img src="http://marcelos.se/wp-content/themes/tdsimple-child/images/finest-logo.png" class="logo-image" alt="Finest-Logo"/>
+                    </a>
+                                            <h1 class="site-title">
+                            <a href="http://marcelos.se/" title="Marcelo Peña" rel="home">Marcelo Peña</a>
+                        </h1>
+                                        <h2 class="site-description">Träning &amp; Mode</h2>
+                </hgroup>
+            </div>
+
+            <div class="twelve columns">
+
+                <nav role="navigation" class="site-navigation main-navigation">
+                    <h4 class="assistive-text">Meny</h4>
+                                            <ul id="menu-marcelo" class="nav-bar"><li id="menu-item-43256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43256"><a href="http://MARCELOS.SE">Hem</a></li>
+<li id="menu-item-43253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43253"><a href="http://marcelos.se/category/mode-trend-tips/">Mode</a></li>
+<li id="menu-item-43254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43254"><a href="http://marcelos.se/category/traning/">Träning</a></li>
+<li id="menu-item-43255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43255"><a href="http://marcelos.se/category/tavlingar/">Tävlingar</a></li>
+</ul>                                    </nav>
+                <!-- .site-navigation .main-navigation -->
+            </div>
+        </header>
+        <!-- #masthead .site-header -->
+                    <div class="container_ad header-banner banr text-center">
+                <!-- /5920055/2_d_panorama_2 -->
+<div id='div-gpt-ad-1443707410045-14'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-14'); });
+</script>
+</div>            </div>
+                <div id="main" class="site-main row">		
+									<div id="primary" class="content-area twelve columns">
+			<div id="content" class="site-content" role="main">
+
+			
+								
+					
+<article id="post-51450" class="post-index post-51450 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/28/hos-musse/" title="Permalink to HoS Musse" rel="bookmark">HoS Musse</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 28, 2016 10:58">januari 28, 2016 10:58</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Igår kväll så drog vi hem till Musse och kollade fotboll samt spelade FIFA som alltid. Blev rätt sent, kanske lite för sent för mitt eget bästa så just nu känner jag mig rätt sänkt. Ska vila upp mig till i eftermiddag då det är axler eller biceps på schemat.&nbsp;</p>
+<p>Varje kväll har jag haft FaceTime med Annica och hon ser ut att ha det riktigt najs i Miami, dock är vädret rätt kasst men jag skulle ändå inte tack nej till att vara där. En sak som är svårt när vi försöker prata med varandra är att internetuppkopplingen i USA verkar suga, iallafall där hon befinner sig så man hinner bara se varandra i någon minut innan bilden fryser, men det är ju bättre än inget alls 😀&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958378-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958378-9883.jpg" class="alignnone size-full wp-image-51451" alt="IMG_0545" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958380-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958380-9883.jpg" class="alignnone size-full wp-image-51452" alt="IMG_0546" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958383-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958383-9883.jpg" class="alignnone size-full wp-image-51453" alt="IMG_0547" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958384-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958384-9883.jpg" class="alignnone size-full wp-image-51454" alt="IMG_0548" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958386-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958386-9883.jpg" class="alignnone size-full wp-image-51455" alt="IMG_0549" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958387-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958387-9883.jpg" class="alignnone size-full wp-image-51456" alt="IMG_0550" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958390-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958390-9883.jpg" class="alignnone size-full wp-image-51457" alt="IMG_0552" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958391-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958391-9883.jpg" class="alignnone size-full wp-image-51458" alt="IMG_0554" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958393-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453958393-9883.jpg" class="alignnone size-full wp-image-51459" alt="IMG_0555" width="1500" height="1000"></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/28/hos-musse/#comments">8 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51450 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_1 -->
+<div id='div-gpt-ad-1443707410045-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-16'); });
+</script>
+</div></div>                        <div class="text-center">
+                            <div data-spklw-widget="widget-56331c4ba0ddf"></div>
+                        </div>
+                    
+					
+<article id="post-51448" class="post-index post-51448 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/27/benen-krampar/" title="Permalink to Benen krampar " rel="bookmark">Benen krampar </a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 19:25">januari 27, 2016 19:25</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Maten ligger i magen och benen ligger och vilar på bordet. Jag körde ett benpass tidigare och snack om att de krampar duktigt nu. Känns så fuc*ing skönt varje gång man får till ett bra pass, värsta lyckoruset 😀&nbsp;</p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0501.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0501.jpeg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0510.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0510.jpeg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0503.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0503.jpeg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0505.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0505.jpeg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0508.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0508.jpeg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0511.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0511.jpeg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0526.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0526.jpeg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0522.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0522.jpeg" alt=""></a>&nbsp;&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0518.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0518.jpeg" alt=""></a>&nbsp;&nbsp;<br />
+<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0527.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0527.jpeg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/27/benen-krampar/#comments">1 kommentar</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51448 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_2 -->
+<div id='div-gpt-ad-1443707410045-17'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-17'); });
+</script>
+</div></div>
+					
+<article id="post-51422" class="post-index post-51422 post type-post status-publish format-standard hentry category-mode-trend-tips category-sno-stilen">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/27/en-outfit-som-ar-casual/" title="Permalink to En Casual outfit" rel="bookmark">En Casual outfit</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 13:30">januari 27, 2016 13:30</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>En väldigt enkel outfit som känns riktigt Casual. Ibland så behövs det inte mer än ett par snabba skor och en halsduk för att liva upp en klädsel. Detta är både snyggt och bekvämt.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834684-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834684-9883.jpg" class="alignnone size-full wp-image-51423" alt="IMG_7564" width="1000" height="1500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834686-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834686-9883.jpg" class="alignnone size-full wp-image-51424" alt="IMG_7567" width="1000" height="1500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834688-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834688-9883.jpg" class="alignnone size-full wp-image-51425" alt="IMG_7574" width="1000" height="1500" /></a><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834693-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834693-9883.jpg" class="alignnone size-full wp-image-51427" alt="IMG_7576" width="1000" height="1500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834695-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834695-9883.jpg" class="alignnone size-full wp-image-51428" alt="IMG_7568" width="1000" height="1500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834698-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834698-9883.jpg" class="alignnone size-full wp-image-51429" alt="IMG_7570" width="1000" height="1500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834701-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834701-9883.jpg" class="alignnone size-full wp-image-51430" alt="IMG_7579" width="1000" height="1500" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834703-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834703-9883.jpg" class="alignnone size-full wp-image-51431" alt="IMG_7572" width="1000" height="1500" /></a><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834741-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453834741-9883.jpg" class="alignnone size-full wp-image-51433" alt="IMG_7581" width="1500" height="1000" /></a></p>
+<p><span style="color: #808080"><strong>Halsduk: Barbour //Tröja: Stone Island //Byxor: Red Collar Project //Skor: Nike //Klocka: Nick Cabana //Armband Decorus </strong></span></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mode-trend-tips/" rel="category tag">Mode</a>, <a href="http://marcelos.se/category/sno-stilen/" rel="category tag">Sno stilen</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/27/en-outfit-som-ar-casual/#comments">3 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51422 -->
+                    <div class="header-banner banr text-center"><!-- /5920055/2_d_rektangel_3 -->
+<div id='div-gpt-ad-1443707410045-18'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-18'); });
+</script>
+</div></div>
+					
+<article id="post-51417" class="post-index post-51417 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/27/dubbelbio/" title="Permalink to Dubbelbio" rel="bookmark">Dubbelbio</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 27, 2016 09:38">januari 27, 2016 09:38</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Så najs med onsdag, jag älskar onsdagar 😀 Det betyder att det snart är helg och då är planerna att det äntligen blir Imax! För er som inte vet vad detta är så är det en ny biosalong som finns i Stockholm och som ska vara en helt ny upplevelse med en större och bättre skärm och bättre ljud. Filmen vi ska se är The Revenant som spelas av Leonardo DiCaprio och han är min favorit tilll skådespelare så jag längtar som fan! Ride Along 2 släpps ju även den på fredag så jag har funderat på om jag ska köra en dubbel, dvs att jag först ser denna innan The Revenant, det vore fan en helt galet bra Fredag 😉<br />
+Förresten&#8230;Berättade jag vad jag tyckte om En man som heter Ove? Den var FET! Jag bara älskade den filmen, riktigt jävla bra för att vara en svensk film. Allt från skådespelarna till handlingen var jätte bra. Lätt en sevärd film för er alla oavsett ålder och jag lovar er en mängd skratt 😀</p>
+<p>Idag har jag sagt till mig själv att jag ska iväg och hjälpa en polare med jobb och sedan så blir det gymmet och en tidig kväll, allt för lite sömn den senaste tiden men det har blivit så då jag suttit och planerat och fixa massa saker som jag haft släpandes.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833792-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833792-9883.jpg" class="alignnone size-full wp-image-51418" alt="1453693852-9793" width="1500" height="1125" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/27/dubbelbio/#comments">7 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51417 -->
+                    
+					
+<article id="post-51411" class="post-index post-51411 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/26/sallad-och-serie/" title="Permalink to Sallad och serie" rel="bookmark">Sallad och serie</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 19:38">januari 26, 2016 19:38</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Då har jag planerat att utnyttja denna kväll till att tvätta. Jag var precis på gymmet och redan efter 3 övningar var jag helt förstörd, det måste vara de tunga marklyften jag körde. Efteråt blev det en caesarsallad och jag har verkligen blivit beroende utav detta, så fort jag känner mig hungrig vill jag ha en sallad eller en Acai Bowl 😀 Ska snart avrunda kvällen med några avsnitt av Making a murderer, har ju bara sett ett sådant och det är rätt knäppt då jag verkligen älskade det första avsnittet.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833460-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833460-9883.jpg" class="alignnone size-full wp-image-51412" alt="IMG_0528" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833462-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833462-9883.jpg" class="alignnone size-full wp-image-51413" alt="IMG_0529" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833463-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833463-9883.jpg" class="alignnone size-full wp-image-51414" alt="IMG_0531" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833465-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453833465-9883.jpg" class="alignnone size-full wp-image-51415" alt="IMG_0535" width="1500" height="1000" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/26/sallad-och-serie/#comments">3 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51411 -->
+                    
+					
+<article id="post-51406" class="post-index post-51406 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/26/rosta-pa-mig-4/" title="Permalink to Rösta på mig!" rel="bookmark">Rösta på mig!</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 13:55">januari 26, 2016 13:55</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Nu behöver jag er hjälp som alltid vid denna tid på det nya året! Jag snackar självklart om Fines Awards 😀 Det skulle vara kul att bli nominerad och kategori spelar egentligen inte så stor roll men rösta med hjärtat. Jag hoppas jag är värd några nomineringar efter all tid jag lägger ned på er grymma läsare 😀 Tack på förhand.</p>
+<p><span style="color: #ff6600"><strong><a style="color: #ff6600" href="http://finest.se/elections/finest-awards-2016/" target="_blank">HÄR</a> </strong></span>går ni in för att skriva Marcelos.se i kommentarsfältet!</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453756371-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453756371-9883.jpg" class="alignnone size-full wp-image-51407" alt="IMG_2159" width="1500" height="1125" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/26/rosta-pa-mig-4/#comments">8 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51406 -->
+                    
+					
+<article id="post-51404" class="post-index post-51404 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/26/idrott-ar-livet/" title="Permalink to Idrott är livet " rel="bookmark">Idrott är livet </a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 26, 2016 10:13">januari 26, 2016 10:13</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Kan ärligt säga att jag satt med gåshud igår när Mats Sundin, Peter Forsberg och Niklas Lidström vann hederspriset. Även fast de slog Finland i OS finalen så är det ett par riktigt grymma grabbar som man verkligen kan se upp till, de är i klass med Zlatan och det som dom gjort på en hockeyplan kommer nog inte upprepas på ett väldigt långt tag framöver i Sverige. Jävla bra kick och fan vad jag älskar idrott! Det finns ju verkligen inget bättre i livet, idrott för människor tillsammans, det är känslor, det är motion och man mår jävligt bra.</p>
+<p>En sak som fick mig att bli riktigt bitter efter denna fina stund var att&#8230; Zlatan inte vann Kalle Anka-Priset, vad är det för fel på svenska folket? Sara Sjöström? Alltså är det ett skämt, är det bara bönder som röstar? Zlatan slår rekord efter rekord i Frankrike, han bär Sveriges ruttna landslag helt på egen hand till EM, det i mina ögon är värt alla priser man kan tänka sig.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453756738-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453756738-9883.jpg" class="alignnone size-full wp-image-51409" alt="IMG_8309" width="1500" height="1000" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/26/idrott-ar-livet/#comments">8 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51404 -->
+                    
+					
+<article id="post-51402" class="post-index post-51402 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/25/facetime/" title="Permalink to FaceTime " rel="bookmark">FaceTime </a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 20:42">januari 25, 2016 20:42</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Sitter i min snygga träningsdress framför idrottsgalan och myser. Egentligen väntar jag in torsken som ligger i ugnen, det blir en perfekt middag efter dagens monsterpass. Körde nyss bröst och triceps och idag var en sådan dag när man kliver in på gymmet och känner att man äger den, fan vad bra det gick 😀 Till min hjälp hade jag Alex så denna vecka har vi bestämt att vi ska kära tunga repetitioner vilket alltid är bra då det behövs för att kroppen ska utvecklas och så att man kan bli starkare och inte fastnar i samma mönster.&nbsp;</p>
+<p>För er som undrar hur Annica mår så mår hon riktigt bra! Pratade med henne under dagen i någon minut och då var klockan 5 på morgonen i USA men hon var superpigg och taggad för vad som komma skall. Vi har haft lite kommunikationssvårigheter då jag tror att hennes internet inte är så speciellt bra , varje gång vi tänkt att köra FaceTime så läggs det bara på&#8230; Segt!&nbsp;</p>
+<p>&nbsp;<a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0468.jpeg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/img_0468.jpeg" alt=""></a>&nbsp;</p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/25/facetime/#comments">4 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51402 -->
+                    
+					
+<article id="post-51389" class="post-index post-51389 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/25/fragestund-2/" title="Permalink to Frågestund" rel="bookmark">Frågestund</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 13:48">januari 25, 2016 13:48</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Så många gånger jag lovat er en frågestund men inte hållit det jag lovat. Men nu så är det andra bullar 😀 Här svarar jag på en hel del djupa frågor. Hoppas ni gillar det för jag tyckte det var kul.</p>
+<p><span style="color: #ff9900">Hur ofta besöker du Chile och när var senast? </span></p>
+<p>Alltså…Alldeles för sällan tyvärr. Senast var väl för 20 år sedan så det är nästan skamligt att skriva det. Jag har verkligen velat åka dit flera gånger men istället så har man alltid prioriterat andra länder som Australien, Thailand osv men en utav mina största drömmar är verkligen att åka till Chile och ta med pappa dit så jag får se vart han växte upp, vilken skola han gick i osv och det var faktiskt en av sakerna jag skulle gjort om jag vann Big Brother och pengarna.</p>
+<p><span style="color: #ff9900">Vill du ha barn? </span></p>
+<p>Denna fråga får jag ofta och absolut vill jag det! Jag anser att livet inte är komplett om jag inte får barn. Jag vill mer än gärna ha det men just nu i den delen av livet jag är i så skulle det verkligen inte funka, det händer så mycket i mitt liv just nu och jag känner att jag vill resa så mycket som möjligt, jobba på mitt varumärke och karriären med mera innan det är dags. Jag är ju fortfarande ung så jag känner inte direkt någon stress ännu <img src="http://marcelos.se/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Jag tror dock Annica är den som skulle tvekat mest av oss två och om inte hon vill ha barn så får jag väl hitta någon annan som ställer upp och föder en unge åt oss?! (<em>Skämt</em>)</p>
+<p><span style="color: #ff9900">När ska ni gifta er? </span></p>
+<p>Jag har ju liksom friat och detta kan nog vara den längsta väntan någonsin innan ett giftemål? Men vi valde då att köpa lägenhet och resa, ett bröllop är inte gratis som ni vet och det är verkligen inte bostäder här i Stockholm heller så vi valde den tryggheten i första hand. Nu har vi nästan allt vi kan önska oss i våra liv och ett giftemål hade ju suttit fint men jag tror att vi båda anser att det är lite överskattat, eller det är en jätte fin sak absolut men vi känner att vi r minst lika kära oavsett om vi har en ring på fingret som ett gift par eller ej. Men vi kommer att göra det inom en snar framtid och då funderar vi på att köra det utomlands, det vore en dröm 😀</p>
+<p><span style="color: #ff9900">När började du träna? </span></p>
+<p>hmm… Jätte svår fråga men jag har ju alltid idrottat och spelat sporter som tennis, basket, fotboll med mera. När jag blev lite äldre och i tonåren så fick jag upp ögonen för gymmet, jag hade väl antagligen tröttnat på att vara smal och tanig.</p>
+<p><span style="color: #ff9900">Vad är viktigast att tänka på efter träningen? </span></p>
+<p>Jo att kroppen får återhämta sig! Ta gärna en proteinstake eller ät mat så fort som möjligt och gärna mat som innehåller mycket protein vilket gör att musklerna reparerar sig och inte bryts ned.</p>
+<p><span style="color: #ff9900">Vad för linje gick du i gymnasiet? </span></p>
+<p>Jag gick först Samhälle med fotbollsinriktning innan jag insåg att det var för mycket plugg för mig så istället valde jag en bygglinje i Nackademin som jag älskade.</p>
+<p><span style="color: #ff9900">Vart ser du dig själv om 5 år?</span></p>
+<p>Jag drömmer alltid stort! Jag har alltid höga tankar om mig själv och tänker väldigt ofta att kan han/hon så kan också jag göra detta. Jag vill ha något eget, visst har jag min grymma blogg men jag vill fortsätta att utvecklas och bygga vidare och utveckla ett stort varumärke men vad jag har i tankarna tänker jag inte avslöja 😉</p>
+<p><span style="color: #ff9900">Vad har du för drömjobb? </span></p>
+<p>Jag älskade att spela in Podcast och jobba med radio så det skulle verkligen vara en dröm, samtidigt så var det ännu roligare att stå framför kameran när vi startade upp finalen av Big Brother så jag måste nog säga att det är min största dröm. Eller nej nu ljög jag… Jag älskar djur och speciellt hundar så mitt drömjobb är att hjälpa djur som far illa, stoppa all tjuvjakt och ta hand om djur som blivit misskötta och plågade! Blir jag rik så vet jag vad pengarna ska gå till.</p>
+<p><span style="color: #ff9900">Favorit klädesmärke? </span></p>
+<p>Jag älskar Tiger Of Sweden! De gör alltid kläder med bra passform (<em>kanske inte jeans</em>) och med snygga detaljer sedan så är väl Ralph Lauren högt upp på listan också, dessutom Army Of Me.</p>
+<p><span style="color: #ff9900">Hur lång är du och vad väger du?</span></p>
+<p>Jag är 184 cm lång och väger 80 kilo.</p>
+<p><span style="color: #ff9900">Vilken är din favorithundras?</span></p>
+<p>Oj så svårt! Jag älskar verkligen alla hundar men den hunden jag känner att jag vill skaffa och som jag tror skulle passa mitt liv bra är en Staffordshire Bullterrier.</p>
+<p><span style="color: #ff9900">Berätta något vi inte vet om dig? </span></p>
+<p>Kanske att jag kollar klipp på hundar minst 3 gånger per dag, jag är verkligen besatt av klipp med söta hundvideos!</p>
+<p><span style="color: #ff9900">Ångrar du någon gång att du var med i Big Brother?</span></p>
+<p>ALDRIG! Alltså folk får ha hur mycket försommar man vill om dokusåpor men jag kan säga att de förändrar liv! Ibland till det bättre som i mitt fall och för vissa till det sämre men jag säger alltid att det blir vad man gör det till. Jag är så lyckligt lottad att jag kom med och jag skulle aldrig byta bort det mot något. Allt jag fått göra efter BB är sånt som många aldrig kommer få göra under hela sin livstid och jag känner även att jag som person utvecklats så oerhört mycket. Big Brother gjorde verkligen mitt liv till det bättre och det kommer jag förfallotid vara tacksam för och en stor del av att jag lyckats så bra är ju tack vare er läsare faktiskt så mycket kärlek till er!</p>
+<p><span style="color: #ff9900">Vad är bäst och sämst med Annica? </span></p>
+<p>Bästa är väl att hon är så generös och att man alltid kan lita på den tjejen, även att hon ser riktigt bra ut! Sämsta är att hon väcker mig allt för ofta tidigt på morgnarna när det är helg och att hon ibland lätt blir på dåligt humör och att det går ut över mig.</p>
+<p><span style="color: #ff9900">Vad är det bästa med att jobba som bloggare och det sämsta? </span></p>
+<p>Det bästa är ju all frihet och allt man får vara med om dagligen, alla event och alla fina människor man möter! Måste även tillägga att alla ni som läser denna blogg gör mig lycklig så ett stort tack för det.</p>
+<p>Det sämsta är väl att man ständigt känner en press och är stressad, aldrig är det en lugn stund och så fort man glömmer kameran hemma känns det som att världen gått under.</p>
+<p><span style="color: #ff9900">Vart tror du Bajen slutar i tabellen i år? </span></p>
+<p>Jag tror verkligen vi kommer topp 5.</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676167-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676167-9883.jpg" class="alignnone size-full wp-image-51390" alt="IMG_0346" width="1500" height="1000" /></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676169-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676169-9883.jpg" class="alignnone size-full wp-image-51391" alt="IMG_0347" width="1500" height="1000" /></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/25/fragestund-2/#comments">9 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51389 -->
+                    
+					
+<article id="post-51393" class="post-index post-51393 post type-post status-publish format-standard hentry category-mitt-liv">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://marcelos.se/2016/01/25/medan-hon-ar-i-varmen/" title="Permalink to Medan hon är i värmen" rel="bookmark">Medan hon är i värmen</a></h2>
+
+				<div class="entry-meta top">
+			<time class="entry-date" datetime="januari 25, 2016 11:15">januari 25, 2016 11:15</time>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="post-thumb">
+					</div>
+		<p>Igår var det fullt upp med min blogg och så även att uppdatera Annicas, jag måste ändå säga att det var jävligt skoj 😀 Mycket ansvar då det inte är det lättaste att sköta tjejens hemsida men jag tror att hon gillar det jag slängde upp.&nbsp;</p>
+<p>Jag har pratat med henne och allt har gått bra, seg flygresa då det är så långt men hon mådde bra och är framme vid värmen <img src="http://marcelos.se/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &nbsp;Värmen är något jag saknar just nu, fryser som fan även fast det är nollgradigt ute.&nbsp;</p>
+<p>Idag blir en jätte lugn dag, ska försöka få med Alex till gymmet och det kan behövas då jag behöver någon med energi som kan lyfta mig, är jävligt trött just nu och helst av allt vill jag bara lägga mig i sängen och somna.&nbsp;</p>
+<p><a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676424-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676424-9883.jpg" class="alignnone size-full wp-image-51394" alt="IMG_7999" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676426-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676426-9883.jpg" class="alignnone size-full wp-image-51395" alt="IMG_8009" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676429-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676429-9883.jpg" class="alignnone size-full wp-image-51396" alt="IMG_8010" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676430-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676430-9883.jpg" class="alignnone size-full wp-image-51397" alt="IMG_8014" width="1500" height="1000"></a> <a href="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676432-9883.jpg"><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1453676432-9883.jpg" class="alignnone size-full wp-image-51398" alt="IMG_8016" width="1500" height="1000"></a></p>
+<div class="sharing-container col-xs-12"></div>			</div><!-- .entry-content -->
+	
+	<footer class="entry-meta bottom">
+								<span class="cat-links">
+				Postat i <a href="http://marcelos.se/category/mitt-liv/" rel="category tag">Mitt liv</a>			</span>
+			
+						
+			 
+			
+		
+					
+							<span class="sep"> / </span>
+						
+		<span class="comments-link"><a href="http://marcelos.se/2016/01/25/medan-hon-ar-i-varmen/#comments">4 Kommentarer</a></span>
+		
+			</footer><!-- .entry-meta -->
+	
+	<div class="post-seperator"></div>
+	
+</article><!-- #post-51393 -->
+                    
+					<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+				<div class="nav-previous"><a href="http://marcelos.se/page/2/" ><span class="meta-nav">&larr;</span> Äldre inlägg</a></div>
+		
+		
+	
+	</nav><!-- #nav-below -->
+	
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+	
+		<div class="sidebar-button">
+			About me
+		</div>			
+		
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="sidebar-content" class="widget-inner">
+				<aside class="widget " id="user_details"><div class="profile-photo"><div class="dm-container"><div class="dicn"><img src="http://marcelos.se/wp-content/themes/tdsimple-child/images/diamonds_50.png" /></div></div><img src="http://cdn.finest.se/wp-content/uploads/sites/9681/2016/01/1452110646-9883.jpg" class="" /></div><div class="profile-desc">Marcelo Peña driver en stor manlig blogg med fokus på träning men även mode.</div></aside><aside id="search-3" class="widget widget_search">	<form method="get" id="searchform" action="http://marcelos.se/" role="search">
+		<label for="s" class="assistive-text">Sök</label>
+		<input type="text" class="field" name="s" value="" id="s" placeholder="Sök" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Sök" />
+	</form></aside><aside id="archives-3" class="widget widget_archive"><h2 class="widget-title">Arkiv</h2>		<label class="screen-reader-text" for="archives-dropdown-3">Arkiv</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Välj månad</option>
+				<option value='http://marcelos.se/2016/01/'> januari 2016 </option>
+	<option value='http://marcelos.se/2015/12/'> december 2015 </option>
+	<option value='http://marcelos.se/2015/11/'> november 2015 </option>
+	<option value='http://marcelos.se/2015/10/'> oktober 2015 </option>
+	<option value='http://marcelos.se/2015/09/'> september 2015 </option>
+	<option value='http://marcelos.se/2015/08/'> augusti 2015 </option>
+	<option value='http://marcelos.se/2015/07/'> juli 2015 </option>
+	<option value='http://marcelos.se/2015/06/'> juni 2015 </option>
+	<option value='http://marcelos.se/2015/05/'> maj 2015 </option>
+	<option value='http://marcelos.se/2015/04/'> april 2015 </option>
+	<option value='http://marcelos.se/2015/03/'> mars 2015 </option>
+	<option value='http://marcelos.se/2015/02/'> februari 2015 </option>
+	<option value='http://marcelos.se/2015/01/'> januari 2015 </option>
+	<option value='http://marcelos.se/2014/12/'> december 2014 </option>
+	<option value='http://marcelos.se/2014/11/'> november 2014 </option>
+	<option value='http://marcelos.se/2014/10/'> oktober 2014 </option>
+	<option value='http://marcelos.se/2014/09/'> september 2014 </option>
+	<option value='http://marcelos.se/2014/08/'> augusti 2014 </option>
+	<option value='http://marcelos.se/2014/07/'> juli 2014 </option>
+	<option value='http://marcelos.se/2014/06/'> juni 2014 </option>
+	<option value='http://marcelos.se/2014/05/'> maj 2014 </option>
+	<option value='http://marcelos.se/2014/04/'> april 2014 </option>
+	<option value='http://marcelos.se/2014/03/'> mars 2014 </option>
+	<option value='http://marcelos.se/2014/02/'> februari 2014 </option>
+	<option value='http://marcelos.se/2014/01/'> januari 2014 </option>
+	<option value='http://marcelos.se/2013/12/'> december 2013 </option>
+	<option value='http://marcelos.se/2013/11/'> november 2013 </option>
+	<option value='http://marcelos.se/2013/10/'> oktober 2013 </option>
+	<option value='http://marcelos.se/2013/09/'> september 2013 </option>
+	<option value='http://marcelos.se/2013/08/'> augusti 2013 </option>
+	<option value='http://marcelos.se/2013/07/'> juli 2013 </option>
+	<option value='http://marcelos.se/2013/06/'> juni 2013 </option>
+	<option value='http://marcelos.se/2013/05/'> maj 2013 </option>
+	<option value='http://marcelos.se/2013/04/'> april 2013 </option>
+	<option value='http://marcelos.se/2013/03/'> mars 2013 </option>
+	<option value='http://marcelos.se/2013/02/'> februari 2013 </option>
+	<option value='http://marcelos.se/2013/01/'> januari 2013 </option>
+	<option value='http://marcelos.se/2012/12/'> december 2012 </option>
+	<option value='http://marcelos.se/2012/11/'> november 2012 </option>
+	<option value='http://marcelos.se/2012/10/'> oktober 2012 </option>
+	<option value='http://marcelos.se/2012/09/'> september 2012 </option>
+	<option value='http://marcelos.se/2012/08/'> augusti 2012 </option>
+	<option value='http://marcelos.se/2012/07/'> juli 2012 </option>
+	<option value='http://marcelos.se/2012/06/'> juni 2012 </option>
+
+		</select>
+</aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://www.bloggportalen.se/" target="_blank"><img src="https://www.bloggportalen.se/BlogPortal/view/Statistics?id=132147" border="0" /></a></div>
+		</aside>			</div>
+		</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+<div class="footer_banner banr_mob text-center">
+    <!-- /5920055/2_m_mobil_2 -->
+<div id='div-gpt-ad-1443707410045-21'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-21'); });
+</script>
+</div></div>
+<footer id="colophon" class="site-footer row" role="contentinfo">
+    <div id="gotop">
+        <h6><i class="foundicon-up-arrow"></i></h6></div>
+    <div data-spklw-widget="widget-53be936420aa0"></div>
+    <div class="site-info twelve columns">
+        <div style="padding-bottom: 75px;">
+            <div class="social-profiles"><a href="https://www.facebook.com/Anncelo" target="_blank"><img src="http://marcelos.se/wp-content/themes/tdsimple-child/images/facebook.png" alt="Facebook" /></a><a href="https://instagram.com/amarelloo" target="_blank"><img src="http://marcelos.se/wp-content/themes/tdsimple-child/images/instagram.png" alt="Instagram" /></a><a href="https://www.youtube.com/user/BloggMarcelo" target="_blank"><img src="http://marcelos.se/wp-content/themes/tdsimple-child/images/youtube.png" alt="Youtube" /></a></div>© 2015 Finest.se &#8226; <a href="mailto:info@finest.se">info@finest.se</a><a style="position: relative;top: 7px;left: 5px;" href="http://marcelos.se/feed/rss/" target="_blank"><img src="http://marcelos.se/wp-content/themes/tdsimple-child/images/rss.png" title="Feed"></a>        </div>
+                I samarbete med <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'tdsimple' ); ?>">WordPress</a>        Tema: tdsimple Av <a href="http://tasko.us/" rel="designer">Taras Dashkevych</a>.    </div>
+    <!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+<div class="footer_banner banr text-center">
+    <!-- /5920055/2_d_panorama_3 -->
+<div id='div-gpt-ad-1443707410045-15'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-15'); });
+</script>
+</div></div>
+</div><!-- main container -->
+
+<!-- Modal -->
+<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="reportModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Stänga</span>
+                </button>
+                <h4 class="modal-title" id="reportModalLabel">Rapportera det här innehållet</h4>
+            </div>
+            <div class="modal-body">
+                <form class="common-form" role="form" name="reportform" id="reportform" method="post">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ditt namn" class="form-control" name="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din e-post" class="form-control" name="email" id="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Din kontakt nummer" class="form-control" name="contact" id="contact">
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Meddelande" class="form-control" name="report" id="report" rows="4"></textarea>
+                    </div>
+                    <div class="form-group" id="reportMsg"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Avbryt</button>
+                        <button type="submit" class="btn btn-default" name="reportSubmit" id="reportSubmit">
+                            Skicka                            <img src="http://marcelos.se/wp-content/themes/tdsimple-child/images/loader.gif" id="reportLoader" style="display: none;" height="20px"/>
+                        </button>
+                    </div>
+                    <input type="hidden" id="security" name="security" value="09920bb7d4" /><input type="hidden" name="_wp_http_referer" value="/" />                </form>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebanners">
+    <div class="side_banner right">
+                        <div id="take_over_right" class="take_over_sides">
+                    <div class="position_fixed_take_over_side">
+                                            </div>
+                </div>
+                </div>
+    <div class="sidebanners right">
+        <div class="ad_container_inside_left fixad">
+                        <div class="position_fixed">
+                <div class="position_fixed_outsiderad">
+                    <!-- /5920055/2_d_outsider_right -->
+<div id='div-gpt-ad-1443707410045-12'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443707410045-12'); });
+</script>
+</div>                </div>
+                <div class="clearfix"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+<div class="clearfix"></div>
+
+</div><!-- #page .hfeed .site -->
+<script type='text/javascript' src='http://marcelos.se/wp-content/plugins/member-blogs-utilities/footer_bar_resources/slick.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var App = {"fonts":{"times":"Times New Roman","arial":"Arial","courier":"Courier New","arial black":"Arial Black","comic sans ms":"Comic Sans MS","georgia":"Georgia","verdana":"Verdana","batang":"Batang","bell mt":"Bell MT","berlin sans fb":"Berlin Sans FB","amatic sc":"AMATIC SC","lora":"Lora","kg eyes wide open":"KGEyesWideOpen","lucida handwriting":"Lucida Handwriting","raleway light":"Raleway Light","merriweather":"Merriweather"},"security":"b9203195fd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple-child/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple-child/js/app.js'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple-child/js/jquery.validate.js'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple-child/js/text-button.js'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple-child/js/responsive-tables.js'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple-child/js/theme-customizer.js'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple/js/foundation.min.js?ver=201301'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple/js/jquery.fitvids.js?ver=201301'></script>
+<script type='text/javascript' src='http://marcelos.se/wp-content/themes/tdsimple/js/tdsimple.js?ver=201301'></script>
+<script>(function () {
+        App.init();
+    })();</script>
+<script src="http://widgets.sprinklecontent.com/v2/sprinkle.js" async></script>
+</body>
+</html>
+<!-- Quick Cache file path: /cache/quick-cache/cache/http/marcelos-se/index.v/screen.html -->
+<!-- Quick Cache file built for (screen http://marcelos.se/) in 0.86040 seconds, on: Jan 28th, 2016 @ 6:26 pm UTC. -->
+<!-- This Quick Cache file will auto-expire (and be rebuilt) on: Jan 28th, 2016 @ 7:26 pm UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Quick Cache fully functional :-) Cache file served for (screen http://marcelos.se/) in 0.00257 seconds, on: Jan 28th, 2016 @ 6:41 pm UTC. -->
